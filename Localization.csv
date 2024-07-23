@@ -2,81 +2,81 @@ Key	Type	Desc	English	Polish	German
 15bit	Text		15-bit	15-bit	15-Bit
 15bitDither	Text		15-bit (Dither)	15-bit (Dither)	15-Bit (Dither)
 24bit	Text		24-bit	24-bit	24-Bit
-Achievements/CatchStarlightNautilus	Text		Legendary Fossil		Legendäres Fossil
-Achievements/CherryBlossomTrees	Text		5 Centimeters Per Second		5 Zentimeter pro Sekunde
-Achievements/DefeatAtlanteanWorm	Text		Thalassophobia		Thalassophobie
-Achievements/DefeatAzeos	Text		From the Skies!		Vom Himmel herab!
-Achievements/DefeatGhorm	Text		Bugging Out		Davongekrabbelt
-Achievements/DefeatGlurch	Text		A Slimey Encounter		Eine schleimige Begegnung
-Achievements/DefeatHivemother	Text		Watch Your Step		Pass auf, wohin du trittst
-Achievements/DefeatIgneous	Text		Burning Through		Durchgebrannt
-Achievements/DefeatIvy	Text		Toxic Personality		Toxischer Charakter
-Achievements/DefeatKingSlime	Text		Slippery Shinobi		Schlüpfriger Shinobi
-Achievements/DefeatMalugaz	Text		You're a Wizard		Du bist ein Zauberer
-Achievements/DefeatMorpha	Text		Slippery When Wet		Vorsicht, Rutschgefahr
-Achievements/DefeatOmoroth	Text		From the Depths!		Aus der Tiefe!
-Achievements/DefeatRaAkar	Text		Just Deserts		Stinknormale Wüste
-Achievements/Discover100CookBookRecipes	Text		Certified Chef		Geprüfter Chefkoch
-Achievements/EquipRingOfRockAndStone	Text		Rock and Stone!		Fels und Stein!
-Achievements/FeedCattle	Text		A Good Life		Ein gutes Leben
-Achievements/FirstPet	Text		Your Very First		Dein Allererstes
-Achievements/GainOver200MovementSpeed	Text		In a Rush		In Eile
-Achievements/HarvestGoldenIngredient	Text		Farmer Midas		Farmer Midas
-Achievements/KeyArtCharacter	Text		Impersonator Syndrome		Nachahmer-Syndrom
-Achievements/MaxedOutCooking	Text		Cheese it!		Alles Käse!
-Achievements/MaxedOutCrafting	Text		Crafty Explorer		Pfiffiger Forscher
-Achievements/MaxedOutFishing	Text		Completely Hooked		An Schicksals Haken
-Achievements/MaxedOutGardening	Text		Nature Nurturer		Natur-Nanny
-Achievements/MaxedOutMelee	Text		...Sting like a bee		... Stich wie eine Biene
-Achievements/MaxedOutMining	Text		Diggy Diggy Hole		Wer andern eine Grube gräbt
-Achievements/MaxedOutRange	Text		Robin Hood		Robin Hood
-Achievements/MaxedOutRunning	Text		Float like a butterfly...		Tanze wie ein Schmetterling ...
-Achievements/MaxedOutVitality	Text		Health Conscious		Gesundheitsbewusst
-Achievements/ObtainPhantomSpark	Text		The Phantom Spark		Der Phantomfunke
-Achievements/ObtainRuneSong	Text		The Rune Song		Das Runenlied
-Achievements/ObtainSoulSeeker	Text		The Soul Seeker		Der Seelensucher
-Achievements/ObtainTheOracleDeck	Text		The Heart of the Cards		Das Herz der Karten
-Achievements/PetColors	Text		I want ’em all!		Ich will sie alle haben!
-Achievements/PetMaxLevel	Text		Pet Prodigy		Na-Tier-Talent
-Achievements/SitOnCavelingToiletWithACrown	Text		A Throne Fit for a King		Ein Thron für einen König
-Achievements/StormSong	Text		A Strange Song		Ein seltsames Lied
-Achievements/TalkToBigLarva	Text		Gossip Group		Kaffeekränzchen
-AchievementsLockedDescription/CatchStarlightNautilus	Text		Catch a Starlight Nautilus		Sternlicht-Nautilus fangen
-AchievementsLockedDescription/DefeatAtlanteanWorm	Text		Defeat an Atlantean Worm		Bezwinge einen Atlantischen Wurm
-AchievementsLockedDescription/DefeatAzeos	Text		Defeat Azeos the Sky Titan		Azeos den Himmelstitanen bezwingen
-AchievementsLockedDescription/DefeatGhorm	Text		Defeat Ghorm the Devourer		Ghorm den Verschlinger bezwingen
-AchievementsLockedDescription/DefeatGlurch	Text		Defeat Glurch the Abominous Mass		Glurch die Abscheuliche Masse bezwingen
-AchievementsLockedDescription/DefeatHivemother	Text		Defeat the Hive Mother		Die Nestmutter bezwingen
-AchievementsLockedDescription/DefeatIgneous	Text		Defeat Igneous the Molten Mass		Igneous die Geschmolzene Masse bezwingen
-AchievementsLockedDescription/DefeatIvy	Text		Defeat Ivy the Poisonous Mass		Ivy die Giftige Masse bezwingen
-AchievementsLockedDescription/DefeatKingSlime	Text		Defeat King Slime		Schleimkönig bezwingen
-AchievementsLockedDescription/DefeatMalugaz	Text		Defeat Malugaz the Corrupted		Malugaz den Korrupten bezwingen
-AchievementsLockedDescription/DefeatMorpha	Text		Defeat Morpha the Aquatic Mass		Morpha die Aquatische Masse bezwingen
-AchievementsLockedDescription/DefeatOmoroth	Text		Defeat Omoroth the Sea Titan		Omoroth den Meerestitanen bezwingen
-AchievementsLockedDescription/DefeatRaAkar	Text		Defeat Ra-Akar the Sand Titan		Ra-Akar den Sandtitanen bezwingen
-AchievementsLockedDescription/Discover100CookBookRecipes	Text		Discover 100 recipes in the cook book		100 Rezepte im Kochbuch entdecken
-AchievementsLockedDescription/EquipRingOfRockAndStone	Text		Equip the Ring of Rock and Ring of Stone		Ring der Felsen und Ring der Steine ausrüsten
-AchievementsLockedDescription/FeedCattle	Text		Feed cattle		Füttere ein Nutztier
-AchievementsLockedDescription/FirstPet	Text		Hatch your first pet from an egg		Brüte dein erstes Haustier aus einem Ei aus
-AchievementsLockedDescription/GainOver200MovementSpeed	Text		Gain over 200% movement speed		200 % Bewegungsgeschwindigkeit erhalten
-AchievementsLockedDescription/HarvestGoldenIngredient	Text		Harvest a golden plant		Goldene Pflanze ernten
-AchievementsLockedDescription/KeyArtCharacter	Text		Dress like a character from the official illustrations		Verkleide dich wie eine Figur aus den offiziellen Illustrationen
-AchievementsLockedDescription/MaxedOutCooking	Text		Gain 100 skill points in cooking		Erhalte 100 Fertigkeitspunkte für Kochen
-AchievementsLockedDescription/MaxedOutCrafting	Text		Gain 100 skill points in crafting		Erhalte 100 Fertigkeitspunkte für Fertigung
-AchievementsLockedDescription/MaxedOutFishing	Text		Gain 100 skill points in fishing		Erhalte 100 Fertigkeitspunkte für Angeln
-AchievementsLockedDescription/MaxedOutGardening	Text		Gain 100 skill points in gardening		Erhalte 100 Fertigkeitspunkte für Gärtnern
-AchievementsLockedDescription/MaxedOutMelee	Text		Gain 100 skill points in melee		Erhalte 100 Fertigkeitspunkte für Nahkampf
-AchievementsLockedDescription/MaxedOutMining	Text		Gain 100 skill points in mining		Erhalte 100 Fertigkeitspunkte für Bergbau 
-AchievementsLockedDescription/MaxedOutRange	Text		Gain 100 skill points in range		Erhalte 100 Fertigkeitspunkte für Fernkampf
-AchievementsLockedDescription/MaxedOutRunning	Text		Gain 100 skill points in running		Erhalte 100 Fertigkeitspunkte für Laufen
-AchievementsLockedDescription/MaxedOutVitality	Text		Gain 100 skill points in vitality		Erhalte 100 Fertigkeitspunkte für Vitalität
-AchievementsLockedDescription/ObtainPhantomSpark	Text		Obtain Phantom Spark		Phantomfunken erhalten
-AchievementsLockedDescription/ObtainRuneSong	Text		Obtain Rune Song		Runenlied erhalten
-AchievementsLockedDescription/ObtainSoulSeeker	Text		Obtain Soul Seeker		Seelensucher erhalten
-AchievementsLockedDescription/ObtainTheOracleDeck	Text		Obtain the Oracle Card deck		Orakel-Deck erhalten
-AchievementsLockedDescription/PetColors	Text		Store all color variations of one pet type in a chest		Lagere alle Farbvariationen einer Haustier-Art in einer Kiste
-AchievementsLockedDescription/PetMaxLevel	Text		Reach max level on a pet		Erreiche die maximale Stufe eines Haustiers
-AchievementsLockedDescription/PlantCherryTree	Text		Plant 10 Cherry Trees		10 Kirschbäume pflanzen
+Achievements/CatchStarlightNautilus	Text		Legendary Fossil	Legendarna Skamielina	Legendäres Fossil
+Achievements/CherryBlossomTrees	Text		5 Centimeters Per Second	5 Centymetrów Na Sekundę	5 Zentimeter pro Sekunde
+Achievements/DefeatAtlanteanWorm	Text		Thalassophobia	Talasofobia	Thalassophobie
+Achievements/DefeatAzeos	Text		From the Skies!	Z Przestworzy!	Vom Himmel herab!
+Achievements/DefeatGhorm	Text		Bugging Out	&	Davongekrabbelt
+Achievements/DefeatGlurch	Text		A Slimey Encounter	Oślizgłe Spotkanie	Eine schleimige Begegnung
+Achievements/DefeatHivemother	Text		Watch Your Step	Uważaj Na Kroki	Pass auf, wohin du trittst
+Achievements/DefeatIgneous	Text		Burning Through	&	Durchgebrannt
+Achievements/DefeatIvy	Text		Toxic Personality	Toksyczna Osobowość	Toxischer Charakter
+Achievements/DefeatKingSlime	Text		Slippery Shinobi	Oślizgły Shinobi	Schlüpfriger Shinobi
+Achievements/DefeatMalugaz	Text		You're a Wizard	Jesteś Czarodziejem	Du bist ein Zauberer
+Achievements/DefeatMorpha	Text		Slippery When Wet	Uwaga Ślisko	Vorsicht, Rutschgefahr
+Achievements/DefeatOmoroth	Text		From the Depths!	Z Głębin!	Aus der Tiefe!
+Achievements/DefeatRaAkar	Text		Just Deserts	Po Prostu Pustynia	Stinknormale Wüste
+Achievements/Discover100CookBookRecipes	Text		Certified Chef	Certyfikowany Kucharz	Geprüfter Chefkoch
+Achievements/EquipRingOfRockAndStone	Text		Rock and Stone!	&Rock and Stone!	Fels und Stein!
+Achievements/FeedCattle	Text		A Good Life	Dobre Życie	Ein gutes Leben
+Achievements/FirstPet	Text		Your Very First	Twój Pierwszy	Dein Allererstes
+Achievements/GainOver200MovementSpeed	Text		In a Rush	W Pośpiechu	In Eile
+Achievements/HarvestGoldenIngredient	Text		Farmer Midas	Roślinny Midas	Farmer Midas
+Achievements/KeyArtCharacter	Text		Impersonator Syndrome	Syndrom Naśladowcy	Nachahmer-Syndrom
+Achievements/MaxedOutCooking	Text		Cheese it!	Ser!	Alles Käse!
+Achievements/MaxedOutCrafting	Text		Crafty Explorer	Sprytny Odkrywca	Pfiffiger Forscher
+Achievements/MaxedOutFishing	Text		Completely Hooked	Na Haku Przeznaczenia	An Schicksals Haken
+Achievements/MaxedOutGardening	Text		Nature Nurturer	Opiekun Natury	Natur-Nanny
+Achievements/MaxedOutMelee	Text		...Sting like a bee	...Żądło jak pszczoła	... Stich wie eine Biene
+Achievements/MaxedOutMining	Text		Diggy Diggy Hole	Diggy Diggy Hole	Wer andern eine Grube gräbt
+Achievements/MaxedOutRange	Text		Robin Hood	Robin Hood	Robin Hood
+Achievements/MaxedOutRunning	Text		Float like a butterfly...	Unosić się jak motyl...	Tanze wie ein Schmetterling ...
+Achievements/MaxedOutVitality	Text		Health Conscious	Troska o zdrowie	Gesundheitsbewusst
+Achievements/ObtainPhantomSpark	Text		The Phantom Spark	Iskra Widmo	Der Phantomfunke
+Achievements/ObtainRuneSong	Text		The Rune Song	Runiczna Pieśń	Das Runenlied
+Achievements/ObtainSoulSeeker	Text		The Soul Seeker	Poszukiwacz Dusz	Der Seelensucher
+Achievements/ObtainTheOracleDeck	Text		The Heart of the Cards	Serce kart	Das Herz der Karten
+Achievements/PetColors	Text		I want ’em all!	Chcę mieć je wszystkie!	Ich will sie alle haben!
+Achievements/PetMaxLevel	Text		Pet Prodigy	Zwierzęcy talent	Na-Tier-Talent
+Achievements/SitOnCavelingToiletWithACrown	Text		A Throne Fit for a King	Tron godny króla	Ein Thron für einen König
+Achievements/StormSong	Text		A Strange Song	Dziwna pieśń	Ein seltsames Lied
+Achievements/TalkToBigLarva	Text		Gossip Group	Grupa plotkarska	Kaffeekränzchen
+AchievementsLockedDescription/CatchStarlightNautilus	Text		Catch a Starlight Nautilus	Złap Gwiezdnego Nautilusa	Sternlicht-Nautilus fangen
+AchievementsLockedDescription/DefeatAtlanteanWorm	Text		Defeat an Atlantean Worm	Pokonaj Atlantydzkiego Robaka	Bezwinge einen Atlantischen Wurm
+AchievementsLockedDescription/DefeatAzeos	Text		Defeat Azeos the Sky Titan	Pokonaj Podniebnego Tytana Azeosa	Azeos den Himmelstitanen bezwingen
+AchievementsLockedDescription/DefeatGhorm	Text		Defeat Ghorm the Devourer	Pokonaj Ghorma Pożeracza	Ghorm den Verschlinger bezwingen
+AchievementsLockedDescription/DefeatGlurch	Text		Defeat Glurch the Abominous Mass	Pokonaj Glurcha Obrzydliwego	Glurch die Abscheuliche Masse bezwingen
+AchievementsLockedDescription/DefeatHivemother	Text		Defeat the Hive Mother	Pokonaj Matkę Ula	Die Nestmutter bezwingen
+AchievementsLockedDescription/DefeatIgneous	Text		Defeat Igneous the Molten Mass	Pokonaj Igneousa Stopionego	Igneous die Geschmolzene Masse bezwingen
+AchievementsLockedDescription/DefeatIvy	Text		Defeat Ivy the Poisonous Mass	Pokonaj Ivy Trującego	Ivy die Giftige Masse bezwingen
+AchievementsLockedDescription/DefeatKingSlime	Text		Defeat King Slime	Pokonaj Króla Szlamu	Schleimkönig bezwingen
+AchievementsLockedDescription/DefeatMalugaz	Text		Defeat Malugaz the Corrupted	Pokonaj Malugaza Skażonego	Malugaz den Korrupten bezwingen
+AchievementsLockedDescription/DefeatMorpha	Text		Defeat Morpha the Aquatic Mass	Pokonaj Morpha Wodnego	Morpha die Aquatische Masse bezwingen
+AchievementsLockedDescription/DefeatOmoroth	Text		Defeat Omoroth the Sea Titan	Pokonaj Morskiego Tytana Omorotha	Omoroth den Meerestitanen bezwingen
+AchievementsLockedDescription/DefeatRaAkar	Text		Defeat Ra-Akar the Sand Titan	Pokonaj Piaskowego Tytana Ra-Akara	Ra-Akar den Sandtitanen bezwingen
+AchievementsLockedDescription/Discover100CookBookRecipes	Text		Discover 100 recipes in the cook book	Odkryj 100 przepisów w książce kucharskiej	100 Rezepte im Kochbuch entdecken
+AchievementsLockedDescription/EquipRingOfRockAndStone	Text		Equip the Ring of Rock and Ring of Stone	Wyposaż Pierścień Skały i Pierścień Kamienia	Ring der Felsen und Ring der Steine ausrüsten
+AchievementsLockedDescription/FeedCattle	Text		Feed cattle	Nakarm bydło	Füttere ein Nutztier
+AchievementsLockedDescription/FirstPet	Text		Hatch your first pet from an egg	Wykluj swojego pierwszego zwierzaka z jajka	Brüte dein erstes Haustier aus einem Ei aus
+AchievementsLockedDescription/GainOver200MovementSpeed	Text		Gain over 200% movement speed	Uzyskaj ponad 200% prędkości ruchu	200 % Bewegungsgeschwindigkeit erhalten
+AchievementsLockedDescription/HarvestGoldenIngredient	Text		Harvest a golden plant	Zbierz złotą roślinę	Goldene Pflanze ernten
+AchievementsLockedDescription/KeyArtCharacter	Text		Dress like a character from the official illustrations	Ubierz się jak postać z oficjalnych ilustracji	Verkleide dich wie eine Figur aus den offiziellen Illustrationen
+AchievementsLockedDescription/MaxedOutCooking	Text		Gain 100 skill points in cooking	Zdobądź 100 punktów umiejętności w gotowaniu	Erhalte 100 Fertigkeitspunkte für Kochen
+AchievementsLockedDescription/MaxedOutCrafting	Text		Gain 100 skill points in crafting	Zdobądź 100 punktów umiejętności w rzemiośle	Erhalte 100 Fertigkeitspunkte für Fertigung
+AchievementsLockedDescription/MaxedOutFishing	Text		Gain 100 skill points in fishing	Zdobądź 100 punktów umiejętności w łowieniu	Erhalte 100 Fertigkeitspunkte für Angeln
+AchievementsLockedDescription/MaxedOutGardening	Text		Gain 100 skill points in gardening	Zdobądź 100 punktów umiejętności w ogrodnictwie	Erhalte 100 Fertigkeitspunkte für Gärtnern
+AchievementsLockedDescription/MaxedOutMelee	Text		Gain 100 skill points in melee	Zdobądź 100 punktów umiejętności w walce wręcz	Erhalte 100 Fertigkeitspunkte für Nahkampf
+AchievementsLockedDescription/MaxedOutMining	Text		Gain 100 skill points in mining	Zdobądź 100 punktów umiejętności w górnictwie	Erhalte 100 Fertigkeitspunkte für Bergbau 
+AchievementsLockedDescription/MaxedOutRange	Text		Gain 100 skill points in range	Zdobądź 100 punktów umiejętności w walce na odległość	Erhalte 100 Fertigkeitspunkte für Fernkampf
+AchievementsLockedDescription/MaxedOutRunning	Text		Gain 100 skill points in running	Zdobądź 100 punktów umiejętności w bieganiu	Erhalte 100 Fertigkeitspunkte für Laufen
+AchievementsLockedDescription/MaxedOutVitality	Text		Gain 100 skill points in vitality	Zdobądź 100 punktów umiejętności witalności	Erhalte 100 Fertigkeitspunkte für Vitalität
+AchievementsLockedDescription/ObtainPhantomSpark	Text		Obtain Phantom Spark	Zdobądź Iskrę Widmo	Phantomfunken erhalten
+AchievementsLockedDescription/ObtainRuneSong	Text		Obtain Rune Song	Zdobądź Runiczną Pieśń	Runenlied erhalten
+AchievementsLockedDescription/ObtainSoulSeeker	Text		Obtain Soul Seeker	Zdobądź Poszukiwacz Dusz	Seelensucher erhalten
+AchievementsLockedDescription/ObtainTheOracleDeck	Text		Obtain the Oracle Card deck	Zdobądź talię kart wyroczni	Orakel-Deck erhalten
+AchievementsLockedDescription/PetColors	Text		Store all color variations of one pet type in a chest	Przechowuj wszystkie warianty kolorystyczne jednego typu zwierzaka w skrzyni.	Lagere alle Farbvariationen einer Haustier-Art in einer Kiste
+AchievementsLockedDescription/PetMaxLevel	Text		Reach max level on a pet	Osiągnij maksymalny poziom zwierzaka	Erreiche die maximale Stufe eines Haustiers
+AchievementsLockedDescription/PlantCherryTree	Text		Plant 10 Cherry Trees	Posadź 10 drzew wiśni	10 Kirschbäume pflanzen
 AchievementsLockedDescription/SitOnCavelingToiletWithACrown	Text		Sit on a Caveling Toilet while wearing a crown		Mit einer Krone auf dem Kopf auf dem Grottling-Klo sitzen
 AchievementsLockedDescription/StormSong	Text	"Please make sure to find a word for ""tempest"" that doesn't sound the same like ""storm"" in the the title Song of Storms in Zelda Ocarina of Time in the language you want to translate to. For example, in Germany that song is called ""Hymne des Sturms"". In order to not infringe on Nintendos copyright, ""Sturm"" has been replaced by ""Unwetter""."	Play the Tune of Tempest		Spiele die Melodie des Unwetters
 AchievementsLockedDescription/TalkToBigLarva	Text		Talk to a Big Larva		Mit großer Larve sprechen
