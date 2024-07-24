@@ -278,132 +278,132 @@ Conditions/ChanceToGetDoubleFish	Text		{0}% chance to get double fish when catch
 Conditions/ChanceToNotConsumeWaterCan	Text		{0}% chance to not consume water when using water can	{0}% szans na niezużycie wody podczas korzystania z konewki	{0} % Chance, dass bei der Verwendung der Gießkanne kein Wasser verbraucht wird
 Conditions/ChanceToRestoreHealthOnMeleeHit	Text		10% chance on melee hit to restore {0}% health	10% szans na przywrócenie {0}% zdrowia przy trafieniu w zwarciu	10 % Chance, dass ein Nahkampftreffer {0} % Gesundheit regeneriert
 Conditions/ChanceToShootShockWaveOnBlock	Text		{0}% chance on block to release energy shockwaves dealing damage equal to what was blocked	{0}% szans przy bloku na uwolnienie fali uderzeniowej energii zadającej obrażenia o sile równej blokowi.	{0} % Chance beim Blocken Energie-Schockwellen zu entfesseln, die so viel Schaden verursachen, wie geblockt wurde
-Conditions/CheatDeath	Text		{0}% chance to restore a bit of health instead of dying when taking lethal damage	{0}% szans na przywrócenie odrobiny zdrowia po otrzymaniu śmiertelnych obrażeń.	{0} % Chance, dass statt zu sterben etwas Gesundheit regeneriert wird, wenn man tödlichen Schaden erleidet
+Conditions/CheatDeath	Text		{0}% chance to restore a bit of health instead of dying when taking lethal damage	{0}% szans na przywrócenie odrobiny zdrowia po otrzymaniu śmiertelnych obrażeń	{0} % Chance, dass statt zu sterben etwas Gesundheit regeneriert wird, wenn man tödlichen Schaden erleidet
 Conditions/CritChance	Text		{0}% critical hit chance	{0}% szansy na trafienie krytyczne	{0} % kritische Trefferchance
 Conditions/CritDamageIncreaseAgainstBurning	Text		{0}% critical hit damage against burning targets	{0}% obrażeń od trafienia krytycznego przeciwko płonącym celom	{0} % kritischer Trefferschaden an brennenden Zielen
-Conditions/CriticalDamagePercentageIncrease	Text		{0}% critical hit damage		{0} % kritischer Trefferschaden
-Conditions/DamageIncreaseAgainstBurning	Text		{0}% damage against burning targets		{0} % Schaden an brennenden Zielen
-Conditions/DamageIncreaseAgainstPoisoned	Text		{0}% damage against poisoned targets		{0} % Schaden gegen vergiftete Ziele
-Conditions/DamageIncreaseAgainstStunned	Text		{0}% damage against stunned targets		{0} % Schaden gegen betäubte Ziele
-Conditions/DamageIncreaseFromRunning	Text		{0}% damage from running		{0} % Schaden durch Laufen
-Conditions/DealAoeFireDamageOnBlock	Text		Deals {0} damage to all nearby enemies when blocking with the shield		Fügt allen Feinden in der Nähe {0} Schaden zu, wenn mit dem Schild geblockt wird
-Conditions/DiggingIncrease	Text		{0} digging damage		{0} Grabenschaden
-Conditions/DodgeChance	Text		{0}% dodge chance		{0} % Ausweichen-Chance
-Conditions/DodgeIncreaseFromStandingStill	Text		{0} % dodge chance from standing still		{0} % Ausweichen-Chance durch Stillstehen
-Conditions/DrainLessHunger	Text		{0}% less food drained when running		{0} % weniger Essen wird beim Laufen verbraucht
-Conditions/EquipmentDurabilityLastsLonger	Text		{0}% chance to not lose durability on equipment when taking damage		{0} % Chance, keine Haltbarkeit von Ausrüstung zu verlieren, wenn Schaden erlitten wird
-Conditions/ExtraHarvestChance	Text		{0}% larger harvests		{0} % größere Ernten
-Conditions/FishBitesFaster	Text		Fish bites {0}% faster		Fische beißen {0} % schneller
-Conditions/FishStartsCloserToBeReeledIn	Text		Fish starts {0}% closer to be reeled in		Fische sind {0} % näher dran, eingeholt zu werden
-Conditions/GainArmorAtLowHealth	Text		{0}% armor while at low health		{0} % Rüstung bei niedriger Gesundheit
-Conditions/GainAttackSpeedBoostAfterDodge	Text		{0}% melee and range attack speed for a short duration after dodging		{0}% Nah- und Fernkampf-Angriffsgeschwindigkeit für eine kurze Zeit nach dem Ausweichen
-Conditions/GainAttackSpeedFromMissingHealth	Text		Attack speed is increased by 0.2% for every percentage of missing health		Angriffsgeschwindigkeit steigt für jedes Prozent fehlender Gesundheit um 0,2 %
-Conditions/GainCriticalHitChanceFromStandingStill	Text		{0}% critical hit chance after standing still for a short duration		{0} % kurzfristige kritische Trefferchance nach dem Stillstehen
-Conditions/GainDamageIncreaseAfterMining	Text		{0}% damage for a short duration after mining a wall		{0} % Schaden für kurze Zeit nach dem Abbau einer Wand
-Conditions/GainDamageIncreaseAtLowHealth	Text		{0}% damage while at low health		{0} % Schaden bei niedriger Gesundheit
-Conditions/GainDamageIncreaseAtMaxHealth	Text		{0}% damage while at max health		{0} % Schaden bei max. Gesundheit
-Conditions/GainDamageIncreaseFromRunning	Text		{0}% damage after consistently running for a short duration		{0} % Schaden nach kurzem dauerhaftem Laufen
-Conditions/GainDodgeIncreaseWhileStandingStill	Text		{0}% dodge chance after standing still for a short duration		{0} % kurzfristige Ausweichen-Chance nach dem Stillstehen
-Conditions/GainExtraIndustryItems	Text		{0} extra items gained when crafting rails, wires or conveyor belts.		{0} zusätzliche Gegenstände werden beim Fertigen von Gleisen, Kabeln oder Förderbändern erhalten.
-Conditions/GainHealthRegenWhileBelowHalfHealth	Text		Gain {0} health every sec while below half max health		Gewinne {0} Gesundheit pro Sekunde, während du weniger als die Hälfte der max. Gesundheit hast
-Conditions/GainIncreasedBossDamageFromEatingFish	Text		{0}% damage against bosses after eating fish or cooked food made out of fish		{0} % Schaden an Bossen nach dem Verzehr von Fisch oder gekochtem Essen aus Fisch
-Conditions/GainIncreasedMaxHealthFromAllSkillPoints	Text		{0}% of all skill points added to max health		{0} % aller Fertigkeitspunkte werden zur max. Gesundheit hinzugefügt
-Conditions/GainIncreasedMaxHealthFromPet	Text		{0}% health when a pet is equipped		{0} % Gesundheit, wenn ein Haustier ausgerüstet wurde
-Conditions/GainMeleeAttackSpeedFromCookedFood	Text		{0}% melee attack speed when eating cooked food		{0} % Nahkampf-Angriffsgeschwindigkeit beim Verzehr von gekochtem Essen
-Conditions/GainMeleeDamageFromHitting	Text		Gain 2% melee damage every time an enemy is hit, stacks up to {0} times		Erhalte 2 % Nahkampfschaden, wann immer ein Feind getroffen wird, stapelt sich bis zu {0}-mal
-Conditions/GainMeleeDamageIncreaseFromHittingSameTarget	Text		Gain {0}% melee damage when hitting the same target successively		Erhalte {0} % Nahkampfschaden, wenn du das gleiche Ziel aufeinanderfolgend triffst
-Conditions/GainMoreFoodFromCookedFood	Text		{0}% food from cooked food		{0} % Essen durch gekochtes Essen
-Conditions/GainMoreFoodFromPlants	Text		{0}% food when eating plants or cooked food made out of plants		{0} % Essen beim Verzehr von Pflanzen oder gekochtem Essen aus Pflanzen
-Conditions/GainMovementSpeedFromRunningConsistently	Text		{0}% movement speed after running consistently for a short duration		{0} % kurzfristige Bewegungsgeschwindigkeit nach dauerhaftem Laufen
-Conditions/GainRangeDamageFromShooting	Text		Gain 2% range damage every time an enemy is shot, stacks up to {0} times		Erhalte 2 % Fernkampfschaden, wann immer ein Feind erschossen wird, stapelt sich bis zu {0}-mal
-Conditions/GainRangeDamageIncreaseFromStandingStill	Text		{0}% range damage after standing still for a short duration		{0} % kurzfristiger Fernkampfschaden nach dem Stillstehen
-Conditions/GodMode	Text		You are in god mode		Du bist im Gott-Modus
-Conditions/HealOverTime	Text	"For example ""+5 health every second"""	{0} health every sec		{0} Gesundheit jede Sekunde
-Conditions/HealOverTimePercentage	Text	"For example ""+5% health every second"""	{0}% health every sec		{0} % Gesundheit pro Sekunde
-Conditions/HealingPotionAddHealOverTime	Text		Healing potions also heal for {0}% of health gained from the potion over time		Heiltränke heilen zudem {0} % der durch Tränke erhaltenen Gesundheit über Zeit
-Conditions/HealthAddition	Text	{0} will be replaced by +10 for example so it says +10 health which can appear on an item description	{0} health		{0} Gesundheit
-Conditions/HealthAdditionPercentage	Text		{0}% health		{0} % Gesundheit
-Conditions/HealthReduction	Text		{0} health		{0} Gesundheit
-Conditions/HungerAddition	Text		{0} food		{0} Essen
-Conditions/ImmuneToAcid	Text		Immune to acid damage		Immun gegen Säureschaden
-Conditions/ImmuneToBurning	Text		Immune to burning		Immun gegen Feuerschaden
-Conditions/ImmuneToDamageAfterRespawn	Text		Immune to damage		Immun gegen Schaden
-Conditions/ImmuneToMold	Text		Immune to mold infection		Immun gegen Schimmel-Infektion
-Conditions/ImmuneToPoison	Text		Immune to poison		Immun gegen Gift
-Conditions/ImmuneToRadioactiveDamage	Text		Immune to radioactive damage		Immun gegen Strahlungsschaden
-Conditions/ImmuneToSlimeSlow	Text		Immune to being slowed by slime		Immun gegen Verlangsamung durch Schleim
-Conditions/ImmuneToSlipperyMovement	Text		Immune to slippery movement		Immun gegen rutschige Bewegung
-Conditions/ImmuneToStun	Text		Immune to stun		Immun gegen Betäubung
-Conditions/IncreaseCritChanceAfterPoisonApply	Text		{0}% critical hit chance for a short duration after successfully applying poison		{0} % kritische Trefferchance für eine kurze Dauer nach dem erfolgreichen Anwenden von Gift
-Conditions/IncreasedAppliedStunDuration	Text		{0}% longer stun durations		{0} % längere Dauer der Betäubung
-Conditions/IncreasedArmorPercentageWhileAdjacentToWater	Text		{0}% armor while adjacent to water		{0} % zusätzliche Rüstung in der Nähe von Wasser
-Conditions/IncreasedBoatSpeed	Text		{0}% boat speed		{0} % Bootsgeschwindigkeit
-Conditions/IncreasedChanceForHigherRarityFish	Text		{0}% chance for higher rarity fish to bite		{0} % Chance, dass Fische mit höherer Seltenheit anbeißen
-Conditions/IncreasedChanceToGetFish	Text		{0}% chance to get a fish on the hook		{0} % Chance, dass ein Fisch am Haken anbeißt
-Conditions/IncreasedChanceToGetFishLoot	Text		{0}% chance to get a valuable or other non-fish item on the hook when fishing		{0} % Chance, dass ein wertvoller Fisch oder ein Gegenstand, der kein Fisch ist, am Haken hängt
-Conditions/IncreasedCharmDuration	Text		{0}% longer duration of applied charm effects		{0} % längere Dauer für angewandte Zaubereffekte
-Conditions/IncreasedDamageAgainstBosses	Text		{0}% damage against bosses		{0} % Schaden gegen Bosse
-Conditions/IncreasedDamageBasedOnTargetRemainingHealth	Text		Deal up to {0}% more damage based on targets remaining health		Verursache bis zu {0} % mehr Schaden, basierend auf der verbleibenden Gesundheit des Ziels
-Conditions/IncreasedDamageTakenPercentage	Text		{0}% damage taken		{0} % Schaden erlitten
-Conditions/IncreasedDashDuration	Text		{0}% longer dash duration		{0} % längere Sprintdauer
-Conditions/IncreasedExplosivesDamage	Text		{0}% explosives damage		{0} % Sprengstoffschaden
-Conditions/IncreasedFishing	Text		{0} fishing		{0} Angeln
-Conditions/IncreasedHealthRegenEffectiveness	Text		{0}% more healing from health over time regeneration		{0} % mehr Heilung durch Gesundheit-über-Zeit-Regeneration
-Conditions/IncreasedMaxHealth	Text		{0} max health		{0} max. Gesundheit
-Conditions/IncreasedMaxHealthPermanent	Text		{0} max health		{0} max. Gesundheit
-Conditions/IncreasedPickUpRadius	Text		{0}% pickup radius		{0} % Aufnahme-Radius
-Conditions/IncreasedRodRange	Text		{0}% fishing rod throw range		{0} % Angel-Auswurfreichweite
-Conditions/InfectedWithMold	Text		{0}% movement speed, increasingly slows down movement from mold infection		{0} % Bewegungsgeschwindigkeit, verlangsamt zunehmend die Bewegung durch Schimmel-Infektionen
-Conditions/KillsIncreaseCritChance	Text		Killing an enemy increases critical hit chance by 3%, stacks up to 5 times		Das Töten eines Feindes erhöht die Chance auf einen kritischen Treffer um 3 %, bis zu 5-mal stapelbar
-Conditions/KingOfSlimes	Text		You are the king of slimes		Du bist der König der Schleime
-Conditions/LarvaDisguise	Text		Disguised as a larva		Als Larve getarnt
-Conditions/LifeOnHit	Text		{0} life on melee hit		{0} Leben bei Nahkampftreffer
-Conditions/LongerCookedFoodBuffs	Text		{0}% longer cooked food buff durations		{0} % längere Buff-Dauer bei gekochtem Essen
-Conditions/LookLikeGhost	Text		You look like a ghost		Du siehst wie ein Geist aus
-Conditions/Love	Text		Gives you a  heart-warming feeling		Schenkt dir ein herzerwärmendes Gefühl
-Conditions/MeleeAttackSpeedIncrease	Text		{0}% melee attack speed		{0} % Nahkampf-Angriffsgeschwindigkeit
-Conditions/MeleeDamageIncrease	Text	{0} will be replaced by +10 for example so it says +10 damage which can appear on an item description	{0}% melee damage		{0} % Nahkampfschaden
-Conditions/MiningIncrease	Text		{0} mining damage		{0} Bergbauschaden
-Conditions/MiningPercentageIncrease	Text		{0}% mining damage		{0} % Bergbauschaden
-Conditions/MiningSpeedIncrease	Text		{0}% mining speed		{0} % Bergbaugeschwindigkeit
-Conditions/MovementSpeedBoostAfterDodge	Text		{0}% movement speed boost for a short duration after dodging an attack		{0} % Boost der Bewegungsgeschwindigkeit für eine kurze Zeit nach dem Ausweichen eines Angriffs
-Conditions/MovementSpeedBoostAfterMining	Text		{0}% movement speed boost for a short duration after mining a wall		{0} % Boost der Bewegungsgeschwindigkeit für eine kurze Zeit nach dem Bergbau einer Wand
-Conditions/MovementSpeedDecrease	Text		{0}% movement speed		{0} % Bewegungsgeschwindigkeit
-Conditions/MovementSpeedIncrease	Text		{0}% movement speed		{0} % Bewegungsgeschwindigkeit
-Conditions/MovementSpeedIncreaseFromRunningConsistently	Text		{0} movement speed from consistent running		{0} Bewegungsgeschwindigkeit durch dauerhaftes Laufen
-Conditions/OrangeGlow	Text		{0} glow		{0} Leuchten
-Conditions/PercentageOfFishingAsRange	Text		{0}% of fishing added as range damage		{0} % des Angelns als Fernkampfschaden hinzugefügt
-Conditions/PercentageOfMiningAsMelee	Text		{0}% of mining damage added as melee damage		{0} % des Bergbauschadens als Nahkampfschaden hinzugefügt
-Conditions/PiercingProjectiles	Text		{0} target(s) pierced by projectiles		{0} Ziel(e) von Projektilen durchschlagen
-Conditions/PinkGlow	Text		{0} pink glow		{0} pinkes Leuchten
-Conditions/Poisoned	Text		75% reduced healing received		75 % verringerte Heilung erhalten
-Conditions/RangeAttackSpeedIncrease	Text		{0}% range attack speed		{0} % Fernkampf-Angriffsgeschwindigkeit
-Conditions/RangeDamageIncrease	Text		{0}% range damage		{0} % Fernkampfschaden
-Conditions/RedGlowingEyes	Text		Your eyes glow red		Deine Augen leuchten rot
-Conditions/ReducedAnvilEquipmentCosts	Text		Crafting items at the anvil and repairing items costs {0}% less materials		Das Fertigen von Gegenständen am Amboss und das Reparieren von Gegenständen kostet {0} % weniger Materialien
-Conditions/ReducedDamageFromBosses	Text		{0}% reduced damage taken from bosses		{0} % verringerter durch Bosse erlittener Schaden
-Conditions/ReducedImpactOfSlipperyMovement	Text		{0}% reduced impact of slippery movement		{0} % verringerte Auswirkung durch rutschige Bewegung
-Conditions/ReducedImpactOfSlowedBySlime	Text		{0}% reduced impact of slowed movement from slime		{0} % reduzierte Wirkung der verlangsamten Bewegung durch Schleim
-Conditions/RemovePoison	Text		Removes any poison from the imbiber		Entfernt jegliches Gift
-Conditions/SeedDropChance	Text		{0}% chance to gain a seed when harvesting plants		{0} % Chance auf den Erhalt eines Samens beim Ernten von Pflanzen
-Conditions/ShortMovementSpeedBoost	Text		{0}% movement speed for a short duration		{0} % kurzfristige Bewegungsgeschwindigkeit
-Conditions/Sleeping	Text		Fall asleep		Einschlafen
-Conditions/SlipperyMovement	Text		Your movement is slippery		Deine Bewegung ist rutschig
-Conditions/SlipperyMovementFromGround	Text		The ground is slippery		Der Boden ist rutschig
-Conditions/SlowedBySlime	Text		{0}% movement speed from slime		{0} % Bewegungsgeschwindigkeit durch Schleim
-Conditions/SnareAndStunDurationReduction	Text		Snare and stun durations reduced by {0}%		Schlingen- und Betäubungsdauer um {0} % verringert
-Conditions/Snared	Text	"Can also be translated from ""immobilized"" or other similar word meaning that character can't move"	Snared		Umschlungen
-Conditions/Snowing	Text		You can feel the winter embracing you		Du spürst die Umarmung des Winters
-Conditions/StackedCritChance	Text		{0}% critical hit chance		{0} % kritische Trefferchance
-Conditions/StarvingDamageDecrease	Text		{0}% reduced damage from starving		{0} % verringerter Schaden durch Verhungern
-Conditions/StarvingHealthDecrease	Text		{0}% reduced max health from starving		{0} % verringerte max. Gesundheit durch Verhungern
-Conditions/StarvingMovementSpeedDecrease	Text		{0}% movement speed from starving		{0} % Bewegungsgeschwindigkeit durch Verhungern
-Conditions/StrongerWellFedBuffs	Text		Well fed buffs are {0}% stronger		Wohlgenährt-Buffs sind {0} % stärker
-Conditions/Stunned	Text		Stunned		Betäubt
-Conditions/Suffocating	Text		Suffocating		Erstickend
-Conditions/ThornsDamage	Text		{0} thorns damage		{0} Dornenschaden
-Conditions/ThornsDamageAddedToMeleeAndRange	Text		Your thorns damage is added to your melee and range damage		Dein Dornenschaden wird zu deinem Nah- und Fernkampfschaden addiert
-Conditions/ToolDurabilityLastsLonger	Text		{0}% chance to not lose durability when using tools and weapons		{0} % Chance, keine Haltbarkeit zu verlieren, wenn Werkzeuge und Waffen verwendet werden
+Conditions/CriticalDamagePercentageIncrease	Text		{0}% critical hit damage	{0}% obrażeń od trafień krytycznych	{0} % kritischer Trefferschaden
+Conditions/DamageIncreaseAgainstBurning	Text		{0}% damage against burning targets	{0}% obrażeń przeciwko płonącym celom	{0} % Schaden an brennenden Zielen
+Conditions/DamageIncreaseAgainstPoisoned	Text		{0}% damage against poisoned targets	{0}% obrażeń przeciwko zatrutym celom	{0} % Schaden gegen vergiftete Ziele
+Conditions/DamageIncreaseAgainstStunned	Text		{0}% damage against stunned targets	{0}% obrażeń przeciwko ogłuszonym celom	{0} % Schaden gegen betäubte Ziele
+Conditions/DamageIncreaseFromRunning	Text		{0}% damage from running	{0}% obrażeń od biegania	{0} % Schaden durch Laufen
+Conditions/DealAoeFireDamageOnBlock	Text		Deals {0} damage to all nearby enemies when blocking with the shield	Zadaje {0} obrażeń wszystkim pobliskim wrogom podczas blokowania tarczą	Fügt allen Feinden in der Nähe {0} Schaden zu, wenn mit dem Schild geblockt wird
+Conditions/DiggingIncrease	Text		{0} digging damage	{0} obrażeń od kopania	{0} Grabenschaden
+Conditions/DodgeChance	Text		{0}% dodge chance	{0}% szansy na unik	{0} % Ausweichen-Chance
+Conditions/DodgeIncreaseFromStandingStill	Text		{0} % dodge chance from standing still	{0} % szansy na unik od stania w miejscu	{0} % Ausweichen-Chance durch Stillstehen
+Conditions/DrainLessHunger	Text		{0}% less food drained when running	{0}% mniej żywności zużywanej podczas biegu	{0} % weniger Essen wird beim Laufen verbraucht
+Conditions/EquipmentDurabilityLastsLonger	Text		{0}% chance to not lose durability on equipment when taking damage	{0}% szans na niestracenie wytrzymałości sprzętu po otrzymaniu obrażeń	{0} % Chance, keine Haltbarkeit von Ausrüstung zu verlieren, wenn Schaden erlitten wird
+Conditions/ExtraHarvestChance	Text		{0}% larger harvests	{0}% większe zbiory	{0} % größere Ernten
+Conditions/FishBitesFaster	Text		Fish bites {0}% faster	Ryby biorą {0}% szybciej	Fische beißen {0} % schneller
+Conditions/FishStartsCloserToBeReeledIn	Text		Fish starts {0}% closer to be reeled in	Ryba znajduje się o {0}% bliżej, by zostać zwabioną	Fische sind {0} % näher dran, eingeholt zu werden
+Conditions/GainArmorAtLowHealth	Text		{0}% armor while at low health	{0}% pancerza przy niskim poziomie zdrowia	{0} % Rüstung bei niedriger Gesundheit
+Conditions/GainAttackSpeedBoostAfterDodge	Text		{0}% melee and range attack speed for a short duration after dodging	{0}% szybkości ataku w zwarciu i dystansowego przez krótki czas po wykonaniu uniku	{0}% Nah- und Fernkampf-Angriffsgeschwindigkeit für eine kurze Zeit nach dem Ausweichen
+Conditions/GainAttackSpeedFromMissingHealth	Text		Attack speed is increased by 0.2% for every percentage of missing health	Prędkość ataku wzrasta o 0,2% za każdy procent brakującego zdrowia.	Angriffsgeschwindigkeit steigt für jedes Prozent fehlender Gesundheit um 0,2 %
+Conditions/GainCriticalHitChanceFromStandingStill	Text		{0}% critical hit chance after standing still for a short duration	{0}% szans na trafienie krytyczne po pozostaniu w bezruchu przez krótki czas	{0} % kurzfristige kritische Trefferchance nach dem Stillstehen
+Conditions/GainDamageIncreaseAfterMining	Text		{0}% damage for a short duration after mining a wall	{0}% obrażeń przez krótki czas po wydobyciu ściany	{0} % Schaden für kurze Zeit nach dem Abbau einer Wand
+Conditions/GainDamageIncreaseAtLowHealth	Text		{0}% damage while at low health	{0}% obrażeń przy niskim poziomie zdrowia	{0} % Schaden bei niedriger Gesundheit
+Conditions/GainDamageIncreaseAtMaxHealth	Text		{0}% damage while at max health	{0}% obrażeń przy maksymalnym poziomie zdrowia 	{0} % Schaden bei max. Gesundheit
+Conditions/GainDamageIncreaseFromRunning	Text		{0}% damage after consistently running for a short duration	{0}% obrażeń po ciągłym biegu przez krótki czas	{0} % Schaden nach kurzem dauerhaftem Laufen
+Conditions/GainDodgeIncreaseWhileStandingStill	Text		{0}% dodge chance after standing still for a short duration	{0}% szans na unik po pozostaniu w bezruchu przez krótki czas	{0} % kurzfristige Ausweichen-Chance nach dem Stillstehen
+Conditions/GainExtraIndustryItems	Text		{0} extra items gained when crafting rails, wires or conveyor belts.	{0} dodatkowych przedmiotów zdobywanych podczas tworzenia szyn, kabli lub przenośników taśmowych.	{0} zusätzliche Gegenstände werden beim Fertigen von Gleisen, Kabeln oder Förderbändern erhalten.
+Conditions/GainHealthRegenWhileBelowHalfHealth	Text		Gain {0} health every sec while below half max health	Zyskujesz {0} pkt. zdrowia co sekundę, gdy masz mniej niż połowę maksymalnego zdrowia	Gewinne {0} Gesundheit pro Sekunde, während du weniger als die Hälfte der max. Gesundheit hast
+Conditions/GainIncreasedBossDamageFromEatingFish	Text		{0}% damage against bosses after eating fish or cooked food made out of fish	{0}% obrażeń zadawanych bossom po zjedzeniu ryby lub gotowanego jedzenia z ryb	{0} % Schaden an Bossen nach dem Verzehr von Fisch oder gekochtem Essen aus Fisch
+Conditions/GainIncreasedMaxHealthFromAllSkillPoints	Text		{0}% of all skill points added to max health	{0}% wszystkich punktów umiejętności zostaje dodanych do maksymalnego zdrowia	{0} % aller Fertigkeitspunkte werden zur max. Gesundheit hinzugefügt
+Conditions/GainIncreasedMaxHealthFromPet	Text		{0}% health when a pet is equipped	{0}% zdrowia, gdy wyposażony jest zwierzak	{0} % Gesundheit, wenn ein Haustier ausgerüstet wurde
+Conditions/GainMeleeAttackSpeedFromCookedFood	Text		{0}% melee attack speed when eating cooked food	{0}% szybkości ataku wręcz podczas jedzenia gotowanych dań	{0} % Nahkampf-Angriffsgeschwindigkeit beim Verzehr von gekochtem Essen
+Conditions/GainMeleeDamageFromHitting	Text		Gain 2% melee damage every time an enemy is hit, stacks up to {0} times	Zyskujesz 2% obrażeń od walki wręcz za każdym razem, gdy trafisz wroga, kumuluje się do {0} razy	Erhalte 2 % Nahkampfschaden, wann immer ein Feind getroffen wird, stapelt sich bis zu {0}-mal
+Conditions/GainMeleeDamageIncreaseFromHittingSameTarget	Text		Gain {0}% melee damage when hitting the same target successively	Zyskujesz {0}% obrażeń od walki wręcz przy kolejnych trafieniach tego samego celu	Erhalte {0} % Nahkampfschaden, wenn du das gleiche Ziel aufeinanderfolgend triffst
+Conditions/GainMoreFoodFromCookedFood	Text		{0}% food from cooked food	{0}% nasycenia z gotowanego jedzenia	{0} % Essen durch gekochtes Essen
+Conditions/GainMoreFoodFromPlants	Text		{0}% food when eating plants or cooked food made out of plants	{0}% nasycenia podczas jedzenia roślin lub gotowanego jedzenia z roślin	{0} % Essen beim Verzehr von Pflanzen oder gekochtem Essen aus Pflanzen
+Conditions/GainMovementSpeedFromRunningConsistently	Text		{0}% movement speed after running consistently for a short duration	{0}% prędkości ruchu po stałym biegu przez krótki czas	{0} % kurzfristige Bewegungsgeschwindigkeit nach dauerhaftem Laufen
+Conditions/GainRangeDamageFromShooting	Text		Gain 2% range damage every time an enemy is shot, stacks up to {0} times	Zyskujesz 2% obrażeń zasięgowych za każdym razem, gdy wróg zostanie postrzelony, kumuluje się do {0} razy.	Erhalte 2 % Fernkampfschaden, wann immer ein Feind erschossen wird, stapelt sich bis zu {0}-mal
+Conditions/GainRangeDamageIncreaseFromStandingStill	Text		{0}% range damage after standing still for a short duration	{0}% obrażeń zasięgowych po pozostaniu w bezruchu przez krótki czas.	{0} % kurzfristiger Fernkampfschaden nach dem Stillstehen
+Conditions/GodMode	Text		You are in god mode	Jesteś w trybie boga	Du bist im Gott-Modus
+Conditions/HealOverTime	Text	"For example ""+5 health every second"""	{0} health every sec	{0} zdrowia co sekundę	{0} Gesundheit jede Sekunde
+Conditions/HealOverTimePercentage	Text	"For example ""+5% health every second"""	{0}% health every sec	{0}% zdrowia co sekundę	{0} % Gesundheit pro Sekunde
+Conditions/HealingPotionAddHealOverTime	Text		Healing potions also heal for {0}% of health gained from the potion over time	Mikstury leczące leczą również {0} % zdrowia uzyskanego z mikstur po czasie.	Heiltränke heilen zudem {0} % der durch Tränke erhaltenen Gesundheit über Zeit
+Conditions/HealthAddition	Text	{0} will be replaced by +10 for example so it says +10 health which can appear on an item description	{0} health	{0} zdrowia	{0} Gesundheit
+Conditions/HealthAdditionPercentage	Text		{0}% health	{0}% zdrowia	{0} % Gesundheit
+Conditions/HealthReduction	Text		{0} health	{0} zdrowia	{0} Gesundheit
+Conditions/HungerAddition	Text		{0} food	{0} nasycenia	{0} Essen
+Conditions/ImmuneToAcid	Text		Immune to acid damage	Odporność na obrażenia od kwasu	Immun gegen Säureschaden
+Conditions/ImmuneToBurning	Text		Immune to burning	Odporność na ogień	Immun gegen Feuerschaden
+Conditions/ImmuneToDamageAfterRespawn	Text		Immune to damage	Odporność na obrażenia	Immun gegen Schaden
+Conditions/ImmuneToMold	Text		Immune to mold infection	Odporność na zakażenie pleśnią	Immun gegen Schimmel-Infektion
+Conditions/ImmuneToPoison	Text		Immune to poison	Odporność na truciznę	Immun gegen Gift
+Conditions/ImmuneToRadioactiveDamage	Text		Immune to radioactive damage	Odporność na obrażenia radioaktywne	Immun gegen Strahlungsschaden
+Conditions/ImmuneToSlimeSlow	Text		Immune to being slowed by slime	Odporność na spowolnienie przez szlam	Immun gegen Verlangsamung durch Schleim
+Conditions/ImmuneToSlipperyMovement	Text		Immune to slippery movement	Odporność na śliskie ruchy	Immun gegen rutschige Bewegung
+Conditions/ImmuneToStun	Text		Immune to stun	Odporność na ogłuszenie	Immun gegen Betäubung
+Conditions/IncreaseCritChanceAfterPoisonApply	Text		{0}% critical hit chance for a short duration after successfully applying poison	{0}% szansy na trafienie krytyczne przez krótki czas po skutecznym zastosowaniu trucizny	{0} % kritische Trefferchance für eine kurze Dauer nach dem erfolgreichen Anwenden von Gift
+Conditions/IncreasedAppliedStunDuration	Text		{0}% longer stun durations	{0}% dłuższy czas trwania ogłuszenia	{0} % längere Dauer der Betäubung
+Conditions/IncreasedArmorPercentageWhileAdjacentToWater	Text		{0}% armor while adjacent to water	{0}% pancerza podczas przebywania w pobliżu wody	{0} % zusätzliche Rüstung in der Nähe von Wasser
+Conditions/IncreasedBoatSpeed	Text		{0}% boat speed	{0}% prędkości łodzi	{0} % Bootsgeschwindigkeit
+Conditions/IncreasedChanceForHigherRarityFish	Text		{0}% chance for higher rarity fish to bite	{0}% szansy na skuszenie ryby o wyższej rzadkości	{0} % Chance, dass Fische mit höherer Seltenheit anbeißen
+Conditions/IncreasedChanceToGetFish	Text		{0}% chance to get a fish on the hook	{0}% szansy na złapanie ryby na haczyk	{0} % Chance, dass ein Fisch am Haken anbeißt
+Conditions/IncreasedChanceToGetFishLoot	Text		{0}% chance to get a valuable or other non-fish item on the hook when fishing	{0}% szans na złapanie cennego lub innego nierybnego przedmiotu na haczyk podczas łowienia.	{0} % Chance, dass ein wertvoller Fisch oder ein Gegenstand, der kein Fisch ist, am Haken hängt
+Conditions/IncreasedCharmDuration	Text		{0}% longer duration of applied charm effects	{0}% dłuższy czas trwania zastosowanych efektów uroku	{0} % längere Dauer für angewandte Zaubereffekte
+Conditions/IncreasedDamageAgainstBosses	Text		{0}% damage against bosses	{0}% obrażeń przeciwko bossom	{0} % Schaden gegen Bosse
+Conditions/IncreasedDamageBasedOnTargetRemainingHealth	Text		Deal up to {0}% more damage based on targets remaining health	Zadaje do {0}% więcej obrażeń w zależności od pozostałego zdrowia celu. 	Verursache bis zu {0} % mehr Schaden, basierend auf der verbleibenden Gesundheit des Ziels
+Conditions/IncreasedDamageTakenPercentage	Text		{0}% damage taken	{0} % otrzymanych obrażeń	{0} % Schaden erlitten
+Conditions/IncreasedDashDuration	Text		{0}% longer dash duration	{0}% dłuższy czas trwania zrywu	{0} % längere Sprintdauer
+Conditions/IncreasedExplosivesDamage	Text		{0}% explosives damage	{0}% obrażeń wybuchowych	{0} % Sprengstoffschaden
+Conditions/IncreasedFishing	Text		{0} fishing	{0} wędkarstwa	{0} Angeln
+Conditions/IncreasedHealthRegenEffectiveness	Text		{0}% more healing from health over time regeneration	{0}% więcej leczenia z regeneracji zdrowia	{0} % mehr Heilung durch Gesundheit-über-Zeit-Regeneration
+Conditions/IncreasedMaxHealth	Text		{0} max health	{0} maks. zdrowia	{0} max. Gesundheit
+Conditions/IncreasedMaxHealthPermanent	Text		{0} max health	{0} maks. zdrowia	{0} max. Gesundheit
+Conditions/IncreasedPickUpRadius	Text		{0}% pickup radius	{0}% zasięgu podnoszenia	{0} % Aufnahme-Radius
+Conditions/IncreasedRodRange	Text		{0}% fishing rod throw range	{0}% zasięgu zarzucania wędki	{0} % Angel-Auswurfreichweite
+Conditions/InfectedWithMold	Text		{0}% movement speed, increasingly slows down movement from mold infection	{0}% szybkości ruchu, znacznie spowalnia ruch od zakażenia pleśnią	{0} % Bewegungsgeschwindigkeit, verlangsamt zunehmend die Bewegung durch Schimmel-Infektionen
+Conditions/KillsIncreaseCritChance	Text		Killing an enemy increases critical hit chance by 3%, stacks up to 5 times	Zabicie wroga zwiększa szansę na trafienie krytyczne o 3%, kumuluje się do 5 razy.	Das Töten eines Feindes erhöht die Chance auf einen kritischen Treffer um 3 %, bis zu 5-mal stapelbar
+Conditions/KingOfSlimes	Text		You are the king of slimes	Jesteś królem szlamów	Du bist der König der Schleime
+Conditions/LarvaDisguise	Text		Disguised as a larva	Przebrany za larwę	Als Larve getarnt
+Conditions/LifeOnHit	Text		{0} life on melee hit	{0} życia przy trafieniu w zwarciu	{0} Leben bei Nahkampftreffer
+Conditions/LongerCookedFoodBuffs	Text		{0}% longer cooked food buff durations	{0}% dłuższy czas trwania premii z gotowanego jedzenia	{0} % längere Buff-Dauer bei gekochtem Essen
+Conditions/LookLikeGhost	Text		You look like a ghost	Wyglądasz jak zjawa	Du siehst wie ein Geist aus
+Conditions/Love	Text		Gives you a  heart-warming feeling	Daje uczucie ciepła w sercu	Schenkt dir ein herzerwärmendes Gefühl
+Conditions/MeleeAttackSpeedIncrease	Text		{0}% melee attack speed	{0}% szybkości ataku w walce wręcz	{0} % Nahkampf-Angriffsgeschwindigkeit
+Conditions/MeleeDamageIncrease	Text	{0} will be replaced by +10 for example so it says +10 damage which can appear on an item description	{0}% melee damage	{0}% obrażeń w walce wręcz	{0} % Nahkampfschaden
+Conditions/MiningIncrease	Text		{0} mining damage	{0} obrażeń górniczych	{0} Bergbauschaden
+Conditions/MiningPercentageIncrease	Text		{0}% mining damage	{0}% obrażeń górniczych	{0} % Bergbauschaden
+Conditions/MiningSpeedIncrease	Text		{0}% mining speed	{0}% prędkości wydobywania	{0} % Bergbaugeschwindigkeit
+Conditions/MovementSpeedBoostAfterDodge	Text		{0}% movement speed boost for a short duration after dodging an attack	{0}% premii do prędkości ruchu na krótki czas po uniknięciu ataku.	{0} % Boost der Bewegungsgeschwindigkeit für eine kurze Zeit nach dem Ausweichen eines Angriffs
+Conditions/MovementSpeedBoostAfterMining	Text		{0}% movement speed boost for a short duration after mining a wall	{0}% premii do prędkości ruchu na krótki czas po wykopaniu ściany	{0} % Boost der Bewegungsgeschwindigkeit für eine kurze Zeit nach dem Bergbau einer Wand
+Conditions/MovementSpeedDecrease	Text		{0}% movement speed	{0}% prędkości ruchu	{0} % Bewegungsgeschwindigkeit
+Conditions/MovementSpeedIncrease	Text		{0}% movement speed	{0}% prędkości ruchu	{0} % Bewegungsgeschwindigkeit
+Conditions/MovementSpeedIncreaseFromRunningConsistently	Text		{0} movement speed from consistent running	{0} prędkość ruchu od stałego biegu	{0} Bewegungsgeschwindigkeit durch dauerhaftes Laufen
+Conditions/OrangeGlow	Text		{0} glow	{0} poświaty	{0} Leuchten
+Conditions/PercentageOfFishingAsRange	Text		{0}% of fishing added as range damage	{0}% wędkarstwa zostaje dodane jako obrażenia zasięgowe	{0} % des Angelns als Fernkampfschaden hinzugefügt
+Conditions/PercentageOfMiningAsMelee	Text		{0}% of mining damage added as melee damage	{0}% obrażeń górniczych dodanych jako obrażenia od walki wręcz	{0} % des Bergbauschadens als Nahkampfschaden hinzugefügt
+Conditions/PiercingProjectiles	Text		{0} target(s) pierced by projectiles	{0} cel(e) przebite przez pociski	{0} Ziel(e) von Projektilen durchschlagen
+Conditions/PinkGlow	Text		{0} pink glow	{0} różowej poświaty	{0} pinkes Leuchten
+Conditions/Poisoned	Text		75% reduced healing received	75% mniej otrzymanego leczenia	75 % verringerte Heilung erhalten
+Conditions/RangeAttackSpeedIncrease	Text		{0}% range attack speed	{0}% szybkości ataku zasięgowego	{0} % Fernkampf-Angriffsgeschwindigkeit
+Conditions/RangeDamageIncrease	Text		{0}% range damage	{0}% obrażeń zasięgowych	{0} % Fernkampfschaden
+Conditions/RedGlowingEyes	Text		Your eyes glow red	Twoje oczy jarzą się na czerwono	Deine Augen leuchten rot
+Conditions/ReducedAnvilEquipmentCosts	Text		Crafting items at the anvil and repairing items costs {0}% less materials	Wytwarzanie przedmiotów w kowadle i naprawa przedmiotów kosztuje {0}% mniej materiałów.	Das Fertigen von Gegenständen am Amboss und das Reparieren von Gegenständen kostet {0} % weniger Materialien
+Conditions/ReducedDamageFromBosses	Text		{0}% reduced damage taken from bosses	{0}% mniej obrażeń otrzymywanych od bossów	{0} % verringerter durch Bosse erlittener Schaden
+Conditions/ReducedImpactOfSlipperyMovement	Text		{0}% reduced impact of slippery movement	{0}% mniejszy wpływ śliskich ruchów	{0} % verringerte Auswirkung durch rutschige Bewegung
+Conditions/ReducedImpactOfSlowedBySlime	Text		{0}% reduced impact of slowed movement from slime	{0}% mniejszy wpływ spowolnienia ruchu spowodowanego szlamem	{0} % reduzierte Wirkung der verlangsamten Bewegung durch Schleim
+Conditions/RemovePoison	Text		Removes any poison from the imbiber	Usuwa wszelką truciznę z napojonego	Entfernt jegliches Gift
+Conditions/SeedDropChance	Text		{0}% chance to gain a seed when harvesting plants	{0}% szansy na zdobycie nasion podczas zbierania roślin	{0} % Chance auf den Erhalt eines Samens beim Ernten von Pflanzen
+Conditions/ShortMovementSpeedBoost	Text		{0}% movement speed for a short duration	{0}% prędkości ruchu przez krótki czas	{0} % kurzfristige Bewegungsgeschwindigkeit
+Conditions/Sleeping	Text		Fall asleep	Zasypianie	Einschlafen
+Conditions/SlipperyMovement	Text		Your movement is slippery	Twoje ruchy są śliskie	Deine Bewegung ist rutschig
+Conditions/SlipperyMovementFromGround	Text		The ground is slippery	Podłoże jest śliskie	Der Boden ist rutschig
+Conditions/SlowedBySlime	Text		{0}% movement speed from slime	{0}% prędkości ruchu od szlamu	{0} % Bewegungsgeschwindigkeit durch Schleim
+Conditions/SnareAndStunDurationReduction	Text		Snare and stun durations reduced by {0}%	Skrócono czas działania unieruchomienia i ogłuszenia o {0}%.	Schlingen- und Betäubungsdauer um {0} % verringert
+Conditions/Snared	Text	"Can also be translated from ""immobilized"" or other similar word meaning that character can't move"	Snared	unieruchomiony	Umschlungen
+Conditions/Snowing	Text		You can feel the winter embracing you	Możesz poczuć zimę obejmującą cię	Du spürst die Umarmung des Winters
+Conditions/StackedCritChance	Text		{0}% critical hit chance	{0}% szansy na trafienie krytyczne	{0} % kritische Trefferchance
+Conditions/StarvingDamageDecrease	Text		{0}% reduced damage from starving	{0}% mniej obrażeń od głodu	{0} % verringerter Schaden durch Verhungern
+Conditions/StarvingHealthDecrease	Text		{0}% reduced max health from starving	{0}% zmniejszone maksymalne zdrowie z wygłodzenia.	{0} % verringerte max. Gesundheit durch Verhungern
+Conditions/StarvingMovementSpeedDecrease	Text		{0}% movement speed from starving	{0}% prędkości ruchu od głodu	{0} % Bewegungsgeschwindigkeit durch Verhungern
+Conditions/StrongerWellFedBuffs	Text		Well fed buffs are {0}% stronger	Premie za dobre odżywienie są silniejsze o {0}%.	Wohlgenährt-Buffs sind {0} % stärker
+Conditions/Stunned	Text		Stunned	Ogłuszony	Betäubt
+Conditions/Suffocating	Text		Suffocating	Duszenie	Erstickend
+Conditions/ThornsDamage	Text		{0} thorns damage	{0} obrażeń od cierni	{0} Dornenschaden
+Conditions/ThornsDamageAddedToMeleeAndRange	Text		Your thorns damage is added to your melee and range damage	Twoje obrażenia od cierni są dodawane do obrażeń zadawanych w walce wręcz i na dystans.	Dein Dornenschaden wird zu deinem Nah- und Fernkampfschaden addiert
+Conditions/ToolDurabilityLastsLonger	Text		{0}% chance to not lose durability when using tools and weapons	{0}% szans na brak utraty wytrzymałości podczas korzystania z narzędzi i broni.	{0} % Chance, keine Haltbarkeit zu verlieren, wenn Werkzeuge und Waffen verwendet werden
 Conditions/VisibleOreDistanceIncrease	Text		{0} tiles visible ore distance		{0} Fliesen sichtbare Erz-Entfernung
 Conditions/WellFedBuffsThresholdReduction	Text		Well fed buffs are gained at {0}% lower food		Wohlgenährt-Buffs werden bei {0} % geringerem Essen erhalten
 Conditions/WellFedDamageIncrease	Text		{0}% increased damage from being well fed		{0} % erhöhter Schaden durch „Wohlgenährt“ 
