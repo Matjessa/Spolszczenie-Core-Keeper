@@ -70,144 +70,144 @@ AchievementsLockedDescription/MaxedOutMining	Text		Gain 100 skill points in mini
 AchievementsLockedDescription/MaxedOutRange	Text		Gain 100 skill points in range	Zdobądź 100 punktów umiejętności w walce na odległość	Erhalte 100 Fertigkeitspunkte für Fernkampf
 AchievementsLockedDescription/MaxedOutRunning	Text		Gain 100 skill points in running	Zdobądź 100 punktów umiejętności w bieganiu	Erhalte 100 Fertigkeitspunkte für Laufen
 AchievementsLockedDescription/MaxedOutVitality	Text		Gain 100 skill points in vitality	Zdobądź 100 punktów umiejętności witalności	Erhalte 100 Fertigkeitspunkte für Vitalität
-AchievementsLockedDescription/ObtainPhantomSpark	Text		Obtain Phantom Spark	Zdobądź Iskrę Widmo	Phantomfunken erhalten
-AchievementsLockedDescription/ObtainRuneSong	Text		Obtain Rune Song	Zdobądź Runiczną Pieśń	Runenlied erhalten
-AchievementsLockedDescription/ObtainSoulSeeker	Text		Obtain Soul Seeker	Zdobądź Poszukiwacz Dusz	Seelensucher erhalten
-AchievementsLockedDescription/ObtainTheOracleDeck	Text		Obtain the Oracle Card deck	Zdobądź talię kart wyroczni	Orakel-Deck erhalten
+AchievementsLockedDescription/ObtainPhantomSpark	Text		Obtain Phantom Spark	Uzyskaj Iskrę Widmo	Phantomfunken erhalten
+AchievementsLockedDescription/ObtainRuneSong	Text		Obtain Rune Song	Uzyskaj Runiczną Pieśń	Runenlied erhalten
+AchievementsLockedDescription/ObtainSoulSeeker	Text		Obtain Soul Seeker	Uzyskaj Poszukiwacz Dusz	Seelensucher erhalten
+AchievementsLockedDescription/ObtainTheOracleDeck	Text		Obtain the Oracle Card deck	Uzyskaj talię kart wyroczni	Orakel-Deck erhalten
 AchievementsLockedDescription/PetColors	Text		Store all color variations of one pet type in a chest	Przechowuj wszystkie warianty kolorystyczne jednego typu zwierzaka w skrzyni.	Lagere alle Farbvariationen einer Haustier-Art in einer Kiste
 AchievementsLockedDescription/PetMaxLevel	Text		Reach max level on a pet	Osiągnij maksymalny poziom zwierzaka	Erreiche die maximale Stufe eines Haustiers
 AchievementsLockedDescription/PlantCherryTree	Text		Plant 10 Cherry Trees	Posadź 10 drzew wiśni	10 Kirschbäume pflanzen
-AchievementsLockedDescription/SitOnCavelingToiletWithACrown	Text		Sit on a Caveling Toilet while wearing a crown		Mit einer Krone auf dem Kopf auf dem Grottling-Klo sitzen
-AchievementsLockedDescription/StormSong	Text	"Please make sure to find a word for ""tempest"" that doesn't sound the same like ""storm"" in the the title Song of Storms in Zelda Ocarina of Time in the language you want to translate to. For example, in Germany that song is called ""Hymne des Sturms"". In order to not infringe on Nintendos copyright, ""Sturm"" has been replaced by ""Unwetter""."	Play the Tune of Tempest		Spiele die Melodie des Unwetters
-AchievementsLockedDescription/TalkToBigLarva	Text		Talk to a Big Larva		Mit großer Larve sprechen
-AchievementsUnlockedDescription/CatchStarlightNautilus	Text		Caught a Starlight Nautilus		Sternlicht-Nautilus gefangen
-AchievementsUnlockedDescription/DefeatAtlanteanWorm	Text		Defeated an Atlantean Worm		Einen Atlantischen Wurm bezwungen
-AchievementsUnlockedDescription/DefeatAzeos	Text		Defeated Azeos the Sky Titan		Azeos der Himmelstitan, besiegt
-AchievementsUnlockedDescription/DefeatGhorm	Text		Defeated Ghorm the Devourer		Ghorm den Verschlinger, besiegt
-AchievementsUnlockedDescription/DefeatGlurch	Text		Defeated Glurch the Abominous Mass		Glurch die Abscheuliche Masse, besiegt
-AchievementsUnlockedDescription/DefeatHivemother	Text		Defeated The Hive Mother		Nestmutter, besiegt
-AchievementsUnlockedDescription/DefeatIgneous	Text		Defeated Igneous the Molten Mass		Igneous die Geschmolzene Masse, besiegt
-AchievementsUnlockedDescription/DefeatIvy	Text		Defeated Ivy the Poisonous Mass		Ivy die Giftige Masse, besiegt
-AchievementsUnlockedDescription/DefeatKingSlime	Text		Defeated King Slime		Schleimkönig, besiegt
-AchievementsUnlockedDescription/DefeatMalugaz	Text		Defeated Malugaz the Corrupted		Malugaz der Korrupte, besiegt
-AchievementsUnlockedDescription/DefeatMorpha	Text		Defeated Morpha the Aquatic Mass		Morpha die Aquatische Masse, besiegt
-AchievementsUnlockedDescription/DefeatOmoroth	Text		Defeated Omoroth the Sea Titan		Omoroth der Meerestitan, besiegt
-AchievementsUnlockedDescription/DefeatRaAkar	Text		Defeated Ra-Akar the Sand Titan		Ra-Akar der Sandtitan, besiegt
-AchievementsUnlockedDescription/Discover100CookBookRecipes	Text		Discovered 100 recipes in the cook book		100 Rezepte wurden im Kochbuch entdeckt
-AchievementsUnlockedDescription/EquipRingOfRockAndStone	Text		Equipped the Ring of Rock and Ring of Stone		Ring der Felsen und Ring der Steine ausgerüstet
-AchievementsUnlockedDescription/FeedCattle	Text		Fed cattle		Ein Nutztier gefüttert
-AchievementsUnlockedDescription/FirstPet	Text		Hatched your first pet from an egg		Dein erstes Haustier aus einem Ei ausgebrütet
-AchievementsUnlockedDescription/GainOver200MovementSpeed	Text		Gained over 200% movement speed		200 % Bewegungsgeschwindigkeit wurden erhalten
-AchievementsUnlockedDescription/HarvestGoldenIngredient	Text		Harvested a golden plant		Goldene Pflanze geerntet
-AchievementsUnlockedDescription/KeyArtCharacter	Text		Dressed like a character from the official illustrations		Wie eine Figur aus den offiziellen Illustrationen gekleidet
-AchievementsUnlockedDescription/MaxedOutCooking	Text		Gained 100 skill points in cooking		100 Fertigkeitspunkte für Kochen erhalten
-AchievementsUnlockedDescription/MaxedOutCrafting	Text		Gained 100 skill points in crafting		100 Fertigkeitspunkte für Fertigung erhalten
-AchievementsUnlockedDescription/MaxedOutFishing	Text		Gained 100 skill points in fishing		100 Fertigkeitspunkte für Angeln erhalten
-AchievementsUnlockedDescription/MaxedOutGardening	Text		Gained 100 skill points in gardening		100 Fertigkeitspunkte für Gärtnern erhalten
-AchievementsUnlockedDescription/MaxedOutMelee	Text		Gained 100 skill points in melee		100 Fertigkeitspunkte für Nahkampf erhalten
-AchievementsUnlockedDescription/MaxedOutMining	Text		Gained 100 skill points in mining		100 Fertigkeitspunkte für Bergbau erhalten
-AchievementsUnlockedDescription/MaxedOutRange	Text		Gained 100 skill points in range		100 Fertigkeitspunkte für Fernkampf erhalten
-AchievementsUnlockedDescription/MaxedOutRunning	Text		Gained 100 skill points in running		100 Fertigkeitspunkte für Laufen erhalten
-AchievementsUnlockedDescription/MaxedOutVitality	Text		Gained 100 skill points in vitality		100 Fertigkeitspunkte für Vitalität erhalten
-AchievementsUnlockedDescription/ObtainPhantomSpark	Text		Obtained Phantom Spark		Phantomfunken wurde erhalten
-AchievementsUnlockedDescription/ObtainRuneSong	Text		Obtained Rune Song		Runenlied wurde erhalten
-AchievementsUnlockedDescription/ObtainSoulSeeker	Text		Obtained Soul Seeker		Seelensucher wurde erhalten
-AchievementsUnlockedDescription/ObtainTheOracleDeck	Text		Obtained the Oracle Card deck		Orakel-Deck wurde erhalten
-AchievementsUnlockedDescription/PetColors	Text		Stored all color variations of one pet type in a chest		Alle Farbvariationen einer Haustier-Art in einer Kiste gelagert
-AchievementsUnlockedDescription/PetMaxLevel	Text		Reached max level on a pet		Maximale Stufe eines Haustiers erreicht
-AchievementsUnlockedDescription/PlantCherryTree	Text		Planted 10 Cherry Trees		10 Kirschbäume gepflanzt
-AchievementsUnlockedDescription/SitOnCavelingToiletWithACrown	Text		Sat on a Caveling Toilet while wearing a crown		Mit einer Krone auf dem Kopf auf dem Grottling-Klo gesessen
-AchievementsUnlockedDescription/StormSong	Text		Played the Tune of Tempest		Die Melodie des Unwetters gespielt
-AchievementsUnlockedDescription/TalkToBigLarva	Text		Talked to a Big Larva		Mit großer Larve gesprochen
-Advanced	Text		Advanced		Fortgeschritten
-AvailableInEarlyAccess	Text		Will be available at Early Access launch		Ist beim Start des Early Access verfügbar
-BetaVersion	Text	{0} will be replaced by the version number	{0} Beta Version		{0} Beta-Version
-BiomeNames/Crystal	Text		The Shimmering Frontier		Die Schimmernde Grenze
-BiomeNames/Desert	Text		The Desert of Beginnings		Die Wüste des Anbeginns
-BiomeNames/Great Wall	Text		Great Wall		Große Mauer
-BiomeNames/Larva	Text		The Clay Caves		Die Lehm-Höhlen
-BiomeNames/Nature	Text		Azeos' Wilderness		Azeos' Wildnis
-BiomeNames/None	Text		Unknown		Unbekannt
-BiomeNames/Obsidian	Text		Unknown		Unbekannt
-BiomeNames/Sea	Text		The Sunken Sea		Das Versunkene Meer
-BiomeNames/Slime	Text		The Undergrounds		Die Untergründe
-BiomeNames/Stone	Text		The Forgotten Ruins		Die Vergessenen Ruinen
-BreastVanitySlot	Text		Chest vanity slot		Oberkörper-Eitelkeit-Slot
-CageCattle	Text		Capture a cattle		Ein Nutztier fangen
-CanBePutIntoEnemySpawnerPlatform	Text	Shown when hovering the slot for Enemy spawners that must contain a figurine to spawn the corresponding enemy of that figurine	Figurine slot		Figuren-Slot
-CanBePutIntoEnemySpawnerPlatformDesc	Text		Putting a non-boss figurine in the slot and powering the Materializer with electricity will create a clone of the enemy represented by the figurine.		Wenn man eine Figur, die kein Boss ist, in den Slot setzt und den Materialisator mit Elektrizität versorgt, wird ein Klon des Feindes erschaffen, den die Figur darstellt.
-CardinalDirections/East	Text		east		östlich
-CardinalDirections/North	Text		north		nördlich
-CardinalDirections/NorthEast	Text		north east		nordöstlich
-CardinalDirections/NorthWest	Text		north west		nordwestlich
-CardinalDirections/South	Text		south		südlich
-CardinalDirections/SouthEast	Text		south east		südöstlich
-CardinalDirections/SouthWest	Text		south west		südwestlich
-CardinalDirections/Undefined	Text		undefined		unbestimmt
-CardinalDirections/West	Text		west		westlich
-CasualMode	Text		Casual		Einfach
-CasualModeDesc	Text		Encounter gentler monsters in a relaxed, enjoyable setting.		Begegne sanfteren Monstern in einer entspannten, angenehmen Umgebung.
-CattleStatus/Full	Text		The animal is very happy, full and producing.		Das Tier ist überglücklich, satt und erzeugt etwas.
-CattleStatus/FullBaby	Text		The young animal is very happy and full.		Das Jungtier ist überglücklich und satt.
-CattleStatus/HungryCattleKelpFood	Text		The animal is hungry for kelp.		Das Tier hat Hunger auf Seetang.
-CattleStatus/HungryCattlePlantFood	Text		The animal is hungry for crops.		Das Tier hat Hunger auf Feldfrüchte.
-CattleStatus/HungryInsect	Text		The animal is hungry for small insects.		Das Tier hat Hunger auf kleine Insekten.
-CattleStatus/MediumHungry	Text		The animal is happy, fairly full and producing.		Das Tier ist glücklich, fast satt und erzeugt etwas.
-CattleStatus/MediumHungryBaby	Text		The young animal is happy and fairly full.		Das Jungtier ist glücklich und fast satt.
-CattleStatus/NameFull	Text	{0} will be replaced with the name that the player has given to the cattle creature	{0} is very happy, full and producing.		{0} ist überglücklich, satt und erzeugt etwas.
-CattleStatus/NameFullBaby	Text		{0} is very happy and full.		{0} ist überglücklich und satt.
-CattleStatus/NameHungryCattleKelpFood	Text		{0} is hungry for kelp.		{0} hat Hunger auf Seetang.
-CattleStatus/NameHungryCattlePlantFood	Text	{0} will be replaced with the name that the player has given to the cattle creature	{0} is hungry for crops.		{0} hat Hunger auf Feldfrüchte.
-CattleStatus/NameHungryInsect	Text	{0} will be replaced with the name that the player has given to the cattle creature	{0} is hungry for small insects.		{0} hat Hunger auf kleine Insekten.
-CattleStatus/NameMediumHungry	Text	{0} will be replaced with the name that the player has given to the cattle creature	{0} is happy, fairly full and producing.		{0} ist glücklich, fast satt und erzeugt etwas.
-CattleStatus/NameMediumHungryBaby	Text		{0} is happy and fairly full.		{0} ist glücklich und fast satt.
-CombineMaterials	Text		Combine the materials		Materialien kombinieren
-ConditionEffect/ApplyBurning	Text		{0} burn damage		{0} Brandschaden
-ConditionEffect/ApplyDamageEverySecond	Text		{0} damage every sec		{0} Schaden pro Sekunde
-ConditionEffect/ApplyPoisoned	Text		Poisonous, reduces healing received by 75%		Giftig, verringert die erhaltene Heilung um 75 %
-ConditionEffect/ApplySlowedBySlime	Text		Reduces the target's movement speed by {0}% for 4 sec		Verringert die Bewegungsgeschwindigkeit des Ziels 4 Sek. lang um {0} %
-ConditionEffect/Armor	Text		{0} armor		{0} Rüstung
-ConditionEffect/ArmorPercentage	Text		{0}% armor		{0} % Rüstung
-ConditionEffect/ChanceOnHitToKnockback	Text		{0}% knockback chance		{0} % Zurückschlagen-Chance
-ConditionEffect/ChanceToGainExtraCookedFood	Text		{0}% extra cooked food chance		{0} % Chance auf zusätzliches gekochtes Essen
-ConditionEffect/CritChance	Text		{0}% critical hit chance		{0} % kritische Trefferchance
-ConditionEffect/CriticalDamagePercentage	Text		{0}% critical hit damage		{0} % kritischer Trefferschaden
-ConditionEffect/DamageEverySecond	Text		{0} damage every sec		{0} Schaden pro Sekunde
-ConditionEffect/DamageEveryThirdSecond	Text		{0} damage every third sec		{0} Schaden alle drei Sekunden
-ConditionEffect/DodgeChance	Text		{0}% dodge chance		{0} % Ausweichen-Chance
-ConditionEffect/ExplosivesDamage	Text		{0}% explosives damage		{0} % Sprengstoffschaden
-ConditionEffect/Fishing	Text		{0} fishing		{0} Angeln
-ConditionEffect/Glowing	Text		{0} glow		{0} Leuchten
-ConditionEffect/HarvestChance	Text		{0}% larger harvests		{0} % größere Ernten
-ConditionEffect/HealOverTime	Text		{0} health every sec		{0} Gesundheit jede Sekunde
-ConditionEffect/Health	Text		{0} health		{0} Gesundheit
-ConditionEffect/Hunger	Text		{0} food		{0} Essen
-ConditionEffect/ImmuneToSlimeSlow	Text		Immune to being slowed by slime		Immun gegen Verlangsamung durch Schleim
-ConditionEffect/LifeOnHit	Text		{0} life on melee hit		{0} Leben bei Nahkampftreffer
-ConditionEffect/MaxHealth	Text		{0} max health		{0} max. Gesundheit
-ConditionEffect/MeleeAttackSpeed	Text		{0}% melee speed		{0} % Nahkampfgeschwindigkeit
-ConditionEffect/MeleeDamage	Text		{0}% melee damage		{0} % Nahkampfschaden
-ConditionEffect/Mining	Text		{0} mining damage		{0} Bergbauschaden
-ConditionEffect/MiningSpeed	Text		{0}% mining speed		{0} % Bergbaugeschwindigkeit
-ConditionEffect/MovementSpeed	Text		{0}% movement speed		{0} % Bewegungsgeschwindigkeit
-ConditionEffect/Poisoned	Text		75% reduced healing received		75 % verringerte Heilung erhalten
-ConditionEffect/RangeAttackSpeed	Text		{0}% range speed		{0} % Fernkampfgeschwindigkeit
-ConditionEffect/RangeDamage	Text		{0}% range damage		{0} % Fernkampfschaden
-ConditionEffect/ReducedDamageFromBosses	Text		{0}% boss damage reduction		{0} % Boss-Schadensverringerung
-ConditionEffect/ThornsDamage	Text		{0} thorns damage		{0} Dornenschaden
-ConditionEffectDesc/ApplyBurning	Text		Applies burning to enemies you deal damage to. The burning effect damages the enemy every other second for {0} damage.		Verbrennt Feinde, denen du Schaden zufügst. Der Brandeffekt fügt dem Feind alle zwei Sekunden {0} Schaden zu.
-ConditionEffectDesc/Armor	Text		Reduces damage taken up to a maximum of {0} damage. Enemies always deal a minimum 25% of their damage.		Verringert erlittenen Schaden bis zu einem Max. von {0} Schaden. Feinde verursachen immer mindestens 25 % ihres Schadens.
-ConditionEffectDesc/ChanceOnHitToKnockback	Text		Melee attacks have a {0}% chance to knockback enemies.		Bei Nahkampfangriffen besteht eine Chance von {0} %, Feinde zurückzuschlagen.
-ConditionEffectDesc/ChanceToGainExtraCookedFood	Text		Grabbing cooked food from the cooking pot has a {0}% chance to gain an additional cooked food per cooked food grabbed.		Gekochtes Essen aus dem Kochtopf nehmen hat eine Chance von {0} %, ein zusätzliches gekochtes Essen pro geschnapptem gekochten Essen zu erhalten.
-ConditionEffectDesc/CritChance	Text		Attacks have a {0}% chance to deal 50% extra damage.		Bei Angriffen besteht eine Chance von {0} %, 50 % zusätzlichen Schaden zu verursachen.
-ConditionEffectDesc/CriticalDamagePercentage	Text		Deal {0}% more damage on critical hits. Base critical hit damage is 50%.		Verursache {0} % mehr Schaden bei kritischen Treffern. Der normale kritische Trefferschaden beträgt 50 %.
-ConditionEffectDesc/DodgeChance	Text		{0}% chance to dodge any attack. Maximum dodge chance is 90%.		Chance von {0} %, einem Angriff auszuweichen. Max. Ausweichen-Chance ist 90 %.
-ConditionEffectDesc/ExplosivesDamage	Text		Explosives deal {0}% more damage.		Sprengstoffe verursachen {0} % mehr Schaden.
-ConditionEffectDesc/Fishing	Text		A higher fishing allows catching fish in higher level areas while also making fish easier to catch.		Höheres Angeln ermöglicht das Fangen von Fischen in höher gelegenen Gebieten und erleichtert gleichzeitig das Fangen von Fischen.
-ConditionEffectDesc/Glowing	Text		Produces a glow reaching up to {0} tiles away.		Erzeugt ein Leuchten, das bis zu {0} Fliesen weit reicht.
-ConditionEffectDesc/HarvestChance	Text		When harvesting, you gain on average {0}% extra plants.		Bei der Ernte wirst du im Durchschnitt {0} % mehr Pflanzen ernten.
-ConditionEffectDesc/HealOverTime	Text		Gains {0} health every second.		Erhält {0} Gesundheit pro Sekunde.
-ConditionEffectDesc/LifeOnHit	Text		Gains {0} health when hitting an enemy with a melee attack.		Erhält {0} Gesundheit, wenn ein Feind mit einem Nahkampfangriff getroffen wird.
+AchievementsLockedDescription/SitOnCavelingToiletWithACrown	Text		Sit on a Caveling Toilet while wearing a crown	Usiądź na jaskiniowej toalecie, nosząc koronę	Mit einer Krone auf dem Kopf auf dem Grottling-Klo sitzen
+AchievementsLockedDescription/StormSong	Text	"Please make sure to find a word for ""tempest"" that doesn't sound the same like ""storm"" in the the title Song of Storms in Zelda Ocarina of Time in the language you want to translate to. For example, in Germany that song is called ""Hymne des Sturms"". In order to not infringe on Nintendos copyright, ""Sturm"" has been replaced by ""Unwetter""."	Play the Tune of Tempest	Zagraj Pieść Sztormu	Spiele die Melodie des Unwetters
+AchievementsLockedDescription/TalkToBigLarva	Text		Talk to a Big Larva	Porozmawiaj z dużą larwą	Mit großer Larve sprechen
+AchievementsUnlockedDescription/CatchStarlightNautilus	Text		Caught a Starlight Nautilus	Złapano Gwiezdnego Nautilusa	Sternlicht-Nautilus gefangen
+AchievementsUnlockedDescription/DefeatAtlanteanWorm	Text		Defeated an Atlantean Worm	Pokonano Atlantydzkiego Robaka	Einen Atlantischen Wurm bezwungen
+AchievementsUnlockedDescription/DefeatAzeos	Text		Defeated Azeos the Sky Titan	Pokonano Podniebnego Tytana Azeosa	Azeos der Himmelstitan, besiegt
+AchievementsUnlockedDescription/DefeatGhorm	Text		Defeated Ghorm the Devourer	Pokonano Ghorma Pożeracza	Ghorm den Verschlinger, besiegt
+AchievementsUnlockedDescription/DefeatGlurch	Text		Defeated Glurch the Abominous Mass	Pokonano Glurcha Obrzydliwego	Glurch die Abscheuliche Masse, besiegt
+AchievementsUnlockedDescription/DefeatHivemother	Text		Defeated The Hive Mother	Pokonano Matkę Ula	Nestmutter, besiegt
+AchievementsUnlockedDescription/DefeatIgneous	Text		Defeated Igneous the Molten Mass	Pokonano Igneousa Stopionego	Igneous die Geschmolzene Masse, besiegt
+AchievementsUnlockedDescription/DefeatIvy	Text		Defeated Ivy the Poisonous Mass	Pokonano Ivy Trującego	Ivy die Giftige Masse, besiegt
+AchievementsUnlockedDescription/DefeatKingSlime	Text		Defeated King Slime	Pokonano Króla Szlamu	Schleimkönig, besiegt
+AchievementsUnlockedDescription/DefeatMalugaz	Text		Defeated Malugaz the Corrupted	Pokonano Malugaza Skażonego	Malugaz der Korrupte, besiegt
+AchievementsUnlockedDescription/DefeatMorpha	Text		Defeated Morpha the Aquatic Mass	Pokonano Morpha Wodnego	Morpha die Aquatische Masse, besiegt
+AchievementsUnlockedDescription/DefeatOmoroth	Text		Defeated Omoroth the Sea Titan	Pokonano Morskiego Tytana Omorotha	Omoroth der Meerestitan, besiegt
+AchievementsUnlockedDescription/DefeatRaAkar	Text		Defeated Ra-Akar the Sand Titan	Pokonano Piaskowego Tytana Ra-Akara	Ra-Akar der Sandtitan, besiegt
+AchievementsUnlockedDescription/Discover100CookBookRecipes	Text		Discovered 100 recipes in the cook book	Odkryto 100 przepisów w książce kucharskiej	100 Rezepte wurden im Kochbuch entdeckt
+AchievementsUnlockedDescription/EquipRingOfRockAndStone	Text		Equipped the Ring of Rock and Ring of Stone	Wyposażono Pierścień Skały i Pierścień Kamienia	Ring der Felsen und Ring der Steine ausgerüstet
+AchievementsUnlockedDescription/FeedCattle	Text		Fed cattle	Nakarmiono bydło	Ein Nutztier gefüttert
+AchievementsUnlockedDescription/FirstPet	Text		Hatched your first pet from an egg	Wykluto swojego pierwszego zwierzaka z jajka	Dein erstes Haustier aus einem Ei ausgebrütet
+AchievementsUnlockedDescription/GainOver200MovementSpeed	Text		Gained over 200% movement speed	Uzyskano ponad 200% prędkości ruchu	200 % Bewegungsgeschwindigkeit wurden erhalten
+AchievementsUnlockedDescription/HarvestGoldenIngredient	Text		Harvested a golden plant	Zebrano złotą roślinę	Goldene Pflanze geerntet
+AchievementsUnlockedDescription/KeyArtCharacter	Text		Dressed like a character from the official illustrations	Ubrano się jak postać z oficjalnych ilustracji	Wie eine Figur aus den offiziellen Illustrationen gekleidet
+AchievementsUnlockedDescription/MaxedOutCooking	Text		Gained 100 skill points in cooking	Zdobyto 100 punktów umiejętności w gotowaniu	100 Fertigkeitspunkte für Kochen erhalten
+AchievementsUnlockedDescription/MaxedOutCrafting	Text		Gained 100 skill points in crafting	Zdobyto 100 punktów umiejętności w rzemiośle	100 Fertigkeitspunkte für Fertigung erhalten
+AchievementsUnlockedDescription/MaxedOutFishing	Text		Gained 100 skill points in fishing	Zdobyto 100 punktów umiejętności w łowieniu	100 Fertigkeitspunkte für Angeln erhalten
+AchievementsUnlockedDescription/MaxedOutGardening	Text		Gained 100 skill points in gardening	Zdobyto 100 punktów umiejętności w ogrodnictwie	100 Fertigkeitspunkte für Gärtnern erhalten
+AchievementsUnlockedDescription/MaxedOutMelee	Text		Gained 100 skill points in melee	Zdobyto 100 punktów umiejętności w walce wręcz	100 Fertigkeitspunkte für Nahkampf erhalten
+AchievementsUnlockedDescription/MaxedOutMining	Text		Gained 100 skill points in mining	Zdobyto 100 punktów umiejętności w górnictwie	100 Fertigkeitspunkte für Bergbau erhalten
+AchievementsUnlockedDescription/MaxedOutRange	Text		Gained 100 skill points in range	Zdobyto 100 punktów umiejętności w walce na odległość	100 Fertigkeitspunkte für Fernkampf erhalten
+AchievementsUnlockedDescription/MaxedOutRunning	Text		Gained 100 skill points in running	Zdobyto 100 punktów umiejętności w bieganiu	100 Fertigkeitspunkte für Laufen erhalten
+AchievementsUnlockedDescription/MaxedOutVitality	Text		Gained 100 skill points in vitality	Zdobyto 100 punktów umiejętności witalności	100 Fertigkeitspunkte für Vitalität erhalten
+AchievementsUnlockedDescription/ObtainPhantomSpark	Text		Obtained Phantom Spark	Uzyskano Iskrę Widmo	Phantomfunken wurde erhalten
+AchievementsUnlockedDescription/ObtainRuneSong	Text		Obtained Rune Song	Uzyskano Runiczną Pieśń	Runenlied wurde erhalten
+AchievementsUnlockedDescription/ObtainSoulSeeker	Text		Obtained Soul Seeker	Uzyskano Poszukiwacz Dusz	Seelensucher wurde erhalten
+AchievementsUnlockedDescription/ObtainTheOracleDeck	Text		Obtained the Oracle Card deck	Uzyskano talię kart wyroczni	Orakel-Deck wurde erhalten
+AchievementsUnlockedDescription/PetColors	Text		Stored all color variations of one pet type in a chest	Przechowano wszystkie warianty kolorystyczne jednego typu zwierzaka w skrzyni.	Alle Farbvariationen einer Haustier-Art in einer Kiste gelagert
+AchievementsUnlockedDescription/PetMaxLevel	Text		Reached max level on a pet	Osiągnięto maksymalny poziom zwierzaka	Maximale Stufe eines Haustiers erreicht
+AchievementsUnlockedDescription/PlantCherryTree	Text		Planted 10 Cherry Trees	Posadzono 10 drzew wiśni	10 Kirschbäume gepflanzt
+AchievementsUnlockedDescription/SitOnCavelingToiletWithACrown	Text		Sat on a Caveling Toilet while wearing a crown	Usiądnięto na jaskiniowej toalecie, nosząc koronę	Mit einer Krone auf dem Kopf auf dem Grottling-Klo gesessen
+AchievementsUnlockedDescription/StormSong	Text		Played the Tune of Tempest	Zagrano Pieść Sztormu	Die Melodie des Unwetters gespielt
+AchievementsUnlockedDescription/TalkToBigLarva	Text		Talked to a Big Larva	Porozmawiano z dużą larwą	Mit großer Larve gesprochen
+Advanced	Text		Advanced	Zaawansowane	Fortgeschritten
+AvailableInEarlyAccess	Text		Will be available at Early Access launch	Będzie dostępne w momencie uruchomienia wczesnego dostępu	Ist beim Start des Early Access verfügbar
+BetaVersion	Text	{0} will be replaced by the version number	{0} Beta Version	{0} Wersja beta	{0} Beta-Version
+BiomeNames/Crystal	Text		The Shimmering Frontier	Błyszcząca Granica	Die Schimmernde Grenze
+BiomeNames/Desert	Text		The Desert of Beginnings	Pustynia Początku	Die Wüste des Anbeginns
+BiomeNames/Great Wall	Text		Great Wall	Wielki Mur	Große Mauer
+BiomeNames/Larva	Text		The Clay Caves	Gliniane Jaskinie	Die Lehm-Höhlen
+BiomeNames/Nature	Text		Azeos' Wilderness	Dzicz Azeosa	Azeos' Wildnis
+BiomeNames/None	Text		Unknown	Nieznane	Unbekannt
+BiomeNames/Obsidian	Text		Unknown	Nieznane	Unbekannt
+BiomeNames/Sea	Text		The Sunken Sea	Głębiny Morza	Das Versunkene Meer
+BiomeNames/Slime	Text		The Undergrounds	Podziemia	Die Untergründe
+BiomeNames/Stone	Text		The Forgotten Ruins	Zapomniane Ruiny	Die Vergessenen Ruinen
+BreastVanitySlot	Text		Chest vanity slot	Okno wyglądu klatki piersiowej	Oberkörper-Eitelkeit-Slot
+CageCattle	Text		Capture a cattle	Złap bydło	Ein Nutztier fangen
+CanBePutIntoEnemySpawnerPlatform	Text	Shown when hovering the slot for Enemy spawners that must contain a figurine to spawn the corresponding enemy of that figurine	Figurine slot	Gniazdo na figurkę	Figuren-Slot
+CanBePutIntoEnemySpawnerPlatformDesc	Text		Putting a non-boss figurine in the slot and powering the Materializer with electricity will create a clone of the enemy represented by the figurine.	Umieszczenie figurki nie-bossa w slocie i zasilenie materializatora elektrycznością spowoduje stworzenie klona wroga reprezentowanego przez figurkę.	Wenn man eine Figur, die kein Boss ist, in den Slot setzt und den Materialisator mit Elektrizität versorgt, wird ein Klon des Feindes erschaffen, den die Figur darstellt.
+CardinalDirections/East	Text		east	wschód	östlich
+CardinalDirections/North	Text		north	północ	nördlich
+CardinalDirections/NorthEast	Text		north east	północny wschód	nordöstlich
+CardinalDirections/NorthWest	Text		north west	północny zachód	nordwestlich
+CardinalDirections/South	Text		south	południe	südlich
+CardinalDirections/SouthEast	Text		south east	południowy wschód	südöstlich
+CardinalDirections/SouthWest	Text		south west	południowy zachód	südwestlich
+CardinalDirections/Undefined	Text		undefined	nieokreślony	unbestimmt
+CardinalDirections/West	Text		west	zachód	westlich
+CasualMode	Text		Casual	Prosty	Einfach
+CasualModeDesc	Text		Encounter gentler monsters in a relaxed, enjoyable setting.	Spotkaj łagodniejsze potwory w relaksującym, przyjemnym otoczeniu.	Begegne sanfteren Monstern in einer entspannten, angenehmen Umgebung.
+CattleStatus/Full	Text		The animal is very happy, full and producing.	Zwierzę jest bardzo szczęśliwe, najedzone i produktywne.	Das Tier ist überglücklich, satt und erzeugt etwas.
+CattleStatus/FullBaby	Text		The young animal is very happy and full.	Młode zwierzę jest bardzo szczęśliwe i najedzone.	Das Jungtier ist überglücklich und satt.
+CattleStatus/HungryCattleKelpFood	Text		The animal is hungry for kelp.	Zwierzę pragnie wodorostów.	Das Tier hat Hunger auf Seetang.
+CattleStatus/HungryCattlePlantFood	Text		The animal is hungry for crops.	Zwierzę pragnie plonów.	Das Tier hat Hunger auf Feldfrüchte.
+CattleStatus/HungryInsect	Text		The animal is hungry for small insects.	Zwierzę pragnie małych owadów.	Das Tier hat Hunger auf kleine Insekten.
+CattleStatus/MediumHungry	Text		The animal is happy, fairly full and producing.	Zwierzę jest szczęśliwe, dość syte i produktywne.	Das Tier ist glücklich, fast satt und erzeugt etwas.
+CattleStatus/MediumHungryBaby	Text		The young animal is happy and fairly full.	Młode zwierzę jest szczęśliwe i dość syte.	Das Jungtier ist glücklich und fast satt.
+CattleStatus/NameFull	Text	{0} will be replaced with the name that the player has given to the cattle creature	{0} is very happy, full and producing.	{0} jest bardzo szczęśliwy, najedzone i produktywny.	{0} ist überglücklich, satt und erzeugt etwas.
+CattleStatus/NameFullBaby	Text		{0} is very happy and full.	{0} jest bardzo szczęśliwy i najedzone.	{0} ist überglücklich und satt.
+CattleStatus/NameHungryCattleKelpFood	Text		{0} is hungry for kelp.	{0} pragnie wodorostów.	{0} hat Hunger auf Seetang.
+CattleStatus/NameHungryCattlePlantFood	Text	{0} will be replaced with the name that the player has given to the cattle creature	{0} is hungry for crops.	{0} pragnie plonów.	{0} hat Hunger auf Feldfrüchte.
+CattleStatus/NameHungryInsect	Text	{0} will be replaced with the name that the player has given to the cattle creature	{0} is hungry for small insects.	{0} pragnie małych owadów.	{0} hat Hunger auf kleine Insekten.
+CattleStatus/NameMediumHungry	Text	{0} will be replaced with the name that the player has given to the cattle creature	{0} is happy, fairly full and producing.	{0} jest szczęśliwy, dość syty i produktywny.	{0} ist glücklich, fast satt und erzeugt etwas.
+CattleStatus/NameMediumHungryBaby	Text		{0} is happy and fairly full.	{0} jest szczęśliwy i dość syty.	{0} ist glücklich und fast satt.
+CombineMaterials	Text		Combine the materials	Połącz materiały	Materialien kombinieren
+ConditionEffect/ApplyBurning	Text		{0} burn damage	{0} obrażeń od ognia	{0} Brandschaden
+ConditionEffect/ApplyDamageEverySecond	Text		{0} damage every sec	{0} obrażeń co sekundę	{0} Schaden pro Sekunde
+ConditionEffect/ApplyPoisoned	Text		Poisonous, reduces healing received by 75%	Zatrucie, zmniejsza leczenie o 75%.	Giftig, verringert die erhaltene Heilung um 75 %
+ConditionEffect/ApplySlowedBySlime	Text		Reduces the target's movement speed by {0}% for 4 sec	Zmniejsza prędkość ruchu celu o {0}% na 4 sek.	Verringert die Bewegungsgeschwindigkeit des Ziels 4 Sek. lang um {0} %
+ConditionEffect/Armor	Text		{0} armor	{0} pancerza	{0} Rüstung
+ConditionEffect/ArmorPercentage	Text		{0}% armor	{0}% pancerza	{0} % Rüstung
+ConditionEffect/ChanceOnHitToKnockback	Text		{0}% knockback chance	{0}% szansy na odrzut	{0} % Zurückschlagen-Chance
+ConditionEffect/ChanceToGainExtraCookedFood	Text		{0}% extra cooked food chance	{0}% szansy na dodatkowe ugotowane jedzenie	{0} % Chance auf zusätzliches gekochtes Essen
+ConditionEffect/CritChance	Text		{0}% critical hit chance	{0}% szansy na trafienie krytyczne	{0} % kritische Trefferchance
+ConditionEffect/CriticalDamagePercentage	Text		{0}% critical hit damage	{0}% obrażeń od trafienia krytycznego	{0} % kritischer Trefferschaden
+ConditionEffect/DamageEverySecond	Text		{0} damage every sec	{0} obrażeń co sekundę	{0} Schaden pro Sekunde
+ConditionEffect/DamageEveryThirdSecond	Text		{0} damage every third sec	{0} obrażeń co 3 sek.	{0} Schaden alle drei Sekunden
+ConditionEffect/DodgeChance	Text		{0}% dodge chance	{0}% szansy na unik	{0} % Ausweichen-Chance
+ConditionEffect/ExplosivesDamage	Text		{0}% explosives damage	{0}% obrażeń wybuchowych	{0} % Sprengstoffschaden
+ConditionEffect/Fishing	Text		{0} fishing	{0} wędkarstwa	{0} Angeln
+ConditionEffect/Glowing	Text		{0} glow	{0} poświaty	{0} Leuchten
+ConditionEffect/HarvestChance	Text		{0}% larger harvests	{0}% większych zbiorów	{0} % größere Ernten
+ConditionEffect/HealOverTime	Text		{0} health every sec	{0} zdrowia na sekundę	{0} Gesundheit jede Sekunde
+ConditionEffect/Health	Text		{0} health	{0} zdrowia	{0} Gesundheit
+ConditionEffect/Hunger	Text		{0} food	{0} jedzenia	{0} Essen
+ConditionEffect/ImmuneToSlimeSlow	Text		Immune to being slowed by slime	Odporność na spowolnienie przez szlam	Immun gegen Verlangsamung durch Schleim
+ConditionEffect/LifeOnHit	Text		{0} life on melee hit	{0} życia przy trafieniu wręcz	{0} Leben bei Nahkampftreffer
+ConditionEffect/MaxHealth	Text		{0} max health	{0} maks. Zdrowi	{0} max. Gesundheit
+ConditionEffect/MeleeAttackSpeed	Text		{0}% melee speed	{0}% szybkości w walce wręcz	{0} % Nahkampfgeschwindigkeit
+ConditionEffect/MeleeDamage	Text		{0}% melee damage	{0}% obrażeń w walce wręcz	{0} % Nahkampfschaden
+ConditionEffect/Mining	Text		{0} mining damage	{0} obrażeń górniczych	{0} Bergbauschaden
+ConditionEffect/MiningSpeed	Text		{0}% mining speed	{0}% prędkości wydobycia	{0} % Bergbaugeschwindigkeit
+ConditionEffect/MovementSpeed	Text		{0}% movement speed	{0}% prędkości ruchu	{0} % Bewegungsgeschwindigkeit
+ConditionEffect/Poisoned	Text		75% reduced healing received	75% mniej otrzymywanego leczenia	75 % verringerte Heilung erhalten
+ConditionEffect/RangeAttackSpeed	Text		{0}% range speed	{0}% prędkości w walce zasięgowej	{0} % Fernkampfgeschwindigkeit
+ConditionEffect/RangeDamage	Text		{0}% range damage	{0}% obrażeń w walce zasięgowej	{0} % Fernkampfschaden
+ConditionEffect/ReducedDamageFromBosses	Text		{0}% boss damage reduction	{0}% redukcji obrażeń zadawanych przez bossa	{0} % Boss-Schadensverringerung
+ConditionEffect/ThornsDamage	Text		{0} thorns damage	{0} obrażeń od cierni	{0} Dornenschaden
+ConditionEffectDesc/ApplyBurning	Text		Applies burning to enemies you deal damage to. The burning effect damages the enemy every other second for {0} damage.	Powoduje podpalenie wrogów, którym zadajesz obrażenia. Efekt podpalenia zadaje przeciwnikowi {0} obrażeń co sekundę.	Verbrennt Feinde, denen du Schaden zufügst. Der Brandeffekt fügt dem Feind alle zwei Sekunden {0} Schaden zu.
+ConditionEffectDesc/Armor	Text		Reduces damage taken up to a maximum of {0} damage. Enemies always deal a minimum 25% of their damage.	Zmniejsza otrzymywane obrażenia maksymalnie do {0}. Wrogowie zawsze zadają co najmniej 25% obrażeń.	Verringert erlittenen Schaden bis zu einem Max. von {0} Schaden. Feinde verursachen immer mindestens 25 % ihres Schadens.
+ConditionEffectDesc/ChanceOnHitToKnockback	Text		Melee attacks have a {0}% chance to knockback enemies.	Ataki wręcz mają {0}% szans na odrzucenie wrogów.	Bei Nahkampfangriffen besteht eine Chance von {0} %, Feinde zurückzuschlagen.
+ConditionEffectDesc/ChanceToGainExtraCookedFood	Text		Grabbing cooked food from the cooking pot has a {0}% chance to gain an additional cooked food per cooked food grabbed.	Za każde chwycenie ugotowanego jedzenia z garnka otrzymuje się {0}% szansy na zdobycie dodatkowego ugotowanego jedzenia.	Gekochtes Essen aus dem Kochtopf nehmen hat eine Chance von {0} %, ein zusätzliches gekochtes Essen pro geschnapptem gekochten Essen zu erhalten.
+ConditionEffectDesc/CritChance	Text		Attacks have a {0}% chance to deal 50% extra damage.	Ataki mają {0}% szans na zadanie dodatkowych 50% obrażeń.	Bei Angriffen besteht eine Chance von {0} %, 50 % zusätzlichen Schaden zu verursachen.
+ConditionEffectDesc/CriticalDamagePercentage	Text		Deal {0}% more damage on critical hits. Base critical hit damage is 50%.	Zadaje {0}% więcej obrażeń przy trafieniach krytycznych. Podstawowe obrażenia od trafień krytycznych wynoszą 50%.	Verursache {0} % mehr Schaden bei kritischen Treffern. Der normale kritische Trefferschaden beträgt 50 %.
+ConditionEffectDesc/DodgeChance	Text		{0}% chance to dodge any attack. Maximum dodge chance is 90%.	{0}% szans na uniknięcie dowolnego ataku. Maksymalna szansa na unik wynosi 90%.	Chance von {0} %, einem Angriff auszuweichen. Max. Ausweichen-Chance ist 90 %.
+ConditionEffectDesc/ExplosivesDamage	Text		Explosives deal {0}% more damage.	Materiały wybuchowe zadają {0}% więcej obrażeń.	Sprengstoffe verursachen {0} % mehr Schaden.
+ConditionEffectDesc/Fishing	Text		A higher fishing allows catching fish in higher level areas while also making fish easier to catch.	Wyższe wędkarstwo pozwala łowić ryby w trudniejszych obszarach, jednocześnie ułatwiając łowienie ryb.	Höheres Angeln ermöglicht das Fangen von Fischen in höher gelegenen Gebieten und erleichtert gleichzeitig das Fangen von Fischen.
+ConditionEffectDesc/Glowing	Text		Produces a glow reaching up to {0} tiles away.	Tworzy poświatę o zasięgu do {0} pól.	Erzeugt ein Leuchten, das bis zu {0} Fliesen weit reicht.
+ConditionEffectDesc/HarvestChance	Text		When harvesting, you gain on average {0}% extra plants.	Podczas zbiorów zyskujesz średnio {0}% dodatkowych roślin.	Bei der Ernte wirst du im Durchschnitt {0} % mehr Pflanzen ernten.
+ConditionEffectDesc/HealOverTime	Text		Gains {0} health every second.	Zyskujesz {0} zdrowia co sekundę.	Erhält {0} Gesundheit pro Sekunde.
+ConditionEffectDesc/LifeOnHit	Text		Gains {0} health when hitting an enemy with a melee attack.	Zyskujesz {0} zdrowia po trafieniu wroga atakiem wręcz.	Erhält {0} Gesundheit, wenn ein Feind mit einem Nahkampfangriff getroffen wird.
 ConditionEffectDesc/MaxHealth	Text		Maximum amount of health is {0}.		Max. Gesundheitsmenge ist {0}.
 ConditionEffectDesc/MeleeAttackSpeed	Text		You hit {0}% faster with melee weapons.		Du triffst {0} % schneller mit Nahkampfwaffen.
 ConditionEffectDesc/MeleeDamage	Text		Melee attacks deal {0}-{1} damage.		Nahkampfangriffe verursachen {0}-{1} Schaden.
