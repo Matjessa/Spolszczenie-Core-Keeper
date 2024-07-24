@@ -184,7 +184,7 @@ ConditionEffect/Health	Text		{0} health	{0} zdrowia	{0} Gesundheit
 ConditionEffect/Hunger	Text		{0} food	{0} jedzenia	{0} Essen
 ConditionEffect/ImmuneToSlimeSlow	Text		Immune to being slowed by slime	Odporność na spowolnienie przez szlam	Immun gegen Verlangsamung durch Schleim
 ConditionEffect/LifeOnHit	Text		{0} life on melee hit	{0} życia przy trafieniu wręcz	{0} Leben bei Nahkampftreffer
-ConditionEffect/MaxHealth	Text		{0} max health	{0} maks. Zdrowi	{0} max. Gesundheit
+ConditionEffect/MaxHealth	Text		{0} max health	{0} maks. Zdrowia	{0} max. Gesundheit
 ConditionEffect/MeleeAttackSpeed	Text		{0}% melee speed	{0}% szybkości w walce wręcz	{0} % Nahkampfgeschwindigkeit
 ConditionEffect/MeleeDamage	Text		{0}% melee damage	{0}% obrażeń w walce wręcz	{0} % Nahkampfschaden
 ConditionEffect/Mining	Text		{0} mining damage	{0} obrażeń górniczych	{0} Bergbauschaden
@@ -208,79 +208,79 @@ ConditionEffectDesc/Glowing	Text		Produces a glow reaching up to {0} tiles away.
 ConditionEffectDesc/HarvestChance	Text		When harvesting, you gain on average {0}% extra plants.	Podczas zbiorów zyskujesz średnio {0}% dodatkowych roślin.	Bei der Ernte wirst du im Durchschnitt {0} % mehr Pflanzen ernten.
 ConditionEffectDesc/HealOverTime	Text		Gains {0} health every second.	Zyskujesz {0} zdrowia co sekundę.	Erhält {0} Gesundheit pro Sekunde.
 ConditionEffectDesc/LifeOnHit	Text		Gains {0} health when hitting an enemy with a melee attack.	Zyskujesz {0} zdrowia po trafieniu wroga atakiem wręcz.	Erhält {0} Gesundheit, wenn ein Feind mit einem Nahkampfangriff getroffen wird.
-ConditionEffectDesc/MaxHealth	Text		Maximum amount of health is {0}.		Max. Gesundheitsmenge ist {0}.
-ConditionEffectDesc/MeleeAttackSpeed	Text		You hit {0}% faster with melee weapons.		Du triffst {0} % schneller mit Nahkampfwaffen.
-ConditionEffectDesc/MeleeDamage	Text		Melee attacks deal {0}-{1} damage.		Nahkampfangriffe verursachen {0}-{1} Schaden.
-ConditionEffectDesc/Mining	Text		Deals {0} damage to walls and objects that require mining to be destroyed.		Verursacht {0} Schaden an Wänden und Objekten, bei denen für die Zerstörung ein Bergbau erforderlich ist.
-ConditionEffectDesc/MiningSpeed	Text		You hit {0}% faster with pickaxes.		Du triffst {0} % schneller mit Spitzhacken.
-ConditionEffectDesc/MovementSpeed	Text		Moves at {0}% of base movement speed.		Bewegt sich mit {0} % der normalen Bewegungsgeschwindigkeit.
-ConditionEffectDesc/RangeAttackSpeed	Text		You shoot {0}% faster with range weapons.		Du schießt {0} % schneller mit Fernkampfwaffen.
-ConditionEffectDesc/RangeDamage	Text		Ranged attacks deal {0}-{1} damage.		Fernkampfangriffe verursachen {0}-{1} Schaden.
-ConditionEffectDesc/ReducedDamageFromBosses	Text		Reduces damage taken from bosses by {0}%.		Verringert den von Bossen erlittenen Schaden um {0} %.
-ConditionEffectDesc/ThornsDamage	Text		Melee attackers take {0} damage when attacking.		Nahkampfangreifer erleiden {0} Schaden, wenn sie angreifen.
-Conditions/AcidDamage	Text		{0} acid damage every sec, ignores armor		{0} Säureschaden pro Sekunde, ignoriert Rüstung
-Conditions/AdditionalChanceOnCritToSpawnThunderBeam	Text		{0}% additional chance to trigger Azeos' soul power		{0} % höhere Chance, Azeos' Seelenkraft auszulösen
-Conditions/AdditionalChanceOnHitToSpawnScarabBossProjectile	Text		{0}% additional chance to trigger Ra-Akar's soul power		{0} % höhere Chance, Ra-Akars Seelenkraft auszulösen
-Conditions/AdditionalChanceOnRangeHitToSpawnOctopusBossProjectile	Text		{0}% additional chance to trigger Omoroth's soul power		{0} % höhere Chance, Omoroths Seelenkraft auszulösen
-Conditions/AllDamageIncrease	Text		{0}% damage		{0} % Schaden
-Conditions/ApplyBurning	Text		{0} burn damage applied on hit		{0} Brandschaden bei Treffer
-Conditions/ApplyPetAttackSpeedIncrease	Text		{0}% attack speed for your pet		{0} % Angriffsgeschwindigkeit für dein Haustier
-Conditions/ApplyPetBuffsIncrease	Text		{0}% effectiveness of your pets talent effects		{0} % Wirksamkeit der Talenteffekte deiner Haustiere
-Conditions/ApplyPetCritChanceIncrease	Text		{0}% critical hit chance for your pet		{0} % kritische Trefferchance für dein Haustier
-Conditions/ApplyPetCritDamageIncrease	Text		{0}% critical hit damage for your pet		{0} % kritischer Trefferschaden für dein Haustier
-Conditions/ApplyPetDamageIncrease	Text		{0}% damage dealt by your pet		{0} % Schaden von deinem Haustier verursacht
-Conditions/ApplySlipperyMovementWhenHit	Text		Melee attackers become slippery when attacking you		Nahkampfangreifer bekommen rutschige Bewegungen, wenn sie dich angreifen
-Conditions/ApplySlowedBySlime	Text		Reduces the target's movement speed by {0}% for 4 sec		Verringert die Bewegungsgeschwindigkeit des Ziels 4 Sek. lang um {0} %
-Conditions/ApplySnare	Text		Ensnare		Verstricken
-Conditions/ArmorIncrease	Text	"Text shown on gear stat or buff, for example ""+45 armor"" where {0} is replaced with the number"	{0} armor		{0} Rüstung
-Conditions/ArmorIncreaseFromMovementSpeed	Text		{0}% armor of current movement speed increase		{0} % Rüstung der aktuellen Bewegungsgeschwindigkeit steigt
-Conditions/ArmorPercentageIncrease	Text		{0}% armor		{0} % Rüstung
-Conditions/AttackSpeed	Text		{0}% melee and range attack speed		{0} % Nahkampf- und Fernkampf-Angriffsgeschwindigkeit
-Conditions/AuraApplyBurning	Text		All nearby enemies burn for {0} damage every other sec		Alle Feinde in der Nähe brennen und erleiden {0} Schaden alle zwei Sekunden
-Conditions/AuraApplyDamageDecrease	Text		{0}% damage dealt by all nearby enemies		{0} % verursachter Schaden von allen Feinden in der Nähe
-Conditions/AuraApplyDamageIncrease	Text		{0}% damage dealt by you and all nearby allies		{0} % verursachter Schaden von dir und allen Verbündeten in der Nähe
-Conditions/AuraApplyHealingOverTime	Text		{0} health every sec to you and all nearby allies		{0} Gesundheit pro Sekunde für dich und alle Verbündeten in der Nähe
-Conditions/AuraApplyMovementSpeedDecrease	Text		Any nearby enemies movement speed is reduced by {0}%		Verringert die Bewegungsgeschwindigkeit aller Feinde in der Nähe um {0} %
-Conditions/AuraApplyRadioactiveDamageOverTime	Text		All nearby enemies take {0} radioactive damage every other sec		Alle Feinde in der Nähe erleiden {0} Strahlungsschaden alle zwei Sekunden
-Conditions/AuraMovementSpeedDecrease	Text		{0}% movement speed from a nearby aura		{0} % Bewegungsgeschwindigkeit durch eine Aura in der Nähe
-Conditions/AuraRadioactiveDamageOverTime	Text		{0} radioactive damage every other sec		{0} Strahlungsschaden alle zwei Sekunden
-Conditions/BlueGlow	Text	"Description for items that make player glow when eating it. For example ""+5 glow"" where +5 refers to the intensity/range of the light"	{0} blue glow		{0} blaues Leuchten
-Conditions/Burning	Text		{0} burn damage every other sec		{0} Brandschaden alle zwei Sekunden
-Conditions/ChanceForAdditionalOre	Text		{0}% chance to gain an additional ore from walls containing ores		{0} % Chance auf den Erhalt eines zusätzlichen Erzes aus erzhaltigen Wänden
-Conditions/ChanceForExtraCookedFoodToBeRare	Text		{0}% chance for additional food gained from cooking to be rare		{0} % Chance, dass zusätzliches durch Kochen erhaltenes Essen selten ist
-Conditions/ChanceForOreOnMiningWall	Text		{0}% chance to gain an ore that is common in the currently mined wall when destroying the wall		{0} % Chance, Erz zu erhalten, das in der aktuell abgebauten Wand vorkommt, wenn die Wand zerstört wird
-Conditions/ChanceForPolishedJewelry	Text		{0}% chance to gain a polished version of any item crafted at the jewelry workbench		{0} % Chance auf den Erhalt einer polierten Version eines Gegenstands, der an der Schmuck-Werkbank hergestellt wurde
-Conditions/ChanceForRandomLootFromWall	Text		{0}% chance to drop a valuable item from any mined wall		{0} % Chance, dass ein wertvoller Gegenstand von jeder verminten Wand fällt
-Conditions/ChanceOnCritToSpawnThunderBeam	Text		{0}% chance to spawn a thunder beam on melee critical hits		{0} % Chance, dass ein Donnerstrahl bei kritischen Nahkampftreffern erscheint
-Conditions/ChanceOnHitToApplySlipperyMovement	Text		{0}% chance on hit to apply slippery movement		{0} % Chance beim Treffer, rutschige Bewegung anzuwenden
-Conditions/ChanceOnHitToGainMeleeAttackSpeed	Text		{0}% chance on melee hit to increase melee attack speed by 50% for a short duration		{0} % Chance, dass Nahkampftreffer die Nahkampf-Angriffsgeschwindigkeit kurzzeitig um 50 % erhöhen
-Conditions/ChanceOnHitToIncreaseRangeDamage	Text		{0}% chance on melee hit to increase range damage by 15%		{0} % Chance, dass Nahkampftreffer den Fernkampfschaden um 15 % erhöhen
-Conditions/ChanceOnHitToKillTargetWithLowerHealth	Text		{0}% chance on hit to kill any target that has lower health than you		{0} % Chance, dass bei einem Treffer jedes Ziel getötet wird, das weniger Gesundheit hat als du
-Conditions/ChanceOnHitToKnockback	Text		{0}% knockback chance		{0} % Zurückschlagen-Chance
-Conditions/ChanceOnHitToSpawnScarabBossProjectile	Text		{0}% chance on melee or range hit to spawn an ancient projectile that follows the hit target and deals damage on impact		{0} % Chance, bei Nah- oder Fernkampftreffern ein uraltes Projektil zu erzeugen, das das getroffene Ziel verfolgt und beim Aufprall Schaden verursacht
-Conditions/ChanceOnKillToSummonGhost	Text		{0}% chance to summon a ghost caveling when killing any enemy		{0} % Chance auf das Beschwören eines Geister-Grottlings, wenn du einen beliebigen Feind tötest
-Conditions/ChanceOnMeleeHitToStun	Text		{0}% chance to stun targets on melee hit		{0} % Chance, Ziele bei einem Nahkampftreffer zu betäuben
-Conditions/ChanceOnRangeHitToSpawnOctopusBossProjectile	Text		{0}% chance on range hit to spawn a tornado		{0} % Chance, dass ein Fernkampftreffer einen Tornado auslöst
-Conditions/ChanceOnRangeShotToApplySlowedBySlime	Text		20% chance to slow down target by {0}% on ranged hit		20 % Chance, das Ziel bei einem Fernkampftreffer um {0} % zu verlangsamen
-Conditions/ChanceOnRangeShotToStun	Text		{0}% chance to stun targets on ranged hit		{0} % Chance, Ziele bei einem Fernkampftreffer zu betäuben
-Conditions/ChanceOnShotToGainCriticalHitChance	Text		{0}% chance on ranged hit to increase critical hit chance by 100% for a short duration		{0} % Chance bei einem Fernkampftreffer, dass die kritische Trefferchance kurzzeitig um 100 % erhöht wird
-Conditions/ChanceOnShotToIncreaseMeleeDamage	Text		{0}% chance on ranged hit to increase melee damage by 15%		{0} % Chance, dass bei einem Fernkampftreffer der Nahkampfschaden um 15 % erhöht wird
-Conditions/ChanceToApplyCharmed	Text		Charm the target for 20 sec		Verzaubere das Ziel für 20 Sek.
-Conditions/ChanceToApplyPoisonOnBlock	Text		{0}% chance to apply poison when blocking melee hits, reduces enemy healing received by 75%		{0} % Chance, Gift beim Blockieren von Nahkampftreffern anzuwenden, was die erhaltene Feindheilung um 75 % verringert
-Conditions/ChanceToApplyPoisoned	Text		{0}% chance to apply poison on hit, reduces enemy healing received by 75%		{0} % Chance, Gift bei einem Treffer anzuwenden, was die erhaltene Feindheilung um 75 % verringert
-Conditions/ChanceToConsumeBurning	Text		{0}% chance on hit to consume target's burning effect and deal the total burning damage immediately		{0} % Chance bei einem Treffer, den Verbrennungseffekt des Ziels aufzubrauchen und sofort den gesamten Verbrennungsschaden zu verursachen
-Conditions/ChanceToDealTripleDamage	Text		{0}% chance on hit to deal triple amount of damage		{0} % Chance, bei einem Treffer die dreifache Menge an Schaden zu verursachen
-Conditions/ChanceToGainExtraCookedFood	Text		{0}% extra cooked food chance		{0} % Chance auf zusätzliches gekochtes Essen
-Conditions/ChanceToGainExtraItemFromAlchemy	Text		{0}% chance to gain an extra item when crafting any item at the alchemy table or distillery		{0} % Chance auf den Erhalt eines zusätzlichen Gegenstands, wenn du einen Gegenstand am Alchemietisch oder in der Destillerie fertigst
-Conditions/ChanceToGainExtraItemFromBaseBuilding	Text		{0}% chance to gain an extra item when crafting any wall, floor, bridge or fence		{0} % Chance auf den Erhalt eines zusätzlichen Gegenstands, wenn eine Wand, ein Boden, eine Brücke oder ein Zaun gefertigt wird
-Conditions/ChanceToGainRarePlant	Text		{0}% chance that plants planted by you become golden		{0} % Chance, dass von dir gepflanzte Pflanzen golden werden
-Conditions/ChanceToGetDoubleFish	Text		{0}% chance to get double fish when catching a fish		{0} % Chance auf die doppelte Menge Fisch, wenn du einen Fisch fängst
-Conditions/ChanceToNotConsumeWaterCan	Text		{0}% chance to not consume water when using water can		{0} % Chance, dass bei der Verwendung der Gießkanne kein Wasser verbraucht wird
-Conditions/ChanceToRestoreHealthOnMeleeHit	Text		10% chance on melee hit to restore {0}% health		10 % Chance, dass ein Nahkampftreffer {0} % Gesundheit regeneriert
-Conditions/ChanceToShootShockWaveOnBlock	Text		{0}% chance on block to release energy shockwaves dealing damage equal to what was blocked		{0} % Chance beim Blocken Energie-Schockwellen zu entfesseln, die so viel Schaden verursachen, wie geblockt wurde
-Conditions/CheatDeath	Text		{0}% chance to restore a bit of health instead of dying when taking lethal damage		{0} % Chance, dass statt zu sterben etwas Gesundheit regeneriert wird, wenn man tödlichen Schaden erleidet
-Conditions/CritChance	Text		{0}% critical hit chance		{0} % kritische Trefferchance
-Conditions/CritDamageIncreaseAgainstBurning	Text		{0}% critical hit damage against burning targets		{0} % kritischer Trefferschaden an brennenden Zielen
+ConditionEffectDesc/MaxHealth	Text		Maximum amount of health is {0}.	Maksymalna ilość zdrowia wynosi {0}.	Max. Gesundheitsmenge ist {0}.
+ConditionEffectDesc/MeleeAttackSpeed	Text		You hit {0}% faster with melee weapons.	Trafiasz {0}% szybciej bronią do walki wręcz.	Du triffst {0} % schneller mit Nahkampfwaffen.
+ConditionEffectDesc/MeleeDamage	Text		Melee attacks deal {0}-{1} damage.	Ataki wręcz zadają {0}-{1} obrażeń.	Nahkampfangriffe verursachen {0}-{1} Schaden.
+ConditionEffectDesc/Mining	Text		Deals {0} damage to walls and objects that require mining to be destroyed.	Zadaje {0} obrażeń ścianom i obiektom, których zniszczenie wymaga kopania.	Verursacht {0} Schaden an Wänden und Objekten, bei denen für die Zerstörung ein Bergbau erforderlich ist.
+ConditionEffectDesc/MiningSpeed	Text		You hit {0}% faster with pickaxes.	Uderzasz {0}% szybciej kilofami.	Du triffst {0} % schneller mit Spitzhacken.
+ConditionEffectDesc/MovementSpeed	Text		Moves at {0}% of base movement speed.	Poruszasz się z prędkością {0}% bazowej prędkości ruchu.	Bewegt sich mit {0} % der normalen Bewegungsgeschwindigkeit.
+ConditionEffectDesc/RangeAttackSpeed	Text		You shoot {0}% faster with range weapons.	Strzelasz {0}% szybciej z broni dystansowych.	Du schießt {0} % schneller mit Fernkampfwaffen.
+ConditionEffectDesc/RangeDamage	Text		Ranged attacks deal {0}-{1} damage.	Ataki dystansowe zadają {0}-{1} obrażeń.	Fernkampfangriffe verursachen {0}-{1} Schaden.
+ConditionEffectDesc/ReducedDamageFromBosses	Text		Reduces damage taken from bosses by {0}%.	Zmniejsza obrażenia otrzymywane od bossów o {0}%.	Verringert den von Bossen erlittenen Schaden um {0} %.
+ConditionEffectDesc/ThornsDamage	Text		Melee attackers take {0} damage when attacking.	Atakujący w zwarciu otrzymują {0} obrażeń podczas ataku.	Nahkampfangreifer erleiden {0} Schaden, wenn sie angreifen.
+Conditions/AcidDamage	Text		{0} acid damage every sec, ignores armor	{0} obrażeń od kwasu co sekundę, ignoruje pancerz	{0} Säureschaden pro Sekunde, ignoriert Rüstung
+Conditions/AdditionalChanceOnCritToSpawnThunderBeam	Text		{0}% additional chance to trigger Azeos' soul power	{0}% dodatkowej szansy na uruchomienie mocy duszy Azeosa	{0} % höhere Chance, Azeos' Seelenkraft auszulösen
+Conditions/AdditionalChanceOnHitToSpawnScarabBossProjectile	Text		{0}% additional chance to trigger Ra-Akar's soul power	{0}% dodatkowej szansy na uruchomienie mocy duszy Ra-Akara	{0} % höhere Chance, Ra-Akars Seelenkraft auszulösen
+Conditions/AdditionalChanceOnRangeHitToSpawnOctopusBossProjectile	Text		{0}% additional chance to trigger Omoroth's soul power	{0}% dodatkowej szansy na uruchomienie mocy duszy Omorotha	{0} % höhere Chance, Omoroths Seelenkraft auszulösen
+Conditions/AllDamageIncrease	Text		{0}% damage	{0}% obrażeń	{0} % Schaden
+Conditions/ApplyBurning	Text		{0} burn damage applied on hit	{0} obrażeń od ognia przy trafieniu	{0} Brandschaden bei Treffer
+Conditions/ApplyPetAttackSpeedIncrease	Text		{0}% attack speed for your pet	{0}% prędkości ataku dla twojego zwierzaka	{0} % Angriffsgeschwindigkeit für dein Haustier
+Conditions/ApplyPetBuffsIncrease	Text		{0}% effectiveness of your pets talent effects	{0}% skuteczności efektów talentów twoich zwierzaków	{0} % Wirksamkeit der Talenteffekte deiner Haustiere
+Conditions/ApplyPetCritChanceIncrease	Text		{0}% critical hit chance for your pet	{0}% szansy na trafienie krytyczne dla twojego zwierzaka	{0} % kritische Trefferchance für dein Haustier
+Conditions/ApplyPetCritDamageIncrease	Text		{0}% critical hit damage for your pet	{0}% obrażeń od trafień krytycznych dla twojego zwierzaka	{0} % kritischer Trefferschaden für dein Haustier
+Conditions/ApplyPetDamageIncrease	Text		{0}% damage dealt by your pet	{0}% obrażeń zadawanych przez twojego zwierzaka	{0} % Schaden von deinem Haustier verursacht
+Conditions/ApplySlipperyMovementWhenHit	Text		Melee attackers become slippery when attacking you	Atakujący w zwarciu stają się śliscy podczas atakowania ciebie.	Nahkampfangreifer bekommen rutschige Bewegungen, wenn sie dich angreifen
+Conditions/ApplySlowedBySlime	Text		Reduces the target's movement speed by {0}% for 4 sec	Zmniejsza prędkość ruchu celu o {0}% na 4 sek.	Verringert die Bewegungsgeschwindigkeit des Ziels 4 Sek. lang um {0} %
+Conditions/ApplySnare	Text		Ensnare	Choroba	Verstricken
+Conditions/ArmorIncrease	Text	"Text shown on gear stat or buff, for example ""+45 armor"" where {0} is replaced with the number"	{0} armor	{0} pancerza	{0} Rüstung
+Conditions/ArmorIncreaseFromMovementSpeed	Text		{0}% armor of current movement speed increase	{0}% pancerza do aktualnej prędkości ruchu	{0} % Rüstung der aktuellen Bewegungsgeschwindigkeit steigt
+Conditions/ArmorPercentageIncrease	Text		{0}% armor	{0}% pancerza	{0} % Rüstung
+Conditions/AttackSpeed	Text		{0}% melee and range attack speed	{0}% szybkości ataku wręcz i dystansowego	{0} % Nahkampf- und Fernkampf-Angriffsgeschwindigkeit
+Conditions/AuraApplyBurning	Text		All nearby enemies burn for {0} damage every other sec	Wszyscy pobliscy wrogowie płoną, dostając {0} obrażeń co sekundę	Alle Feinde in der Nähe brennen und erleiden {0} Schaden alle zwei Sekunden
+Conditions/AuraApplyDamageDecrease	Text		{0}% damage dealt by all nearby enemies	{0}% obrażeń zadawanych przez wszystkich pobliskich wrogów	{0} % verursachter Schaden von allen Feinden in der Nähe
+Conditions/AuraApplyDamageIncrease	Text		{0}% damage dealt by you and all nearby allies	{0}% obrażeń zadawanych przez ciebie i wszystkich pobliskich sojuszników	{0} % verursachter Schaden von dir und allen Verbündeten in der Nähe
+Conditions/AuraApplyHealingOverTime	Text		{0} health every sec to you and all nearby allies	{0} zdrowia co sekundę dla ciebie i wszystkich pobliskich sojuszników	{0} Gesundheit pro Sekunde für dich und alle Verbündeten in der Nähe
+Conditions/AuraApplyMovementSpeedDecrease	Text		Any nearby enemies movement speed is reduced by {0}%	Prędkość ruchu pobliskich wrogów zostaje zmniejszona o {0}%.	Verringert die Bewegungsgeschwindigkeit aller Feinde in der Nähe um {0} %
+Conditions/AuraApplyRadioactiveDamageOverTime	Text		All nearby enemies take {0} radioactive damage every other sec	Wszyscy pobliscy wrogowie otrzymują {0} obrażeń radioaktywnych co sekundę	Alle Feinde in der Nähe erleiden {0} Strahlungsschaden alle zwei Sekunden
+Conditions/AuraMovementSpeedDecrease	Text		{0}% movement speed from a nearby aura	{0}% prędkości ruchu od pobliskiej aury	{0} % Bewegungsgeschwindigkeit durch eine Aura in der Nähe
+Conditions/AuraRadioactiveDamageOverTime	Text		{0} radioactive damage every other sec	{0} obrażeń radioaktywnych co sekundę	{0} Strahlungsschaden alle zwei Sekunden
+Conditions/BlueGlow	Text	"Description for items that make player glow when eating it. For example ""+5 glow"" where +5 refers to the intensity/range of the light"	{0} blue glow	{0} niebieskiej poświaty	{0} blaues Leuchten
+Conditions/Burning	Text		{0} burn damage every other sec	{0} obrażeń od ognia co sekundę	{0} Brandschaden alle zwei Sekunden
+Conditions/ChanceForAdditionalOre	Text		{0}% chance to gain an additional ore from walls containing ores	{0}% szans na zdobycie dodatkowej rudy ze ścian zawierających rudy	{0} % Chance auf den Erhalt eines zusätzlichen Erzes aus erzhaltigen Wänden
+Conditions/ChanceForExtraCookedFoodToBeRare	Text		{0}% chance for additional food gained from cooking to be rare	{0}% szans na to, że dodatkowe jedzenie zdobyte podczas gotowania będzie rzadkie	{0} % Chance, dass zusätzliches durch Kochen erhaltenes Essen selten ist
+Conditions/ChanceForOreOnMiningWall	Text		{0}% chance to gain an ore that is common in the currently mined wall when destroying the wall	{0}% szans na zdobycie rudy występujących w aktualnie wydobywanej ścianie podczas niszczenia ściany.	{0} % Chance, Erz zu erhalten, das in der aktuell abgebauten Wand vorkommt, wenn die Wand zerstört wird
+Conditions/ChanceForPolishedJewelry	Text		{0}% chance to gain a polished version of any item crafted at the jewelry workbench	{0}% szans na zdobycie wypolerowanej wersji dowolnego przedmiotu wykonanego w warsztacie jubilerskim.	{0} % Chance auf den Erhalt einer polierten Version eines Gegenstands, der an der Schmuck-Werkbank hergestellt wurde
+Conditions/ChanceForRandomLootFromWall	Text		{0}% chance to drop a valuable item from any mined wall	{0}% szans na upuszczenie cennego przedmiotu z każdej wydobytej ściany.	{0} % Chance, dass ein wertvoller Gegenstand von jeder verminten Wand fällt
+Conditions/ChanceOnCritToSpawnThunderBeam	Text		{0}% chance to spawn a thunder beam on melee critical hits	{0}% szans na wywołanie wiązki piorunów przy trafieniach krytycznych w walce wręcz	{0} % Chance, dass ein Donnerstrahl bei kritischen Nahkampftreffern erscheint
+Conditions/ChanceOnHitToApplySlipperyMovement	Text		{0}% chance on hit to apply slippery movement	{0}% szans przy trafieniu na zastosowanie śliskiego ruchu	{0} % Chance beim Treffer, rutschige Bewegung anzuwenden
+Conditions/ChanceOnHitToGainMeleeAttackSpeed	Text		{0}% chance on melee hit to increase melee attack speed by 50% for a short duration	{0}% szans przy trafieniu w zwarciu na zwiększenie szybkości ataku w zwarciu o 50% na krótki czas.	{0} % Chance, dass Nahkampftreffer die Nahkampf-Angriffsgeschwindigkeit kurzzeitig um 50 % erhöhen
+Conditions/ChanceOnHitToIncreaseRangeDamage	Text		{0}% chance on melee hit to increase range damage by 15%	{0}% szans przy trafieniu w zwarciu na zwiększenie obrażeń zasięgowych o 15%.	{0} % Chance, dass Nahkampftreffer den Fernkampfschaden um 15 % erhöhen
+Conditions/ChanceOnHitToKillTargetWithLowerHealth	Text		{0}% chance on hit to kill any target that has lower health than you	{0}% szans przy trafieniu na zabicie dowolnego celu, który ma mniej zdrowia niż ty.	{0} % Chance, dass bei einem Treffer jedes Ziel getötet wird, das weniger Gesundheit hat als du
+Conditions/ChanceOnHitToKnockback	Text		{0}% knockback chance	{0}% szans na odrzucenie	{0} % Zurückschlagen-Chance
+Conditions/ChanceOnHitToSpawnScarabBossProjectile	Text		{0}% chance on melee or range hit to spawn an ancient projectile that follows the hit target and deals damage on impact	{0}% szans przy trafieniu w zwarciu lub z dystansu na przywołanie starożytnego pocisku, który podąża za trafionym celem i zadaje obrażenia przy uderzeniu.	{0} % Chance, bei Nah- oder Fernkampftreffern ein uraltes Projektil zu erzeugen, das das getroffene Ziel verfolgt und beim Aufprall Schaden verursacht
+Conditions/ChanceOnKillToSummonGhost	Text		{0}% chance to summon a ghost caveling when killing any enemy	{0}% szans na przyzwanie jaskiniowca-ducha po zabiciu dowolnego wroga.	{0} % Chance auf das Beschwören eines Geister-Grottlings, wenn du einen beliebigen Feind tötest
+Conditions/ChanceOnMeleeHitToStun	Text		{0}% chance to stun targets on melee hit	{0}% szans na ogłuszenie celów przy trafieniu w zwarciu	{0} % Chance, Ziele bei einem Nahkampftreffer zu betäuben
+Conditions/ChanceOnRangeHitToSpawnOctopusBossProjectile	Text		{0}% chance on range hit to spawn a tornado	{0}% szans na wywołanie tornada przy trafieniu z dystansu	{0} % Chance, dass ein Fernkampftreffer einen Tornado auslöst
+Conditions/ChanceOnRangeShotToApplySlowedBySlime	Text		20% chance to slow down target by {0}% on ranged hit	20% szans na spowolnienie celu o {0}% przy trafieniu z dystansu	20 % Chance, das Ziel bei einem Fernkampftreffer um {0} % zu verlangsamen
+Conditions/ChanceOnRangeShotToStun	Text		{0}% chance to stun targets on ranged hit	{0}% szans na ogłuszenie celów przy trafieniu z dystansu	{0} % Chance, Ziele bei einem Fernkampftreffer zu betäuben
+Conditions/ChanceOnShotToGainCriticalHitChance	Text		{0}% chance on ranged hit to increase critical hit chance by 100% for a short duration	{0}% szansy przy trafieniu dystansowym na zwiększenie szansy na trafienie krytyczne o 100% na krótki czas.	{0} % Chance bei einem Fernkampftreffer, dass die kritische Trefferchance kurzzeitig um 100 % erhöht wird
+Conditions/ChanceOnShotToIncreaseMeleeDamage	Text		{0}% chance on ranged hit to increase melee damage by 15%	{0}% szans przy trafieniu dystansowym na zwiększenie obrażeń zadawanych w walce wręcz o 15%.	{0} % Chance, dass bei einem Fernkampftreffer der Nahkampfschaden um 15 % erhöht wird
+Conditions/ChanceToApplyCharmed	Text		Charm the target for 20 sec	Rzuca urok na cel na 20 sek.	Verzaubere das Ziel für 20 Sek.
+Conditions/ChanceToApplyPoisonOnBlock	Text		{0}% chance to apply poison when blocking melee hits, reduces enemy healing received by 75%	{0}% szans na zastosowanie trucizny podczas blokowania trafień w zwarciu, zmniejsza leczenie wroga o 75%.	{0} % Chance, Gift beim Blockieren von Nahkampftreffern anzuwenden, was die erhaltene Feindheilung um 75 % verringert
+Conditions/ChanceToApplyPoisoned	Text		{0}% chance to apply poison on hit, reduces enemy healing received by 75%	{0}% szans na zastosowanie trucizny przy trafieniu, zmniejsza leczenie wroga o 75%.	{0} % Chance, Gift bei einem Treffer anzuwenden, was die erhaltene Feindheilung um 75 % verringert
+Conditions/ChanceToConsumeBurning	Text		{0}% chance on hit to consume target's burning effect and deal the total burning damage immediately	{0}% szans przy trafieniu na pochłonięcie efektu podpalenia celu i natychmiastowe zadanie całkowitych obrażeń od podpalenia.	{0} % Chance bei einem Treffer, den Verbrennungseffekt des Ziels aufzubrauchen und sofort den gesamten Verbrennungsschaden zu verursachen
+Conditions/ChanceToDealTripleDamage	Text		{0}% chance on hit to deal triple amount of damage	{0}% szans przy trafieniu na zadanie potrójnych obrażeń	{0} % Chance, bei einem Treffer die dreifache Menge an Schaden zu verursachen
+Conditions/ChanceToGainExtraCookedFood	Text		{0}% extra cooked food chance	{0}% dodatkowej szansy na ugotowane jedzenie	{0} % Chance auf zusätzliches gekochtes Essen
+Conditions/ChanceToGainExtraItemFromAlchemy	Text		{0}% chance to gain an extra item when crafting any item at the alchemy table or distillery	{0}% szans na zdobycie dodatkowego przedmiotu podczas wytwarzania dowolnego przedmiotu przy stole alchemicznym lub w destylarni.	{0} % Chance auf den Erhalt eines zusätzlichen Gegenstands, wenn du einen Gegenstand am Alchemietisch oder in der Destillerie fertigst
+Conditions/ChanceToGainExtraItemFromBaseBuilding	Text		{0}% chance to gain an extra item when crafting any wall, floor, bridge or fence	{0}% szans na zdobycie dodatkowego przedmiotu podczas tworzenia dowolnej ściany, podłogi, mostu lub ogrodzenia.	{0} % Chance auf den Erhalt eines zusätzlichen Gegenstands, wenn eine Wand, ein Boden, eine Brücke oder ein Zaun gefertigt wird
+Conditions/ChanceToGainRarePlant	Text		{0}% chance that plants planted by you become golden	{0}% szans, że zasadzone przez ciebie rośliny staną się złote	{0} % Chance, dass von dir gepflanzte Pflanzen golden werden
+Conditions/ChanceToGetDoubleFish	Text		{0}% chance to get double fish when catching a fish	{0}% szans na zdobycie podwójnej ryby podczas łapania ryb	{0} % Chance auf die doppelte Menge Fisch, wenn du einen Fisch fängst
+Conditions/ChanceToNotConsumeWaterCan	Text		{0}% chance to not consume water when using water can	{0}% szans na niezużycie wody podczas korzystania z konewki	{0} % Chance, dass bei der Verwendung der Gießkanne kein Wasser verbraucht wird
+Conditions/ChanceToRestoreHealthOnMeleeHit	Text		10% chance on melee hit to restore {0}% health	10% szans na przywrócenie {0}% zdrowia przy trafieniu w zwarciu	10 % Chance, dass ein Nahkampftreffer {0} % Gesundheit regeneriert
+Conditions/ChanceToShootShockWaveOnBlock	Text		{0}% chance on block to release energy shockwaves dealing damage equal to what was blocked	{0}% szans przy bloku na uwolnienie fali uderzeniowej energii zadającej obrażenia o sile równej blokowi.	{0} % Chance beim Blocken Energie-Schockwellen zu entfesseln, die so viel Schaden verursachen, wie geblockt wurde
+Conditions/CheatDeath	Text		{0}% chance to restore a bit of health instead of dying when taking lethal damage	{0}% szans na przywrócenie odrobiny zdrowia po otrzymaniu śmiertelnych obrażeń.	{0} % Chance, dass statt zu sterben etwas Gesundheit regeneriert wird, wenn man tödlichen Schaden erleidet
+Conditions/CritChance	Text		{0}% critical hit chance	{0}% szansy na trafienie krytyczne	{0} % kritische Trefferchance
+Conditions/CritDamageIncreaseAgainstBurning	Text		{0}% critical hit damage against burning targets	{0}% obrażeń od trafienia krytycznego przeciwko płonącym celom	{0} % kritischer Trefferschaden an brennenden Zielen
 Conditions/CriticalDamagePercentageIncrease	Text		{0}% critical hit damage		{0} % kritischer Trefferschaden
 Conditions/DamageIncreaseAgainstBurning	Text		{0}% damage against burning targets		{0} % Schaden an brennenden Zielen
 Conditions/DamageIncreaseAgainstPoisoned	Text		{0}% damage against poisoned targets		{0} % Schaden gegen vergiftete Ziele
