@@ -404,644 +404,644 @@ Conditions/Suffocating	Text		Suffocating	Duszenie	Erstickend
 Conditions/ThornsDamage	Text		{0} thorns damage	{0} obrażeń od cierni	{0} Dornenschaden
 Conditions/ThornsDamageAddedToMeleeAndRange	Text		Your thorns damage is added to your melee and range damage	Twoje obrażenia od cierni są dodawane do obrażeń zadawanych w walce wręcz i na dystans.	Dein Dornenschaden wird zu deinem Nah- und Fernkampfschaden addiert
 Conditions/ToolDurabilityLastsLonger	Text		{0}% chance to not lose durability when using tools and weapons	{0}% szans na brak utraty wytrzymałości podczas korzystania z narzędzi i broni.	{0} % Chance, keine Haltbarkeit zu verlieren, wenn Werkzeuge und Waffen verwendet werden
-Conditions/VisibleOreDistanceIncrease	Text		{0} tiles visible ore distance		{0} Fliesen sichtbare Erz-Entfernung
-Conditions/WellFedBuffsThresholdReduction	Text		Well fed buffs are gained at {0}% lower food		Wohlgenährt-Buffs werden bei {0} % geringerem Essen erhalten
-Conditions/WellFedDamageIncrease	Text		{0}% increased damage from being well fed		{0} % erhöhter Schaden durch „Wohlgenährt“ 
-Conditions/WellFedHealthIncrease	Text		{0}% increased max health from being well fed		{0} % erhöhte max. Gesundheit durch „Wohlgenährt“
-Conditions/WellFedMovementSpeedIncrease	Text		{0}% movement speed from being well fed		{0} % erhöhte Bewegungsgeschwindigkeit durch „Wohlgenährt“
-ControlMapper/A4	Text		A4		A4
-ControlMapper/A4S	Text		A#4		A#4
-ControlMapper/A5	Text		A5		A5
-ControlMapper/A5S	Text		A#5		A#5
-ControlMapper/AccelerateVehicle	Text		Accelerate vehicle		Fahrzeug beschleunigen
-ControlMapper/B4	Text		B4		H4
-ControlMapper/B5	Text		B5		H5
-ControlMapper/C4	Text		C4		C4
-ControlMapper/C4S	Text		C#4		C#4
-ControlMapper/C5	Text		C5		C5
-ControlMapper/C5S	Text		C#5		C#5
-ControlMapper/D4	Text		D4		D4
-ControlMapper/D4S	Text		D#4		D#4
-ControlMapper/D5	Text		D5		D5
-ControlMapper/D5S	Text		D#5		D#5
-ControlMapper/DefaultCategory	Text		Default		Standard
-ControlMapper/DropSelectedItem	Text		Drop item to world		Gegenstand in der Welt erscheinen lassen
-ControlMapper/E4	Text		E4		E4
-ControlMapper/E5	Text		E5		E5
-ControlMapper/EquipPreset1	Text		Equip loadout 1		Ausrüstungskombo 1 ausrüsten
-ControlMapper/EquipPreset2	Text		Equip loadout 2		Ausrüstungskombo 2 ausrüsten
-ControlMapper/EquipPreset3	Text		Equip loadout 3		Ausrüstungskombo 3 ausrüsten
-ControlMapper/EquipSlot1	Text		Equip slot 1		Ausrüstungsslot 1
-ControlMapper/EquipSlot10	Text		Equip slot 10		Ausrüstungsslot 10
-ControlMapper/EquipSlot2	Text		Equip slot 2		Ausrüstungsslot 2
-ControlMapper/EquipSlot3	Text		Equip slot 3		Ausrüstungsslot 3
-ControlMapper/EquipSlot4	Text		Equip slot 4		Ausrüstungsslot 4
-ControlMapper/EquipSlot5	Text		Equip slot 5		Ausrüstungsslot 5
-ControlMapper/EquipSlot6	Text		Equip slot 6		Ausrüstungsslot 6
-ControlMapper/EquipSlot7	Text		Equip slot 7		Ausrüstungsslot 7
-ControlMapper/EquipSlot8	Text		Equip slot 8		Ausrüstungsslot 8
-ControlMapper/EquipSlot9	Text		Equip slot 9		Ausrüstungsslot 9
-ControlMapper/F4	Text		F4		F4
-ControlMapper/F4S	Text		F#4		F#4
-ControlMapper/F5	Text		F5		F5
-ControlMapper/F5S	Text		F#5		F#5
-ControlMapper/G4	Text		G4		G4
-ControlMapper/G4S	Text		G#4		G#4
-ControlMapper/G5	Text		G5		G5
-ControlMapper/G5S	Text		G#5		G#5
-ControlMapper/GameCancel	Text		Close		Schließen
-ControlMapper/GameConfirm	Text		Confirm option		Option bestätigen
-ControlMapper/GameInteract	Text		Attack		Angreifen
-ControlMapper/GameMenu	Text		Open menu		Menü öffnen
-ControlMapper/GameNextItem	Text		Equip next item		Nächsten Gegenstand ausrüsten
-ControlMapper/GamePreviousItem	Text		Equip previous item		Vorherigen Gegenstand ausrüsten
-ControlMapper/GameSecondInteract	Text		Use item		Gegenstand benutzen
-ControlMapper/GameX	Text		Left joystick X-axis		Linker Stick X-Achse
-ControlMapper/GameY	Text		Left joystick Y-axis		Linker Stick Y-Achse
-ControlMapper/Honk	Text		Vehicle honk		Fahrzeughupe
-ControlMapper/MapPing	Text		Ping map		Karte anpingen
-ControlMapper/MenuDown	Text		In-game UI down		Spiel-UI unten
-ControlMapper/MenuLeft	Text		In-game UI left		Spiel-UI links
-ControlMapper/MenuRight	Text		In-game UI right		Spiel-UI rechts
-ControlMapper/MenuUp	Text		In-game UI up		Spiel-UI oben
-ControlMapper/MoveBackward	Text		Move backward		Nach hinten
-ControlMapper/MoveFaster	Text		Move fast in creative mode		Bewege dich schnell im Kreativmodus
-ControlMapper/MoveForward	Text		Move forward		Nach vorne
-ControlMapper/MoveLeft	Text		Move left		Nach links
-ControlMapper/MoveRight	Text		Move right		Nach rechts
-ControlMapper/MoveUp	Text		Move forward		Nach vorne
-ControlMapper/MusicInstrumentCategory	Text		Instrument		Instrument
-ControlMapper/ObjectInteract	Text		Interact with object		Mit Objekt interagieren
-ControlMapper/OctaveChange	Text		Increase octave on controller		Oktave auf dem Controller erhöhen
-ControlMapper/OpenChat	Text		Open chat		Chat öffnen
-ControlMapper/PickUp10	Text		Pick up / drop 10 items		10 Gegenstände aufnehmen / ablegen
-ControlMapper/PickUpAllItems	Text		Pick up / drop all items		Alle Gegenstände aufnehmen / ablegen
-ControlMapper/PickUpHalf	Text		Pick up / drop half of total item amount		Die Hälfte der gesamten Gegenstandsmenge aufnehmen / ablegen
-ControlMapper/PickUpItems	Text		Pick up / drop item		Gegenstand aufnehmen / ablegen
-ControlMapper/QuickMoveItems	Text		Move item to other inventory or equip		Gegenstand in anderes Inventar verschieben oder ausrüsten
-ControlMapper/QuickStack	Text		Move already existing items to storage		Bereits vorhandene Gegenstände ins Lager verschieben
-ControlMapper/QuickSwapTorch	Text		Swap to torch temporarily		Vorübergehend auf Fackel umstellen
-ControlMapper/ReverseVehicle	Text		Reverse vehicle		Fahrzeug im Rückwärtsgang
-ControlMapper/RightJoyStickX	Text		Right joystick X-axis		Rechter Stick X-Achse
-ControlMapper/RightJoyStickY	Text		Right joystick Y-axis		Rechter Stick Y-Achse
-ControlMapper/RightJoystickBack	Text		Right joystick backward		Rechter Stick rückwärts
-ControlMapper/RightJoystickForward	Text		Right joystick forward		Rechter Stick vorwärts
-ControlMapper/RightJoystickLeft	Text		Right joystick left		Rechter Stick links
-ControlMapper/RightJoystickRight	Text		Right joystick right		Rechter Stick rechts
-ControlMapper/Rotate	Text		Rotate		Rotieren
-ControlMapper/Sort	Text		Sort inventory		Inventar sortieren
-ControlMapper/SplitStack	Text		Split item stack		Gegenstandstapel teilen
-ControlMapper/StopPlayingInstrument	Text		Stop playing		Nicht mehr spielen
-ControlMapper/ToggleInventory	Text		Toggle inventory		Inventar umschalten
-ControlMapper/ToggleMap	Text		Toggle map		Karte umschalten
-ControlMapper/ToggleShortCutsWindow	Text		Toggle shortcuts window		Fenster der Abkürzungen umschalten
-ControlMapper/ToggleSpectatedPlayer	Text	Toggles which player is being spectated. Can be used after dying as hard core character.	Toggle spectated player		Beobachteten Spieler umschalten
-ControlMapper/ToggleUI	Text		Toggle in-game UI		Spiel-UI umschalten
-ControlMapper/TrashItem	Text		Trash selected item		Ausgewählten Gegenstand entsorgen
-ControlMapper/UIInteract	Text		UI interact		UI-Interaktion
-ControlMapper/UIModifierKeys	Text		Inventory UI modifiers, use together with pick up / drop item actions		UI-Modifikatoren des Inventars, zusammen mit Aktionen zum Aufnehmen / Ablegen von Gegenständen verwenden
-ControlMapper/UISecondInteract	Text		UI second interact		Zweite UI-Interaktion
-ControlMapper/UseOffHand	Text		Use off-hand		Zweithand benutzen
-ControlMapper/ZoomInMap	Text		Zoom in map		Karte vergrößern
-ControlMapper/ZoomOutMap	Text		Zoom out map		Karte verkleinern
-ControlMapper/actionColumnLabel	Text		Actions		Aktionen
-ControlMapper/add	Text		Add		Hinzufügen
-ControlMapper/alt	Text		Alt		Alt
-ControlMapper/assignControllerButtonLabel	Text		Assign Controller		Controller zuweisen
-ControlMapper/assignControllerWindowMessage	Text		Press any button or move an axis on the controller you would like to use.		Drücke eine beliebige Taste oder bewege eine Achse auf dem Controller, die du verwenden möchtest.
-ControlMapper/assignControllerWindowTitle	Text		Choose Controller		Controller wählen
-ControlMapper/assignedControllersGroupLabel	Text		Assigned Controllers:		Zugewiesene Controller:
-ControlMapper/calibrateAxisStep1WindowMessage	Text		Center or zero {0} and press any button or wait for the timer to finish.		Stelle {0} in die Mitte oder auf null und drücke eine beliebige Taste – du kannst auch warten, bis der Timer abgelaufen ist.
-ControlMapper/calibrateAxisStep1WindowTitle	Text		Calibrate Zero		Null kalibrieren
-ControlMapper/calibrateAxisStep2WindowMessage	Text		Move {0} through its entire range then press any button or wait for the timer to finish.		Bewege {0} durch den gesamten Bereich und drücke eine beliebige Taste – du kannst auch warten, bis der Timer abgelaufen ist.
-ControlMapper/calibrateAxisStep2WindowTitle	Text		Calibrate Range		Bereich kalibrieren
-ControlMapper/calibrateControllerButtonLabel	Text		Calibrate		Kalibrieren
-ControlMapper/calibrateControllerWindowTitle	Text		Calibrate Controller		Controller kalibrieren
-ControlMapper/calibrateWindow_calibrateButtonLabel	Text		Calibrate		Kalibrieren
-ControlMapper/calibrateWindow_deadZoneSliderLabel	Text		Dead Zone:		Totzone:
-ControlMapper/calibrateWindow_invertToggleLabel	Text		Invert		Invertieren
-ControlMapper/calibrateWindow_sensitivitySliderLabel	Text		Sensitivity:		Empfindlichkeit:
-ControlMapper/calibrateWindow_zeroSliderLabel	Text		Zero:		Null:
-ControlMapper/command	Text		Command		Befehl
-ControlMapper/control	Text		Control		Steuerung
-ControlMapper/controllerAssignmentConflictWindowMessage	Text	{0} = Joystick Name, {1} = Other Player Name, {2} = This Player Name	{0} is already assigned to {1}. Do you want to assign this controller to {2} instead?		{0} ist bereits {1} zugewiesen. Möchtest du diesen Controller stattdessen {2} zuweisen?
-ControlMapper/controllerAssignmentConflictWindowTitle	Text		Controller Assignment		Controller-Zuweisung
-ControlMapper/controllerColumnLabel	Text		Controller		Controller
-ControlMapper/controllerSettingsGroupLabel	Text		Controller:		Controller:
-ControlMapper/default	Text		Default		Standard
-ControlMapper/doneButtonLabel	Text		Done		Fertig
-ControlMapper/elementAlreadyInUseBlocked	Text		{0} is already in use cannot be replaced.		{0} wird bereits verwendet und kann nicht ersetzt werden.
-ControlMapper/elementAlreadyInUseCanReplace	Text		{0} is already in use. Do you want to replace it?		{0} wird bereits verwendet. Ersetzen?
-ControlMapper/elementAlreadyInUseCanReplace_conflictAllowed	Text		{0} is already in use. Do you want to replace it? You may also choose to add the assignment anyway.		{0} wird bereits verwendet. Ersetzen? Du kannst die Zuweisung auch trotzdem hinzufügen.
-ControlMapper/elementAssignmentConflictWindowMessage	Text		Assignment Conflict		Zuweisungskonflikt
-ControlMapper/elementAssignmentPrePollingWindowMessage	Text		First center or zero all sticks and axes and press any button or wait for the timer to finish.		Zentriere zuerst alle Sticks oder stelle sie auf null und drücke eine beliebige Taste – du kannst auch warten, bis der Timer abgelaufen ist.
-ControlMapper/inputBehaviorSettingsButtonLabel	Text		Sensitivity		Empfindlichkeit
-ControlMapper/inputBehaviorSettingsWindowTitle	Text		Sensitivity Settings		Empfindlichkeitseinstellungen
-ControlMapper/joystickElementAssignmentPollingWindowMessage	Text		Now press a button or move an axis to assign it to {0}.		Drücke jetzt eine Taste oder bewege eine Achse, um sie {0} zuzuweisen.
-ControlMapper/joystickElementAssignmentPollingWindowMessage_fullAxisFieldOnly	Text		Now move an axis to assign it to {0}.		Bewege jetzt eine Achse, um sie {0} zuzuweisen.
-ControlMapper/keyboardColumnLabel	Text		Keyboard		Tastatur
-ControlMapper/keyboardElementAssignmentPollingWindowMessage	Text		Press a key to assign it to {0}. Modifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.		Drücke eine Taste, um sie {0} zuzuweisen. Du kannst auch Hilfstasten verwenden. Um allein eine Hilfstaste zu belegen, halte sie 1 Sekunde lang gedrückt.
-ControlMapper/mapCategoriesGroupLabel	Text		Categories:		Kategorien:
-ControlMapper/mouseAssignmentConflictWindowMessage	Text		The mouse is already assigned to {0}. Do you want to assign the mouse to {1} instead?		Die Maus ist bereits {0} zugewiesen. Möchtest du die Maus stattdessen {1} zuweisen?
-ControlMapper/mouseAssignmentConflictWindowTitle	Text		Mouse Assignment		Maus-Zuweisung
-ControlMapper/mouseColumnLabel	Text		Mouse		Maus
-ControlMapper/mouseElementAssignmentPollingWindowMessage	Text		Press a mouse button or move an axis to assign it to {0}		Drücke eine Maustaste oder bewege eine Achse, um sie {0} zuzuweisen
-ControlMapper/mouseElementAssignmentPollingWindowMessage_fullAxisFieldOnly	Text		Move an axis to assign it to {0}.		Bewege eine Achse, um sie {0} zuzuweisen.
-ControlMapper/none	Text		None		Keiner
-ControlMapper/okay	Text		Okay		Okay
-ControlMapper/playersGroupLabel	Text		Players:		Spieler:
-ControlMapper/remove	Text		Remove		Entfernen
-ControlMapper/removeControllerButtonLabel	Text		Remove		Entfernen
-ControlMapper/restoreDefaultsButtonLabel	Text		Restore Defaults		Standardeinstellungen wiederherstellen
-ControlMapper/restoreDefaultsWindowMessage_multiPlayer	Text		This will restore the default input configuration for all players. Are you sure you want to do this?		Dies stellt die Standard-Eingabekonfiguration für alle Spieler wieder her. Sicher?
-ControlMapper/restoreDefaultsWindowMessage_onePlayer	Text		This will restore the default input configuration. Are you sure you want to do this?		Dies stellt die Standard-Eingabekonfiguration wieder her. Sicher?
-ControlMapper/restoreDefaultsWindowTitle	Text		Restore Defaults		Standardeinstellungen wiederherstellen
-ControlMapper/separator	Text		 +		+
-ControlMapper/settingsGroupLabel	Text		Settings:		Einstellungen:
-ControlMapper/shift	Text		Shift		Umschalttaste
-ControlMapper/swap	Text		Swap		Tauschen
-CookFoodToDiscover	Text		Cook food to start discovering recipes		Koche Essen, um neue Rezepte zu entdecken
-CooldownMin	Text		{0} min cooldown		{0} Min. Abklingzeit
-CooldownMinSec	Text		{0} min {1} sec cooldown		{0} Min. {1} Sek. Abklingzeit
-CooldownSec	Text		{0} sec cooldown		{0} Sek. Abklingzeit
-CreativeMode	Text		Creative		Kreativ
-CreativeModeDesc	Text		Set your imagination free in an empty, limitless world.		Lass deiner Fantasie freien Lauf in einer leeren, grenzenlosen Welt.
-Credits/AmazingModeratorTeam	Text		Amazing Moderator Team		Ein großartiges Moderatorenteam
-Credits/Animation	Text		Animation		Animation
-Credits/Art	Text		Art		Grafik
-Credits/AssociateProducer	Text		Associate Producer		Associate Producer
-Credits/AssociateProductManager	Text		Associate Product Manager		Associate Product Manager
-Credits/CEO	Text		CEO		CEO
-Credits/COO	Text		COO		COO
-Credits/ChiefAcquisitionsProductionOfficer	Text		Chief Acquisitions & Production Officer		Chief Acquisitions & Production Officer
-Credits/CommunityManager	Text		Community Manager		Community Manager
-Credits/CompatibilityTesting	Text		Compatibility testing		Kompatibilitätstests
-Credits/CoreKeeper	Text		Core Keeper		Core Keeper
-Credits/CoreSupporters	Text		Core Supporters		Core-Unterstützer
-Credits/CreativeDirector	Text		Creative Director		Creative Director
-Credits/DevOps	Text		DevOps		DevOps
-Credits/DevelopedBy	Text		Developed by		Entwickelt von
-Credits/DevelopmentDirector	Text		Development Director		Development Director
-Credits/FinanceDirector	Text		Finance Director		Finance Director
-Credits/FinanceTeam	Text		Finance Team		Finance-Team
-Credits/GameDesign	Text		Game design		Gamedesign
-Credits/GameDirector	Text		Game Director		Game Director
-Credits/GameplayDirector	Text		Gameplay Director		Gameplay Director
-Credits/HeadofProductMarketing	Text		Head of Product Marketing		Head of Product Marketing
-Credits/LeadAnimator	Text		Lead Animator		Lead Animator
-Credits/LeadAnimators	Text		Lead Animators		Lead Animators
-Credits/LeadArtist	Text		Lead Artist		Lead Artist
-Credits/LeadAssociateProducer	Text		Lead Associate Producer		Lead Associate Producer
-Credits/LeadRenderingProgrammer	Text		Lead Rendering Programmer		Lead Rendering Programmer
-Credits/Localisation	Text		Localisation		Lokalisierung
-Credits/MarketingDirector	Text		Marketing Director		Marketing Director
-Credits/MarketingMaterial	Text		Marketing material		Marketingmaterial
-Credits/Music	Text		Music		Musik
-Credits/OperationsAssistantManager	Text		Operations Assistant Manager		Operations Assistant Manager
-Credits/OperationsManager	Text		Operations Manager		Operations Manager
-Credits/PCFQA	Text		PC FQA		PC FQA
-Credits/PRAndCommunications	Text		PR and Communications		PR und Kommunikation
-Credits/ProductManager	Text		Product Manager		Product Manager
-Credits/ProductionAssistant	Text		Production Assistant		Production Assistant
-Credits/ProductionDirector	Text		Production Director		Production Director
-Credits/ProductionSupport	Text		Production Support		Unterstützung bei der Produktion
-Credits/Programming	Text		Programming		Programmierung
-Credits/PublishedBy	Text		Published by		Veröffentlicht von
-Credits/QualityAssuranceCoordinator	Text		Quality Assurance Coordinator		Quality Assurance Coordinator
-Credits/ReleaseManager	Text		Release Manager		Release Manager
-Credits/SFX	Text		SFX		Soundeffekte
-Credits/SalesDirector	Text		Sales Director		Sales Director
-Credits/SalesManager	Text		Sales Manager		Sales Manager
-Credits/SeniorBrandManager	Text		Senior Brand Manager		Senior Brand Manager
-Credits/SeniorProducer	Text		Senior Producer		Senior Producer
-Credits/SeniorProductManager	Text		Senior Product Manager		Senior Product Manager
-Credits/SeniorSalesManager	Text		Senior Sales Manager		Verantwortlicher Vertriebsmanager
-Credits/SeventyOneConsulting	Text		71 Consulting		71 Consulting
-Credits/SocialMediaAndCommunityManager	Text		Social Media and Community Manager		Social Media und Community Manager
-Credits/SpecialThanks	Text		Special thanks		Mit besonderem Dank an
-Credits/TechnicalDirector	Text		Technical Director		Technical Director
-Credits/ThaiFont	Text		Thai font		Thai-Schriftart
-Credits/ThanksForPlaying	Text		Thanks for playing!		Danke fürs Spielen!
-Credits/UserTesting	Text		User testing		Benutzertest
-Credits/Writing	Text		Writing		Texte
-CreditsNames/ACE	Text		ACE Agency		ACE Agency
-CreditsNames/AlexanderMa	Text		Alexander Ma		Alexander Ma
-CreditsNames/AndreeaSandu	Text		Andreea Sandu		Andreea Sandu
-CreditsNames/AzurDawn	Text		AzurDawn		AzurDawn
-CreditsNames/Beach	Text		Beach		Beach
-CreditsNames/BridieDaniels	Text		Bridie Daniels		Bridie Daniels
-CreditsNames/Cedric	Text		Cedric		Cedric
-CreditsNames/ChantelleLarmond	Text		Chantelle Larmond		Chantelle Larmond
-CreditsNames/CharlotteKelly	Text		Charlotte Kelly		Charlotte Kelly
-CreditsNames/ChrisGlover	Text		Chris Glover		Chris Glover
-CreditsNames/ChristianMarkowicz	Text		Christian Markowicz		Christian Markowicz
-CreditsNames/CormacBrennan	Text		Cormac Brennan		Cormac Brennan
-CreditsNames/DanJenkins	Text		Dan Jenkins		Dan Jenkins
-CreditsNames/DanielPereira	Text		Daniel Pereira		Daniel Pereira
-CreditsNames/DanieldeKretser	Text		Daniel de Kretser		Daniel de Kretser
-CreditsNames/DaveScammell	Text		Dave Scammell		Dave Scammell
-CreditsNames/DavidLindqvist	Text		David Lindqvist		David Lindqvist
-CreditsNames/DavidWalker	Text		David Walker		David Walker
-CreditsNames/Enchae	Text		Enchae		Enchae
-CreditsNames/Enzyme	Text		Enzyme		Enzyme
-CreditsNames/FelixWestin	Text		Felix Westin		Felix Westin
-CreditsNames/Fireshine	Text		Fireshine Games		Fireshine Games
-CreditsNames/FredrikPrantare	Text		Fredrik Präntare		Fredrik Präntare
-CreditsNames/FriendsAndFamily	Text		Friends and Families		Freunde und Familie
-CreditsNames/GarryWilliams	Text		Garry Williams		Garry Williams
-CreditsNames/Genos	Text		Genos		Genos
-CreditsNames/HermanAppelgren	Text		Herman Appelgren		Herman Appelgren
-CreditsNames/JamesCato	Text		James Cato		James Cato
-CreditsNames/JasonMan	Text		Jason Man		Jason Man
-CreditsNames/JohannesAhlström	Text		Johannes Ahlström		Johannes Ahlström
-CreditsNames/JonathanGeer	Text		Jonathan Geer		Jonathan Geer
-CreditsNames/JulianBird	Text		Julian Bird		Julian Bird
-CreditsNames/JulianSeifertOlszewski	Text		Julian Seifert-Olszewski		Julian Seifert-Olszewski
-CreditsNames/Karillya	Text		Karillya		Karillya
-CreditsNames/KeywordsIndia	Text		Keywords India		Keywords India
-CreditsNames/Kittco36	Text		Kittco36		Kittco36
-CreditsNames/LeeOni	Text		Lee~ (Oni)		Lee~ (Oni)
-CreditsNames/LetTheBodyFall	Text		LetTheBodyFall		LetTheBodyFall
-CreditsNames/MarianaChagas	Text		Mariana Chagas		Mariana Chagas
-CreditsNames/MarkInman	Text		Mark Inman		Mark Inman
-CreditsNames/MaxHallden	Text		Max Halldén		Max Halldén
-CreditsNames/MegSpencer	Text		Meg Spencer		Meg Spencer
-CreditsNames/Mistry	Text		Mistry		Mistry
-CreditsNames/MrVilo	Text		Mr Vilo		Mr Vilo
-CreditsNames/Nebur7420	Text		Nebur7420		Nebur7420
-CreditsNames/NickPayne	Text		Nick Payne		Nick Payne
-CreditsNames/NiklasWigertz	Text		Niklas Wigertz		Niklas Wigertz
-CreditsNames/Omnimetatron	Text		Omnimetatron		Omnimetatron
-CreditsNames/OskarTengvall	Text		Oskar Tengvall		Oskar Tengvall
-CreditsNames/Playtropic	Text		Playtropic		Playtropic
-CreditsNames/Pugstorm	Text		Pugstorm AB		Pugstorm AB
-CreditsNames/RasmusJarvela	Text		Rasmus Järvelä		Rasmus Järvelä
-CreditsNames/RicardoCruzFarah	Text		Ricardo Cruz Farah		Ricardo Cruz Farah
-CreditsNames/RobinForsstrom	Text		Robin Forsström		Robin Forsström
-CreditsNames/SamMckie	Text		Sam Mckie		Sam Mckie
-CreditsNames/SamuelSekandagu	Text		Samuel Sekandagu		Samuel Sekandagu
-CreditsNames/SarahHoeksma	Text		Sarah Hoeksma		Sarah Hoeksma
-CreditsNames/SeanCampbell	Text		Sean Campbell		Sean Campbell
-CreditsNames/SoulWade	Text		Soul Wade		Soul Wade
-CreditsNames/SvenThole	Text		Sven Thole		Sven Thole
-CreditsNames/Svings	Text		Svings		Svings
-CreditsNames/Testify	Text		Testify		Testify
-CreditsNames/Testronic	Text		Testronic		Testronic
-CreditsNames/ThomasLumeau	Text		Thomas Lumeau		Thomas Lumeau
-CreditsNames/TimSchipper	Text		Tim Schipper		Tim Schipper
-CreditsNames/TinaMoore	Text		Tina Moore		Tina Moore
-CreditsNames/TonyEvans	Text		Tony Evans		Tony Evans
-CreditsNames/VictoriaKrizmanich	Text		Victoria K.		Victoria K.
-CreditsNames/VincentCoates	Text		Vincent Coates		Vincent Coates
-CreditsNames/Zar	Text		Zar		Zar
-CreditsNames/bklyn	Text		bklyn		bklyn
-CreditsNames/ohCreative	Text		ohCreative		ohCreative
-DemoVersion	Text	{0} will be replaced by the version number	{0} Demo Version		{0} Demo-Version
-DontOverrideSeason	Text		Don't override season		Saison nicht überschreiben
-EarlyAccess	Text		Early Access		Early Access
-EarlyAccessVersion	Text	{0} will be replaced by the version number	{0} Early Access Version		{0} Early-Access-Version
-Emotes/AlreadyScanned	Text		I have already scanned this		Das habe ich bereits gescannt
-Emotes/CantLeaveWhileItsMoving	Text	Character says this when riding a vehicle such as minecart or boat and tries to jump off while it is moving	I can't leave while it's moving		Ich kann nicht gehen, während es sich bewegt
-Emotes/CantSleepWhenEnemiesNear	Text		I can't sleep when enemies are nearby		Ich kann nicht schlafen, wenn Feinde in der Nähe sind
-Emotes/ICantDestroyThisObject	Text		I can't destroy this object		Ich kann dieses Objekt nicht zerstören
-Emotes/IDontHaveAPet	Text		I don't have a pet		Ich habe kein Haustier
-Emotes/IDontHaveTheRequiredComponents	Text		I don't have the components		Ich habe die Komponenten nicht
-Emotes/INeedADrillForThis	Text		I need a stationary drill for this		Dafür brauche ich eine Standbohrmaschine
-Emotes/INeedBetterToolsForTheseWaters	Text	Means that player needs a better fishing rod or other means of fishing tools	I need better tools for these waters		Für diese Gewässer brauche ich bessere Werkzeuge
-Emotes/IShouldEat	Text		I should eat something		Ich sollte etwas essen
-Emotes/IShouldGatherMyFriends	Text	The character says this when all other players must be present around the player to proceed with an action	I should gather my friends.		Ich sollte meine Freunde holen.
-Emotes/ImHungry	Text		I'm quite hungry		Ich bin ziemlich hungrig
-Emotes/ItDoesntDoAnything	Text	Shown when trying to interact with something that does'nt work such as the Core when it is not powered up.	It doesn't do anything		Da tut sich nichts
-Emotes/ItsEmpty	Text	Used when for example the water can is empty	It's empty		Leer
-Emotes/ItsTooHardINeedADrill	Text		It's too hard, I need a stationary drill		Zu hart, ich brauche eine Standbohrmaschine
-Emotes/LarvaEmote1	Text	Something the bigger larvas say when interacting with them while disguised as a larva	Hungry!		Hungrig!
-Emotes/LarvaEmote2	Text		Squeek		Quiek
-Emotes/LarvaEmote3	Text		Must dig		Muss graben
-Emotes/LooksLikeItNeedsEnergy	Text	Energy refers to a building needing ancient electricity	Looks like it needs energy		Braucht scheinbar Energie
-Emotes/MiningSkillTooLow	Text		My mining damage is too low		Mein Bergbauschaden ist zu niedrig
-Emotes/NeedAncientForge	Text		I must be at the Ancient Forge		Ich muss in der uralten Schmiede sein
-Emotes/NeedHigherMiningSkill	Text		I need higher mining damage		Ich brauche einen höheren Bergbauschaden
-Emotes/NoNearbyGroundToStandOn	Text		There's no nearby ground to stand on		Es ist kein Boden in der Nähe, auf dem man stehen kann
-Emotes/NoOtherPortals	Text	Shown when there are no other portals to teleport to	No other portals to teleport to		Keine anderen Portale zum Teleportieren
-Emotes/NotFullyCharged	Text	Shown when player tries to interact with a portal that is still charging up	It needs some time to charge up		Es braucht einige Zeit zum Aufladen
-Emotes/NothingHappens	Text		Nothing happens		Nichts passiert
-Emotes/NothingWasFound	Text		Nothing was found		Nichts gefunden
-Emotes/ObjectIsImmuneToDamage	Text		The object is immune to damage		Das Objekt ist immun gegen Schaden
-Emotes/ObjectIsIndestructible	Text		The object is indestructible		Das Objekt ist unzerstörbar
-Emotes/Ouch	Text		Ouch!		Aua!
-Emotes/OutOfWater	Text		Out of water		Kein Wasser mehr
-Emotes/PetIsAlreadyMaxLevel	Text		Pet is at max level		Haustier hat max. Stufe erreicht
-Emotes/PetIsTooFarAway	Text		Pet is too far away		Haustier ist zu weit entfernt
-Emotes/PoweredDown	Text		It seems powered down		Scheint abgeschaltet zu sein
-Emotes/Questionmark	Text		?		?
-Emotes/ShouldPlaceHandOnWall	Text		I should place my hand on the wall		Ich sollte meine Hand an die Wand legen
-Emotes/StomachFull	Text		My stomach is too full		Mein Magen ist zu voll
-Emotes/StopHurtingMe	Text		Stop hurting me!		Hör auf, mir weh zu tun!
-Emotes/TheAncientForge	Text	Quotes around it cause player character is reading it	"""The Ancient Forge"""		„Die uralte Schmiede“
-Emotes/TheFishArentBiting	Text		The fish aren't biting		Die Fische beißen nicht
-Emotes/ThisIsNotMyBed	Text		This is not my bed		Das ist nicht mein Bett
-Emotes/ThisWillTakeAWhile	Text		This will take a while...		Das könnte dauern ...
-Emotes/ThisWillTakeForever	Text		This will take forever...		Das wird ewig dauern ...
-Emotes/UnlockedInEarlyAccess	Text		Unlocked in Early Access		Im Early Access freigeschaltet
-Error/AuthenticationFailed	Text		Authentication failed		Authentifizierung fehlgeschlagen
-Error/BackingStorageFull	Text		Disk or cloud quota is full, try deleting some things		Festplatte oder Cloud-Kontingent ist voll – versuche es damit, einige Dinge zu löschen
-Error/BadProtocolVersion	Text		Game version mismatch		Falsche Spielversion
-Error/Canceled	Text		Operation was canceled		Vorgang wurde abgebrochen
-Error/CharacterVersionTooHigh	Text		This character was created using a more recent game version. Please check for game updates.		Dieser Charakter wurde mit einer neueren Spielversion erstellt. Bitte prüfe, ob Spiel-Updates verfügbar sind.
-Error/CompileFailed	Text		Compilation failed		Kompilierung fehlgeschlagen
-Error/ConnectionClose	Text		Connection closed		Verbindung geschlossen
-Error/FileAccess	Text		Couldn't access file		Auf Datei konnte nicht zugegriffen werden
-Error/GameNotFound	Text		Could not find game		Spiel kann nicht gefunden werden
-Error/HostNotReady	Text		Host is not ready		Host ist nicht bereit
-Error/InternalError	Text		Internal error		Interner Fehler
-Error/InvalidAccess	Text		Invalid access		Ungültiger Zugriff
-Error/InvalidRpc	Text		Invalid network message		Ungültige Netzwerkmeldung
-Error/MaxConnectionAttempts	Text		Connection failed after too many retries		Verbindung nach zu vielen Versuchen fehlgeschlagen
-Error/NoNetwork	Text		No network		Kein Netzwerk
-Error/NoWorldWriteWarning	Text		There has been no auto save since {0} minutes. This probably means an error has occurred. Restarting the host is recommended to ensure all progress is saved.		Seit {0} Minuten fand keine automatische Speicherung statt. Das bedeutet wahrscheinlich, dass ein Fehler aufgetreten ist. Es wird empfohlen, den Host neu zu starten, um das Speichern aller Fortschritte sicherzustellen.
-Error/NoWorldWriteWarningEnd	Text		Auto save successful!		Automatisches Speichern erfolgreich!
-Error/SaveFileCorrupt	Text		Could not read save file		Speicherdatei konnte nicht gelesen werden
-Error/Timeout	Text		Connection timed out		Zeitüberschreitung bei der Verbindung
-Error/Unknown	Text		Unknown error		Unbekannter Fehler
-Error/WorldVersionTooHigh	Text		This world was created using a more recent game version. Please check for game updates.		Diese Welt wurde mit einer neueren Spielversion erstellt. Bitte prüfe, ob Spiel-Updates verfügbar sind.
-Error/reqFailNotificationGPU	Text		Warning: Your GPU does not meet the minimum requirements. Game visuals might not work correctly		Warnung: Dein Grafikprozessor entspricht nicht den Mindestanforderungen. Die Grafik des Spiels wird unter Umständen nicht richtig funktionieren.
-FollowTwitter	Text		Follow us on Twitter		Folge uns auf Twitter
-FoodAdjectives/AmberLarva	Text		Meaty		Fleischiges
-FoodAdjectives/AmberLarvaFemale	Text		Meaty		Fleischige
-FoodAdjectives/AmberLarvaMale	Text		Meaty		Fleischiger
-FoodAdjectives/AngleFish	Text		Encased		Umhülltes
-FoodAdjectives/AngleFishFemale	Text		Encased		Umhüllte
-FoodAdjectives/AngleFishMale	Text		Encased		Umhüllter
-FoodAdjectives/AstralJelly	Text		Astral		Astrales
-FoodAdjectives/AstralJellyFemale	Text		Astral		Astrale
-FoodAdjectives/AstralJellyMale	Text		Astral		Astraler
-FoodAdjectives/AtlantianWormHeart	Text		Atlantean		Atlantisches
-FoodAdjectives/AtlantianWormHeartFemale	Text		Atlantean		Atlantische
-FoodAdjectives/AtlantianWormHeartMale	Text		Atlantean		Atlantischer
-FoodAdjectives/AzureFeatherFish	Text		Azure		Azurblaues
-FoodAdjectives/AzureFeatherFishFemale	Text		Azure		Azurblaue
-FoodAdjectives/AzureFeatherFishMale	Text		Azure		Azurblauer
-FoodAdjectives/BlackSteelUrchin	Text		Black		Schwarzes
-FoodAdjectives/BlackSteelUrchinFemale	Text		Black		Schwarze
-FoodAdjectives/BlackSteelUrchinMale	Text		Black		Schwarzer
-FoodAdjectives/BloatOat	Text		Filling		Sättigendes
-FoodAdjectives/BloatOatFemale	Text		Filling		Sättigende
-FoodAdjectives/BloatOatMale	Text		Filling		Sättigender
-FoodAdjectives/BloatOatRare	Text		Stodgy		Nährendes
-FoodAdjectives/BloatOatRareFemale	Text		Stodgy		Nährende
-FoodAdjectives/BloatOatRareMale	Text		Stodgy		Nährender
-FoodAdjectives/BlueCaveGuppy	Text		Blue		Blaues
-FoodAdjectives/BlueCaveGuppyFemale	Text		Blue		Blaue
-FoodAdjectives/BlueCaveGuppyMale	Text		Blue		Blauer
-FoodAdjectives/BombPepper	Text		Spicy		Würziges
-FoodAdjectives/BombPepperFemale	Text		Spicy		Würzige
-FoodAdjectives/BombPepperMale	Text		Spicy		Würziger
-FoodAdjectives/BombPepperRare	Text		Piquant		Pikantes
-FoodAdjectives/BombPepperRareFemale	Text		Piquant		Pikante
-FoodAdjectives/BombPepperRareMale	Text		Piquant		Pikanter
-FoodAdjectives/BottomTracer	Text		Bright Yellow		Hellgelbes
-FoodAdjectives/BottomTracerFemale	Text		Bright Yellow		Hellgelbe
-FoodAdjectives/BottomTracerMale	Text		Bright Yellow		Hellgelber
-FoodAdjectives/BrightLavaEater	Text		Bright		Helles
-FoodAdjectives/BrightLavaEaterFemale	Text		Bright		Helle
-FoodAdjectives/BrightLavaEaterMale	Text		Bright		Heller
-FoodAdjectives/BrownDuneTail	Text		Brown		Braunes
-FoodAdjectives/BrownDuneTailFemale	Text		Brown		Braune
-FoodAdjectives/BrownDuneTailMale	Text		Brown		Brauner
-FoodAdjectives/Carrock	Text		Crunchy		Knuspriges
-FoodAdjectives/CarrockFemale	Text		Crunchy		Knusprige
-FoodAdjectives/CarrockMale	Text		Crunchy		Knuspriger
-FoodAdjectives/CarrockRare	Text		Hard		Hartes
-FoodAdjectives/CarrockRareFemale	Text		Hard		Harte
-FoodAdjectives/CarrockRareMale	Text		Hard		Harter
-FoodAdjectives/CosmicForm	Text		Cosmic		Kosmisches
-FoodAdjectives/CosmicFormFemale	Text		Cosmic		Kosmische
-FoodAdjectives/CosmicFormMale	Text		Cosmic		Kosmischer
-FoodAdjectives/CrownSquid	Text		Crowned		Gekröntes
-FoodAdjectives/CrownSquidFemale	Text		Crowned		Gekrönte
-FoodAdjectives/CrownSquidMale	Text		Crowned		Gekrönter
-FoodAdjectives/DaggerFin	Text		Sharp		Scharfes
-FoodAdjectives/DaggerFinFemale	Text		Sharp		Scharfe
-FoodAdjectives/DaggerFinMale	Text		Sharp		Scharfer
-FoodAdjectives/DarkLavaEater	Text		Dark		Dunkles
-FoodAdjectives/DarkLavaEaterFemale	Text		Dark		Dunkle
-FoodAdjectives/DarkLavaEaterMale	Text		Dark		Dunkler
-FoodAdjectives/Deepstalker	Text		Glistening		Glimmerndes
-FoodAdjectives/DeepstalkerFemale	Text		Glistening		Glimmernde
-FoodAdjectives/DeepstalkerMale	Text		Glistening		Glimmernder
-FoodAdjectives/DevilWorm	Text		Devilish		Teuflisches
-FoodAdjectives/DevilWormFemale	Text		Devilish		Teuflische
-FoodAdjectives/DevilWormMale	Text		Devilish		Teuflischer
-FoodAdjectives/ElderDragonfish	Text		Elder		Älteres
-FoodAdjectives/ElderDragonfishFemale	Text		Elder		Ältere
-FoodAdjectives/ElderDragonfishMale	Text		Elder		Älterer
-FoodAdjectives/EmeraldFeatherFish	Text		Emerald		Smaragdgrünes
-FoodAdjectives/EmeraldFeatherFishFemale	Text		Emerald		Smaragdgrüne
-FoodAdjectives/EmeraldFeatherFishMale	Text		Emerald		Smaragdgrüner
-FoodAdjectives/GemCrab	Text		Glimmering		Schimmerndes
-FoodAdjectives/GemCrabFemale	Text		Glimmering		Schimmernde
-FoodAdjectives/GemCrabMale	Text		Glimmering		Schimmernder
-FoodAdjectives/GiantMushroom	Text		Giant		Riesiges
-FoodAdjectives/GiantMushroomFemale	Text		Giant		Riesige
-FoodAdjectives/GiantMushroomMale	Text		Giant		Riesiger
-FoodAdjectives/GlowingTulipFlower	Text		Glowing		Leuchtendes
-FoodAdjectives/GlowingTulipFlowerFemale	Text		Glowing		Leuchtende
-FoodAdjectives/GlowingTulipFlowerMale	Text		Glowing		Leuchtender
-FoodAdjectives/GlowingTulipFlowerRare	Text		Shining		Strahlendes
-FoodAdjectives/GlowingTulipFlowerRareFemale	Text		Shining		Strahlende
-FoodAdjectives/GlowingTulipFlowerRareMale	Text		Shining		Strahlender
-FoodAdjectives/GoldenAngleFish	Text		Crystallized		Kristallisiertes
-FoodAdjectives/GoldenAngleFishFemale	Text		Crystallized		Kristallisierte
-FoodAdjectives/GoldenAngleFishMale	Text		Crystallized		Kristallisierter
-FoodAdjectives/GoldenDeepstalker	Text		Splendid		Prächtiges
-FoodAdjectives/GoldenDeepstalkerFemale	Text		Splendid		Prächtige
-FoodAdjectives/GoldenDeepstalkerMale	Text		Splendid		Prächtiger
-FoodAdjectives/GoldenLarvaMeat	Text		Shiny		Glänzendes
-FoodAdjectives/GoldenLarvaMeatFemale	Text		Shiny		Glänzende
-FoodAdjectives/GoldenLarvaMeatMale	Text		Shiny		Glänzender
-FoodAdjectives/GoldenTorrentDart	Text		Golden		Goldenes
-FoodAdjectives/GoldenTorrentDartFemale	Text		Golden		Goldene
-FoodAdjectives/GoldenTorrentDartMale	Text		Golden		Goldener
-FoodAdjectives/GreenBlisterHead	Text		Green		Grünes
-FoodAdjectives/GreenBlisterHeadFemale	Text		Green		Grüne
-FoodAdjectives/GreenBlisterHeadMale	Text		Green		Grüner
-FoodAdjectives/GreyDuneTail	Text		Grey		Graues
-FoodAdjectives/GreyDuneTailFemale	Text		Grey		Graue
-FoodAdjectives/GreyDuneTailMale	Text		Grey		Grauer
-FoodAdjectives/Grumpkin	Text		Lumpy		Knolliges
-FoodAdjectives/GrumpkinFemale	Text		Lumpy		Knollige
-FoodAdjectives/GrumpkinMale	Text		Lumpy		Knolliger
-FoodAdjectives/GrumpkinRare	Text		Gleaming		Funkelndes
-FoodAdjectives/GrumpkinRareFemale	Text		Gleaming		Funkelnde
-FoodAdjectives/GrumpkinRareMale	Text		Gleaming		Funkelnder
-FoodAdjectives/HeartBerry	Text		Hearty		Süßes
-FoodAdjectives/HeartBerryFemale	Text		Hearty		Süße
-FoodAdjectives/HeartBerryMale	Text		Hearty		Süßer
-FoodAdjectives/HeartBerryRare	Text		Delightful		Köstliches
-FoodAdjectives/HeartBerryRareFemale	Text		Delightful		Köstliche
-FoodAdjectives/HeartBerryRareMale	Text		Delightful		Köstlicher
-FoodAdjectives/LarvaMeat	Text		Gooey		Klebriges
-FoodAdjectives/LarvaMeatFemale	Text		Gooey		Klebrige
-FoodAdjectives/LarvaMeatMale	Text		Gooey		Klebriger
-FoodAdjectives/Lunacorn	Text		Iridescent		Schillerndes
-FoodAdjectives/LunacornFemale	Text		Iridescent		Schillernde
-FoodAdjectives/LunacornMale	Text		Iridescent		Schillernder
-FoodAdjectives/LunacornRare	Text		Brilliant		Brillantes
-FoodAdjectives/LunacornRareFemale	Text		Brilliant		Brillante
-FoodAdjectives/LunacornRareMale	Text		Brilliant		Brillanter
-FoodAdjectives/Meat	Text		Tender		Zartes
-FoodAdjectives/MeatFemale	Text		Tender		Zarte
-FoodAdjectives/MeatMale	Text		Tender		Zarter
-FoodAdjectives/MoldShark	Text		Moldy		Schimmliges
-FoodAdjectives/MoldSharkFemale	Text		Moldy		Schimmlige
-FoodAdjectives/MoldSharkMale	Text		Moldy		Schimmliger
-FoodAdjectives/Mushroom	Text		Mushy		Pilziges
-FoodAdjectives/MushroomFemale	Text		Mushy		Pilzige
-FoodAdjectives/MushroomMale	Text		Mushy		Pilziger
-FoodAdjectives/OrangeCaveGuppy	Text		Orange		Oranges
-FoodAdjectives/OrangeCaveGuppyFemale	Text		Orange		Orange
-FoodAdjectives/OrangeCaveGuppyMale	Text		Orange		Oranger
-FoodAdjectives/Pewpaya	Text		Juicy		Saftiges
-FoodAdjectives/PewpayaFemale	Text		Juicy		Saftige
-FoodAdjectives/PewpayaMale	Text		Juicy		Saftiger
-FoodAdjectives/PewpayaRare	Text		Luscious		Frisches
-FoodAdjectives/PewpayaRareFemale	Text		Luscious		Frische
-FoodAdjectives/PewpayaRareMale	Text		Luscious		Frischer
-FoodAdjectives/Pinegrapple	Text		Sweet		Süßes
-FoodAdjectives/PinegrappleFemale	Text		Sweet		Süße
-FoodAdjectives/PinegrappleMale	Text		Sweet		Süßer
-FoodAdjectives/PinegrappleRare	Text		Succulent		Sukkulentes
-FoodAdjectives/PinegrappleRareFemale	Text		Succulent		Sukkulente
-FoodAdjectives/PinegrappleRareMale	Text		Succulent		Sukkulenter
-FoodAdjectives/PinkCoralotl	Text		Coral Red		Korallenrotes
-FoodAdjectives/PinkCoralotlFemale	Text		Coral Red		Korallenrote
-FoodAdjectives/PinkCoralotlMale	Text		Coral Red		Korallenroter
-FoodAdjectives/PinkPalaceFish	Text		Pink		Pinkes
-FoodAdjectives/PinkPalaceFishFemale	Text		Pink		Pinke
-FoodAdjectives/PinkPalaceFishMale	Text		Pink		Pinker
-FoodAdjectives/Puffungi	Text		Puffy		Puffiges
-FoodAdjectives/PuffungiFemale	Text		Puffy		Puffige
-FoodAdjectives/PuffungiMale	Text		Puffy		Puffiger
-FoodAdjectives/PuffungiRare	Text		Musty		Muffiges
-FoodAdjectives/PuffungiRareFemale	Text		Musty		Muffige
-FoodAdjectives/PuffungiRareMale	Text		Musty		Muffiger
-FoodAdjectives/RockJaw	Text		Rocky		Steiniges
-FoodAdjectives/RockJawFemale	Text		Rocky		Steinige
-FoodAdjectives/RockJawMale	Text		Rocky		Steiniger
-FoodAdjectives/RotFish	Text		Rotten		Verrottetes
-FoodAdjectives/RotFishFemale	Text		Rotten		Verrottete
-FoodAdjectives/RotFishMale	Text		Rotten		Verrotteter
-FoodAdjectives/SandySpikeback	Text		Sandy		Sandiges
-FoodAdjectives/SandySpikebackFemale	Text		Sandy		Sandige
-FoodAdjectives/SandySpikebackMale	Text		Sandy		Sandiger
-FoodAdjectives/SilverTorrentDart	Text		Silver		Silbernes
-FoodAdjectives/SilverTorrentDartFemale	Text		Silver		Silberne
-FoodAdjectives/SilverTorrentDartMale	Text		Silver		Silberner
-FoodAdjectives/SolidSpikeback	Text		Solid		Solides
-FoodAdjectives/SolidSpikebackFemale	Text		Solid		Solide
-FoodAdjectives/SolidSpikebackMale	Text		Solid		Solider
-FoodAdjectives/SpiritVeil	Text		Spiritual		Spirituelles
-FoodAdjectives/SpiritVeilFemale	Text		Spiritual		Spirituelle
-FoodAdjectives/SpiritVeilMale	Text		Spiritual		Spiritueller
-FoodAdjectives/StarlightNautilus	Text		Sparkling		Glitzerndes
-FoodAdjectives/StarlightNautilusFemale	Text		Sparkling		Glitzernde
-FoodAdjectives/StarlightNautilusMale	Text		Sparkling		Glitzernder
-FoodAdjectives/Sunrice	Text		Radiant		Strahlendes
-FoodAdjectives/SunriceFemale	Text		Radiant		Strahlende
-FoodAdjectives/SunriceMale	Text		Radiant		Strahlender
-FoodAdjectives/SunriceRare	Text		Dazzling		Blendendes
-FoodAdjectives/SunriceRareFemale	Text		Dazzling		Blendende
-FoodAdjectives/SunriceRareMale	Text		Dazzling		Blendender
-FoodAdjectives/TealPalaceFish	Text		Teal		Türkises
-FoodAdjectives/TealPalaceFishFemale	Text		Teal		Türkise
-FoodAdjectives/TealPalaceFishMale	Text		Teal		Türkiser
-FoodAdjectives/TornisKingfish	Text		Royal		Königliches
-FoodAdjectives/TornisKingfishFemale	Text		Royal		Königliche
-FoodAdjectives/TornisKingfishMale	Text		Royal		Königlicher
-FoodAdjectives/VampireEel	Text		Vampiristic		Vampirisches
-FoodAdjectives/VampireEelFemale	Text		Vampiristic		Vampirische
-FoodAdjectives/VampireEelMale	Text		Vampiristic		Vampirischer
-FoodAdjectives/VerdantDragonfish	Text		Verdant		Sattgrünes
-FoodAdjectives/VerdantDragonfishFemale	Text		Verdant		Sattgrüne
-FoodAdjectives/VerdantDragonfishMale	Text		Verdant		Sattgrüner
-FoodAdjectives/WhiteCoralotl	Text		White		Weißes
-FoodAdjectives/WhiteCoralotlFemale	Text		White		Weiße
-FoodAdjectives/WhiteCoralotlMale	Text		White		Weißer
-FoodAdjectives/YellowBlisterHead	Text		Yellow		Gelbes
-FoodAdjectives/YellowBlisterHeadFemale	Text		Yellow		Gelbe
-FoodAdjectives/YellowBlisterHeadMale	Text		Yellow		Gelber
-FoodNouns/AmberLarva	Text		Amber		Bernstein
-FoodNouns/AngleFish	Text		Crystal		Kristall
-FoodNouns/AstralJelly	Text		Jelly		Quallen
-FoodNouns/AtlantianWormHeart	Text		Giant		Giganten
-FoodNouns/AzureFeatherFish	Text		Feather		Feder
-FoodNouns/BlackSteelUrchin	Text		Urchin		Seeigel
-FoodNouns/BloatOat	Text		Oat		Hafer
-FoodNouns/BloatOatRare	Text		Goldoat		Goldhafer
-FoodNouns/BlueCaveGuppy	Text		Guppy		Guppy
-FoodNouns/BombPepper	Text		Pepper		Pfeffer
-FoodNouns/BombPepperRare	Text		Goldpepper		Goldpfeffer
-FoodNouns/BottomTracer	Text		Barbel		Bartel
-FoodNouns/BrightLavaEater	Text		Lava		Lava
-FoodNouns/BrownDuneTail	Text		Dune		Dünen
-FoodNouns/Carrock	Text		Stone		Stein
-FoodNouns/CarrockRare	Text		Goldstone		Goldstein
-FoodNouns/CosmicForm	Text		Cosmos		Kosmos
-FoodNouns/CrownSquid	Text		Squid		Tintenfisch
-FoodNouns/DaggerFin	Text		Fin		Flossen
-FoodNouns/DarkLavaEater	Text		Lava		Lava
-FoodNouns/Deepstalker	Text		Hunter		Jäger
-FoodNouns/DevilWorm	Text		Worm		Wurm
-FoodNouns/ElderDragonfish	Text		Dragon		Drachen
-FoodNouns/EmeraldFeatherFish	Text		Feather		Feder
-FoodNouns/GemCrab	Text		Crab		Krabben
-FoodNouns/GiantMushroom	Text		Mushroom		Pilz
-FoodNouns/GlowingTulipFlower	Text		Tulip		Tulpen
-FoodNouns/GlowingTulipFlowerRare	Text		Goldtulip		Goldtulpen
-FoodNouns/GoldenAngleFish	Text		Crystal		Kristall
-FoodNouns/GoldenDeepstalker	Text		Hunter		Jäger
-FoodNouns/GoldenLarvaMeat	Text		Gold		Gold
-FoodNouns/GoldenTorrentDart	Text		Dart		Pfeil
-FoodNouns/GreenBlisterHead	Text		Blister		Blasen
-FoodNouns/GreyDuneTail	Text		Dune		Dünen
-FoodNouns/Grumpkin	Text		Lump		Knollen
-FoodNouns/GrumpkinRare	Text		Goldlump		Goldknollen
-FoodNouns/HeartBerry	Text		Berry		Beeren
-FoodNouns/HeartBerryRare	Text		Goldberry		Goldbeeren
-FoodNouns/LarvaMeat	Text		Meat		Fleisch
-FoodNouns/Lunacorn	Text		Moon		Mond
-FoodNouns/LunacornRare	Text		Goldmoon		Goldmond
-FoodNouns/Meat	Text		Meat		Fleisch
-FoodNouns/MoldShark	Text		Shark		Hai
-FoodNouns/Mushroom	Text		Mushroom		Pilz
-FoodNouns/OrangeCaveGuppy	Text		Guppy		Guppy
-FoodNouns/Pewpaya	Text		Fruit		Frucht
-FoodNouns/PewpayaRare	Text		Goldfruit		Goldfrucht
-FoodNouns/Pinegrapple	Text		Tropics		Tropen
-FoodNouns/PinegrappleRare	Text		Goldtropics		Goldtropen
-FoodNouns/PinkCoralotl	Text		Coral		Korallen
-FoodNouns/PinkPalaceFish	Text		Palace		Palast
-FoodNouns/Puffungi	Text		Mold		Schimmel
-FoodNouns/PuffungiRare	Text		Goldmold		Goldschimmel
-FoodNouns/RockJaw	Text		Jaw		Kiefer
-FoodNouns/RotFish	Text		Decay		Verfall
-FoodNouns/SandySpikeback	Text		Spike		Stachel
-FoodNouns/SilverTorrentDart	Text		Dart		Pfeil
-FoodNouns/SolidSpikeback	Text		Spike		Stachel
-FoodNouns/SpiritVeil	Text		Veil		Schleier
-FoodNouns/StarlightNautilus	Text		Starlight		Sternlicht
-FoodNouns/Sunrice	Text		Sun		Sonnen
-FoodNouns/SunriceRare	Text		Goldsun		Goldsonnen
-FoodNouns/TealPalaceFish	Text		Palace		Palast
-FoodNouns/TornisKingfish	Text		King		König
-FoodNouns/VampireEel	Text		Eel		Aal
-FoodNouns/VerdantDragonfish	Text		Dragon		Drachen
-FoodNouns/WhiteCoralotl	Text		Coral		Korallen
-FoodNouns/YellowBlisterHead	Text		Blister		Blasen
-FoodTypes/Fish	Text		Fish		Fisch
-FoodTypes/Meat	Text		Other		Andere
-FoodTypes/Plant	Text		Plant		Pflanze
-HardMode	Text		Hard		Schwer
+Conditions/VisibleOreDistanceIncrease	Text		{0} tiles visible ore distance	{0} płytek widocznych w odległości rudy	{0} Fliesen sichtbare Erz-Entfernung
+Conditions/WellFedBuffsThresholdReduction	Text		Well fed buffs are gained at {0}% lower food	Premie za dobre odżywienie są zdobywane przy {0}% niższym poziomie nasycenia	Wohlgenährt-Buffs werden bei {0} % geringerem Essen erhalten
+Conditions/WellFedDamageIncrease	Text		{0}% increased damage from being well fed	{0}% zwiększone obrażenia od dobrego odżywienia	{0} % erhöhter Schaden durch „Wohlgenährt“ 
+Conditions/WellFedHealthIncrease	Text		{0}% increased max health from being well fed	{0}% zwiększone maksymalne zdrowie od dobrego odżywienia	{0} % erhöhte max. Gesundheit durch „Wohlgenährt“
+Conditions/WellFedMovementSpeedIncrease	Text		{0}% movement speed from being well fed	{0}% prędkości ruchu od dobrego odżywienia	{0} % erhöhte Bewegungsgeschwindigkeit durch „Wohlgenährt“
+ControlMapper/A4	Text		A4	A4	A4
+ControlMapper/A4S	Text		A#4	A#4	A#4
+ControlMapper/A5	Text		A5	A5	A5
+ControlMapper/A5S	Text		A#5	A#5	A#5
+ControlMapper/AccelerateVehicle	Text		Accelerate vehicle	Przyspieszenie pojazdu	Fahrzeug beschleunigen
+ControlMapper/B4	Text		B4	B4	H4
+ControlMapper/B5	Text		B5	B5	H5
+ControlMapper/C4	Text		C4	C4	C4
+ControlMapper/C4S	Text		C#4	C#4	C#4
+ControlMapper/C5	Text		C5	C5	C5
+ControlMapper/C5S	Text		C#5	C#5	C#5
+ControlMapper/D4	Text		D4	D4	D4
+ControlMapper/D4S	Text		D#4	D#4	D#4
+ControlMapper/D5	Text		D5	D5	D5
+ControlMapper/D5S	Text		D#5	D#5	D#5
+ControlMapper/DefaultCategory	Text		Default	Domyślny	Standard
+ControlMapper/DropSelectedItem	Text		Drop item to world	Upuszczasz przedmioty na ziemie	Gegenstand in der Welt erscheinen lassen
+ControlMapper/E4	Text		E4	E4	E4
+ControlMapper/E5	Text		E5	E5	E5
+ControlMapper/EquipPreset1	Text		Equip loadout 1	Wyposażenie 1	Ausrüstungskombo 1 ausrüsten
+ControlMapper/EquipPreset2	Text		Equip loadout 2	Wyposażenie 2	Ausrüstungskombo 2 ausrüsten
+ControlMapper/EquipPreset3	Text		Equip loadout 3	Wyposażenie 3	Ausrüstungskombo 3 ausrüsten
+ControlMapper/EquipSlot1	Text		Equip slot 1	Gniazdo wyposażenia 1	Ausrüstungsslot 1
+ControlMapper/EquipSlot10	Text		Equip slot 10	Gniazdo wyposażenia 10	Ausrüstungsslot 10
+ControlMapper/EquipSlot2	Text		Equip slot 2	Gniazdo wyposażenia 2	Ausrüstungsslot 2
+ControlMapper/EquipSlot3	Text		Equip slot 3	Gniazdo wyposażenia 3	Ausrüstungsslot 3
+ControlMapper/EquipSlot4	Text		Equip slot 4	Gniazdo wyposażenia 4	Ausrüstungsslot 4
+ControlMapper/EquipSlot5	Text		Equip slot 5	Gniazdo wyposażenia 5	Ausrüstungsslot 5
+ControlMapper/EquipSlot6	Text		Equip slot 6	Gniazdo wyposażenia  6	Ausrüstungsslot 6
+ControlMapper/EquipSlot7	Text		Equip slot 7	Gniazdo wyposażenia  7	Ausrüstungsslot 7
+ControlMapper/EquipSlot8	Text		Equip slot 8	Gniazdo wyposażenia  8	Ausrüstungsslot 8
+ControlMapper/EquipSlot9	Text		Equip slot 9	Gniazdo wyposażenia 9	Ausrüstungsslot 9
+ControlMapper/F4	Text		F4	F4	F4
+ControlMapper/F4S	Text		F#4	F#4	F#4
+ControlMapper/F5	Text		F5	F5	F5
+ControlMapper/F5S	Text		F#5	F#5	F#5
+ControlMapper/G4	Text		G4	G4	G4
+ControlMapper/G4S	Text		G#4	G#4	G#4
+ControlMapper/G5	Text		G5	G5	G5
+ControlMapper/G5S	Text		G#5	G#5	G#5
+ControlMapper/GameCancel	Text		Close	Zamknij	Schließen
+ControlMapper/GameConfirm	Text		Confirm option	Potwierdź opcję	Option bestätigen
+ControlMapper/GameInteract	Text		Attack	Atak	Angreifen
+ControlMapper/GameMenu	Text		Open menu	Otwórzenie menu	Menü öffnen
+ControlMapper/GameNextItem	Text		Equip next item	Wyposażenie następnego przedmiotu	Nächsten Gegenstand ausrüsten
+ControlMapper/GamePreviousItem	Text		Equip previous item	Wyposażenie poprzedniego przedmiotu	Vorherigen Gegenstand ausrüsten
+ControlMapper/GameSecondInteract	Text		Use item	Użycie przedmiotu	Gegenstand benutzen
+ControlMapper/GameX	Text		Left joystick X-axis	Lewy drążek Oś X	Linker Stick X-Achse
+ControlMapper/GameY	Text		Left joystick Y-axis	Lewy drążek Oś Y	Linker Stick Y-Achse
+ControlMapper/Honk	Text		Vehicle honk	Trąbienie pojazdu	Fahrzeughupe
+ControlMapper/MapPing	Text		Ping map	Ping mapa	Karte anpingen
+ControlMapper/MenuDown	Text		In-game UI down	Interfejs w grze - dół	Spiel-UI unten
+ControlMapper/MenuLeft	Text		In-game UI left	Interfejs w grze - lewo	Spiel-UI links
+ControlMapper/MenuRight	Text		In-game UI right	Interfejs w grze - prawo	Spiel-UI rechts
+ControlMapper/MenuUp	Text		In-game UI up	Interfejs w grze - góra	Spiel-UI oben
+ControlMapper/MoveBackward	Text		Move backward	Ruch do tyłu	Nach hinten
+ControlMapper/MoveFaster	Text		Move fast in creative mode	Szybki ruch w trybie kreatywnym	Bewege dich schnell im Kreativmodus
+ControlMapper/MoveForward	Text		Move forward	Ruch do przodu	Nach vorne
+ControlMapper/MoveLeft	Text		Move left	Ruch w lewo	Nach links
+ControlMapper/MoveRight	Text		Move right	Ruch w prawo	Nach rechts
+ControlMapper/MoveUp	Text		Move forward	Ruch do przodu	Nach vorne
+ControlMapper/MusicInstrumentCategory	Text		Instrument	Instrument	Instrument
+ControlMapper/ObjectInteract	Text		Interact with object	Interakcja z obiektem	Mit Objekt interagieren
+ControlMapper/OctaveChange	Text		Increase octave on controller	Zwiększenie oktawy na kontrolerze	Oktave auf dem Controller erhöhen
+ControlMapper/OpenChat	Text		Open chat	Otwieranie czatu	Chat öffnen
+ControlMapper/PickUp10	Text		Pick up / drop 10 items	Podnieś / upuść 10 przedmiotów	10 Gegenstände aufnehmen / ablegen
+ControlMapper/PickUpAllItems	Text		Pick up / drop all items	Podnieś / upuść wszystkie przedmioty	Alle Gegenstände aufnehmen / ablegen
+ControlMapper/PickUpHalf	Text		Pick up / drop half of total item amount	Podnieś / upuść połowę całkowitej liczby przedmiotów	Die Hälfte der gesamten Gegenstandsmenge aufnehmen / ablegen
+ControlMapper/PickUpItems	Text		Pick up / drop item	Podnieś / upuść przedmiot	Gegenstand aufnehmen / ablegen
+ControlMapper/QuickMoveItems	Text		Move item to other inventory or equip	Przeniesienie przedmiotu do innego ekwipunku lub na wyposażenie	Gegenstand in anderes Inventar verschieben oder ausrüsten
+ControlMapper/QuickStack	Text		Move already existing items to storage	Przenoszenie już istniejących przedmiotów do magazynu	Bereits vorhandene Gegenstände ins Lager verschieben
+ControlMapper/QuickSwapTorch	Text		Swap to torch temporarily	Tymczasowa zamiana na pochodnię	Vorübergehend auf Fackel umstellen
+ControlMapper/ReverseVehicle	Text		Reverse vehicle	Cofanie pojazdu	Fahrzeug im Rückwärtsgang
+ControlMapper/RightJoyStickX	Text		Right joystick X-axis	Prawy drążek Oś X	Rechter Stick X-Achse
+ControlMapper/RightJoyStickY	Text		Right joystick Y-axis	Prawy drążek Oś Y	Rechter Stick Y-Achse
+ControlMapper/RightJoystickBack	Text		Right joystick backward	Prawy drążek do tyłu	Rechter Stick rückwärts
+ControlMapper/RightJoystickForward	Text		Right joystick forward	Prawy drążek do przodu	Rechter Stick vorwärts
+ControlMapper/RightJoystickLeft	Text		Right joystick left	Prawy drążek w lewo	Rechter Stick links
+ControlMapper/RightJoystickRight	Text		Right joystick right	Prawy drążek w prawo	Rechter Stick rechts
+ControlMapper/Rotate	Text		Rotate	Obrót	Rotieren
+ControlMapper/Sort	Text		Sort inventory	Sortowanie ekwipunku	Inventar sortieren
+ControlMapper/SplitStack	Text		Split item stack	Podział stosu przedmiotów	Gegenstandstapel teilen
+ControlMapper/StopPlayingInstrument	Text		Stop playing	Przerwij grę	Nicht mehr spielen
+ControlMapper/ToggleInventory	Text		Toggle inventory	Przełączanie ekwipunku	Inventar umschalten
+ControlMapper/ToggleMap	Text		Toggle map	Przełączanie mapy	Karte umschalten
+ControlMapper/ToggleShortCutsWindow	Text		Toggle shortcuts window	Włączanie okna skrótów	Fenster der Abkürzungen umschalten
+ControlMapper/ToggleSpectatedPlayer	Text	Toggles which player is being spectated. Can be used after dying as hard core character.	Toggle spectated player	Przełączanie obserwowanego gracza	Beobachteten Spieler umschalten
+ControlMapper/ToggleUI	Text		Toggle in-game UI	Przełączanie interfejsu w grze	Spiel-UI umschalten
+ControlMapper/TrashItem	Text		Trash selected item	Wyrzuć wybrany przedmiot	Ausgewählten Gegenstand entsorgen
+ControlMapper/UIInteract	Text		UI interact	Interakcja interfejsu	UI-Interaktion
+ControlMapper/UIModifierKeys	Text		Inventory UI modifiers, use together with pick up / drop item actions	Modyfikatory interfejsu użytkownika, używane razem z akcjami podnoszenia/upuszczania przedmiotów	UI-Modifikatoren des Inventars, zusammen mit Aktionen zum Aufnehmen / Ablegen von Gegenständen verwenden
+ControlMapper/UISecondInteract	Text		UI second interact	Druga interakcja interfejsu	Zweite UI-Interaktion
+ControlMapper/UseOffHand	Text		Use off-hand	Użyj drugiej ręki	Zweithand benutzen
+ControlMapper/ZoomInMap	Text		Zoom in map	Powiększanie mapy	Karte vergrößern
+ControlMapper/ZoomOutMap	Text		Zoom out map	Pomniejszanie mapy	Karte verkleinern
+ControlMapper/actionColumnLabel	Text		Actions	Akcja	Aktionen
+ControlMapper/add	Text		Add	Dodaj	Hinzufügen
+ControlMapper/alt	Text		Alt	Alt	Alt
+ControlMapper/assignControllerButtonLabel	Text		Assign Controller	Przypisz kontroler	Controller zuweisen
+ControlMapper/assignControllerWindowMessage	Text		Press any button or move an axis on the controller you would like to use.	Naciśnij dowolny przycisk lub przesuń oś na kontrolerze, którego chcesz użyć.	Drücke eine beliebige Taste oder bewege eine Achse auf dem Controller, die du verwenden möchtest.
+ControlMapper/assignControllerWindowTitle	Text		Choose Controller	Wybierz kontroler	Controller wählen
+ControlMapper/assignedControllersGroupLabel	Text		Assigned Controllers:	Przypisane kontrolery:	Zugewiesene Controller:
+ControlMapper/calibrateAxisStep1WindowMessage	Text		Center or zero {0} and press any button or wait for the timer to finish.	Wyśrodkuj lub wyzeruj {0} i naciśnij dowolny przycisk lub poczekaj na zakończenie odliczania.	Stelle {0} in die Mitte oder auf null und drücke eine beliebige Taste – du kannst auch warten, bis der Timer abgelaufen ist.
+ControlMapper/calibrateAxisStep1WindowTitle	Text		Calibrate Zero	Kalibracja zera	Null kalibrieren
+ControlMapper/calibrateAxisStep2WindowMessage	Text		Move {0} through its entire range then press any button or wait for the timer to finish.	Przesuń {0} przez cały zakres, a następnie naciśnij dowolny przycisk lub poczekaj na zakończenie odliczania.	Bewege {0} durch den gesamten Bereich und drücke eine beliebige Taste – du kannst auch warten, bis der Timer abgelaufen ist.
+ControlMapper/calibrateAxisStep2WindowTitle	Text		Calibrate Range	Zakres kalibracji	Bereich kalibrieren
+ControlMapper/calibrateControllerButtonLabel	Text		Calibrate	Kalibracja	Kalibrieren
+ControlMapper/calibrateControllerWindowTitle	Text		Calibrate Controller	Kalibracja kontrolera	Controller kalibrieren
+ControlMapper/calibrateWindow_calibrateButtonLabel	Text		Calibrate	Kalibracja	Kalibrieren
+ControlMapper/calibrateWindow_deadZoneSliderLabel	Text		Dead Zone:	Martwa strefa:	Totzone:
+ControlMapper/calibrateWindow_invertToggleLabel	Text		Invert	Odwróć	Invertieren
+ControlMapper/calibrateWindow_sensitivitySliderLabel	Text		Sensitivity:	Czułość:	Empfindlichkeit:
+ControlMapper/calibrateWindow_zeroSliderLabel	Text		Zero:	Zero:	Null:
+ControlMapper/command	Text		Command	Polecenie	Befehl
+ControlMapper/control	Text		Control	Sterowanie	Steuerung
+ControlMapper/controllerAssignmentConflictWindowMessage	Text	{0} = Joystick Name, {1} = Other Player Name, {2} = This Player Name	{0} is already assigned to {1}. Do you want to assign this controller to {2} instead?	{0} jest już przypisany do {1}. Czy zamiast tego chcesz przypisać ten kontroler do {2}?	{0} ist bereits {1} zugewiesen. Möchtest du diesen Controller stattdessen {2} zuweisen?
+ControlMapper/controllerAssignmentConflictWindowTitle	Text		Controller Assignment	Przypisanie kontrolera	Controller-Zuweisung
+ControlMapper/controllerColumnLabel	Text		Controller	Kontroler	Controller
+ControlMapper/controllerSettingsGroupLabel	Text		Controller:	Kontroler:	Controller:
+ControlMapper/default	Text		Default	Domyślny	Standard
+ControlMapper/doneButtonLabel	Text		Done	Gotowe	Fertig
+ControlMapper/elementAlreadyInUseBlocked	Text		{0} is already in use cannot be replaced.	{0} is already in use cannot be replaced.	{0} wird bereits verwendet und kann nicht ersetzt werden.
+ControlMapper/elementAlreadyInUseCanReplace	Text		{0} is already in use. Do you want to replace it?	{0} jest już używany. Czy chcesz go zastąpić?	{0} wird bereits verwendet. Ersetzen?
+ControlMapper/elementAlreadyInUseCanReplace_conflictAllowed	Text		{0} is already in use. Do you want to replace it? You may also choose to add the assignment anyway.	{0} jest już używany. Czy chcesz go zastąpić? Możesz również dodać przypisanie mimo wszystko.	{0} wird bereits verwendet. Ersetzen? Du kannst die Zuweisung auch trotzdem hinzufügen.
+ControlMapper/elementAssignmentConflictWindowMessage	Text		Assignment Conflict	Przydział konfliktu	Zuweisungskonflikt
+ControlMapper/elementAssignmentPrePollingWindowMessage	Text		First center or zero all sticks and axes and press any button or wait for the timer to finish.	Najpierw wyśrodkuj lub wyzeruj wszystkie drążki i osie, a następnie naciśnij dowolny przycisk lub poczekaj na zakończenie odliczania.	Zentriere zuerst alle Sticks oder stelle sie auf null und drücke eine beliebige Taste – du kannst auch warten, bis der Timer abgelaufen ist.
+ControlMapper/inputBehaviorSettingsButtonLabel	Text		Sensitivity	Czułość	Empfindlichkeit
+ControlMapper/inputBehaviorSettingsWindowTitle	Text		Sensitivity Settings	Ustawienia czułości	Empfindlichkeitseinstellungen
+ControlMapper/joystickElementAssignmentPollingWindowMessage	Text		Now press a button or move an axis to assign it to {0}.	Teraz naciśnij przycisk lub przesuń oś, aby przypisać ją do {0}.	Drücke jetzt eine Taste oder bewege eine Achse, um sie {0} zuzuweisen.
+ControlMapper/joystickElementAssignmentPollingWindowMessage_fullAxisFieldOnly	Text		Now move an axis to assign it to {0}.	Teraz przesuń oś, aby przypisać ją do {0}.	Bewege jetzt eine Achse, um sie {0} zuzuweisen.
+ControlMapper/keyboardColumnLabel	Text		Keyboard	Klawiatura	Tastatur
+ControlMapper/keyboardElementAssignmentPollingWindowMessage	Text		Press a key to assign it to {0}. Modifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.	Naciśnij przycisk, aby przypisać go do {0}. Można również użyć przycisków pomocniczych. Aby przypisać sam przycisk pomocniczy, naciśnij go i przytrzymaj przez 1 sekundę.	Drücke eine Taste, um sie {0} zuzuweisen. Du kannst auch Hilfstasten verwenden. Um allein eine Hilfstaste zu belegen, halte sie 1 Sekunde lang gedrückt.
+ControlMapper/mapCategoriesGroupLabel	Text		Categories:	Kategorie:	Kategorien:
+ControlMapper/mouseAssignmentConflictWindowMessage	Text		The mouse is already assigned to {0}. Do you want to assign the mouse to {1} instead?	Mysz jest już przypisana do {0}. Czy zamiast tego chcesz przypisać mysz do {1}?	Die Maus ist bereits {0} zugewiesen. Möchtest du die Maus stattdessen {1} zuweisen?
+ControlMapper/mouseAssignmentConflictWindowTitle	Text		Mouse Assignment	Przypisanie myszy	Maus-Zuweisung
+ControlMapper/mouseColumnLabel	Text		Mouse	Mysz	Maus
+ControlMapper/mouseElementAssignmentPollingWindowMessage	Text		Press a mouse button or move an axis to assign it to {0}	Naciśnij przycisk myszy lub przesuń oś, aby przypisać ją do {0}.	Drücke eine Maustaste oder bewege eine Achse, um sie {0} zuzuweisen
+ControlMapper/mouseElementAssignmentPollingWindowMessage_fullAxisFieldOnly	Text		Move an axis to assign it to {0}.	Przesuń oś, aby przypisać ją do {0}.	Bewege eine Achse, um sie {0} zuzuweisen.
+ControlMapper/none	Text		None	Brak	Keiner
+ControlMapper/okay	Text		Okay	Ok	Okay
+ControlMapper/playersGroupLabel	Text		Players:	Gracze:	Spieler:
+ControlMapper/remove	Text		Remove	Usuń	Entfernen
+ControlMapper/removeControllerButtonLabel	Text		Remove	Usuń	Entfernen
+ControlMapper/restoreDefaultsButtonLabel	Text		Restore Defaults	Przywróć ustawienia domyślne	Standardeinstellungen wiederherstellen
+ControlMapper/restoreDefaultsWindowMessage_multiPlayer	Text		This will restore the default input configuration for all players. Are you sure you want to do this?	Spowoduje to przywrócenie domyślnej konfiguracji wejścia dla wszystkich graczy. Czy na pewno chcesz to zrobić?	Dies stellt die Standard-Eingabekonfiguration für alle Spieler wieder her. Sicher?
+ControlMapper/restoreDefaultsWindowMessage_onePlayer	Text		This will restore the default input configuration. Are you sure you want to do this?	Spowoduje to przywrócenie domyślnej konfiguracji wejścia. Czy na pewno chcesz to zrobić?	Dies stellt die Standard-Eingabekonfiguration wieder her. Sicher?
+ControlMapper/restoreDefaultsWindowTitle	Text		Restore Defaults	Przywróć ustawienia domyślne	Standardeinstellungen wiederherstellen
+ControlMapper/separator	Text		 +	 +	+
+ControlMapper/settingsGroupLabel	Text		Settings:	Ustawienia:	Einstellungen:
+ControlMapper/shift	Text		Shift	Shift	Umschalttaste
+ControlMapper/swap	Text		Swap	Zamiana	Tauschen
+CookFoodToDiscover	Text		Cook food to start discovering recipes	Gotuj jedzenie, aby zacząć odkrywać przepisy	Koche Essen, um neue Rezepte zu entdecken
+CooldownMin	Text		{0} min cooldown	{0} min czasu odnowienia	{0} Min. Abklingzeit
+CooldownMinSec	Text		{0} min {1} sec cooldown	{0} min {1} sek odnowienia	{0} Min. {1} Sek. Abklingzeit
+CooldownSec	Text		{0} sec cooldown	{0} sek czasu odnowienia	{0} Sek. Abklingzeit
+CreativeMode	Text		Creative	Kreatywny	Kreativ
+CreativeModeDesc	Text		Set your imagination free in an empty, limitless world.	Uwolnij swoją wyobraźnię w pustym, nieograniczonym świecie.	Lass deiner Fantasie freien Lauf in einer leeren, grenzenlosen Welt.
+Credits/AmazingModeratorTeam	Text		Amazing Moderator Team	Wspaniały zespół moderatorów	Ein großartiges Moderatorenteam
+Credits/Animation	Text		Animation	Animacje	Animation
+Credits/Art	Text		Art	Obraz	Grafik
+Credits/AssociateProducer	Text		Associate Producer	Współpracownik ds. produkcji	Associate Producer
+Credits/AssociateProductManager	Text		Associate Product Manager	Zastępca kierownika produktu	Associate Product Manager
+Credits/CEO	Text		CEO	DYREKTOR GENERALNY	CEO
+Credits/COO	Text		COO	DYREKTOR OPERACYJNY	COO
+Credits/ChiefAcquisitionsProductionOfficer	Text		Chief Acquisitions & Production Officer	Dyrektor ds. przejęć i produkcji	Chief Acquisitions & Production Officer
+Credits/CommunityManager	Text		Community Manager	Menedżer społeczności	Community Manager
+Credits/CompatibilityTesting	Text		Compatibility testing	Testowanie kompatybilności	Kompatibilitätstests
+Credits/CoreKeeper	Text		Core Keeper	Core Keeper	Core Keeper
+Credits/CoreSupporters	Text		Core Supporters	Core Wspierający	Core-Unterstützer
+Credits/CreativeDirector	Text		Creative Director	Dyrektor kreatywny	Creative Director
+Credits/DevOps	Text		DevOps	DevOps	DevOps
+Credits/DevelopedBy	Text		Developed by	Opracowano przez	Entwickelt von
+Credits/DevelopmentDirector	Text		Development Director	Dyrektor ds. rozwoju	Development Director
+Credits/FinanceDirector	Text		Finance Director	Dyrektor ds. finansów	Finance Director
+Credits/FinanceTeam	Text		Finance Team	Zespół finansowy	Finance-Team
+Credits/GameDesign	Text		Game design	Projekt rozgrywki	Gamedesign
+Credits/GameDirector	Text		Game Director	Dyrektor gry	Game Director
+Credits/GameplayDirector	Text		Gameplay Director	Dyrektor rozgrywki	Gameplay Director
+Credits/HeadofProductMarketing	Text		Head of Product Marketing	Kierownik działu marketingu produktów	Head of Product Marketing
+Credits/LeadAnimator	Text		Lead Animator	Główny animator	Lead Animator
+Credits/LeadAnimators	Text		Lead Animators	Główni animatorzy	Lead Animators
+Credits/LeadArtist	Text		Lead Artist	Główny artysta	Lead Artist
+Credits/LeadAssociateProducer	Text		Lead Associate Producer	Główny współpracownik ds. produkcji	Lead Associate Producer
+Credits/LeadRenderingProgrammer	Text		Lead Rendering Programmer	Główny programista renderingu	Lead Rendering Programmer
+Credits/Localisation	Text		Localisation	Lokalizacja	Lokalisierung
+Credits/MarketingDirector	Text		Marketing Director	Dyrektor ds. marketingu	Marketing Director
+Credits/MarketingMaterial	Text		Marketing material	Materiały marketingowe	Marketingmaterial
+Credits/Music	Text		Music	Muzyka	Musik
+Credits/OperationsAssistantManager	Text		Operations Assistant Manager	Asystent kierownika ds. operacyjnych	Operations Assistant Manager
+Credits/OperationsManager	Text		Operations Manager	Kierownik operacyjny	Operations Manager
+Credits/PCFQA	Text		PC FQA	PC FQA	PC FQA
+Credits/PRAndCommunications	Text		PR and Communications	PR i komunikacja	PR und Kommunikation
+Credits/ProductManager	Text		Product Manager	Menedżer produktu	Product Manager
+Credits/ProductionAssistant	Text		Production Assistant	Asystent produkcji	Production Assistant
+Credits/ProductionDirector	Text		Production Director	Dyrektor produkcji	Production Director
+Credits/ProductionSupport	Text		Production Support	Wsparcie produkcji	Unterstützung bei der Produktion
+Credits/Programming	Text		Programming	Programowanie	Programmierung
+Credits/PublishedBy	Text		Published by	Wydane przez	Veröffentlicht von
+Credits/QualityAssuranceCoordinator	Text		Quality Assurance Coordinator	Koordynator ds. zapewnienia jakości	Quality Assurance Coordinator
+Credits/ReleaseManager	Text		Release Manager	Menedżer wydania	Release Manager
+Credits/SFX	Text		SFX	SFX	Soundeffekte
+Credits/SalesDirector	Text		Sales Director	Dyrektor sprzedaży	Sales Director
+Credits/SalesManager	Text		Sales Manager	Kierownik sprzedaży	Sales Manager
+Credits/SeniorBrandManager	Text		Senior Brand Manager	Starszy menedżer marki	Senior Brand Manager
+Credits/SeniorProducer	Text		Senior Producer	Starszy producent	Senior Producer
+Credits/SeniorProductManager	Text		Senior Product Manager	Starszy menedżer produktu	Senior Product Manager
+Credits/SeniorSalesManager	Text		Senior Sales Manager	Starszy kierownik sprzedaży	Verantwortlicher Vertriebsmanager
+Credits/SeventyOneConsulting	Text		71 Consulting	71 Consulting	71 Consulting
+Credits/SocialMediaAndCommunityManager	Text		Social Media and Community Manager	Menedżer ds. mediów społecznościowych i społeczności	Social Media und Community Manager
+Credits/SpecialThanks	Text		Special thanks	Specjalne podziękowania	Mit besonderem Dank an
+Credits/TechnicalDirector	Text		Technical Director	Dyrektor techniczny	Technical Director
+Credits/ThaiFont	Text		Thai font	Thai font	Thai-Schriftart
+Credits/ThanksForPlaying	Text		Thanks for playing!	Dzięki za grę!	Danke fürs Spielen!
+Credits/UserTesting	Text		User testing	Testowanie przez użytkowników	Benutzertest
+Credits/Writing	Text		Writing	Pisanie	Texte
+CreditsNames/ACE	Text		ACE Agency	ACE Agency	ACE Agency
+CreditsNames/AlexanderMa	Text		Alexander Ma	Alexander Ma	Alexander Ma
+CreditsNames/AndreeaSandu	Text		Andreea Sandu	Andreea Sandu	Andreea Sandu
+CreditsNames/AzurDawn	Text		AzurDawn	AzurDawn	AzurDawn
+CreditsNames/Beach	Text		Beach	Beach	Beach
+CreditsNames/BridieDaniels	Text		Bridie Daniels	Bridie Daniels	Bridie Daniels
+CreditsNames/Cedric	Text		Cedric	Cedric	Cedric
+CreditsNames/ChantelleLarmond	Text		Chantelle Larmond	Chantelle Larmond	Chantelle Larmond
+CreditsNames/CharlotteKelly	Text		Charlotte Kelly	Charlotte Kelly	Charlotte Kelly
+CreditsNames/ChrisGlover	Text		Chris Glover	Chris Glover	Chris Glover
+CreditsNames/ChristianMarkowicz	Text		Christian Markowicz	Christian Markowicz	Christian Markowicz
+CreditsNames/CormacBrennan	Text		Cormac Brennan	Cormac Brennan	Cormac Brennan
+CreditsNames/DanJenkins	Text		Dan Jenkins	Dan Jenkins	Dan Jenkins
+CreditsNames/DanielPereira	Text		Daniel Pereira	Daniel Pereira	Daniel Pereira
+CreditsNames/DanieldeKretser	Text		Daniel de Kretser	Daniel de Kretser	Daniel de Kretser
+CreditsNames/DaveScammell	Text		Dave Scammell	Dave Scammell	Dave Scammell
+CreditsNames/DavidLindqvist	Text		David Lindqvist	David Lindqvist	David Lindqvist
+CreditsNames/DavidWalker	Text		David Walker	David Walker	David Walker
+CreditsNames/Enchae	Text		Enchae	Enchae	Enchae
+CreditsNames/Enzyme	Text		Enzyme	Enzyme	Enzyme
+CreditsNames/FelixWestin	Text		Felix Westin	Felix Westin	Felix Westin
+CreditsNames/Fireshine	Text		Fireshine Games	Fireshine Games	Fireshine Games
+CreditsNames/FredrikPrantare	Text		Fredrik Präntare	Fredrik Präntare	Fredrik Präntare
+CreditsNames/FriendsAndFamily	Text		Friends and Families	Friends and Families	Freunde und Familie
+CreditsNames/GarryWilliams	Text		Garry Williams	Garry Williams	Garry Williams
+CreditsNames/Genos	Text		Genos	Genos	Genos
+CreditsNames/HermanAppelgren	Text		Herman Appelgren	Herman Appelgren	Herman Appelgren
+CreditsNames/JamesCato	Text		James Cato	James Cato	James Cato
+CreditsNames/JasonMan	Text		Jason Man	Jason Man	Jason Man
+CreditsNames/JohannesAhlström	Text		Johannes Ahlström	Johannes Ahlström	Johannes Ahlström
+CreditsNames/JonathanGeer	Text		Jonathan Geer	Jonathan Geer	Jonathan Geer
+CreditsNames/JulianBird	Text		Julian Bird	Julian Bird	Julian Bird
+CreditsNames/JulianSeifertOlszewski	Text		Julian Seifert-Olszewski	Julian Seifert-Olszewski	Julian Seifert-Olszewski
+CreditsNames/Karillya	Text		Karillya	Karillya	Karillya
+CreditsNames/KeywordsIndia	Text		Keywords India	Keywords India	Keywords India
+CreditsNames/Kittco36	Text		Kittco36	Kittco36	Kittco36
+CreditsNames/LeeOni	Text		Lee~ (Oni)	Lee~ (Oni)	Lee~ (Oni)
+CreditsNames/LetTheBodyFall	Text		LetTheBodyFall	LetTheBodyFall	LetTheBodyFall
+CreditsNames/MarianaChagas	Text		Mariana Chagas	Mariana Chagas	Mariana Chagas
+CreditsNames/MarkInman	Text		Mark Inman	Mark Inman	Mark Inman
+CreditsNames/MaxHallden	Text		Max Halldén	Max Halldén	Max Halldén
+CreditsNames/MegSpencer	Text		Meg Spencer	Meg Spencer	Meg Spencer
+CreditsNames/Mistry	Text		Mistry	Mistry	Mistry
+CreditsNames/MrVilo	Text		Mr Vilo	Mr Vilo	Mr Vilo
+CreditsNames/Nebur7420	Text		Nebur7420	Nebur7420	Nebur7420
+CreditsNames/NickPayne	Text		Nick Payne	Nick Payne	Nick Payne
+CreditsNames/NiklasWigertz	Text		Niklas Wigertz	Niklas Wigertz	Niklas Wigertz
+CreditsNames/Omnimetatron	Text		Omnimetatron	Omnimetatron	Omnimetatron
+CreditsNames/OskarTengvall	Text		Oskar Tengvall	Oskar Tengvall	Oskar Tengvall
+CreditsNames/Playtropic	Text		Playtropic	Playtropic	Playtropic
+CreditsNames/Pugstorm	Text		Pugstorm AB	Pugstorm AB	Pugstorm AB
+CreditsNames/RasmusJarvela	Text		Rasmus Järvelä	Rasmus Järvelä	Rasmus Järvelä
+CreditsNames/RicardoCruzFarah	Text		Ricardo Cruz Farah	Ricardo Cruz Farah	Ricardo Cruz Farah
+CreditsNames/RobinForsstrom	Text		Robin Forsström	Robin Forsström	Robin Forsström
+CreditsNames/SamMckie	Text		Sam Mckie	Sam Mckie	Sam Mckie
+CreditsNames/SamuelSekandagu	Text		Samuel Sekandagu	Samuel Sekandagu	Samuel Sekandagu
+CreditsNames/SarahHoeksma	Text		Sarah Hoeksma	Sarah Hoeksma	Sarah Hoeksma
+CreditsNames/SeanCampbell	Text		Sean Campbell	Sean Campbell	Sean Campbell
+CreditsNames/SoulWade	Text		Soul Wade	Soul Wade	Soul Wade
+CreditsNames/SvenThole	Text		Sven Thole	Sven Thole	Sven Thole
+CreditsNames/Svings	Text		Svings	Svings	Svings
+CreditsNames/Testify	Text		Testify	Testify	Testify
+CreditsNames/Testronic	Text		Testronic	Testronic	Testronic
+CreditsNames/ThomasLumeau	Text		Thomas Lumeau	Thomas Lumeau	Thomas Lumeau
+CreditsNames/TimSchipper	Text		Tim Schipper	Tim Schipper	Tim Schipper
+CreditsNames/TinaMoore	Text		Tina Moore	Tina Moore	Tina Moore
+CreditsNames/TonyEvans	Text		Tony Evans	Tony Evans	Tony Evans
+CreditsNames/VictoriaKrizmanich	Text		Victoria K.	Victoria K.	Victoria K.
+CreditsNames/VincentCoates	Text		Vincent Coates	Vincent Coates	Vincent Coates
+CreditsNames/Zar	Text		Zar	Zar	Zar
+CreditsNames/bklyn	Text		bklyn	bklyn	bklyn
+CreditsNames/ohCreative	Text		ohCreative	ohCreative	ohCreative
+DemoVersion	Text	{0} will be replaced by the version number	{0} Demo Version	{0} Wersja demonstracyjna	{0} Demo-Version
+DontOverrideSeason	Text		Don't override season	Nie nadpisuj sezonu	Saison nicht überschreiben
+EarlyAccess	Text		Early Access	Wczesny dostęp	Early Access
+EarlyAccessVersion	Text	{0} will be replaced by the version number	{0} Early Access Version	{0} Wersja wczesnego dostępu	{0} Early-Access-Version
+Emotes/AlreadyScanned	Text		I have already scanned this	Już to zeskanowałem	Das habe ich bereits gescannt
+Emotes/CantLeaveWhileItsMoving	Text	Character says this when riding a vehicle such as minecart or boat and tries to jump off while it is moving	I can't leave while it's moving	Nie mogę wyjść, kiedy się porusza	Ich kann nicht gehen, während es sich bewegt
+Emotes/CantSleepWhenEnemiesNear	Text		I can't sleep when enemies are nearby	Nie mogę spać, gdy wrogowie są w pobliżu	Ich kann nicht schlafen, wenn Feinde in der Nähe sind
+Emotes/ICantDestroyThisObject	Text		I can't destroy this object	Nie mogę zniszczyć tego obiektu	Ich kann dieses Objekt nicht zerstören
+Emotes/IDontHaveAPet	Text		I don't have a pet	Nie mam zwierzaka	Ich habe kein Haustier
+Emotes/IDontHaveTheRequiredComponents	Text		I don't have the components	Nie mam komponentów	Ich habe die Komponenten nicht
+Emotes/INeedADrillForThis	Text		I need a stationary drill for this	Potrzebuję do tego stacjonarnego wiertła	Dafür brauche ich eine Standbohrmaschine
+Emotes/INeedBetterToolsForTheseWaters	Text	Means that player needs a better fishing rod or other means of fishing tools	I need better tools for these waters	Potrzebuję lepszych narzędzi na te wody	Für diese Gewässer brauche ich bessere Werkzeuge
+Emotes/IShouldEat	Text		I should eat something	Powinienem coś zjeść	Ich sollte etwas essen
+Emotes/IShouldGatherMyFriends	Text	The character says this when all other players must be present around the player to proceed with an action	I should gather my friends.	Powinienem zebrać przyjaciół.	Ich sollte meine Freunde holen.
+Emotes/ImHungry	Text		I'm quite hungry	Jestem dość głodny	Ich bin ziemlich hungrig
+Emotes/ItDoesntDoAnything	Text	Shown when trying to interact with something that does'nt work such as the Core when it is not powered up.	It doesn't do anything	To nic nie daje	Da tut sich nichts
+Emotes/ItsEmpty	Text	Used when for example the water can is empty	It's empty	Jest pusta	Leer
+Emotes/ItsTooHardINeedADrill	Text		It's too hard, I need a stationary drill	To jest zbyt twarde, potrzebuję stacjonarnego wiertła	Zu hart, ich brauche eine Standbohrmaschine
+Emotes/LarvaEmote1	Text	Something the bigger larvas say when interacting with them while disguised as a larva	Hungry!	Głodny!	Hungrig!
+Emotes/LarvaEmote2	Text		Squeek	Pisk	Quiek
+Emotes/LarvaEmote3	Text		Must dig	Trzeba kopać	Muss graben
+Emotes/LooksLikeItNeedsEnergy	Text	Energy refers to a building needing ancient electricity	Looks like it needs energy	Wygląda, jakby potrzebował energii	Braucht scheinbar Energie
+Emotes/MiningSkillTooLow	Text		My mining damage is too low	Moje obrażenia górnicze są zbyt niskie	Mein Bergbauschaden ist zu niedrig
+Emotes/NeedAncientForge	Text		I must be at the Ancient Forge	Muszę być w Pradawnej Kuźni	Ich muss in der uralten Schmiede sein
+Emotes/NeedHigherMiningSkill	Text		I need higher mining damage	Potrzebuję większych obrażeń górniczych	Ich brauche einen höheren Bergbauschaden
+Emotes/NoNearbyGroundToStandOn	Text		There's no nearby ground to stand on	Nie ma pobliskiego gruntu, na którym można by stanąć	Es ist kein Boden in der Nähe, auf dem man stehen kann
+Emotes/NoOtherPortals	Text	Shown when there are no other portals to teleport to	No other portals to teleport to	Brak innych portali, do których można się teleportować	Keine anderen Portale zum Teleportieren
+Emotes/NotFullyCharged	Text	Shown when player tries to interact with a portal that is still charging up	It needs some time to charge up	Potrzebuje trochę czasu, aby się naładować	Es braucht einige Zeit zum Aufladen
+Emotes/NothingHappens	Text		Nothing happens	Nic się nie dzieje	Nichts passiert
+Emotes/NothingWasFound	Text		Nothing was found	Nic nie znaleziono	Nichts gefunden
+Emotes/ObjectIsImmuneToDamage	Text		The object is immune to damage	Ten obiekt jest odporny na obrażenia	Das Objekt ist immun gegen Schaden
+Emotes/ObjectIsIndestructible	Text		The object is indestructible	Ten obiekt jest niezniszczalny	Das Objekt ist unzerstörbar
+Emotes/Ouch	Text		Ouch!	Auć!	Aua!
+Emotes/OutOfWater	Text		Out of water	Bez wody	Kein Wasser mehr
+Emotes/PetIsAlreadyMaxLevel	Text		Pet is at max level	Zwierzę jest na maksymalnym poziomie	Haustier hat max. Stufe erreicht
+Emotes/PetIsTooFarAway	Text		Pet is too far away	Zwierzę jest zbyt daleko	Haustier ist zu weit entfernt
+Emotes/PoweredDown	Text		It seems powered down	Wygląda na wyłączony	Scheint abgeschaltet zu sein
+Emotes/Questionmark	Text		?	?	?
+Emotes/ShouldPlaceHandOnWall	Text		I should place my hand on the wall	Powinienem położyć dłoń na ścianie	Ich sollte meine Hand an die Wand legen
+Emotes/StomachFull	Text		My stomach is too full	Mój żołądek jest zbyt pełny	Mein Magen ist zu voll
+Emotes/StopHurtingMe	Text		Stop hurting me!	Przestań mnie ranić!	Hör auf, mir weh zu tun!
+Emotes/TheAncientForge	Text	Quotes around it cause player character is reading it	"""The Ancient Forge"""	"""Pradawna kuźnia"""	„Die uralte Schmiede“
+Emotes/TheFishArentBiting	Text		The fish aren't biting	Ryby nie biorą	Die Fische beißen nicht
+Emotes/ThisIsNotMyBed	Text		This is not my bed	To nie jest moje łóżko	Das ist nicht mein Bett
+Emotes/ThisWillTakeAWhile	Text		This will take a while...	To trochę potrwa...	Das könnte dauern ...
+Emotes/ThisWillTakeForever	Text		This will take forever...	To zajmie wieczność...	Das wird ewig dauern ...
+Emotes/UnlockedInEarlyAccess	Text		Unlocked in Early Access	Odblokowane w ramach wczesnego dostępu	Im Early Access freigeschaltet
+Error/AuthenticationFailed	Text		Authentication failed	Autoryzacja nie powiodła się	Authentifizierung fehlgeschlagen
+Error/BackingStorageFull	Text		Disk or cloud quota is full, try deleting some things	Limit na dysku lub w chmurze jest pełny, spróbuj usunąć niektóre rzeczy.	Festplatte oder Cloud-Kontingent ist voll – versuche es damit, einige Dinge zu löschen
+Error/BadProtocolVersion	Text		Game version mismatch	Niezgodność wersji gry	Falsche Spielversion
+Error/Canceled	Text		Operation was canceled	Operacja została anulowana	Vorgang wurde abgebrochen
+Error/CharacterVersionTooHigh	Text		This character was created using a more recent game version. Please check for game updates.	Ta postać została stworzona przy użyciu nowszej wersji gry. Sprawdź aktualizacje gry.	Dieser Charakter wurde mit einer neueren Spielversion erstellt. Bitte prüfe, ob Spiel-Updates verfügbar sind.
+Error/CompileFailed	Text		Compilation failed	Kompilacja nie powiodła się	Kompilierung fehlgeschlagen
+Error/ConnectionClose	Text		Connection closed	Połączenie przerwanie	Verbindung geschlossen
+Error/FileAccess	Text		Couldn't access file	Nie można uzyskać dostępu do pliku	Auf Datei konnte nicht zugegriffen werden
+Error/GameNotFound	Text		Could not find game	Nie można znaleźć gry	Spiel kann nicht gefunden werden
+Error/HostNotReady	Text		Host is not ready	Host nie jest gotowy	Host ist nicht bereit
+Error/InternalError	Text		Internal error	Błąd wewnętrzny	Interner Fehler
+Error/InvalidAccess	Text		Invalid access	Nieprawidłowy dostęp	Ungültiger Zugriff
+Error/InvalidRpc	Text		Invalid network message	Nieprawidłowy komunikat sieciowy	Ungültige Netzwerkmeldung
+Error/MaxConnectionAttempts	Text		Connection failed after too many retries	Połączenie nie powiodło się po zbyt wielu próbach	Verbindung nach zu vielen Versuchen fehlgeschlagen
+Error/NoNetwork	Text		No network	Brak sieci	Kein Netzwerk
+Error/NoWorldWriteWarning	Text		There has been no auto save since {0} minutes. This probably means an error has occurred. Restarting the host is recommended to ensure all progress is saved.	Od {0} minut nie wykonano automatycznego zapisu. Prawdopodobnie oznacza to, że wystąpił błąd. Zaleca się ponowne uruchomienie hosta, aby upewnić się, że wszystkie postępy zostały zapisane.	Seit {0} Minuten fand keine automatische Speicherung statt. Das bedeutet wahrscheinlich, dass ein Fehler aufgetreten ist. Es wird empfohlen, den Host neu zu starten, um das Speichern aller Fortschritte sicherzustellen.
+Error/NoWorldWriteWarningEnd	Text		Auto save successful!	Pomyślne automatyczne zapisanie!	Automatisches Speichern erfolgreich!
+Error/SaveFileCorrupt	Text		Could not read save file	Nie udało się odczytać pliku zapisu	Speicherdatei konnte nicht gelesen werden
+Error/Timeout	Text		Connection timed out	Przekroczono limit czasu połączenia	Zeitüberschreitung bei der Verbindung
+Error/Unknown	Text		Unknown error	Nieznany błąd	Unbekannter Fehler
+Error/WorldVersionTooHigh	Text		This world was created using a more recent game version. Please check for game updates.	Ten świat został stworzony przy użyciu nowszej wersji gry. Sprawdź aktualizacje gry.	Diese Welt wurde mit einer neueren Spielversion erstellt. Bitte prüfe, ob Spiel-Updates verfügbar sind.
+Error/reqFailNotificationGPU	Text		Warning: Your GPU does not meet the minimum requirements. Game visuals might not work correctly	Ostrzeżenie: Twój procesor graficzny nie spełnia minimalnych wymagań. Gra może nie działać poprawnie	Warnung: Dein Grafikprozessor entspricht nicht den Mindestanforderungen. Die Grafik des Spiels wird unter Umständen nicht richtig funktionieren.
+FollowTwitter	Text		Follow us on Twitter	Śledź nas na Twitterze	Folge uns auf Twitter
+FoodAdjectives/AmberLarva	Text		Meaty	Mięsiste	Fleischiges
+FoodAdjectives/AmberLarvaFemale	Text		Meaty	Mięsista	Fleischige
+FoodAdjectives/AmberLarvaMale	Text		Meaty	Mięsisty	Fleischiger
+FoodAdjectives/AngleFish	Text		Encased	Obudowanr	Umhülltes
+FoodAdjectives/AngleFishFemale	Text		Encased	Obudowana	Umhüllte
+FoodAdjectives/AngleFishMale	Text		Encased	Obudowany	Umhüllter
+FoodAdjectives/AstralJelly	Text		Astral	Astralne	Astrales
+FoodAdjectives/AstralJellyFemale	Text		Astral	Astralna	Astrale
+FoodAdjectives/AstralJellyMale	Text		Astral	Astralny	Astraler
+FoodAdjectives/AtlantianWormHeart	Text		Atlantean	Atlantydzkie	Atlantisches
+FoodAdjectives/AtlantianWormHeartFemale	Text		Atlantean	Atlantydzka	Atlantische
+FoodAdjectives/AtlantianWormHeartMale	Text		Atlantean	Atlantydzki	Atlantischer
+FoodAdjectives/AzureFeatherFish	Text		Azure	Lazurowe	Azurblaues
+FoodAdjectives/AzureFeatherFishFemale	Text		Azure	Lazurowa	Azurblaue
+FoodAdjectives/AzureFeatherFishMale	Text		Azure	Lazurowy	Azurblauer
+FoodAdjectives/BlackSteelUrchin	Text		Black	Czarne	Schwarzes
+FoodAdjectives/BlackSteelUrchinFemale	Text		Black	Czarna	Schwarze
+FoodAdjectives/BlackSteelUrchinMale	Text		Black	Czarny	Schwarzer
+FoodAdjectives/BloatOat	Text		Filling	Nasycające	Sättigendes
+FoodAdjectives/BloatOatFemale	Text		Filling	Nasycająca	Sättigende
+FoodAdjectives/BloatOatMale	Text		Filling	Nasycający	Sättigender
+FoodAdjectives/BloatOatRare	Text		Stodgy	Kudłate	Nährendes
+FoodAdjectives/BloatOatRareFemale	Text		Stodgy	Kudłata	Nährende
+FoodAdjectives/BloatOatRareMale	Text		Stodgy	Kudłaty	Nährender
+FoodAdjectives/BlueCaveGuppy	Text		Blue	Niebieskie	Blaues
+FoodAdjectives/BlueCaveGuppyFemale	Text		Blue	Niebieska	Blaue
+FoodAdjectives/BlueCaveGuppyMale	Text		Blue	Niebieski	Blauer
+FoodAdjectives/BombPepper	Text		Spicy	Ostre	Würziges
+FoodAdjectives/BombPepperFemale	Text		Spicy	Ostra	Würzige
+FoodAdjectives/BombPepperMale	Text		Spicy	Ostry	Würziger
+FoodAdjectives/BombPepperRare	Text		Piquant	Pikantne	Pikantes
+FoodAdjectives/BombPepperRareFemale	Text		Piquant	Pikantna	Pikante
+FoodAdjectives/BombPepperRareMale	Text		Piquant	Pikantny	Pikanter
+FoodAdjectives/BottomTracer	Text		Bright Yellow	Jasnożółte	Hellgelbes
+FoodAdjectives/BottomTracerFemale	Text		Bright Yellow	Jasnożółta	Hellgelbe
+FoodAdjectives/BottomTracerMale	Text		Bright Yellow	Jasnożółty	Hellgelber
+FoodAdjectives/BrightLavaEater	Text		Bright	Jasne	Helles
+FoodAdjectives/BrightLavaEaterFemale	Text		Bright	Jasna	Helle
+FoodAdjectives/BrightLavaEaterMale	Text		Bright	Jasny	Heller
+FoodAdjectives/BrownDuneTail	Text		Brown	Brązowe	Braunes
+FoodAdjectives/BrownDuneTailFemale	Text		Brown	Brązowa	Braune
+FoodAdjectives/BrownDuneTailMale	Text		Brown	Brązowy	Brauner
+FoodAdjectives/Carrock	Text		Crunchy	Chrupiące	Knuspriges
+FoodAdjectives/CarrockFemale	Text		Crunchy	Chrupiąca	Knusprige
+FoodAdjectives/CarrockMale	Text		Crunchy	Chrupiący	Knuspriger
+FoodAdjectives/CarrockRare	Text		Hard	Twarde	Hartes
+FoodAdjectives/CarrockRareFemale	Text		Hard	Twarda	Harte
+FoodAdjectives/CarrockRareMale	Text		Hard	Twardy	Harter
+FoodAdjectives/CosmicForm	Text		Cosmic	Kosmiczne	Kosmisches
+FoodAdjectives/CosmicFormFemale	Text		Cosmic	Kosmiczna	Kosmische
+FoodAdjectives/CosmicFormMale	Text		Cosmic	Kosmiczny	Kosmischer
+FoodAdjectives/CrownSquid	Text		Crowned	Koronowane	Gekröntes
+FoodAdjectives/CrownSquidFemale	Text		Crowned	Koronowana	Gekrönte
+FoodAdjectives/CrownSquidMale	Text		Crowned	Koronowany	Gekrönter
+FoodAdjectives/DaggerFin	Text		Sharp	Ostre	Scharfes
+FoodAdjectives/DaggerFinFemale	Text		Sharp	Ostra	Scharfe
+FoodAdjectives/DaggerFinMale	Text		Sharp	Ostry	Scharfer
+FoodAdjectives/DarkLavaEater	Text		Dark	Ciemne	Dunkles
+FoodAdjectives/DarkLavaEaterFemale	Text		Dark	Ciemna	Dunkle
+FoodAdjectives/DarkLavaEaterMale	Text		Dark	Ciemny	Dunkler
+FoodAdjectives/Deepstalker	Text		Glistening	Lśniące	Glimmerndes
+FoodAdjectives/DeepstalkerFemale	Text		Glistening	Lśniąca	Glimmernde
+FoodAdjectives/DeepstalkerMale	Text		Glistening	Lśniący	Glimmernder
+FoodAdjectives/DevilWorm	Text		Devilish	Diabelskie	Teuflisches
+FoodAdjectives/DevilWormFemale	Text		Devilish	Diabelska	Teuflische
+FoodAdjectives/DevilWormMale	Text		Devilish	Diabelski	Teuflischer
+FoodAdjectives/ElderDragonfish	Text		Elder	Starsze	Älteres
+FoodAdjectives/ElderDragonfishFemale	Text		Elder	Starsza	Ältere
+FoodAdjectives/ElderDragonfishMale	Text		Elder	Starszy	Älterer
+FoodAdjectives/EmeraldFeatherFish	Text		Emerald	Szmaragdowe	Smaragdgrünes
+FoodAdjectives/EmeraldFeatherFishFemale	Text		Emerald	Szmaragdowa	Smaragdgrüne
+FoodAdjectives/EmeraldFeatherFishMale	Text		Emerald	Szmaragdowy	Smaragdgrüner
+FoodAdjectives/GemCrab	Text		Glimmering	Mieniące się	Schimmerndes
+FoodAdjectives/GemCrabFemale	Text		Glimmering	Mieniąca się	Schimmernde
+FoodAdjectives/GemCrabMale	Text		Glimmering	Mieniący się	Schimmernder
+FoodAdjectives/GiantMushroom	Text		Giant	Olbrzymie	Riesiges
+FoodAdjectives/GiantMushroomFemale	Text		Giant	Olbrzymia	Riesige
+FoodAdjectives/GiantMushroomMale	Text		Giant	Olbrzymi	Riesiger
+FoodAdjectives/GlowingTulipFlower	Text		Glowing	Świecące	Leuchtendes
+FoodAdjectives/GlowingTulipFlowerFemale	Text		Glowing	Świecąca	Leuchtende
+FoodAdjectives/GlowingTulipFlowerMale	Text		Glowing	Świecący	Leuchtender
+FoodAdjectives/GlowingTulipFlowerRare	Text		Shining	Błyszczące	Strahlendes
+FoodAdjectives/GlowingTulipFlowerRareFemale	Text		Shining	Błyszcząca	Strahlende
+FoodAdjectives/GlowingTulipFlowerRareMale	Text		Shining	Błyszczący	Strahlender
+FoodAdjectives/GoldenAngleFish	Text		Crystallized	Skrystalizowane	Kristallisiertes
+FoodAdjectives/GoldenAngleFishFemale	Text		Crystallized	Skrystalizowana	Kristallisierte
+FoodAdjectives/GoldenAngleFishMale	Text		Crystallized	Skrystalizowany	Kristallisierter
+FoodAdjectives/GoldenDeepstalker	Text		Splendid	Wspaniałe	Prächtiges
+FoodAdjectives/GoldenDeepstalkerFemale	Text		Splendid	Wspaniała	Prächtige
+FoodAdjectives/GoldenDeepstalkerMale	Text		Splendid	Wspaniały	Prächtiger
+FoodAdjectives/GoldenLarvaMeat	Text		Shiny	Błyszczące	Glänzendes
+FoodAdjectives/GoldenLarvaMeatFemale	Text		Shiny	Błyszcząca	Glänzende
+FoodAdjectives/GoldenLarvaMeatMale	Text		Shiny	Błyszczący	Glänzender
+FoodAdjectives/GoldenTorrentDart	Text		Golden	Złote	Goldenes
+FoodAdjectives/GoldenTorrentDartFemale	Text		Golden	Złota	Goldene
+FoodAdjectives/GoldenTorrentDartMale	Text		Golden	Złoty	Goldener
+FoodAdjectives/GreenBlisterHead	Text		Green	Zielone	Grünes
+FoodAdjectives/GreenBlisterHeadFemale	Text		Green	Zielona	Grüne
+FoodAdjectives/GreenBlisterHeadMale	Text		Green	Zielony	Grüner
+FoodAdjectives/GreyDuneTail	Text		Grey	Szare	Graues
+FoodAdjectives/GreyDuneTailFemale	Text		Grey	Szara	Graue
+FoodAdjectives/GreyDuneTailMale	Text		Grey	Szary	Grauer
+FoodAdjectives/Grumpkin	Text		Lumpy	Guzowate	Knolliges
+FoodAdjectives/GrumpkinFemale	Text		Lumpy	Guzowata	Knollige
+FoodAdjectives/GrumpkinMale	Text		Lumpy	Guzowaty	Knolliger
+FoodAdjectives/GrumpkinRare	Text		Gleaming	Lśniące	Funkelndes
+FoodAdjectives/GrumpkinRareFemale	Text		Gleaming	Lśniąca	Funkelnde
+FoodAdjectives/GrumpkinRareMale	Text		Gleaming	Lśniący	Funkelnder
+FoodAdjectives/HeartBerry	Text		Hearty	Obfite	Süßes
+FoodAdjectives/HeartBerryFemale	Text		Hearty	Obfita	Süße
+FoodAdjectives/HeartBerryMale	Text		Hearty	Obfity	Süßer
+FoodAdjectives/HeartBerryRare	Text		Delightful	Zachwycające	Köstliches
+FoodAdjectives/HeartBerryRareFemale	Text		Delightful	Zachwycająca	Köstliche
+FoodAdjectives/HeartBerryRareMale	Text		Delightful	Zachwycający	Köstlicher
+FoodAdjectives/LarvaMeat	Text		Gooey	Gęste	Klebriges
+FoodAdjectives/LarvaMeatFemale	Text		Gooey	Gęsta	Klebrige
+FoodAdjectives/LarvaMeatMale	Text		Gooey	Gęsty	Klebriger
+FoodAdjectives/Lunacorn	Text		Iridescent	Opalizujące	Schillerndes
+FoodAdjectives/LunacornFemale	Text		Iridescent	Opalizująca	Schillernde
+FoodAdjectives/LunacornMale	Text		Iridescent	Opalizujący	Schillernder
+FoodAdjectives/LunacornRare	Text		Brilliant	Genialne	Brillantes
+FoodAdjectives/LunacornRareFemale	Text		Brilliant	Genialna	Brillante
+FoodAdjectives/LunacornRareMale	Text		Brilliant	Genialny	Brillanter
+FoodAdjectives/Meat	Text		Tender	Miękkie	Zartes
+FoodAdjectives/MeatFemale	Text		Tender	Miękka	Zarte
+FoodAdjectives/MeatMale	Text		Tender	Miękki 	Zarter
+FoodAdjectives/MoldShark	Text		Moldy	Spleśniałe	Schimmliges
+FoodAdjectives/MoldSharkFemale	Text		Moldy	Spleśniała	Schimmlige
+FoodAdjectives/MoldSharkMale	Text		Moldy	Spleśniały	Schimmliger
+FoodAdjectives/Mushroom	Text		Mushy	Mięsiste	Pilziges
+FoodAdjectives/MushroomFemale	Text		Mushy	Mięsista	Pilzige
+FoodAdjectives/MushroomMale	Text		Mushy	Mięsisty	Pilziger
+FoodAdjectives/OrangeCaveGuppy	Text		Orange	Pomarańczowe	Oranges
+FoodAdjectives/OrangeCaveGuppyFemale	Text		Orange	Pomarańczowa	Orange
+FoodAdjectives/OrangeCaveGuppyMale	Text		Orange	Pomarańczowy	Oranger
+FoodAdjectives/Pewpaya	Text		Juicy	Soczyste	Saftiges
+FoodAdjectives/PewpayaFemale	Text		Juicy	Soczysta	Saftige
+FoodAdjectives/PewpayaMale	Text		Juicy	Soczysty	Saftiger
+FoodAdjectives/PewpayaRare	Text		Luscious	Soczyste	Frisches
+FoodAdjectives/PewpayaRareFemale	Text		Luscious	Soczysta	Frische
+FoodAdjectives/PewpayaRareMale	Text		Luscious	Soczysty	Frischer
+FoodAdjectives/Pinegrapple	Text		Sweet	Słodkie	Süßes
+FoodAdjectives/PinegrappleFemale	Text		Sweet	Słodka	Süße
+FoodAdjectives/PinegrappleMale	Text		Sweet	Słodki	Süßer
+FoodAdjectives/PinegrappleRare	Text		Succulent	Soczyste	Sukkulentes
+FoodAdjectives/PinegrappleRareFemale	Text		Succulent	Soczysta	Sukkulente
+FoodAdjectives/PinegrappleRareMale	Text		Succulent	Soczysty	Sukkulenter
+FoodAdjectives/PinkCoralotl	Text		Coral Red	Koralowo czerwone	Korallenrotes
+FoodAdjectives/PinkCoralotlFemale	Text		Coral Red	Koralowo czerwona	Korallenrote
+FoodAdjectives/PinkCoralotlMale	Text		Coral Red	Koralowo czerwony	Korallenroter
+FoodAdjectives/PinkPalaceFish	Text		Pink	Różowe	Pinkes
+FoodAdjectives/PinkPalaceFishFemale	Text		Pink	Różowa	Pinke
+FoodAdjectives/PinkPalaceFishMale	Text		Pink	Różowy	Pinker
+FoodAdjectives/Puffungi	Text		Puffy	Puchate	Puffiges
+FoodAdjectives/PuffungiFemale	Text		Puffy	Puchata	Puffige
+FoodAdjectives/PuffungiMale	Text		Puffy	Puchaty	Puffiger
+FoodAdjectives/PuffungiRare	Text		Musty	Stęchłe	Muffiges
+FoodAdjectives/PuffungiRareFemale	Text		Musty	Stęchła	Muffige
+FoodAdjectives/PuffungiRareMale	Text		Musty	Stęchły	Muffiger
+FoodAdjectives/RockJaw	Text		Rocky	Skaliste	Steiniges
+FoodAdjectives/RockJawFemale	Text		Rocky	Skalista	Steinige
+FoodAdjectives/RockJawMale	Text		Rocky	Skalisty	Steiniger
+FoodAdjectives/RotFish	Text		Rotten	Zgniłe	Verrottetes
+FoodAdjectives/RotFishFemale	Text		Rotten	Zgniła	Verrottete
+FoodAdjectives/RotFishMale	Text		Rotten	Zgniły	Verrotteter
+FoodAdjectives/SandySpikeback	Text		Sandy	Piaszczyste	Sandiges
+FoodAdjectives/SandySpikebackFemale	Text		Sandy	Piaszczysta	Sandige
+FoodAdjectives/SandySpikebackMale	Text		Sandy	Piaszczysty	Sandiger
+FoodAdjectives/SilverTorrentDart	Text		Silver	Srebrne	Silbernes
+FoodAdjectives/SilverTorrentDartFemale	Text		Silver	Srebrna	Silberne
+FoodAdjectives/SilverTorrentDartMale	Text		Silver	Srebrny	Silberner
+FoodAdjectives/SolidSpikeback	Text		Solid	Solidne	Solides
+FoodAdjectives/SolidSpikebackFemale	Text		Solid	Solidna	Solide
+FoodAdjectives/SolidSpikebackMale	Text		Solid	Solidny	Solider
+FoodAdjectives/SpiritVeil	Text		Spiritual	Duchowe	Spirituelles
+FoodAdjectives/SpiritVeilFemale	Text		Spiritual	Duchowa	Spirituelle
+FoodAdjectives/SpiritVeilMale	Text		Spiritual	Duchowy	Spiritueller
+FoodAdjectives/StarlightNautilus	Text		Sparkling	Musujące	Glitzerndes
+FoodAdjectives/StarlightNautilusFemale	Text		Sparkling	Musująca	Glitzernde
+FoodAdjectives/StarlightNautilusMale	Text		Sparkling	Musujący	Glitzernder
+FoodAdjectives/Sunrice	Text		Radiant	Promienne	Strahlendes
+FoodAdjectives/SunriceFemale	Text		Radiant	Promienna	Strahlende
+FoodAdjectives/SunriceMale	Text		Radiant	Promienny	Strahlender
+FoodAdjectives/SunriceRare	Text		Dazzling	Olśniewające	Blendendes
+FoodAdjectives/SunriceRareFemale	Text		Dazzling	Olśniewająca	Blendende
+FoodAdjectives/SunriceRareMale	Text		Dazzling	Olśniewający	Blendender
+FoodAdjectives/TealPalaceFish	Text		Teal	Turkusowe	Türkises
+FoodAdjectives/TealPalaceFishFemale	Text		Teal	Turkusowa	Türkise
+FoodAdjectives/TealPalaceFishMale	Text		Teal	Turkusowy	Türkiser
+FoodAdjectives/TornisKingfish	Text		Royal	Królewskie	Königliches
+FoodAdjectives/TornisKingfishFemale	Text		Royal	Królewska	Königliche
+FoodAdjectives/TornisKingfishMale	Text		Royal	Królewski	Königlicher
+FoodAdjectives/VampireEel	Text		Vampiristic	Wampiryczne	Vampirisches
+FoodAdjectives/VampireEelFemale	Text		Vampiristic	Wampiryczna	Vampirische
+FoodAdjectives/VampireEelMale	Text		Vampiristic	Wampiryczny	Vampirischer
+FoodAdjectives/VerdantDragonfish	Text		Verdant	Zielone	Sattgrünes
+FoodAdjectives/VerdantDragonfishFemale	Text		Verdant	Zielona	Sattgrüne
+FoodAdjectives/VerdantDragonfishMale	Text		Verdant	Zielony	Sattgrüner
+FoodAdjectives/WhiteCoralotl	Text		White	Białe	Weißes
+FoodAdjectives/WhiteCoralotlFemale	Text		White	Biała	Weiße
+FoodAdjectives/WhiteCoralotlMale	Text		White	Biały	Weißer
+FoodAdjectives/YellowBlisterHead	Text		Yellow	Żółte	Gelbes
+FoodAdjectives/YellowBlisterHeadFemale	Text		Yellow	Żółta	Gelbe
+FoodAdjectives/YellowBlisterHeadMale	Text		Yellow	Żółty	Gelber
+FoodNouns/AmberLarva	Text		Amber	Bursztyn	Bernstein
+FoodNouns/AngleFish	Text		Crystal	Kryształ	Kristall
+FoodNouns/AstralJelly	Text		Jelly	Galaretka	Quallen
+FoodNouns/AtlantianWormHeart	Text		Giant	Olbrzymie	Giganten
+FoodNouns/AzureFeatherFish	Text		Feather	Pióro	Feder
+FoodNouns/BlackSteelUrchin	Text		Urchin	Jeżowiec	Seeigel
+FoodNouns/BloatOat	Text		Oat	Owies	Hafer
+FoodNouns/BloatOatRare	Text		Goldoat	Złoty owies	Goldhafer
+FoodNouns/BlueCaveGuppy	Text		Guppy	Gupik	Guppy
+FoodNouns/BombPepper	Text		Pepper	Pieprz	Pfeffer
+FoodNouns/BombPepperRare	Text		Goldpepper	Złoty pieprz	Goldpfeffer
+FoodNouns/BottomTracer	Text		Barbel	Sztanga	Bartel
+FoodNouns/BrightLavaEater	Text		Lava	Lawa	Lava
+FoodNouns/BrownDuneTail	Text		Dune	Wydma	Dünen
+FoodNouns/Carrock	Text		Stone	Kamień	Stein
+FoodNouns/CarrockRare	Text		Goldstone	Złoty kamień	Goldstein
+FoodNouns/CosmicForm	Text		Cosmos	Kosmos	Kosmos
+FoodNouns/CrownSquid	Text		Squid	Kałamarnica	Tintenfisch
+FoodNouns/DaggerFin	Text		Fin	Płetwa	Flossen
+FoodNouns/DarkLavaEater	Text		Lava	Lawa	Lava
+FoodNouns/Deepstalker	Text		Hunter	Łowca	Jäger
+FoodNouns/DevilWorm	Text		Worm	Robak	Wurm
+FoodNouns/ElderDragonfish	Text		Dragon	Smok	Drachen
+FoodNouns/EmeraldFeatherFish	Text		Feather	Pióro	Feder
+FoodNouns/GemCrab	Text		Crab	Krab	Krabben
+FoodNouns/GiantMushroom	Text		Mushroom	Grzyb	Pilz
+FoodNouns/GlowingTulipFlower	Text		Tulip	Tulipan	Tulpen
+FoodNouns/GlowingTulipFlowerRare	Text		Goldtulip	Złoty tulipan	Goldtulpen
+FoodNouns/GoldenAngleFish	Text		Crystal	Kryształ	Kristall
+FoodNouns/GoldenDeepstalker	Text		Hunter	Łowca	Jäger
+FoodNouns/GoldenLarvaMeat	Text		Gold	Złoto	Gold
+FoodNouns/GoldenTorrentDart	Text		Dart	Strzałka	Pfeil
+FoodNouns/GreenBlisterHead	Text		Blister	Blister	Blasen
+FoodNouns/GreyDuneTail	Text		Dune	Wydma	Dünen
+FoodNouns/Grumpkin	Text		Lump	Lump	Knollen
+FoodNouns/GrumpkinRare	Text		Goldlump	Złocista bryła	Goldknollen
+FoodNouns/HeartBerry	Text		Berry	Jagoda	Beeren
+FoodNouns/HeartBerryRare	Text		Goldberry	Złota jagoda	Goldbeeren
+FoodNouns/LarvaMeat	Text		Meat	Mięso	Fleisch
+FoodNouns/Lunacorn	Text		Moon	Księżyc	Mond
+FoodNouns/LunacornRare	Text		Goldmoon	Złoty księżyc	Goldmond
+FoodNouns/Meat	Text		Meat	Mięso	Fleisch
+FoodNouns/MoldShark	Text		Shark	Rekin	Hai
+FoodNouns/Mushroom	Text		Mushroom	Grzyb	Pilz
+FoodNouns/OrangeCaveGuppy	Text		Guppy	Gupik	Guppy
+FoodNouns/Pewpaya	Text		Fruit	Owoc	Frucht
+FoodNouns/PewpayaRare	Text		Goldfruit	Złoty owoc	Goldfrucht
+FoodNouns/Pinegrapple	Text		Tropics	Owoc tropikalny	Tropen
+FoodNouns/PinegrappleRare	Text		Goldtropics	Złote owoc tropikalny	Goldtropen
+FoodNouns/PinkCoralotl	Text		Coral	Koral	Korallen
+FoodNouns/PinkPalaceFish	Text		Palace	Pałac	Palast
+FoodNouns/Puffungi	Text		Mold	Pleśń	Schimmel
+FoodNouns/PuffungiRare	Text		Goldmold	Złota pleśń	Goldschimmel
+FoodNouns/RockJaw	Text		Jaw	Szczęka	Kiefer
+FoodNouns/RotFish	Text		Decay	Rozpad	Verfall
+FoodNouns/SandySpikeback	Text		Spike	Kolec	Stachel
+FoodNouns/SilverTorrentDart	Text		Dart	Strzałka	Pfeil
+FoodNouns/SolidSpikeback	Text		Spike	Kolec	Stachel
+FoodNouns/SpiritVeil	Text		Veil	Zasłona	Schleier
+FoodNouns/StarlightNautilus	Text		Starlight	Światło gwiazd	Sternlicht
+FoodNouns/Sunrice	Text		Sun	Słońce	Sonnen
+FoodNouns/SunriceRare	Text		Goldsun	Złote Słońce	Goldsonnen
+FoodNouns/TealPalaceFish	Text		Palace	Pałac	Palast
+FoodNouns/TornisKingfish	Text		King	Król	König
+FoodNouns/VampireEel	Text		Eel	Węgorz	Aal
+FoodNouns/VerdantDragonfish	Text		Dragon	Smok	Drachen
+FoodNouns/WhiteCoralotl	Text		Coral	Koral	Korallen
+FoodNouns/YellowBlisterHead	Text		Blister	Pęcherz	Blasen
+FoodTypes/Fish	Text		Fish	Ryba	Fisch
+FoodTypes/Meat	Text		Other	Inne	Andere
+FoodTypes/Plant	Text		Plant	Roślina	Pflanze
+HardMode	Text		Hard	Twardy	Schwer
 HardModeDesc	Text		Tackle tougher monsters and reap greater rewards.		Nimm es mit härteren Monstern auf und ernte größere Belohnungen.
 HelmVanitySlot	Text		Helm vanity slot		Helm-Eitelkeit-Slot
 Intro/Slide1	Text		In a place far away from anywhere else.		An einem Ort mitten im Nirgendwo.
