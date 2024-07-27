@@ -257,7 +257,7 @@ Conditions/ChanceOnHitToGainMeleeAttackSpeed	Text		{0}% chance on melee hit to i
 Conditions/ChanceOnHitToIncreaseRangeDamage	Text		{0}% chance on melee hit to increase range damage by 15%	{0}% szans przy trafieniu w zwarciu na zwiększenie obrażeń zasięgowych o 15%.	{0} % Chance, dass Nahkampftreffer den Fernkampfschaden um 15 % erhöhen
 Conditions/ChanceOnHitToKillTargetWithLowerHealth	Text		{0}% chance on hit to kill any target that has lower health than you	{0}% szans przy trafieniu na zabicie dowolnego celu, który ma mniej zdrowia niż ty.	{0} % Chance, dass bei einem Treffer jedes Ziel getötet wird, das weniger Gesundheit hat als du
 Conditions/ChanceOnHitToKnockback	Text		{0}% knockback chance	{0}% szans na odrzucenie	{0} % Zurückschlagen-Chance
-Conditions/ChanceOnHitToSpawnScarabBossProjectile	Text		{0}% chance on melee or range hit to spawn an ancient projectile that follows the hit target and deals damage on impact	{0}% szans przy trafieniu w zwarciu lub z dystansu na przywołanie starożytnego pocisku, który podąża za trafionym celem i zadaje obrażenia przy uderzeniu.	{0} % Chance, bei Nah- oder Fernkampftreffern ein uraltes Projektil zu erzeugen, das das getroffene Ziel verfolgt und beim Aufprall Schaden verursacht
+Conditions/ChanceOnHitToSpawnScarabBossProjectile	Text		{0}% chance on melee or range hit to spawn an ancient projectile that follows the hit target and deals damage on impact	{0}% szans przy trafieniu w zwarciu lub z dystansu na przywołanie pradawnego pocisku, który podąża za trafionym celem i zadaje obrażenia przy uderzeniu.	{0} % Chance, bei Nah- oder Fernkampftreffern ein uraltes Projektil zu erzeugen, das das getroffene Ziel verfolgt und beim Aufprall Schaden verursacht
 Conditions/ChanceOnKillToSummonGhost	Text		{0}% chance to summon a ghost caveling when killing any enemy	{0}% szans na przyzwanie jaskiniowca-ducha po zabiciu dowolnego wroga.	{0} % Chance auf das Beschwören eines Geister-Grottlings, wenn du einen beliebigen Feind tötest
 Conditions/ChanceOnMeleeHitToStun	Text		{0}% chance to stun targets on melee hit	{0}% szans na ogłuszenie celów przy trafieniu w zwarciu	{0} % Chance, Ziele bei einem Nahkampftreffer zu betäuben
 Conditions/ChanceOnRangeHitToSpawnOctopusBossProjectile	Text		{0}% chance on range hit to spawn a tornado	{0}% szans na wywołanie tornada przy trafieniu z dystansu	{0} % Chance, dass ein Fernkampftreffer einen Tornado auslöst
@@ -769,7 +769,7 @@ FollowTwitter	Text		Follow us on Twitter	Śledź nas na Twitterze	Folge uns auf 
 FoodAdjectives/AmberLarva	Text		Meaty	Mięsiste	Fleischiges
 FoodAdjectives/AmberLarvaFemale	Text		Meaty	Mięsista	Fleischige
 FoodAdjectives/AmberLarvaMale	Text		Meaty	Mięsisty	Fleischiger
-FoodAdjectives/AngleFish	Text		Encased	Obudowanr	Umhülltes
+FoodAdjectives/AngleFish	Text		Encased	Obudowane	Umhülltes
 FoodAdjectives/AngleFishFemale	Text		Encased	Obudowana	Umhüllte
 FoodAdjectives/AngleFishMale	Text		Encased	Obudowany	Umhüllter
 FoodAdjectives/AstralJelly	Text		Astral	Astralne	Astrales
@@ -1042,177 +1042,177 @@ FoodTypes/Fish	Text		Fish	Ryba	Fisch
 FoodTypes/Meat	Text		Other	Inne	Andere
 FoodTypes/Plant	Text		Plant	Roślina	Pflanze
 HardMode	Text		Hard	Twardy	Schwer
-HardModeDesc	Text		Tackle tougher monsters and reap greater rewards.		Nimm es mit härteren Monstern auf und ernte größere Belohnungen.
-HelmVanitySlot	Text		Helm vanity slot		Helm-Eitelkeit-Slot
-Intro/Slide1	Text		In a place far away from anywhere else.		An einem Ort mitten im Nirgendwo.
-Intro/Slide2	Text		You are part of a group of explorers, making your way through the forest.		Du gehörst zu einer Gruppe von Forschern, die sich ihren Weg durch den Wald bahnen.
-Intro/Slide3	Text		Feeling a strange presence,* you notice something between the trees.		Als du eine seltsame Präsenz fühlst*, bemerkst du etwas zwischen den Bäumen.
-Intro/Slide4	Text		Drawn to it,* you approach this strange relic and raise a hand towards it.		Davon angezogen* näherst du dich diesem seltsamen Relikt und erhebst eine Hand.
-Intro/Slide5	Text		Upon touching its surface, a blinding light engulfs you.		Als du seine Oberfläche berührst, wirst du von einem blendenden Licht umschlossen.
-ItemCategory/Building	Text		Building		Gebäude
-ItemCategory/Building_BaseBuilding	Text		Base building		Basisbau
-ItemCategory/Building_Chest	Text		Chest		Kiste
-ItemCategory/Building_FunctionalBuilding	Text		Functional building		Funktionales Gebäude
-ItemCategory/Building_MerchantItem	Text		Merchant item		Händler-Gegenstand
-ItemCategory/Building_Object	Text		Object		Objekt
-ItemCategory/Consumable	Text		Consumable		Verbrauchsgut
-ItemCategory/Consumable_Fish	Text		Fish		Fisch
-ItemCategory/Consumable_Food	Text		Snacks		Snacks
-ItemCategory/Consumable_Ingredient	Text		Ingredient		Zutat
-ItemCategory/Consumable_PetCandy	Text		Pet candy		Leckerli
-ItemCategory/Consumable_Potion	Text		Potion		Trank
-ItemCategory/Creature	Text		Creature		Kreatur
-ItemCategory/Creature_Cattle	Text		Cattle		Nutztier
-ItemCategory/Creature_Critter	Text		Critter		Kriechtier
-ItemCategory/Creature_Enemy	Text		Enemy		Feind
-ItemCategory/Creature_Merchant	Text		Merchant		Händler
-ItemCategory/Creature_Pet	Text		Pet		Haustier
-ItemCategory/Environment	Text		Environment		Umgebung
-ItemCategory/Environment_CityBiome	Text		City biome		Stadt-Biom
-ItemCategory/Environment_ClayBiome	Text		Clay biome		Lehm-Biom
-ItemCategory/Environment_CrystalBiome	Text		Crystal biome		Kristall-Biom
-ItemCategory/Environment_DesertBiome	Text		Desert biome		Wüsten-Biom
-ItemCategory/Environment_DirtBiome	Text		Dirt biome		Erd-Biom
-ItemCategory/Environment_Ground	Text		Ground		Boden
-ItemCategory/Environment_LavaBiome	Text		Lava biome		Lava-Biom
-ItemCategory/Environment_MeadowBiome	Text		Meadow biome		Wiesen-Biom
-ItemCategory/Environment_MoldBiome	Text		Mold biome		Schimmel-Biom
-ItemCategory/Environment_NatureBiome	Text		Nature biome		Natur-Biom
-ItemCategory/Environment_OreBoulder	Text		Ore boulder		Erzblock
-ItemCategory/Environment_PitObject	Text		Pit object		Abgrund-Objekt
-ItemCategory/Environment_SeaBiome	Text		Sea biome		Meeres-Biom
-ItemCategory/Environment_SlimeBiome	Text		Slime biome		Schleim-Biom
-ItemCategory/Environment_StoneBiome	Text		Stone biome		Stein-Biom
-ItemCategory/Environment_Wall	Text		Wall		Wand
-ItemCategory/Equipment	Text		Equipment		Ausrüstung
-ItemCategory/Equipment_Bag	Text		Bag		Tasche
-ItemCategory/Equipment_Bait	Text		Bait		Köder
-ItemCategory/Equipment_BreastArmor	Text		Breast armor		Brustkleidung
-ItemCategory/Equipment_Helm	Text		Helm		Helm
-ItemCategory/Equipment_MeleeWeapon	Text		Melee weapon		Nahkampfwaffe
-ItemCategory/Equipment_Necklace	Text		Necklace		Halskette
-ItemCategory/Equipment_Offhand	Text		Offhand		Zweithand
-ItemCategory/Equipment_PaintBrush	Text		Paint brush		Pinsel
-ItemCategory/Equipment_PantsArmor	Text		Pants armor		Beinkleidung
-ItemCategory/Equipment_RangeWeapon	Text		Range weapon		Fernkampfwaffe
-ItemCategory/Equipment_Ring	Text		Ring		Ring
-ItemCategory/Equipment_Tool	Text		Tool		Werkzeug
-ItemCategory/Material	Text		Material		Material
-ItemCategory/Material_RawMaterial	Text		Raw material		Rohmaterial
-ItemCategory/Material_RefinedMaterial	Text		Refined material		Verarbeitetes Material
-ItemCategory/Material_UniqueMaterial	Text		Unique material		Einzigartiges Material
-ItemCategory/Music	Text		Music		Musik
-ItemCategory/Music_Instrument	Text		Instrument		Instrument
-ItemCategory/Music_MusicSheet	Text		Music sheet		Notenblatt
-ItemCategory/Other	Text		Other		Andere
-ItemCategory/Other_KeyItem	Text		Key item		Schlüsselgegenstand
-ItemCategory/Other_Mods	Text	This category contains objects from mods	Mods		Mods
-ItemCategory/Other_OracleCard	Text		Oracle card		Orakel-Karte
-ItemCategory/Other_Recipe	Text		Recipe		Rezept
-ItemCategory/Other_Seed	Text		Seed		Samen
-ItemCategory/Seasonal	Text		Seasonal		Saisonal
-ItemCategory/Seasonal_Anniversary	Text		Anniversary		Jubiläum
-ItemCategory/Seasonal_CherryBlossom	Text		Cherry blossom		Kirschblüte
-ItemCategory/Seasonal_Christmas	Text		Christmas		Weihnachten
-ItemCategory/Seasonal_Easter	Text		Easter		Ostern
-ItemCategory/Seasonal_Halloween	Text		Halloween		Halloween
-ItemCategory/Seasonal_Lunar	Text		Lunar New Year		Mondneujahr
-ItemCategory/Seasonal_Valentine	Text		Valentine		Valentinstag
-ItemCategory/Technology	Text		Technology		Technologie
-ItemCategory/Technology_Automation	Text		Automation		Automatisierung
-ItemCategory/Technology_Boat	Text		Boat		Boot
-ItemCategory/Technology_DefensiveBuilding	Text		Defensive building		Defensivgebäude
-ItemCategory/Technology_Electronics	Text		Electronics		Elektronik
-ItemCategory/Technology_Explosives	Text		Explosives		Sprengstoff
-ItemCategory/Technology_Railway	Text		Railway		Gleise
-ItemCategory/Technology_Utility	Text		Utility		Hilfsmittel
-ItemCategory/Technology_Vehicle	Text		Vehicle		Fahrzeug
-ItemCategory/Valuable	Text		Valuable		Wertvoll
-ItemCategory/Valuable_CityBiome	Text		City biome		Stadt-Biom
-ItemCategory/Valuable_ClayBiome	Text		Clay biome		Lehm-Biom
-ItemCategory/Valuable_CrystalBiome	Text		Crystal biome		Kristall-Biom
-ItemCategory/Valuable_DesertBiome	Text		Desert biome		Wüsten-Biom
-ItemCategory/Valuable_DirtBiome	Text		Dirt biome		Erd-Biom
-ItemCategory/Valuable_LavaBiome	Text		Lava biome		Lava-Biom
-ItemCategory/Valuable_MoldBiome	Text		Mold biome		Schimmel-Biom
-ItemCategory/Valuable_NatureBiome	Text		Nature biome		Natur-Biom
-ItemCategory/Valuable_Other	Text		Other		Andere
-ItemCategory/Valuable_SeaBiome	Text		Sea biome		Meeres-Biom
-ItemCategory/Valuable_StoneBiome	Text		Stone biome		Stein-Biom
-ItemCategory/Valuable_Trophy	Text		Figurine		Figur
-ItemLevel	Text		Item level {0}		Gegenstandsstufe {0}
-Items/AbandonedCampMatress	Text		Camp Matress		Alte Rollmatratze
-Items/AbandonedCampMatressDesc	Text		The resting place of a former adventurer?		Der Ruheort eines ehemaligen Abenteurers?
-Items/AbandonedCampTent	Text		Camp Tent		Altes Zelt
-Items/AbandonedCampTentDesc	Text		An abandoned makeshift tent, who would have lived here?		Ein selbst gebautes Zelt. Wer hat hier gelebt?
-Items/AbyssTree	Text		Abyss Tree		Abgrund-Baum
-Items/AbyssTreeDesc	Text		A tree that grows in the chasms of Azeos Wilderness. It is unknown how far down it reaches.		Ein Baum, der nur in den Abgründen von Azeos' Wildnis wächst. Es ist unbekannt, wie tief er wirklich reicht.
-Items/AcidLarva	Text		Acid Larva		Säurelarve
-Items/AcidLarvaTrophy	Text		Acid Larva Figurine		Säurelarven-Figur
-Items/AcidLarvaTrophyDesc	Text		A lifelike representation of an Acid Larva.		Eine lebensechte Nachbildung einer Säurelarve.
-Items/AdderStone	Text		Adder Stone		Hascherlit
-Items/AdderStoneDesc	Text		A porous smooth stone, some believe it wards off evil spirits.		Ein poröser, glatter Stein. Es wird behauptet, er wehre böse Geister ab.
-Items/AdvancedJewelryWorkBench	Text		Proficient Jewelry Workbench		Fortgeschrittene Schmuck-Werkbank
-Items/AdvancedJewelryWorkBenchDesc	Text		An advanced workbench for creating rings and necklaces.		Eine fortschrittliche Werkbank um Ringe und Halsketten herzustellen.
-Items/AgarthaReport	Text		Agartha Report		Agartha-Bericht
-Items/AgarthaReportDesc	Text		A leatherbound book written in unsteady human language. It appears that the author believed to have found the mythological center of the earth, before succumbing to illness.		Ein ledergebundenes Buch, das mit zittriger Hand in menschlicher Sprache verfasst wurde. Der Autor schien zu glauben, den mythologischen Mittelpunkt der Erde gefunden zu haben, bevor er von einer Krankheit dahingerafft wurde.
-Items/AggressiveSlimeBlob	Text		Red Slime		Rotschleim
-Items/AlchemyTable	Text		Alchemist's Table		Alchemisten-Pult
-Items/AlchemyTableDesc	Text		Workbench to tinker with the wonders of chemistry.		Eine Werkbank, um mit den Wundern der Chemie zu experimentieren.
-Items/AlienChest	Text		Alien Tech Chest		Alientechnologie-Kiste
-Items/AlienChestDesc	Text		A technological marvel: an inventory chest from outer space! Seems like even advanced civilizations need to stash things away.		Ein technologisches Wunder: die Kiste aus dem Weltall! Offenbar müssen selbst hochentwickelte Zivilisationen irgendwo Dinge aufbewahren.
-Items/AlienFloorVent	Text		Alien Floor Vent		Alien-Bodenlüftung
-Items/AlienFloorVentDesc	Text		A piece of tech that would still be functional, had it not been ripped out of the floor by greedy hands.		Ein technisches Bauteil, das noch funktionstüchtig wäre, hätte man es nicht mit gierigen Griffeln aus dem Boden gerissen.
-Items/AlienObeliskSmall	Text		Small Alien Obelisk		Kleiner Alien-Obelisk
-Items/AlienObeliskSmallDesc	Text		A descriptive stele, carved into mysterious stone. Its meaning is beyond earthly understanding.		Eine beschriebene Stele, die in geheimnisvollen Stein gehauen ist. Ihre Bedeutung entzieht sich dem irdischen Verständnis.
-Items/AlienObeliskTall	Text		Tall Alien Obelisk		Großer Alien-Obelisk
-Items/AlienObeliskTallDesc	Text		A large descriptive stele, carved into mysterious stone. Its meaning is beyond earthly understanding.		Eine große, beschriebene Stele, die in geheimnisvollen Stein gehauen ist. Ihre Bedeutung entzieht sich dem irdischen Verständnis.
-Items/AlienStalagmite	Text		High Tech Pillar		Hightech-Säule
-Items/AlienStalagmiteDesc	Text		It looks like a pillar but its actual function is unknown. Is it a cooling mechanism or does it perhaps store energy?		Sieht wie eine Säule aus, doch seine eigentliche Funktion ist unbekannt. Handelt es sich um ein Kühlaggregat oder speichert sie vielleicht Energie?
-Items/AlienTechBreastArmor	Text		Cosmos Torso		Kosmos-Torso
-Items/AlienTechBreastArmorDesc	Text		This airtight jacket keeps the atmosphere around your body evenly pressured and is equipped with a system to increase damage efficiency.		Diese luftdichte Jacke schafft einen steten Druckausgleich um deinen Körper und ist mit einem System zur Erhöhung der Schadenseffizienz ausgerüstet.
-Items/AlienTechCrystalLight	Text		Alien Crystal Light		Alien-Kristalllicht
-Items/AlienTechCrystalLightDesc	Text		A highly advanced light using a giant ancient gemstone. It almost appears like an oversized torch made for something with even larger hands.		Eine hochentwickelte Lichtquelle, gespeist von einem riesigen antiken Edelstein. Sie wirkt fast wie eine übergroße Fackel, gemacht für etwas mit noch größeren Händen.
-Items/AlienTechDestructible	Text		Alien Tech Crate		Alientechnologie-Behälter
-Items/AlienTechDestructibleDesc	Text		A breakable box that is not from this world. It contains extraterrestrial goods.		Eine zerstörbare Kiste, die nicht von diesem Planeten stammt. Sie enthält außerirdische Gegenstände.
-Items/AlienTechHelm	Text		Cosmos Visor Helm		Kosmos-Visierhelm
-Items/AlienTechHelmDesc	Text		A futuristic helm sealed under a big glass dome, leaving the view open to marvel at the miracles of space.		Ein futuristischer Helm, versiegelt durch eine große Glaskuppel. Sie lässt den Blick offen für die Wunder des Universums.
-Items/AlienTechPantsArmor	Text		Cosmos Legwear		Kosmos-Beinkleidung
-Items/AlienTechPantsArmorDesc	Text		Heavy pants that are less suited for quick movements and more for safely treading on foreign planets.		Schwere Hose, die sich weniger für schnelle Bewegungen als für sicheres Reisen auf fremden Planeten eignet.
-Items/AlienTechSpire	Text		Dysfunctional Coil		Funktionsgestörte Spule
-Items/AlienTechSpireDesc	Text		A piece of alien technology that seems to have burned out.		Ein Stück Alientechnologie, das ausgebrannt zu sein scheint.
-Items/AmberChunk	Text		Amber Chunk		Bernstein-Klumpen
-Items/AmberChunkDesc	Text		Solid remains of an ancient forest. The light it reflects is warm and golden.		Hartes Überbleibsel eines uralten Waldes. Das Licht, das er reflektiert, ist warm und goldfarben.
-Items/AmberFishEgg	Text		Amber Fish Egg		Bernstein-Fischei
-Items/AmberFishEggDesc	Text		A perfectly preserved fish egg encapsulated in amber. How those two combined is a mystery.		Ein perfekt erhaltenes Fischei eingehüllt in Bernstein. Wie sich diese beiden verbanden, bleibt ein Rätsel.
-Items/AmberLarva	Text		Amber Larva		Bernstein-Larve
-Items/AmberLarvaDesc	Text		Grub encapsulated in amber, an extremely rare ingredient.		Eine Larve, eingehüllt in Bernstein, eine extrem seltene Zutat.
-Items/Ammonite	Text		Ammonite		Ammonit
-Items/AmmoniteDesc	Text		The petrified shell of an ancient sea creature.		Die versteinerte Hülle eines vorurzeitlichen Meeres-Lebewesens.
-Items/AmmoniteNecklace	Text		Ammonite Necklace		Ammonit-Halskette
-Items/AmmoniteNecklaceDesc	Text		Simple but beautiful necklace featuring a fossil.		Eine einfache, aber schöne Halskette, die aus einem Fossil gefertigt wurde.
-Items/AnchorAxe	Text		Anchor Axe		Anker-Axt
-Items/AnchorAxeDesc	Text		This heavy weapon is actually just a ship anchor. Hits very hard and can throw enemies off.		Diese schwere Waffe ist eigentlich nur ein Schiffsanker. Trifft sehr hart und kann Feinde zurückdrängen.
-Items/AncientCoin	Text		Ancient Coin		Antike Münze
-Items/AncientCoinDesc	Text		Valuable ancient coin, currency of the underground.		Eine wertvolle antike Münze, die Währung des Untergrunds.
-Items/AncientDestructible	Text		Ancient Crate		Antike Kiste
-Items/AncientDestructibleDesc	Text		A mysteriously glowing container holding ancient goods.		Ein mysteriös leuchtender Behälter, gefüllt mit alten Gegenständen.
-Items/AncientFeather	Text		Ancient Feather		Uralte Feder
-Items/AncientFeatherDesc	Text		An unusual feather left by something big.		Eine ungewöhnliche Feder, die von etwas Großem zurückgelassen wurde.
-Items/AncientFishingHook	Text		Ancient Fishing Hook		Antiker Angelhaken
-Items/AncientFishingHookDesc	Text		A very old design for a fishing hook that is not used anymore.		Ein sehr altes Design für einen Angelhaken, das nicht mehr benutzt wird.
-Items/AncientForge	Text		Ancient Forge		Antike Schmiede
-Items/AncientFountain	Text		Ancient Fountain		Antiker Brunnen
-Items/AncientFountainDesc	Text		Only those with secret knowledge know where to find this fountain. It is powered by an ammonite fossil that crystalized through the presence of ancient gemstones.		Nur jene, die im Besitz von Geheimwissen sind, können diesen Brunnen finden. Er wird durch ein Ammonitfossil betrieben, welches durch die Nähe von Antiken Edelsteinen kristallisierte.
-Items/AncientGemNecklace	Text		Ancient Gem Necklace		Antike Edelsteinkette
-Items/AncientGemNecklaceDesc	Text		A necklace crafted with only using ancient gemstones as well as a super rare white version.		Eine Kette, komplett aus Antiken Edelsteinen und einem seltenen weißen hergestellt.
-Items/AncientGemPlate	Text		Ancient Gem Plate		Antike Kristallplatte
-Items/AncientGemPlateDesc	Text		This shimmering plate has intricate engravings, it looks like a key to something.		Eine leuchtende, mit feinen Linien durchzogene Platte. Sie sieht wie ein Schlüssel zu etwas aus.
-Items/AncientGemRing	Text		Ancient Gem Ring		Antiker Edelsteinring
-Items/AncientGemRingDesc	Text		This mysterious ring is entirely made out of ancient gemstones, featuring a super rare white one.		Dieser mysteriöse Ring ist komplett aus Antiken Edelsteinen hergestellt, mit einem seltenen weißen in der Mitte.
-Items/AncientGemstone	Text		Ancient Gemstone		Antiker Edelstein
-Items/AncientGemstoneBreastArmor	Text		Gemstone Garment		Edelstein-Gewand
-Items/AncientGemstoneBreastArmorDesc	Text		This noble robe covers the body in a cascading, silk-like fabric. The woven in ancient gemstone enhance spiritual capabilities.		Diese edle Robe hüllt den Körper in einem fließenden, seidenartigen Stoff. Die eingewebten Antiken Edelsteine verstärken geistliche Fähigkeiten.
+HardModeDesc	Text		Tackle tougher monsters and reap greater rewards.	Zmierz się z trudniejszymi potworami i zgarnij większe nagrody.	Nimm es mit härteren Monstern auf und ernte größere Belohnungen.
+HelmVanitySlot	Text		Helm vanity slot	Okno wyglądu hełmu	Helm-Eitelkeit-Slot
+Intro/Slide1	Text		In a place far away from anywhere else.	W miejscu oddalonym od reszty świata.	An einem Ort mitten im Nirgendwo.
+Intro/Slide2	Text		You are part of a group of explorers, making your way through the forest.	Jesteś częścią grupy odkrywców, którzy przedzierają się przez las.	Du gehörst zu einer Gruppe von Forschern, die sich ihren Weg durch den Wald bahnen.
+Intro/Slide3	Text		Feeling a strange presence,* you notice something between the trees.	Czując dziwną obecność, * zauważasz coś między drzewami.	Als du eine seltsame Präsenz fühlst*, bemerkst du etwas zwischen den Bäumen.
+Intro/Slide4	Text		Drawn to it,* you approach this strange relic and raise a hand towards it.	Przyciągnięty do tego,* podchodzisz do tego dziwnego reliktu i wyciągasz rękę w jego kierunku.	Davon angezogen* näherst du dich diesem seltsamen Relikt und erhebst eine Hand.
+Intro/Slide5	Text		Upon touching its surface, a blinding light engulfs you.	Po dotknięciu jego powierzchni ogarnia cię oślepiające światło.	Als du seine Oberfläche berührst, wirst du von einem blendenden Licht umschlossen.
+ItemCategory/Building	Text		Building	Budynek	Gebäude
+ItemCategory/Building_BaseBuilding	Text		Base building	Budynek podstawowy	Basisbau
+ItemCategory/Building_Chest	Text		Chest	Skrzynia	Kiste
+ItemCategory/Building_FunctionalBuilding	Text		Functional building	Budynek funkcjonalny	Funktionales Gebäude
+ItemCategory/Building_MerchantItem	Text		Merchant item	Przedmiot sprzedawcy	Händler-Gegenstand
+ItemCategory/Building_Object	Text		Object	Obiekt	Objekt
+ItemCategory/Consumable	Text		Consumable	Zużywalne	Verbrauchsgut
+ItemCategory/Consumable_Fish	Text		Fish	Ryby	Fisch
+ItemCategory/Consumable_Food	Text		Snacks	Przekąski	Snacks
+ItemCategory/Consumable_Ingredient	Text		Ingredient	Składnik	Zutat
+ItemCategory/Consumable_PetCandy	Text		Pet candy	Słodycze dla zwierząt	Leckerli
+ItemCategory/Consumable_Potion	Text		Potion	Mikstura	Trank
+ItemCategory/Creature	Text		Creature	Stworzenie	Kreatur
+ItemCategory/Creature_Cattle	Text		Cattle	Bydło	Nutztier
+ItemCategory/Creature_Critter	Text		Critter	Stwór	Kriechtier
+ItemCategory/Creature_Enemy	Text		Enemy	Wróg	Feind
+ItemCategory/Creature_Merchant	Text		Merchant	Handlarz	Händler
+ItemCategory/Creature_Pet	Text		Pet	Zwierzak	Haustier
+ItemCategory/Environment	Text		Environment	Środowisko	Umgebung
+ItemCategory/Environment_CityBiome	Text		City biome	Biom miejski	Stadt-Biom
+ItemCategory/Environment_ClayBiome	Text		Clay biome	Biom gliniasty	Lehm-Biom
+ItemCategory/Environment_CrystalBiome	Text		Crystal biome	Biom kryształowy	Kristall-Biom
+ItemCategory/Environment_DesertBiome	Text		Desert biome	Biom pustynny	Wüsten-Biom
+ItemCategory/Environment_DirtBiome	Text		Dirt biome	Biom ziemi	Erd-Biom
+ItemCategory/Environment_Ground	Text		Ground	Grunt	Boden
+ItemCategory/Environment_LavaBiome	Text		Lava biome	Biom lawy	Lava-Biom
+ItemCategory/Environment_MeadowBiome	Text		Meadow biome	Biom łąki	Wiesen-Biom
+ItemCategory/Environment_MoldBiome	Text		Mold biome	Biom pleśni	Schimmel-Biom
+ItemCategory/Environment_NatureBiome	Text		Nature biome	Biom naturalny	Natur-Biom
+ItemCategory/Environment_OreBoulder	Text		Ore boulder	Głaz rudy	Erzblock
+ItemCategory/Environment_PitObject	Text		Pit object	Obiekt wykopu	Abgrund-Objekt
+ItemCategory/Environment_SeaBiome	Text		Sea biome	Biom morski	Meeres-Biom
+ItemCategory/Environment_SlimeBiome	Text		Slime biome	Biom szlamu	Schleim-Biom
+ItemCategory/Environment_StoneBiome	Text		Stone biome	Biom kamienny	Stein-Biom
+ItemCategory/Environment_Wall	Text		Wall	Ściana	Wand
+ItemCategory/Equipment	Text		Equipment	Wyposażenie	Ausrüstung
+ItemCategory/Equipment_Bag	Text		Bag	Bagaż	Tasche
+ItemCategory/Equipment_Bait	Text		Bait	Przynęta	Köder
+ItemCategory/Equipment_BreastArmor	Text		Breast armor	Pancerz piersiowy	Brustkleidung
+ItemCategory/Equipment_Helm	Text		Helm	Hełm	Helm
+ItemCategory/Equipment_MeleeWeapon	Text		Melee weapon	Broń do walki wręcz	Nahkampfwaffe
+ItemCategory/Equipment_Necklace	Text		Necklace	Naszyjnik	Halskette
+ItemCategory/Equipment_Offhand	Text		Offhand	Druga ręka	Zweithand
+ItemCategory/Equipment_PaintBrush	Text		Paint brush	Pędzel	Pinsel
+ItemCategory/Equipment_PantsArmor	Text		Pants armor	Pancerz na nogi	Beinkleidung
+ItemCategory/Equipment_RangeWeapon	Text		Range weapon	Broń dystansowa	Fernkampfwaffe
+ItemCategory/Equipment_Ring	Text		Ring	Pierścień	Ring
+ItemCategory/Equipment_Tool	Text		Tool	Narzędzie	Werkzeug
+ItemCategory/Material	Text		Material	Materiał	Material
+ItemCategory/Material_RawMaterial	Text		Raw material	Surowy materiał	Rohmaterial
+ItemCategory/Material_RefinedMaterial	Text		Refined material	Wyrafinowany materiał	Verarbeitetes Material
+ItemCategory/Material_UniqueMaterial	Text		Unique material	Unikalny materiał	Einzigartiges Material
+ItemCategory/Music	Text		Music	Muzyka	Musik
+ItemCategory/Music_Instrument	Text		Instrument	Instrument	Instrument
+ItemCategory/Music_MusicSheet	Text		Music sheet	Arkusz nutowy	Notenblatt
+ItemCategory/Other	Text		Other	Inne	Andere
+ItemCategory/Other_KeyItem	Text		Key item	Element kluczowy	Schlüsselgegenstand
+ItemCategory/Other_Mods	Text	This category contains objects from mods	Mods	Mody	Mods
+ItemCategory/Other_OracleCard	Text		Oracle card	Karta wyroczni	Orakel-Karte
+ItemCategory/Other_Recipe	Text		Recipe	Przepis	Rezept
+ItemCategory/Other_Seed	Text		Seed	Nasiona	Samen
+ItemCategory/Seasonal	Text		Seasonal	Sezonowe	Saisonal
+ItemCategory/Seasonal_Anniversary	Text		Anniversary	Rocznica	Jubiläum
+ItemCategory/Seasonal_CherryBlossom	Text		Cherry blossom	Kwitnąca wiśnia	Kirschblüte
+ItemCategory/Seasonal_Christmas	Text		Christmas	Boże Narodzenie	Weihnachten
+ItemCategory/Seasonal_Easter	Text		Easter	Wielkanoc	Ostern
+ItemCategory/Seasonal_Halloween	Text		Halloween	Halloween	Halloween
+ItemCategory/Seasonal_Lunar	Text		Lunar New Year	Nowy Rok Księżycowy	Mondneujahr
+ItemCategory/Seasonal_Valentine	Text		Valentine	Walentynki	Valentinstag
+ItemCategory/Technology	Text		Technology	Technologia	Technologie
+ItemCategory/Technology_Automation	Text		Automation	Automatyzacja	Automatisierung
+ItemCategory/Technology_Boat	Text		Boat	Łódź	Boot
+ItemCategory/Technology_DefensiveBuilding	Text		Defensive building	Budynek obronny	Defensivgebäude
+ItemCategory/Technology_Electronics	Text		Electronics	Elektronika	Elektronik
+ItemCategory/Technology_Explosives	Text		Explosives	Materiały wybuchowe	Sprengstoff
+ItemCategory/Technology_Railway	Text		Railway	Kolej	Gleise
+ItemCategory/Technology_Utility	Text		Utility	Użytkowe	Hilfsmittel
+ItemCategory/Technology_Vehicle	Text		Vehicle	Pojazd	Fahrzeug
+ItemCategory/Valuable	Text		Valuable	Wartościowe	Wertvoll
+ItemCategory/Valuable_CityBiome	Text		City biome	Biom miejski	Stadt-Biom
+ItemCategory/Valuable_ClayBiome	Text		Clay biome	Clay biome	Lehm-Biom
+ItemCategory/Valuable_CrystalBiome	Text		Crystal biome	Biom kryształowy	Kristall-Biom
+ItemCategory/Valuable_DesertBiome	Text		Desert biome	Biom pustynny	Wüsten-Biom
+ItemCategory/Valuable_DirtBiome	Text		Dirt biome	Biom ziemi	Erd-Biom
+ItemCategory/Valuable_LavaBiome	Text		Lava biome	Biom lawy	Lava-Biom
+ItemCategory/Valuable_MoldBiome	Text		Mold biome	Biom pleśni	Schimmel-Biom
+ItemCategory/Valuable_NatureBiome	Text		Nature biome	Biom naturalny	Natur-Biom
+ItemCategory/Valuable_Other	Text		Other	Inne	Andere
+ItemCategory/Valuable_SeaBiome	Text		Sea biome	Biom morski	Meeres-Biom
+ItemCategory/Valuable_StoneBiome	Text		Stone biome	Biom kamienny	Stein-Biom
+ItemCategory/Valuable_Trophy	Text		Figurine	Figurka	Figur
+ItemLevel	Text		Item level {0}	Poziom przedmiotu {0}	Gegenstandsstufe {0}
+Items/AbandonedCampMatress	Text		Camp Matress	Materac kempingowy	Alte Rollmatratze
+Items/AbandonedCampMatressDesc	Text		The resting place of a former adventurer?	Miejsce spoczynku byłego poszukiwacza przygód?	Der Ruheort eines ehemaligen Abenteurers?
+Items/AbandonedCampTent	Text		Camp Tent	Namiot kempingowy	Altes Zelt
+Items/AbandonedCampTentDesc	Text		An abandoned makeshift tent, who would have lived here?	Opuszczony prowizoryczny namiot, kto by tu mieszkał?	Ein selbst gebautes Zelt. Wer hat hier gelebt?
+Items/AbyssTree	Text		Abyss Tree	Drzewo Otchłani	Abgrund-Baum
+Items/AbyssTreeDesc	Text		A tree that grows in the chasms of Azeos Wilderness. It is unknown how far down it reaches.	Drzewo rosnące w szczelinach dziczy Azeosa. Nie wiadomo, jak głęboko sięga.	Ein Baum, der nur in den Abgründen von Azeos' Wildnis wächst. Es ist unbekannt, wie tief er wirklich reicht.
+Items/AcidLarva	Text		Acid Larva	Kwasowa larwa	Säurelarve
+Items/AcidLarvaTrophy	Text		Acid Larva Figurine	Figurka kwasowej larwy	Säurelarven-Figur
+Items/AcidLarvaTrophyDesc	Text		A lifelike representation of an Acid Larva.	Realistyczna reprezentacja kwasowej larwy.	Eine lebensechte Nachbildung einer Säurelarve.
+Items/AdderStone	Text		Adder Stone	Kamień żmijowy	Hascherlit
+Items/AdderStoneDesc	Text		A porous smooth stone, some believe it wards off evil spirits.	Porowaty, gładki kamień, niektórzy wierzą, że odstrasza złe duchy.	Ein poröser, glatter Stein. Es wird behauptet, er wehre böse Geister ab.
+Items/AdvancedJewelryWorkBench	Text		Proficient Jewelry Workbench	Profesjonalny stół warsztatowy do biżuterii	Fortgeschrittene Schmuck-Werkbank
+Items/AdvancedJewelryWorkBenchDesc	Text		An advanced workbench for creating rings and necklaces.	Zaawansowany stół warsztatowy do tworzenia pierścionków i naszyjników.	Eine fortschrittliche Werkbank um Ringe und Halsketten herzustellen.
+Items/AgarthaReport	Text		Agartha Report	Raport Agartha	Agartha-Bericht
+Items/AgarthaReportDesc	Text		A leatherbound book written in unsteady human language. It appears that the author believed to have found the mythological center of the earth, before succumbing to illness.	Oprawiona w skórę książka napisana chwiejnym ludzkim językiem. Wygląda na to, że autor wierzył, że odnalazł mitologiczne centrum Ziemi, zanim zachorował.	Ein ledergebundenes Buch, das mit zittriger Hand in menschlicher Sprache verfasst wurde. Der Autor schien zu glauben, den mythologischen Mittelpunkt der Erde gefunden zu haben, bevor er von einer Krankheit dahingerafft wurde.
+Items/AggressiveSlimeBlob	Text		Red Slime	Czerwony szlam	Rotschleim
+Items/AlchemyTable	Text		Alchemist's Table	Stół alchemiczny	Alchemisten-Pult
+Items/AlchemyTableDesc	Text		Workbench to tinker with the wonders of chemistry.	Stół warsztatowy do majsterkowania przy cudach chemii.	Eine Werkbank, um mit den Wundern der Chemie zu experimentieren.
+Items/AlienChest	Text		Alien Tech Chest	Skrzynia techniczna obcych	Alientechnologie-Kiste
+Items/AlienChestDesc	Text		A technological marvel: an inventory chest from outer space! Seems like even advanced civilizations need to stash things away.	Technologiczny cud: skrzynia magazynowa z kosmosu! Wygląda na to, że nawet zaawansowane cywilizacje muszą przechowywać różne rzeczy.	Ein technologisches Wunder: die Kiste aus dem Weltall! Offenbar müssen selbst hochentwickelte Zivilisationen irgendwo Dinge aufbewahren.
+Items/AlienFloorVent	Text		Alien Floor Vent	Wentylator podłogowy obcych	Alien-Bodenlüftung
+Items/AlienFloorVentDesc	Text		A piece of tech that would still be functional, had it not been ripped out of the floor by greedy hands.	Kawałek technologii, który nadal byłby funkcjonalny, gdyby nie został wyrwany z podłogi przez chciwe ręce.	Ein technisches Bauteil, das noch funktionstüchtig wäre, hätte man es nicht mit gierigen Griffeln aus dem Boden gerissen.
+Items/AlienObeliskSmall	Text		Small Alien Obelisk	Mały obelisk obcych	Kleiner Alien-Obelisk
+Items/AlienObeliskSmallDesc	Text		A descriptive stele, carved into mysterious stone. Its meaning is beyond earthly understanding.	Opisowa stela wyryta w tajemniczym kamieniu. Jej znaczenie wykracza poza ziemskie zrozumienie.	Eine beschriebene Stele, die in geheimnisvollen Stein gehauen ist. Ihre Bedeutung entzieht sich dem irdischen Verständnis.
+Items/AlienObeliskTall	Text		Tall Alien Obelisk	Wysoki obelisk obcych	Großer Alien-Obelisk
+Items/AlienObeliskTallDesc	Text		A large descriptive stele, carved into mysterious stone. Its meaning is beyond earthly understanding.	Duża opisowa stela wyryta w tajemniczym kamieniu. Jej znaczenie wykracza poza ziemskie zrozumienie.	Eine große, beschriebene Stele, die in geheimnisvollen Stein gehauen ist. Ihre Bedeutung entzieht sich dem irdischen Verständnis.
+Items/AlienStalagmite	Text		High Tech Pillar	Zaawansowany technologicznie filar	Hightech-Säule
+Items/AlienStalagmiteDesc	Text		It looks like a pillar but its actual function is unknown. Is it a cooling mechanism or does it perhaps store energy?	Wygląda jak filar, ale jego rzeczywista funkcja jest nieznana. Czy jest to mechanizm chłodzący, czy może przechowuje energię?	Sieht wie eine Säule aus, doch seine eigentliche Funktion ist unbekannt. Handelt es sich um ein Kühlaggregat oder speichert sie vielleicht Energie?
+Items/AlienTechBreastArmor	Text		Cosmos Torso	Kosmiczny napierśnik	Kosmos-Torso
+Items/AlienTechBreastArmorDesc	Text		This airtight jacket keeps the atmosphere around your body evenly pressured and is equipped with a system to increase damage efficiency.	Ta hermetyczna kamizelka utrzymuje równomierne ciśnienie atmosferyczne wokół ciała i jest wyposażona w system zwiększający skuteczność obrażeń.	Diese luftdichte Jacke schafft einen steten Druckausgleich um deinen Körper und ist mit einem System zur Erhöhung der Schadenseffizienz ausgerüstet.
+Items/AlienTechCrystalLight	Text		Alien Crystal Light	Kryształowe światło obcych	Alien-Kristalllicht
+Items/AlienTechCrystalLightDesc	Text		A highly advanced light using a giant ancient gemstone. It almost appears like an oversized torch made for something with even larger hands.	Wysoce zaawansowana lampa wykorzystująca gigantyczny pradawny kamień szlachetny. Wygląda niemal jak ogromna pochodnia stworzona dla kogoś z jeszcze większymi dłońmi.	Eine hochentwickelte Lichtquelle, gespeist von einem riesigen antiken Edelstein. Sie wirkt fast wie eine übergroße Fackel, gemacht für etwas mit noch größeren Händen.
+Items/AlienTechDestructible	Text		Alien Tech Crate	Skrzynia techniczna obcych	Alientechnologie-Behälter
+Items/AlienTechDestructibleDesc	Text		A breakable box that is not from this world. It contains extraterrestrial goods.	Zniszczalne pudełko, które nie pochodzi z tego świata. Zawiera towary pozaziemskie.	Eine zerstörbare Kiste, die nicht von diesem Planeten stammt. Sie enthält außerirdische Gegenstände.
+Items/AlienTechHelm	Text		Cosmos Visor Helm	Kosmiczny szklany hełm	Kosmos-Visierhelm
+Items/AlienTechHelmDesc	Text		A futuristic helm sealed under a big glass dome, leaving the view open to marvel at the miracles of space.	Futurystyczny hełm zamknięty pod wielką szklaną kopułą, z otwartym widokiem na cuda kosmosu.	Ein futuristischer Helm, versiegelt durch eine große Glaskuppel. Sie lässt den Blick offen für die Wunder des Universums.
+Items/AlienTechPantsArmor	Text		Cosmos Legwear	Kosmiczne nogawice	Kosmos-Beinkleidung
+Items/AlienTechPantsArmorDesc	Text		Heavy pants that are less suited for quick movements and more for safely treading on foreign planets.	Ciężkie spodnie, które są mniej przystosowane do szybkich ruchów, a bardziej do bezpiecznego stąpania po obcych planetach.	Schwere Hose, die sich weniger für schnelle Bewegungen als für sicheres Reisen auf fremden Planeten eignet.
+Items/AlienTechSpire	Text		Dysfunctional Coil	Niesprawna cewka	Funktionsgestörte Spule
+Items/AlienTechSpireDesc	Text		A piece of alien technology that seems to have burned out.	Kawałek obcej technologii, który najwyraźniej się spalił.	Ein Stück Alientechnologie, das ausgebrannt zu sein scheint.
+Items/AmberChunk	Text		Amber Chunk	Kawałek bursztynu	Bernstein-Klumpen
+Items/AmberChunkDesc	Text		Solid remains of an ancient forest. The light it reflects is warm and golden.	Solidne pozostałości pradawnego lasu. Światło, które odbija jest ciepłe i złociste.	Hartes Überbleibsel eines uralten Waldes. Das Licht, das er reflektiert, ist warm und goldfarben.
+Items/AmberFishEgg	Text		Amber Fish Egg	Ikra bursztynowej ryby	Bernstein-Fischei
+Items/AmberFishEggDesc	Text		A perfectly preserved fish egg encapsulated in amber. How those two combined is a mystery.	Doskonale zachowana rybia ikra zamknięta w bursztynie. Jak te dwa elementy się połączyły, pozostaje tajemnicą.	Ein perfekt erhaltenes Fischei eingehüllt in Bernstein. Wie sich diese beiden verbanden, bleibt ein Rätsel.
+Items/AmberLarva	Text		Amber Larva	Bursztynowa larwa	Bernstein-Larve
+Items/AmberLarvaDesc	Text		Grub encapsulated in amber, an extremely rare ingredient.	Czerw zamknięty w bursztynie, niezwykle rzadki składnik.	Eine Larve, eingehüllt in Bernstein, eine extrem seltene Zutat.
+Items/Ammonite	Text		Ammonite	Amonit	Ammonit
+Items/AmmoniteDesc	Text		The petrified shell of an ancient sea creature.	Skamieniała skorupa pradawnego morskiego stworzenia.	Die versteinerte Hülle eines vorurzeitlichen Meeres-Lebewesens.
+Items/AmmoniteNecklace	Text		Ammonite Necklace	Naszyjnik z amonitem	Ammonit-Halskette
+Items/AmmoniteNecklaceDesc	Text		Simple but beautiful necklace featuring a fossil.	Prosty, ale piękny naszyjnik ze skamieliną.	Eine einfache, aber schöne Halskette, die aus einem Fossil gefertigt wurde.
+Items/AnchorAxe	Text		Anchor Axe	Siekiera kotwiczna	Anker-Axt
+Items/AnchorAxeDesc	Text		This heavy weapon is actually just a ship anchor. Hits very hard and can throw enemies off.	Ta ciężka broń to tak naprawdę kotwica. Uderza bardzo mocno i może odrzucić wrogów.	Diese schwere Waffe ist eigentlich nur ein Schiffsanker. Trifft sehr hart und kann Feinde zurückdrängen.
+Items/AncientCoin	Text		Ancient Coin	Starożytna moneta	Antike Münze
+Items/AncientCoinDesc	Text		Valuable ancient coin, currency of the underground.	Cenna starożytna moneta, waluta podziemia.	Eine wertvolle antike Münze, die Währung des Untergrunds.
+Items/AncientDestructible	Text		Ancient Crate	Pradawna skrzynia	Antike Kiste
+Items/AncientDestructibleDesc	Text		A mysteriously glowing container holding ancient goods.	Tajemniczo świecący pojemnik zawierający pradawne dobra.	Ein mysteriös leuchtender Behälter, gefüllt mit alten Gegenständen.
+Items/AncientFeather	Text		Ancient Feather	Pradawne Pióro	Uralte Feder
+Items/AncientFeatherDesc	Text		An unusual feather left by something big.	Nietypowe pióro pozostawione przez coś dużego.	Eine ungewöhnliche Feder, die von etwas Großem zurückgelassen wurde.
+Items/AncientFishingHook	Text		Ancient Fishing Hook	Pradawny haczyk wędkarski	Antiker Angelhaken
+Items/AncientFishingHookDesc	Text		A very old design for a fishing hook that is not used anymore.	Bardzo stary projekt haczyka wędkarskiego, który nie jest już używany.	Ein sehr altes Design für einen Angelhaken, das nicht mehr benutzt wird.
+Items/AncientForge	Text		Ancient Forge	Pradawna Kuźnia	Antike Schmiede
+Items/AncientFountain	Text		Ancient Fountain	Pradawna fontanna	Antiker Brunnen
+Items/AncientFountainDesc	Text		Only those with secret knowledge know where to find this fountain. It is powered by an ammonite fossil that crystalized through the presence of ancient gemstones.	Tylko ci, którzy posiadają tajemną wiedzę, mogą znaleźć tę fontannę. Jest ona zasilana przez skamielinę amonita, która skrystalizowała się dzięki obecności pradawnych kamieni szlachetnych.	Nur jene, die im Besitz von Geheimwissen sind, können diesen Brunnen finden. Er wird durch ein Ammonitfossil betrieben, welches durch die Nähe von Antiken Edelsteinen kristallisierte.
+Items/AncientGemNecklace	Text		Ancient Gem Necklace	Naszyjnik ze pradawnym klejnotem	Antike Edelsteinkette
+Items/AncientGemNecklaceDesc	Text		A necklace crafted with only using ancient gemstones as well as a super rare white version.	Naszyjnik wykonany wyłącznie przy użyciu antycznych kamieni szlachetnych, a na dodatek w bardzo rzadkiej, białej wersji.	Eine Kette, komplett aus Antiken Edelsteinen und einem seltenen weißen hergestellt.
+Items/AncientGemPlate	Text		Ancient Gem Plate	Antyczna klejnotowa płytka	Antike Kristallplatte
+Items/AncientGemPlateDesc	Text		This shimmering plate has intricate engravings, it looks like a key to something.	Ta połyskująca płytka ma skomplikowane grawerunki, wygląda jak klucz do czegoś.	Eine leuchtende, mit feinen Linien durchzogene Platte. Sie sieht wie ein Schlüssel zu etwas aus.
+Items/AncientGemRing	Text		Ancient Gem Ring	Antyczny pierścień z klejnotów	Antiker Edelsteinring
+Items/AncientGemRingDesc	Text		This mysterious ring is entirely made out of ancient gemstones, featuring a super rare white one.	Ten tajemniczy pierścień jest wykonany wyłącznie przy użyciu antycznych kamieni szlachetnych, a na dodatek w bardzo rzadkiej, białej wersji.	Dieser mysteriöse Ring ist komplett aus Antiken Edelsteinen hergestellt, mit einem seltenen weißen in der Mitte.
+Items/AncientGemstone	Text		Ancient Gemstone	Starożytny klejnot	Antiker Edelstein
+Items/AncientGemstoneBreastArmor	Text		Gemstone Garment	Szata z klejnotów	Edelstein-Gewand
+Items/AncientGemstoneBreastArmorDesc	Text		This noble robe covers the body in a cascading, silk-like fabric. The woven in ancient gemstone enhance spiritual capabilities.	Ta szlachetna szata okrywa ciało kaskadową, jedwabną tkaniną. Wplecione w nią starożytne kamienie szlachetne wzmacniają zdolności duchowe.	Diese edle Robe hüllt den Körper in einem fließenden, seidenartigen Stoff. Die eingewebten Antiken Edelsteine verstärken geistliche Fähigkeiten.
 Items/AncientGemstoneDesc	Text		Strange, blue gemstone emitting waves of energy.		Ein merkwürdiger, blauer Edelstein, durch den Energiewellen pulsieren.
 Items/AncientGemstonePantsArmor	Text		Gemstone Harem Pants		Edelstein-Haremshose
 Items/AncientGemstonePantsArmorDesc	Text		A set of pants that feels very comfortable to wear. Rooting you in the here and now, you can feel your mental focus increasing.		Eine Hose mit hohem Tragekomfort. Sie verwurzelt dich im Hier und Jetzt, wodurch dein mentaler Fokus geschärft wird.
