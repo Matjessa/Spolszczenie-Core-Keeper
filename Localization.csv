@@ -1363,41 +1363,41 @@ Items/Blowpipe	Text		Blowpipe	Dmuchawka	Blasrohr
 Items/BlowpipeDesc	Text		A simple weapon loaded with poisonous darts.	Prosta broń załadowana trującymi strzałkami.	Eine simple Waffe, die giftige Pfeile verschießt.
 Items/BlueCaveGuppy	Text		Blue Cave Guppy	Niebieski gupik jaskiniowy	Blauer Höhlenguppy
 Items/BlueCaveGuppyDesc	Text		Small, blue fish home to the dirt cave lakes.	Mała, niebieska ryba zamieszkująca brudne jeziora jaskiniowe.	Kleiner, blauer Fisch, der in den Gewässern der Erdhöhlen beheimatet ist.
-Items/BlueFireFly	Text		Blue Glowbug		Blauer Glimmkäfer
-Items/BlueFireFlyDesc	Text		This flying bug always appears in swarms which appear as dancing lights. Its blue glow is biome-specific.		Dieser fliegende Käfer taucht immer in Schwärmen auf, die wie tanzende Lichter wirken. Sein blauer Schein ist biomspezifisch.
-Items/BlueGlassKalimba	Text		Blue Glass Kalimba		Blauglas-Kalimba
-Items/BlueGlassKalimbaDesc	Text		"A delicate instrument that has multiple fractures across its surface, rendering it unusable. There is a signature reading ""Woopsiee"", that has been carved into the glass."		Ein empfindliches Instrument, das auf der gesamten Oberfläche mehrere Brüche aufweist, die es unbrauchbar machen. In das Glas ist die Signatur „Woopsiee“ eingraviert.
-Items/BlueGlassShard	Text		Blue Glass Shard		Blauglas-Scherbe
-Items/BlueGlassShardDesc	Text		A piece of deep blue glass, it appears to be a fusion of molten sand and ancient gemstones.		Ein Stück tiefblauen Glases, offenbar eine Fusion aus geschmolzenem Sand und Antiken Edelsteinen.
-Items/BlueKelp	Text		Blue Kelp		Blauer Seetang
-Items/BlueKelpDesc	Text		A blue lump of marine plants.		Ein blauer Klumpen Meerespflanzen.
-Items/BlueSlimeTrophy	Text		Blue Slime Figurine		Blauschleim-Figur
-Items/BlueSlimeTrophyDesc	Text		A lifelike representation of a slippery Blue Slime.		Eine lebensechte Nachbildung eines Blauschleims.
-Items/Boat	Text		Boat		Boot
-Items/BoatDesc	Text		Allows travelling over water.		Erlaubt das Reisen über Gewässer.
-Items/BoatWorkbench	Text		Boat Workbench		Bootswerkbank
-Items/BoatWorkbenchDesc	Text		This wide workstation allows the construction of different boats. Ahoy!		Dieser breite Arbeitstisch erlaubt die Konstruktion von verschiedenen Booten. Ahoi!
-Items/Bomb	Text		Bomb		Bombe
-Items/BombDesc	Text		A stronger explosive for crowd control and facing giant enemies.		Eine stärkere Sprengladung, um großen oder vielen Feinden Einhalt zu gebieten.
-Items/BombPepper	Text		Bomb Pepper		Bompaprika
-Items/BombPepperDesc	Text		A fierce vegetable for spicing up foods.		Ein loderndes Gemüse, um Gerichten die gewisse Schärfe zu verpassen.
-Items/BombPepperRare	Text		Golden Bomb Pepper		Goldene Bompaprika
-Items/BombPepperRareDesc	Text		A very rare variant of the common bomb pepper.		Eine sehr seltene Variante der Bompaprika.
-Items/BombPepperSeed	Text		Bomb Pepper Seed		Bompaprika-Samen
-Items/BombPepperSeedDesc	Text		Grows into a spicy vegetable when planted.		Wenn er gepflanzt wird, wächst daraus ein scharfes Gemüse.
-Items/BombRing	Text		Bomb Ring		Bombenring
-Items/BombRingDesc	Text		A ring crowned with a little bomb idol. Handling explosives while wearing it results in an even stronger blast.		Ein Ring mit einem kleinen Bomben-Idol als Krönung. Wenn man mit Sprengstoff hantiert, während man ihn trägt, wird die Explosion noch stärker.
-Items/BombScarab	Text		Bomb Scarab		Bombenskarabäus
-Items/BombScarabTrophy	Text		Bomb Scarab Figurine		Bombenskarabäus-Figur
-Items/BombScarabTrophyDesc	Text		A lifelike representation of a Bomb Scarab.		Eine lebensechte Nachbildung eines Bombenskarabäus.
-Items/BoneCreole	Text		Bone Creole		Knochen-Kreole
-Items/BoneCreoleDesc	Text		A crude piece of jewelry carved from bone.		Ein grobes, aus einem Knochen geschnitztes Schmuckstück.
-Items/BoneNecklace	Text		Bone Necklace		Knochen-Halskette
-Items/BoneNecklaceDesc	Text		A primitive piece of jewelry made from small bones. Early humans have also made these for many different reasons.		Ein primitives Schmuckstück aus kleinen Knochen. Schon Frühmenschen haben so etwas aus verschiedenen Gründen hergestellt.
-Items/BoneRing	Text		Bone Ring		Knochenring
-Items/BoneRingDesc	Text		A prehistoric, crude ring made from bone. Rings like these have been discovered in early human graves.		Ein prähistorischer, grober Knochenring. Ringe wie dieser wurden in den Gräbern von Frühmenschen gefunden.
-Items/BossChest	Text		Titan's Chest		Titanen-Kiste
-Items/BossChestDesc	Text		A large, ancient chest crested with gemstones.		Eine große, antike Kiste bestückt mit Edelsteinen.
+Items/BlueFireFly	Text		Blue Glowbug	Niebieski świetlik	Blauer Glimmkäfer
+Items/BlueFireFlyDesc	Text		This flying bug always appears in swarms which appear as dancing lights. Its blue glow is biome-specific.	Ten latający robak zawsze pojawia się w rojach, które wyglądają jak tańczące światła. Jego niebieska poświata jest specyficzna dla biomu.	Dieser fliegende Käfer taucht immer in Schwärmen auf, die wie tanzende Lichter wirken. Sein blauer Schein ist biomspezifisch.
+Items/BlueGlassKalimba	Text		Blue Glass Kalimba	Kalimba z niebieskiego szkła	Blauglas-Kalimba
+Items/BlueGlassKalimbaDesc	Text		"A delicate instrument that has multiple fractures across its surface, rendering it unusable. There is a signature reading ""Woopsiee"", that has been carved into the glass."	Delikatny instrument, który ma wiele pęknięć na całej powierzchni, co czyni go bezużytecznym. Na szkle znajduje się wyryty podpis „Woopsiee”.	Ein empfindliches Instrument, das auf der gesamten Oberfläche mehrere Brüche aufweist, die es unbrauchbar machen. In das Glas ist die Signatur „Woopsiee“ eingraviert.
+Items/BlueGlassShard	Text		Blue Glass Shard	Odłamek niebieskiego szkła	Blauglas-Scherbe
+Items/BlueGlassShardDesc	Text		A piece of deep blue glass, it appears to be a fusion of molten sand and ancient gemstones.	Kawałek ciemnoniebieskiego szkła, wydaje się być połączeniem stopionego piasku i starożytnych kamieni szlachetnych.	Ein Stück tiefblauen Glases, offenbar eine Fusion aus geschmolzenem Sand und Antiken Edelsteinen.
+Items/BlueKelp	Text		Blue Kelp	Niebieski wodorost	Blauer Seetang
+Items/BlueKelpDesc	Text		A blue lump of marine plants.	Niebieski płat roślin morskich.	Ein blauer Klumpen Meerespflanzen.
+Items/BlueSlimeTrophy	Text		Blue Slime Figurine	Figurka niebieskiego szlamu	Blauschleim-Figur
+Items/BlueSlimeTrophyDesc	Text		A lifelike representation of a slippery Blue Slime.	Realistyczne odwzorowanie śliskiego niebieskiego szlamu.	Eine lebensechte Nachbildung eines Blauschleims.
+Items/Boat	Text		Boat	Łódka	Boot
+Items/BoatDesc	Text		Allows travelling over water.	Umożliwia podróżowanie po wodzie.	Erlaubt das Reisen über Gewässer.
+Items/BoatWorkbench	Text		Boat Workbench	Stół warsztatowy do łodzi	Bootswerkbank
+Items/BoatWorkbenchDesc	Text		This wide workstation allows the construction of different boats. Ahoy!	Ta szeroka stacja robocza umożliwia budowę różnych łodzi. Ahoj!	Dieser breite Arbeitstisch erlaubt die Konstruktion von verschiedenen Booten. Ahoi!
+Items/Bomb	Text		Bomb	Bomba	Bombe
+Items/BombDesc	Text		A stronger explosive for crowd control and facing giant enemies.	Silniejszy ładunek wybuchowy do kontroli tłumu i walki z gigantycznymi wrogami.	Eine stärkere Sprengladung, um großen oder vielen Feinden Einhalt zu gebieten.
+Items/BombPepper	Text		Bomb Pepper	Bombowa papryka	Bompaprika
+Items/BombPepperDesc	Text		A fierce vegetable for spicing up foods.	Ostre warzywo do wzbogacenia potraw.	Ein loderndes Gemüse, um Gerichten die gewisse Schärfe zu verpassen.
+Items/BombPepperRare	Text		Golden Bomb Pepper	Złota bombowa papryka	Goldene Bompaprika
+Items/BombPepperRareDesc	Text		A very rare variant of the common bomb pepper.	Bardzo rzadka odmiana popularnej bombowej papryki	Eine sehr seltene Variante der Bompaprika.
+Items/BombPepperSeed	Text		Bomb Pepper Seed	Nasiona bombowej papryki	Bompaprika-Samen
+Items/BombPepperSeedDesc	Text		Grows into a spicy vegetable when planted.	Po posadzeniu wyrasta pikantne warzywo.	Wenn er gepflanzt wird, wächst daraus ein scharfes Gemüse.
+Items/BombRing	Text		Bomb Ring	Bombowy pierścień	Bombenring
+Items/BombRingDesc	Text		A ring crowned with a little bomb idol. Handling explosives while wearing it results in an even stronger blast.	Pierścień zwieńczony małym symbolem bomby. Używanie materiałów wybuchowych podczas noszenia pierścienia powoduje jeszcze silniejszy wybuch.	Ein Ring mit einem kleinen Bomben-Idol als Krönung. Wenn man mit Sprengstoff hantiert, während man ihn trägt, wird die Explosion noch stärker.
+Items/BombScarab	Text		Bomb Scarab	Bombowy skarabeusz	Bombenskarabäus
+Items/BombScarabTrophy	Text		Bomb Scarab Figurine	Figurka bombowego skarabeusza	Bombenskarabäus-Figur
+Items/BombScarabTrophyDesc	Text		A lifelike representation of a Bomb Scarab.	Realistycznie odwzorowany bombowy skarabeusz.	Eine lebensechte Nachbildung eines Bombenskarabäus.
+Items/BoneCreole	Text		Bone Creole	Kościana bransoletka	Knochen-Kreole
+Items/BoneCreoleDesc	Text		A crude piece of jewelry carved from bone.	Prymitywna biżuteria wyrzeźbiona z kości.	Ein grobes, aus einem Knochen geschnitztes Schmuckstück.
+Items/BoneNecklace	Text		Bone Necklace	Kościany naszyjnik	Knochen-Halskette
+Items/BoneNecklaceDesc	Text		A primitive piece of jewelry made from small bones. Early humans have also made these for many different reasons.	Prymitywna biżuteria wykonana z małych kości. Pierwsi ludzie również wykonywali je z wielu różnych powodów.	Ein primitives Schmuckstück aus kleinen Knochen. Schon Frühmenschen haben so etwas aus verschiedenen Gründen hergestellt.
+Items/BoneRing	Text		Bone Ring	Kościany pierścień	Knochenring
+Items/BoneRingDesc	Text		A prehistoric, crude ring made from bone. Rings like these have been discovered in early human graves.	Prehistoryczny, prymitywny pierścień wykonany z kości. Pierścienie takie jak te zostały odkryte we wczesnych grobach ludzkich.	Ein prähistorischer, grober Knochenring. Ringe wie dieser wurden in den Gräbern von Frühmenschen gefunden.
+Items/BossChest	Text		Titan's Chest	Skrzynia Tytana	Titanen-Kiste
+Items/BossChestDesc	Text		A large, ancient chest crested with gemstones.	Duża, starożytna skrzynia wysadzana kamieniami szlachetnymi.	Eine große, antike Kiste bestückt mit Edelsteinen.
 Items/BottomTracer	Text		Bottom Tracer		Seegrund-Sucher
 Items/BottomTracerDesc	Text		A bright yellow fish with long barbels that it drags along the sea floor in search for food.		Ein hellgelber Fisch mit langen Barteln, die er am Seegrund entlangzieht, um nach Beute zu suchen.
 Items/BoxOfChocolates	Text		Box of Chocolates		Valentins-Pralinen
