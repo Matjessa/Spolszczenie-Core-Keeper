@@ -1571,7 +1571,7 @@ Items/ChemicalRationDesc	Text		This box contains a strange, synthetic food sourc
 Items/ChewyConeCandy	Text		Chewy Cone Candy	Stożkowe cukierki do żucia	Zäher Zapfen-Weingummi
 Items/ChewyConeCandyDesc	Text		A super sweet candy that ends up in the gap of your teeth. And it's there to stay.	Super słodki cukierek, który ląduje w szczelinach między zębami. I już tam zostaje.	Ein supersüßer Weingummi, der zwischen den Zähnen stecken bleibt. Und so schnell wird er da nicht verschwinden.
 Items/ChineseCoin	Text		Lucky Coin	Szczęśliwa moneta	Glücksmünze
-Items/ChineseCoinDesc	Text		While this golden coin holds many favorable meanings, the most important one is that it can be spent at a certain merchant.	Chociaż ta złota moneta ma wiele korzystnych znaczeń, najważniejszym z nich jest to, że można ją wydać u określonego kupca.	Diese goldene Münze hat viele Bedeutungen, die günstig ausgelegt werden können, aber die wichtigste ist, dass man sie bei einem bestimmten Händler ausgeben kann.
+Items/ChineseCoinDesc	Text		While this golden coin holds many favorable meanings, the most important one is that it can be spent at a certain merchant.	Chociaż ta złota moneta ma wiele korzystnych znaczeń, najważniejszym z nich jest to, że można ją wydać u określonego handlarza.	Diese goldene Münze hat viele Bedeutungen, die günstig ausgelegt werden können, aber die wichtigste ist, dass man sie bei einem bestimmten Händler ausgeben kann.
 Items/ChineseGuardianLion	Text		Guardian Beast Statue	Statuetka Bestii Strażnika	Wächterbestien-Statue
 Items/ChineseGuardianLionDesc	Text		An imposing monument to be placed in front of entrances, meant to keep figures with ill intent away.	Imponujący pomnik umieszczany przed wejściami, mający odstraszać postacie o złych zamiarach.	Ein imposantes Monument zum Platzieren vor Eingängen, um finsteren Gesellen den Eintritt zu verwehren.
 Items/ChineseKnot	Text		Mystic Knot Tassel	Mistyczny węzeł z frędzlami	Mystischer Knoten-Quaste
@@ -1652,160 +1652,160 @@ Items/ConchShellNecklace	Text		Conch Shell Necklace	Naszyjnik z konchy	Tritonsho
 Items/ConchShellNecklaceDesc	Text		A beautiful necklace featuring a small shell. When you hold it up to your ear you can hear distant waves.	Piękny naszyjnik z małą muszelką. Po przyłożeniu go do ucha można usłyszeć odległe fale.	Eine wunderschöne Halskette mit einer kleinen Muschel. Hältst du sie an dein Ohr, kannst du fernes Meeresrauschen hören.
 Items/ConveyorBelt	Text		Conveyor Belt	Przenośnik taśmowy	Förderband
 Items/ConveyorBeltDesc	Text		Transport your resources!	Transportuj swoje zasoby!	Transportiere deine Ressourcen!
-Items/CookHelm	Text		Chef's Hat		Koch-Mütze
-Items/CookHelmDesc	Text		The hallmark of every professional cook. Proof that even in the undergrounds taste can have priority over nutrition.		Das Markenzeichen eines jeden professionellen Kochs und Beweis dafür, dass selbst im Untergrund Geschmack Priorität über Nährwert haben kann.
-Items/CookPants	Text		Chef's Pants		Koch-Hose
-Items/CookPantsDesc	Text		Sporting an apron, these pants are made to prove their worth in the steam and heat of a cave kitchen.		Ausgestattet mit einer Schürze, ist diese Hose dafür gedacht, sich im Dampf und Feuer einer Höhlenküche zu bewähren.
-Items/CookShirt	Text		Chef's Jacket		Koch-Jacke
-Items/CookShirtDesc	Text		It's just a spotless, white jacket but the red neckerchief makes it official. Time to get cookin'!		Einfach nur eine makellose weiße Jacke, aber das rote Halstuch macht es offiziell. Zeit zu kochen!
-Items/CookedCereal	Text		Cereal		Müsli
-Items/CookedCheese	Text		Cheese		Käse
-Items/CookedDipSnack	Text		Dip Snack		Dip-Snack
-Items/CookedFillet	Text		Fillet		Filet
-Items/CookedFishBalls	Text		Fish Balls		Fischbällchen
-Items/CookedPanCurry	Text		Curry		Curry
-Items/CookedPudding	Text		Pudding		Pudding
-Items/CookedSalad	Text		Salad		Salat
-Items/CookedSandwich	Text		Sandwich		Sandwich
-Items/CookedSmoothie	Text		Smoothie		Smoothie
-Items/CookedSoup	Text		Soup		Suppe
-Items/CookedSteak	Text		Steak		Steak
-Items/CookedSushi	Text		Sushi		Sushi
-Items/CookedWrap	Text		Wrap		Wrap
-Items/CookiesAndMilk	Text		Cookies & Milk		Milch & Kekse
-Items/CookiesAndMilkDesc	Text		To trade with the one that decides who is naughty and who is nice.		Um zu tauschen mit dem, der am Ende entscheidet, wer gut ist und wer Böses erleidet.
-Items/CookingPot	Text		Cooking Pot		Kochtopf
-Items/CookingPotBreastArmor	Text		Cooking Pot Tub		Topf-Brustplatte
-Items/CookingPotBreastArmorDesc	Text		Only the ones really passionate about cooking dare to become the pot itself.		Nur jene, die wirklich leidenschaftlich gern kochen, trauen sich selbst zum Kochtopf zu werden.
-Items/CookingPotDesc	Text		Cooking ingredients brings out their full potential. Combine two and see what happens!		Das Kochen von Zutaten entfaltet ihr volles Potential. Kombiniere zwei und sieh, was dabei herauskommt!
-Items/CookingPotHelm	Text		Cooking Pot Lid		Topfdeckel-Helm
-Items/CookingPotHelmDesc	Text		A shiny metal cover that suppresses your boiling point.		Ein glänzender Metalldeckel, der dein heißes Gemüt in Schach hält.
-Items/CopperAnvil	Text		Copper Anvil		Kupfer-Amboss
-Items/CopperAnvilDesc	Text		Get started with creating armor for looks and combat.		Ein guter Anfang, um Rüstungen für Kampf und Komplimente herzustellen.
-Items/CopperBar	Text		Copper Bar		Kupferbarren
-Items/CopperBarDesc	Text		A simple metal ingot for blacksmithing.		Ein einfacher Metallbarren zum Schmieden.
-Items/CopperBreastArmor	Text		Copper Breastplate		Kupfer-Brustharnisch
-Items/CopperBreastArmorDesc	Text		Got no sixpack? Just craft one!		Hast du kein Sixpack? Bau dir einfach eins!
-Items/CopperChest	Text		Copper Chest		Kupfer-Kiste
-Items/CopperChestDesc	Text		An crude chest made from copper. It is not locked anymore.		Eine einfache Kiste aus Kupfer. Sie ist nicht mehr verschlossen.
-Items/CopperCrossNecklace	Text		Copper Cross Necklace		Kupferkreuz-Halskette
-Items/CopperCrossNecklaceDesc	Text		This pendant sharpens the focus, allowing for more precise hits.		Dieser Anhänger schärft die Sinne und ermöglicht genauere Angriffe.
-Items/CopperHelm	Text		Copper Helm		Kupfer-Helm
-Items/CopperHelmDesc	Text		Resembles more of a bucket but repels strong blows to the head.		Sieht eher aus wie ein Eimer, wehrt aber starke Hiebe gegen den Kopf ab.
-Items/CopperHoe	Text		Copper Hoe		Kupfer-Hacke
-Items/CopperHoeDesc	Text		A sturdy tool to prepare ground for farming. Covers an area of 2x2 tiles.		Ein robustes Werkzeug, um Böden für den Anbau vorzubereiten. Deckt eine Fläche von 2x2 Fliesen ab.
-Items/CopperKey	Text		Copper Key		Kupfer-Schlüssel
-Items/CopperKeyDesc	Text		A crude key cast in copper. There should be a lock somewhere that it fits into.		Ein einfacher, in Kupfer gegossener Schlüssel. Es muss irgendwo ein Schloss geben, in das er passt.
-Items/CopperMiningPick	Text		Copper Pickaxe		Kupfer-Spitzhacke
-Items/CopperMiningPickDesc	Text		A sturdy tool, well-suited for breaking down walls effortlessly.		Ein robustes Werkzeug. Gut geeignet, um Wände einfacher zu zerstören.
-Items/CopperOre	Text		Copper Ore		Kupfererz
-Items/CopperOreBoulder	Text		Copper Ore Boulder		Kupfer-Erzblock
-Items/CopperOreDesc	Text		Commonly found in dirt walls.		Wird oft in Erdwänden gefunden.
-Items/CopperPantsArmor	Text		Copper Pants		Kupfer-Beinzeug
-Items/CopperPantsArmorDesc	Text		Protects the shins with ease.		Schützt wunderbar die Schienbeine.
-Items/CopperShovel	Text		Copper Shovel		Kupfer-Schaufel
-Items/CopperShovelDesc	Text		A sturdy shovel, good for digging up ground.		Eine robuste Schaufel. Gut, um Böden zu entfernen.
-Items/CopperSledge	Text		Copper Sledge Hammer		Kupfer-Hammer
-Items/CopperSledgeDesc	Text		A good weapon for smashing foes and walls.		Eine gute Waffe, um Widersacher zu erschlagen und Wände zu zertrümmern.
-Items/CopperSword	Text		Copper Sword		Kupfer-Schwert
-Items/CopperSwordDesc	Text		A good weapon for slaying foes.		Eine gute Waffe, um Widersacher zu erschlagen.
-Items/CopperWorkbench	Text		Copper Workbench		Kupfer-Werkbank
-Items/CopperWorkbenchDesc	Text		A versatile workbench to prepare you for the underground world.		Eine vielseitige Werkbank, um sich aufs Überleben im Untergrund vorzubereiten.
-Items/CoralAmulet	Text		Coral Amulet		Korallen-Amulett
-Items/CoralAmuletDesc	Text		A necklace made with a pretty coral badge and white pebbles.		Eine Halskette aus einer hübschen Korallen-Plakette und weißen Kieselchen.
-Items/CoralBridge	Text		Coral Bridge		Korallen-Brücke
-Items/CoralBridgeDesc	Text		A shimmering bridge supported by coral pillars that are reaching down into the sea ground.		Eine schimmernde Brücke, die von tief in den Meeresboden reichenden Korallensäulen gestützt wird.
-Items/CoralFence	Text		Coral Fence		Korallenzaun
-Items/CoralFenceDesc	Text		A neat little fence made from pink corals.		Ein kleiner, hübscher Zaun, hergestellt aus Korallen.
-Items/CoralFenceGate	Text		Coral Fence Gate		Korallenzaun-Tor
-Items/CoralFenceGateDesc	Text		A fitting gate for the coral fence.		Ein passendes Tor für den Korallenzaun.
-Items/CoralFloor	Text		Coral Floor		Korallen-Boden
-Items/CoralFloorDesc	Text		A floor made from little organic tiles and differently colored sea floor pebbles.		Ein Boden, hergestellt aus kleinen organischen Fliesen und bunten Seegrund-Kieseln.
-Items/CoralPlank	Text		Coral plank		Korallenholz-Brett
-Items/CoralPlankDesc	Text		Coral wood slate for more precise carpentry work.		Eine Planke aus Korallenholz, gemacht für präzisere Schreinerarbeiten.
-Items/CoralRing	Text		Coral Ring		Korallenring
-Items/CoralRingDesc	Text		An intricate ring naturally grown from pink, branchy corals.		Ein feiner Ring, natürlich entstanden aus rötlichen, verästelten Korallen.
-Items/CoralRootSeed	Text		Coral Seed		Korallen-Samen
-Items/CoralRootSeedDesc	Text		Once planted it spreads corals in every direction. Only grows on beach sand.		Korallen breiten sich in jede Richtung aus, wenn er gepflanzt wird. Wächst nur auf Küstensand.
-Items/CoralWood	Text		Coral Wood		Korallenholz
-Items/CoralWoodDesc	Text		A red type of coral that is great for crafting.		Eine purpurne Korallenart, die sich wunderbar für die Fertigung eignet.
-Items/CoreEye	Text		Core Iris		Kern-Iris
-Items/CoreEyeDesc	Text		A manufactured crystal that looks like the eye of the core. This one is raw and unfinished, as if something interrupted the process.		Ein künstlicher Kristall, der wie das Auge des Kerns aussieht. Dieser hier sieht jedoch grob und unfertig aus, als hätte etwas den Prozess unterbrochen.
-Items/CoreProtocol1	Text		Shutdown Protocol		Absturz-Protokoll
-Items/CoreProtocol1Desc	Text		This blue slate depicts a graph of a sudden spike in energy levels before collapsing.		Die Grafik auf dieser blauen Kristallplatte zeigt einen plötzlichen Energieanstieg vor einem Zusammenbruch.
-Items/CoreProtocol2	Text		Anomaly Report		Anomalie-Bericht
-Items/CoreProtocol2Desc	Text		This blue slate depicts a graph of a disturbance in previous patterns resulting in more advanced processes.		Die Grafik auf dieser blauen Kristallplatte zeigt eine Abweichung von bekannten Mustern, die in komplexere Prozesse resultiert.
-Items/CoreProtocol3	Text		Overwrite Transcript		Überschreibungs-Transkript
-Items/CoreProtocol3Desc	Text		This blue slate depicts a graph of an entity redistributing processing power from multiple sources.		Die Grafik auf dieser blauen Kristallplatte zeigt eine Entität, die die Rechenleistung von verschiedenen Quellen neu umverteilt.
-Items/CoreTrophy	Text		Core Figurine		Kern-Figur
-Items/CoreTrophyDesc	Text		A lifelike representation of the core.		Eine lebensechte Nachbildung des Kerns.
-Items/CosmicCheese	Text		Lunar Cheese		Mondkäse
-Items/CosmicCheeseDesc	Text		An aromatic snack that seems out of this world. Is it proof that the moon is made out of cheese after all?		Ein aromatischer Snack, der nicht von dieser Welt zu sein scheint. Ist das der Beweis, dass der Mond letztendlich doch aus Käse besteht?
-Items/CosmicForm	Text		Cosmic Form		Kosmische Gestalt
-Items/CosmicFormDesc	Text		A strange entity that is unlike any terrestrial sea life you have ever seen. Did it come from a place far away from earth?		Ein merkwürdiges Wesen, das sich von allen bekannten terrestrischen Lebensformen unterscheidet. Stammt es von einem Ort fernab der Erde?
-Items/Cow	Text		Moolin		Muhline
-Items/CowBaby	Text		Moolin Calf		Muhlinen-Kalb
-Items/CowBabyDesc	Text		The innocent juvenile of a Moolin, who has just learned how to stand on its own hoofs. It grows up faster than you think, so give it all the love you have.		Das unschuldige Jungtier einer Muhline, das gerade erst gelernt hat, auf eigenen Hufen zu stehen. Es wird schneller erwachsen als du denkst, also gib ihm all die Liebe, die in dir steckt.
-Items/CowDesc	Text		Home to the meadows, this violet bovine is living its life away from danger, happily grazing all day and producing some of the finest milk.		Diese in den Wiesen beheimatete lilafarbene Rinderart führt ein Leben fernab jeglicher Gefahr, grast fröhlich und liefert die feinste Milch.
-Items/CrabEnemy	Text		Bubble Crab		Blubberkrabbe
-Items/CrabTrophy	Text		Bubble Crab Figurine		Blubberkrabben-Figur
-Items/CrabTrophyDesc	Text		A lifelike representation of a bubble crab.		Eine lebensechte Nachbildung einer Blubberkrabbe.
-Items/CritterBeetle	Text		Blackbug		Schwarzkäfer
-Items/CritterBeetleDesc	Text		This tiny bug appears in many different places. Right now it's looking for a new home.		Dieser winzige Käfer taucht an vielen verschiedenen Orten auf. Momentan sucht er nach einem neuen Zuhause.
-Items/CritterCentipede	Text		Manyleg		Vielbein
-Items/CritterCentipedeDesc	Text		This desert critter has an unknown amount of legs. It would simply take too long to count them.		Dieses Wüstenkleintier hat eine unbekannte Anzahl an Beinen. Es würde einfach zu lange dauern, sie alle zu zählen.
-Items/CritterCockroach	Text		Pest Bug		Pestkäfer
-Items/CritterCockroachDesc	Text		A disgusting insect that moves with uncanny speed. It commonly is found in places that have darkness, dirt and food to offer.		Ein ekelerregendes Insekt, das sich haarsträubend schnell bewegt. Es ist an Orten zu finden, die Dunkelheit, Schmutz und Nahrung zu bieten haben.
-Items/CritterCrab	Text		Moon Pincher		Mond-Zange
-Items/CritterCrab2	Text		Sun Pincher		Sonnen-Zange
-Items/CritterCrab2Desc	Text		This red-yellow crustacean always has its claws raised which gives it a seemingly happy expression.		Dieses rot-gelbe Krustentier reckt stets seine Klauen in die Höhe, was es glücklich wirken lässt.
-Items/CritterCrabDesc	Text		This blue-purple crustacean always has its claws raised which gives it a seemingly happy expression.		Dieses blau-violette Krustentier reckt stets seine Klauen in die Höhe, was es glücklich wirken lässt.
-Items/CritterGrasshopper	Text		Leafhopper		Blattspringer
-Items/CritterGrasshopperDesc	Text		A very nervous little fellow. The faintest hint of danger makes it jump away into safety.		Ein nervöser kleiner Geselle. Der kleinste Anschein von Gefahr sorgt dafür, dass er sich hüpfend in Sicherheit bringt.
-Items/CritterLarva	Text	"Except for Englisch and German it should be translated as ""Small Larva"""	Larvlet		Lärvchen
-Items/CritterLarvaDesc	Text		A tiny larva that doesn't harm you but likes to be collected and held in a warm hand.		Eine winzige Larve, die dich nicht angreift. Sie liebt es, aufgehoben und in einer warmen Hand gehalten zu werden.
-Items/CritterNewt	Text		Shadow Newt		Schattenmolch
-Items/CritterNewtDesc	Text		A dark fellow with seemingly unseeing eyes. But they stare deep into your soul.		Ein dunkler Geselle mit Augen, die nicht sehen zu können scheinen. Doch sie starren tief in deine Seele.
-Items/CritterScorpion	Text		Little Death		Kleiner Tod
-Items/CritterScorpionDesc	Text		This small scorpion is harmless to humans but can easily kill smaller creatures if it needs food.		Dieser kleine Skorpion ist harmlos für Menschen, aber tödlich für kleiner Tiere, von denen er sich ernährt.
-Items/CritterSnootFly	Text		Snoot Fly		Schnüffel-Fliege
-Items/CritterSnootFlyDesc	Text		Frantically flying around, this little mosquito pokes at other lifeforms for a potential drop of blood.		Hektisch umherschwirrend, piekst diese kleine Mücke andere Lebensformen, um einen Tropfen Blut zu erhaschen.
-Items/CritterTinySnail	Text		Gem Snail		Edelsteinschnecke
-Items/CritterTinySnailDesc	Text		A small snail that slowly works its way through the dangers of the Shimmering Frontier.		Eine kleine Schnecke, die sich langsam ihren Weg durch die Gefahren der Schimmernden Grenze bahnt.
-Items/CritterWorm	Text		Earthworm		Regenwurm
-Items/CritterWormDesc	Text		A worm. Nothing special about it.		Ein Wurm. Mehr nicht.
-Items/CrossCircuit	Text		Cross Circuit		Querschluss
-Items/CrossCircuitDesc	Text		Separates horizontal and vertical wires. Useful to allow crossing wires without connecting the electricity. Direction of connections can be changed by interacting with the circuit.		Trennt horizontale und vertikale Kabel. Nützlich, um das Kreuzen von Kabel zu ermöglichen, ohne die Elektrizität anzuschließen. Die Richtung der Verbindungen kann durch Interaktion mit dem Stromkreis geändert werden.
-Items/CrownSquid	Text		Crown Squid		Kronen-Tintenfisch
-Items/CrownSquidDesc	Text		All hail the pale king of water!		Heiligt den bleichen Gebieter des Wassers!
-Items/CrudeDrill	Text		Crude Drill		Einfacher Bohrer
-Items/CrudeDrillDesc	Text		Can very slowly drill through tougher materials such as ore boulders when powered with electricity. Drills drilling together yield better results.		Bohrt sich sehr langsam durch harte Materialien wie Erzblöcke, wenn er an Elektrizität angeschlossen ist.
-Items/CrystalBigSnail	Text		Crystal Snail		Kristallschnecke
-Items/CrystalBone	Text		Crystal Bone		Kristallknochen
-Items/CrystalBoneDesc	Text		All that's left of a creature that had the misfortune to stumble upon the Shimmering Frontier.		Alles, was von einer Kreatur übrig blieb, die das Pech hatte, in der Schimmernden Grenze zu landen.
-Items/CrystalBreastArmor	Text		Solarite Cuirass		Solarit-Kürass
-Items/CrystalBreastArmorDesc	Text		A crystalline piece of equipment that shields the upper body like a fortress. The bright material evokes old memories of the sun.		Ein kristallines Ausrüstungsteil, das den Oberkörper wie eine Festung schützt. Das leuchtende Material weckt alte Erinnerungen an die Sonne.
-Items/CrystalCicada	Text		Failed Titan		Gescheiterter Titan
-Items/CrystalCicadaDesc	Text		A rare specimen of a colossal cicada that would have become a titan. But due to becoming corrupted with crystals inside its husk, it died when it tried to finally emerge.		Eine seltene Kolosszikade, die zu einem Titan herangewachsen wäre. Jedoch wurde sie noch in ihrer Hülle von Kristallen befallen und starb beim Ausschlüpfen.
-Items/CrystalCrust	Text		Crystal Crust		Kristallkruste
-Items/CrystalCrustDesc	Text		A shimmering surface that attracts lifeforms found in crystalline environments.		Eine schillernde Oberfläche, die in kristallinen Gegenden beheimatete Lebensformen anlockt.
-Items/CrystalDestructible	Text		Sun Crystal		Sonnenkristall
-Items/CrystalDestructibleDesc	Text		A fragile crystal growth that shimmers like the sun. You can see items encased within.		Ein zerbrechliches Kristallgebilde, das wie die Sonne schimmert. Man kann darin eingeschlossene Gegenstände erkennen.
-Items/CrystalHelm	Text		Solarite Barbute		Solarit-Barbuta
-Items/CrystalHelmDesc	Text		A nearly indestructible helm forged with patience and precision. When it is worn, you feel energized, lively and protected.		Ein nahezu unzerstörbarer Helm, der mit Geduld und Sorgfalt geschmiedet wurde. Der Träger fühlt sich geladen, lebendig und geschützt.
-Items/CrystalKelp	Text		Crystal Kelp		Kristall-Seetang
-Items/CrystalKelpDesc	Text		A crystallized lump of marine plants.		Ein kristallisierter Klumpen Meerespflanzen.
-Items/CrystalLamp	Text		Crystal Lamp		Kristall-Lampe
-Items/CrystalLampDesc	Text		This tall torch seems to generate fire from transforming the energy of an ancient gemstone.		Diese hohe Fackel scheint Feuer durch das Umwandeln der Energie eines Antiken Edelsteins zu generieren.
-Items/CrystalMerchant	Text	Nilipede can be translated as anything millipede/centipede + words relating to darkness	Brave Merchant		Mutiger Händler
-Items/CrystalMerchantSpawnItem	Text		Nuclear Battery		Nuklear-Batterie
-Items/CrystalMerchantSpawnItemDesc	Text		A highly advanced piece of technology that stores nuclear energy. When placed in a habitable room, it will attract a bold traveler of the Shimmering Frontier.		Ein hochentwickeltes Stück Technologie, das Nuklearenergie speichert. Wird es in einem bewohnbaren Raum platziert, lockt es einen Reisenden der Schimmernden Grenze an.
-Items/CrystalMeteorShard	Text		Crystal Meteor Shard		Kristallmeteor-Scherbe
-Items/CrystalMeteorShardDesc	Text		This piece is merely a fraction of an enormous ancient gemstone.		Dieses Stück ist lediglich nur ein Bruchteil eines gigantischen Antiken Edelsteins.
-Items/CrystalMeteorShardOffhand	Text		Crystal Meteor Chunk		Kristallmeteor-Klumpen
-Items/CrystalMeteorShardOffhandDesc	Text		A very big ancient gemstone fused from smaller shards. It emits a strange energy that makes you feel nauseous and feverish.		Ein sehr großer Antiker Edelstein, zusammengesetzt aus vielen kleinen Scherben. Die Energie, die er ausstrahlt, lässt dich fiebrig und schwindelig fühlen.
-Items/CrystalNecklace	Text		Glass Bead Necklace		Glasperlen-Halskette
-Items/CrystalNecklaceDesc	Text		A captivating necklace that catches your enemies off-guard so that they lower their defense. Unfortunately it has the same effect on you.		Eine hinreißende Halskette, die deine Feinde überwältigt, so dass sie ihre Deckung vernachlässigen. Leider hat sie auf dich denselben Effekt.
+Items/CookHelm	Text		Chef's Hat	Czapka kucharska	Koch-Mütze
+Items/CookHelmDesc	Text		The hallmark of every professional cook. Proof that even in the undergrounds taste can have priority over nutrition.	Znak rozpoznawczy każdego profesjonalnego kucharza. Dowód na to, że nawet w podziemiu smak może mieć pierwszeństwo przed wartościami odżywczymi.	Das Markenzeichen eines jeden professionellen Kochs und Beweis dafür, dass selbst im Untergrund Geschmack Priorität über Nährwert haben kann.
+Items/CookPants	Text		Chef's Pants	Spodnie kucharskie	Koch-Hose
+Items/CookPantsDesc	Text		Sporting an apron, these pants are made to prove their worth in the steam and heat of a cave kitchen.	Wyposażone w fartuch, te spodnie są stworzone, aby udowodnić swoją wartość w parze i upale jaskiniowej kuchni.	Ausgestattet mit einer Schürze, ist diese Hose dafür gedacht, sich im Dampf und Feuer einer Höhlenküche zu bewähren.
+Items/CookShirt	Text		Chef's Jacket	Kurtka kucharska	Koch-Jacke
+Items/CookShirtDesc	Text		It's just a spotless, white jacket but the red neckerchief makes it official. Time to get cookin'!	To tylko nieskazitelnie biała marynarka, ale czerwona apaszka czyni ją oficjalną. Czas zacząć gotować!	Einfach nur eine makellose weiße Jacke, aber das rote Halstuch macht es offiziell. Zeit zu kochen!
+Items/CookedCereal	Text		Cereal	Płatki	Müsli
+Items/CookedCheese	Text		Cheese	Ser	Käse
+Items/CookedDipSnack	Text		Dip Snack	Przekąska z dipem	Dip-Snack
+Items/CookedFillet	Text		Fillet	Filet	Filet
+Items/CookedFishBalls	Text		Fish Balls	Kulki rybne	Fischbällchen
+Items/CookedPanCurry	Text		Curry	Curry	Curry
+Items/CookedPudding	Text		Pudding	Pudding	Pudding
+Items/CookedSalad	Text		Salad	Sałatka	Salat
+Items/CookedSandwich	Text		Sandwich	Kanapka	Sandwich
+Items/CookedSmoothie	Text		Smoothie	Koktajl	Smoothie
+Items/CookedSoup	Text		Soup	Zupa	Suppe
+Items/CookedSteak	Text		Steak	Stek	Steak
+Items/CookedSushi	Text		Sushi	Sushi	Sushi
+Items/CookedWrap	Text		Wrap	Wrap	Wrap
+Items/CookiesAndMilk	Text		Cookies & Milk	Ciasteczka i mleko	Milch & Kekse
+Items/CookiesAndMilkDesc	Text		To trade with the one that decides who is naughty and who is nice.	Do wymiany z tym, który decyduje, kto jest niegrzeczny, a kto grzeczny.	Um zu tauschen mit dem, der am Ende entscheidet, wer gut ist und wer Böses erleidet.
+Items/CookingPot	Text		Cooking Pot	Garnek do gotowania	Kochtopf
+Items/CookingPotBreastArmor	Text		Cooking Pot Tub	Dół garnka	Topf-Brustplatte
+Items/CookingPotBreastArmorDesc	Text		Only the ones really passionate about cooking dare to become the pot itself.	Tylko prawdziwi pasjonaci gotowania odważą się zostać samym garnkiem.	Nur jene, die wirklich leidenschaftlich gern kochen, trauen sich selbst zum Kochtopf zu werden.
+Items/CookingPotDesc	Text		Cooking ingredients brings out their full potential. Combine two and see what happens!	Gotowanie składników wydobywa ich pełny potencjał. Połącz dwa i zobacz, co się stanie!	Das Kochen von Zutaten entfaltet ihr volles Potential. Kombiniere zwei und sieh, was dabei herauskommt!
+Items/CookingPotHelm	Text		Cooking Pot Lid	Pokrywka garnka	Topfdeckel-Helm
+Items/CookingPotHelmDesc	Text		A shiny metal cover that suppresses your boiling point.	Błyszcząca metalowa osłona, która obniża twoją temperaturę wrzenia.	Ein glänzender Metalldeckel, der dein heißes Gemüt in Schach hält.
+Items/CopperAnvil	Text		Copper Anvil	Miedziane kowadło	Kupfer-Amboss
+Items/CopperAnvilDesc	Text		Get started with creating armor for looks and combat.	Rozpocznij tworzenie zbroi dla wyglądu i walki.	Ein guter Anfang, um Rüstungen für Kampf und Komplimente herzustellen.
+Items/CopperBar	Text		Copper Bar	Sztaba miedzi	Kupferbarren
+Items/CopperBarDesc	Text		A simple metal ingot for blacksmithing.	Prosta metalowa sztabka do prac kowalskich.	Ein einfacher Metallbarren zum Schmieden.
+Items/CopperBreastArmor	Text		Copper Breastplate	Miedziany napierśnik	Kupfer-Brustharnisch
+Items/CopperBreastArmorDesc	Text		Got no sixpack? Just craft one!	Nie masz sześciopaka? Wystarczy go stworzyć!	Hast du kein Sixpack? Bau dir einfach eins!
+Items/CopperChest	Text		Copper Chest	Miedziana skrzynia	Kupfer-Kiste
+Items/CopperChestDesc	Text		An crude chest made from copper. It is not locked anymore.	Prosta skrzynia wykonana z miedzi. Nie jest już zamknięta.	Eine einfache Kiste aus Kupfer. Sie ist nicht mehr verschlossen.
+Items/CopperCrossNecklace	Text		Copper Cross Necklace	Naszyjnik z miedzianym krzyżem	Kupferkreuz-Halskette
+Items/CopperCrossNecklaceDesc	Text		This pendant sharpens the focus, allowing for more precise hits.	Ta zawieszka wyostrza ostrość, umożliwiając bardziej precyzyjne trafienia.	Dieser Anhänger schärft die Sinne und ermöglicht genauere Angriffe.
+Items/CopperHelm	Text		Copper Helm	Miedziany hełm	Kupfer-Helm
+Items/CopperHelmDesc	Text		Resembles more of a bucket but repels strong blows to the head.	Przypomina bardziej wiadro, ale odpiera silne ciosy w głowę.	Sieht eher aus wie ein Eimer, wehrt aber starke Hiebe gegen den Kopf ab.
+Items/CopperHoe	Text		Copper Hoe	Miedziana motyka	Kupfer-Hacke
+Items/CopperHoeDesc	Text		A sturdy tool to prepare ground for farming. Covers an area of 2x2 tiles.	Solidne narzędzie do przygotowania gruntu pod uprawę. Obejmuje obszar 2x2 płytki.	Ein robustes Werkzeug, um Böden für den Anbau vorzubereiten. Deckt eine Fläche von 2x2 Fliesen ab.
+Items/CopperKey	Text		Copper Key	Klucz miedziany	Kupfer-Schlüssel
+Items/CopperKeyDesc	Text		A crude key cast in copper. There should be a lock somewhere that it fits into.	Prymitywny klucz odlany z miedzi. Gdzieś powinien być zamek, do którego pasuje.	Ein einfacher, in Kupfer gegossener Schlüssel. Es muss irgendwo ein Schloss geben, in das er passt.
+Items/CopperMiningPick	Text		Copper Pickaxe	Miedziany kilof	Kupfer-Spitzhacke
+Items/CopperMiningPickDesc	Text		A sturdy tool, well-suited for breaking down walls effortlessly.	Solidne narzędzie, dobrze nadające się do kruszenia ścian bez wysiłku.	Ein robustes Werkzeug. Gut geeignet, um Wände einfacher zu zerstören.
+Items/CopperOre	Text		Copper Ore	Ruda miedzi	Kupfererz
+Items/CopperOreBoulder	Text		Copper Ore Boulder	Głaz rudy miedzi	Kupfer-Erzblock
+Items/CopperOreDesc	Text		Commonly found in dirt walls.	Powszechnie spotykane w ścianach ziemi.	Wird oft in Erdwänden gefunden.
+Items/CopperPantsArmor	Text		Copper Pants	Miedziane spodnie	Kupfer-Beinzeug
+Items/CopperPantsArmorDesc	Text		Protects the shins with ease.	Z łatwością chroni golenie.	Schützt wunderbar die Schienbeine.
+Items/CopperShovel	Text		Copper Shovel	Miedziana łopata	Kupfer-Schaufel
+Items/CopperShovelDesc	Text		A sturdy shovel, good for digging up ground.	Solidna łopata, dobra do kopania ziemi.	Eine robuste Schaufel. Gut, um Böden zu entfernen.
+Items/CopperSledge	Text		Copper Sledge Hammer	Miedziany młot	Kupfer-Hammer
+Items/CopperSledgeDesc	Text		A good weapon for smashing foes and walls.	Dobra broń do rozbijania wrogów i ścian.	Eine gute Waffe, um Widersacher zu erschlagen und Wände zu zertrümmern.
+Items/CopperSword	Text		Copper Sword	Miedziany miecz	Kupfer-Schwert
+Items/CopperSwordDesc	Text		A good weapon for slaying foes.	Dobra broń do zabijania wrogów.	Eine gute Waffe, um Widersacher zu erschlagen.
+Items/CopperWorkbench	Text		Copper Workbench	Miedziany stół warsztatowy	Kupfer-Werkbank
+Items/CopperWorkbenchDesc	Text		A versatile workbench to prepare you for the underground world.	Wszechstronny stół warsztatowy przygotowujący cię do pracy w podziemnym świecie.	Eine vielseitige Werkbank, um sich aufs Überleben im Untergrund vorzubereiten.
+Items/CoralAmulet	Text		Coral Amulet	Koralowy amulet	Korallen-Amulett
+Items/CoralAmuletDesc	Text		A necklace made with a pretty coral badge and white pebbles.	Naszyjnik wykonany z pięknego koralowca i białych kamyków.	Eine Halskette aus einer hübschen Korallen-Plakette und weißen Kieselchen.
+Items/CoralBridge	Text		Coral Bridge	Koralowy most	Korallen-Brücke
+Items/CoralBridgeDesc	Text		A shimmering bridge supported by coral pillars that are reaching down into the sea ground.	Lśniący most wsparty na koralowych filarach, które sięgają do morskiego dna.	Eine schimmernde Brücke, die von tief in den Meeresboden reichenden Korallensäulen gestützt wird.
+Items/CoralFence	Text		Coral Fence	Koralowy płot	Korallenzaun
+Items/CoralFenceDesc	Text		A neat little fence made from pink corals.	Zgrabny płotek wykonany z różowych koralowców.	Ein kleiner, hübscher Zaun, hergestellt aus Korallen.
+Items/CoralFenceGate	Text		Coral Fence Gate	Koralowa brama ogrodzeniowa	Korallenzaun-Tor
+Items/CoralFenceGateDesc	Text		A fitting gate for the coral fence.	Brama pasująca do ogrodzenia z koralowca.	Ein passendes Tor für den Korallenzaun.
+Items/CoralFloor	Text		Coral Floor	Koralowa podłoga	Korallen-Boden
+Items/CoralFloorDesc	Text		A floor made from little organic tiles and differently colored sea floor pebbles.	Podłoga wykonana z małych organicznych płytek i różnokolorowych kamyków z dna morskiego.	Ein Boden, hergestellt aus kleinen organischen Fliesen und bunten Seegrund-Kieseln.
+Items/CoralPlank	Text		Coral plank	Koralowa deska	Korallenholz-Brett
+Items/CoralPlankDesc	Text		Coral wood slate for more precise carpentry work.	Łupek z drewna koralowego do bardziej precyzyjnych prac stolarskich.	Eine Planke aus Korallenholz, gemacht für präzisere Schreinerarbeiten.
+Items/CoralRing	Text		Coral Ring	Pierścień koralowy	Korallenring
+Items/CoralRingDesc	Text		An intricate ring naturally grown from pink, branchy corals.	Misterny pierścień naturalnie wyhodowany z różowych, rozgałęzionych koralowców.	Ein feiner Ring, natürlich entstanden aus rötlichen, verästelten Korallen.
+Items/CoralRootSeed	Text		Coral Seed	Nasiona koralowca	Korallen-Samen
+Items/CoralRootSeedDesc	Text		Once planted it spreads corals in every direction. Only grows on beach sand.	Po zasadzeniu rozsiewa koralowce w każdym kierunku. Rośnie tylko na piasku plażowym.	Korallen breiten sich in jede Richtung aus, wenn er gepflanzt wird. Wächst nur auf Küstensand.
+Items/CoralWood	Text		Coral Wood	Koralowe drewno	Korallenholz
+Items/CoralWoodDesc	Text		A red type of coral that is great for crafting.	Czerwony rodzaj koralowca, który świetnie nadaje się do rzemiosła.	Eine purpurne Korallenart, die sich wunderbar für die Fertigung eignet.
+Items/CoreEye	Text		Core Iris	Rdzeń Irysa	Kern-Iris
+Items/CoreEyeDesc	Text		A manufactured crystal that looks like the eye of the core. This one is raw and unfinished, as if something interrupted the process.	Wyprodukowany kryształ, który wygląda jak oko rdzenia. Ten jest surowy i niedokończony tak, jakby coś przerwało proces produkcji.	Ein künstlicher Kristall, der wie das Auge des Kerns aussieht. Dieser hier sieht jedoch grob und unfertig aus, als hätte etwas den Prozess unterbrochen.
+Items/CoreProtocol1	Text		Shutdown Protocol	Protokół wyłączania	Absturz-Protokoll
+Items/CoreProtocol1Desc	Text		This blue slate depicts a graph of a sudden spike in energy levels before collapsing.	Ta niebieska tablica przedstawia wykres nagłego wzrostu poziomu energii przed załamaniem.	Die Grafik auf dieser blauen Kristallplatte zeigt einen plötzlichen Energieanstieg vor einem Zusammenbruch.
+Items/CoreProtocol2	Text		Anomaly Report	Raport o anomalii	Anomalie-Bericht
+Items/CoreProtocol2Desc	Text		This blue slate depicts a graph of a disturbance in previous patterns resulting in more advanced processes.	Ta niebieska tablica przedstawia wykres zakłócenia poprzednich wzorców, co skutkuje bardziej zaawansowanymi procesami.	Die Grafik auf dieser blauen Kristallplatte zeigt eine Abweichung von bekannten Mustern, die in komplexere Prozesse resultiert.
+Items/CoreProtocol3	Text		Overwrite Transcript	Transkrypt nadpisu	Überschreibungs-Transkript
+Items/CoreProtocol3Desc	Text		This blue slate depicts a graph of an entity redistributing processing power from multiple sources.	Ta niebieska tablica przedstawia wykres jednostki redystrybuującej moc obliczeniową z wielu źródeł.	Die Grafik auf dieser blauen Kristallplatte zeigt eine Entität, die die Rechenleistung von verschiedenen Quellen neu umverteilt.
+Items/CoreTrophy	Text		Core Figurine	Figurka rdzenia	Kern-Figur
+Items/CoreTrophyDesc	Text		A lifelike representation of the core.	Realistyczne odwzorowanie rdzenia.	Eine lebensechte Nachbildung des Kerns.
+Items/CosmicCheese	Text		Lunar Cheese	Ser księżycowy	Mondkäse
+Items/CosmicCheeseDesc	Text		An aromatic snack that seems out of this world. Is it proof that the moon is made out of cheese after all?	Aromatyczna przekąska, która wydaje się nie z tego świata. Czy to dowód na to, że księżyc jest zrobiony z sera?	Ein aromatischer Snack, der nicht von dieser Welt zu sein scheint. Ist das der Beweis, dass der Mond letztendlich doch aus Käse besteht?
+Items/CosmicForm	Text		Cosmic Form	Forma kosmiczna	Kosmische Gestalt
+Items/CosmicFormDesc	Text		A strange entity that is unlike any terrestrial sea life you have ever seen. Did it come from a place far away from earth?	Dziwna istota, która nie przypomina żadnego lądowego życia morskiego, jakie kiedykolwiek widziałeś. Czy pochodzi z miejsca odległego od Ziemi?	Ein merkwürdiges Wesen, das sich von allen bekannten terrestrischen Lebensformen unterscheidet. Stammt es von einem Ort fernab der Erde?
+Items/Cow	Text		Moolin	Moolin	Muhline
+Items/CowBaby	Text		Moolin Calf	Cielę Moolin	Muhlinen-Kalb
+Items/CowBabyDesc	Text		The innocent juvenile of a Moolin, who has just learned how to stand on its own hoofs. It grows up faster than you think, so give it all the love you have.	Niewinny młody Moolin, który właśnie nauczył się stać na własnych kopytach. Dorasta szybciej niż myślisz, więc daj mu całą swoją miłość.	Das unschuldige Jungtier einer Muhline, das gerade erst gelernt hat, auf eigenen Hufen zu stehen. Es wird schneller erwachsen als du denkst, also gib ihm all die Liebe, die in dir steckt.
+Items/CowDesc	Text		Home to the meadows, this violet bovine is living its life away from danger, happily grazing all day and producing some of the finest milk.	To fioletowe bydło żyje z dala od niebezpieczeństw, szczęśliwie pasąc się przez cały dzień i produkując jedne z najlepszych rodzajów mleka.	Diese in den Wiesen beheimatete lilafarbene Rinderart führt ein Leben fernab jeglicher Gefahr, grast fröhlich und liefert die feinste Milch.
+Items/CrabEnemy	Text		Bubble Crab	Krab bąbelkowy	Blubberkrabbe
+Items/CrabTrophy	Text		Bubble Crab Figurine	Figurka kraba bąbelkowego	Blubberkrabben-Figur
+Items/CrabTrophyDesc	Text		A lifelike representation of a bubble crab.	Realistyczne odwzorowanie kraba bąbelkowego.	Eine lebensechte Nachbildung einer Blubberkrabbe.
+Items/CritterBeetle	Text		Blackbug	Czarny robak	Schwarzkäfer
+Items/CritterBeetleDesc	Text		This tiny bug appears in many different places. Right now it's looking for a new home.	Ten mały robak pojawia się w wielu różnych miejscach. Teraz szuka nowego domu.	Dieser winzige Käfer taucht an vielen verschiedenen Orten auf. Momentan sucht er nach einem neuen Zuhause.
+Items/CritterCentipede	Text		Manyleg	Wielonogi	Vielbein
+Items/CritterCentipedeDesc	Text		This desert critter has an unknown amount of legs. It would simply take too long to count them.	Ten pustynny stwór ma nieznaną liczbę nóg. Policzenie ich zajęłoby zbyt dużo czasu.	Dieses Wüstenkleintier hat eine unbekannte Anzahl an Beinen. Es würde einfach zu lange dauern, sie alle zu zählen.
+Items/CritterCockroach	Text		Pest Bug	Robak zarazy	Pestkäfer
+Items/CritterCockroachDesc	Text		A disgusting insect that moves with uncanny speed. It commonly is found in places that have darkness, dirt and food to offer.	Obrzydliwy owad, który porusza się z niesamowitą prędkością. Powszechnie występuje w miejscach, w których panuje ciemność, brud i jedzenie.	Ein ekelerregendes Insekt, das sich haarsträubend schnell bewegt. Es ist an Orten zu finden, die Dunkelheit, Schmutz und Nahrung zu bieten haben.
+Items/CritterCrab	Text		Moon Pincher	Księżycowy szczypiec	Mond-Zange
+Items/CritterCrab2	Text		Sun Pincher	Słoneczny szczypiec	Sonnen-Zange
+Items/CritterCrab2Desc	Text		This red-yellow crustacean always has its claws raised which gives it a seemingly happy expression.	Ten niebiesko-fioletowy skorupiak zawsze ma uniesione szczypce, co nadaje mu pozornie radosny wyraz.	Dieses rot-gelbe Krustentier reckt stets seine Klauen in die Höhe, was es glücklich wirken lässt.
+Items/CritterCrabDesc	Text		This blue-purple crustacean always has its claws raised which gives it a seemingly happy expression.	Ten czerwono-żółty skorupiak zawsze ma uniesione szczypce, co nadaje mu pozornie radosny wyraz.	Dieses blau-violette Krustentier reckt stets seine Klauen in die Höhe, was es glücklich wirken lässt.
+Items/CritterGrasshopper	Text		Leafhopper	Konik polny	Blattspringer
+Items/CritterGrasshopperDesc	Text		A very nervous little fellow. The faintest hint of danger makes it jump away into safety.	Bardzo nerwowy mały koleżka. Nawet najmniejsze niebezpieczeństwo sprawia, że ucieka w bezpieczne miejsce.	Ein nervöser kleiner Geselle. Der kleinste Anschein von Gefahr sorgt dafür, dass er sich hüpfend in Sicherheit bringt.
+Items/CritterLarva	Text	"Except for Englisch and German it should be translated as ""Small Larva"""	Larvlet	Mała larwa	Lärvchen
+Items/CritterLarvaDesc	Text		A tiny larva that doesn't harm you but likes to be collected and held in a warm hand.	Malutka larwa, która nie jest szkodliwa, ale lubi być zbierana i trzymana w ciepłej dłoni.	Eine winzige Larve, die dich nicht angreift. Sie liebt es, aufgehoben und in einer warmen Hand gehalten zu werden.
+Items/CritterNewt	Text		Shadow Newt	Cienista Traszka	Schattenmolch
+Items/CritterNewtDesc	Text		A dark fellow with seemingly unseeing eyes. But they stare deep into your soul.	Mroczny osobnik o pozornie niewidzących oczach. Lecz wpatrują się one głęboko w twoją duszę.	Ein dunkler Geselle mit Augen, die nicht sehen zu können scheinen. Doch sie starren tief in deine Seele.
+Items/CritterScorpion	Text		Little Death	Mała śmierć	Kleiner Tod
+Items/CritterScorpionDesc	Text		This small scorpion is harmless to humans but can easily kill smaller creatures if it needs food.	Ten mały skorpion jest nieszkodliwy dla ludzi, ale może z łatwością zabić mniejsze stworzenia, jeśli potrzebuje pożywienia.	Dieser kleine Skorpion ist harmlos für Menschen, aber tödlich für kleiner Tiere, von denen er sich ernährt.
+Items/CritterSnootFly	Text		Snoot Fly	Mucha Snoot	Schnüffel-Fliege
+Items/CritterSnootFlyDesc	Text		Frantically flying around, this little mosquito pokes at other lifeforms for a potential drop of blood.	Gorączkowo latając, ten mały komar szturcha inne formy życia w poszukiwaniu potencjalnej kropli krwi.	Hektisch umherschwirrend, piekst diese kleine Mücke andere Lebensformen, um einen Tropfen Blut zu erhaschen.
+Items/CritterTinySnail	Text		Gem Snail	Ślimak perłowy	Edelsteinschnecke
+Items/CritterTinySnailDesc	Text		A small snail that slowly works its way through the dangers of the Shimmering Frontier.	Mały ślimak, który powoli przedziera się przez niebezpieczeństwa Błyszczącej Granicy.	Eine kleine Schnecke, die sich langsam ihren Weg durch die Gefahren der Schimmernden Grenze bahnt.
+Items/CritterWorm	Text		Earthworm	Dżdżownica	Regenwurm
+Items/CritterWormDesc	Text		A worm. Nothing special about it.	Robak. Nic szczególnego.	Ein Wurm. Mehr nicht.
+Items/CrossCircuit	Text		Cross Circuit	Obwód krzyżowy	Querschluss
+Items/CrossCircuitDesc	Text		Separates horizontal and vertical wires. Useful to allow crossing wires without connecting the electricity. Direction of connections can be changed by interacting with the circuit.	Oddziela przewody poziome od pionowych. Przydatne, aby umożliwić krzyżowanie przewodów bez łączenia elektryczności. Kierunek połączeń można zmienić poprzez interakcję z obwodem.	Trennt horizontale und vertikale Kabel. Nützlich, um das Kreuzen von Kabel zu ermöglichen, ohne die Elektrizität anzuschließen. Die Richtung der Verbindungen kann durch Interaktion mit dem Stromkreis geändert werden.
+Items/CrownSquid	Text		Crown Squid	Kałamarnica koroniasta	Kronen-Tintenfisch
+Items/CrownSquidDesc	Text		All hail the pale king of water!	Niech żyje blady król wody!	Heiligt den bleichen Gebieter des Wassers!
+Items/CrudeDrill	Text		Crude Drill	Prymitywne wiertło	Einfacher Bohrer
+Items/CrudeDrillDesc	Text		Can very slowly drill through tougher materials such as ore boulders when powered with electricity. Drills drilling together yield better results.	Może bardzo powoli wiercić w twardszych materiałach, takich jak głazy rudy, gdy jest zasilany energią elektryczną. Wiertła wiercące razem dają lepsze wyniki.	Bohrt sich sehr langsam durch harte Materialien wie Erzblöcke, wenn er an Elektrizität angeschlossen ist.
+Items/CrystalBigSnail	Text		Crystal Snail	Kryształowy ślimak	Kristallschnecke
+Items/CrystalBone	Text		Crystal Bone	Kryształowa kość	Kristallknochen
+Items/CrystalBoneDesc	Text		All that's left of a creature that had the misfortune to stumble upon the Shimmering Frontier.	Wszystko, co pozostało po stworzeniu, które miało nieszczęście natknąć się na Błyszczącą Granicę.	Alles, was von einer Kreatur übrig blieb, die das Pech hatte, in der Schimmernden Grenze zu landen.
+Items/CrystalBreastArmor	Text		Solarite Cuirass	Solarytowy pancerz	Solarit-Kürass
+Items/CrystalBreastArmorDesc	Text		A crystalline piece of equipment that shields the upper body like a fortress. The bright material evokes old memories of the sun.	Krystaliczny element wyposażenia, który osłania górną część ciała niczym forteca. Jasny materiał przywołuje dawne wspomnienia o słońcu.	Ein kristallines Ausrüstungsteil, das den Oberkörper wie eine Festung schützt. Das leuchtende Material weckt alte Erinnerungen an die Sonne.
+Items/CrystalCicada	Text		Failed Titan	Nieudany Titan	Gescheiterter Titan
+Items/CrystalCicadaDesc	Text		A rare specimen of a colossal cicada that would have become a titan. But due to becoming corrupted with crystals inside its husk, it died when it tried to finally emerge.	Rzadki okaz kolosalnej cykady, która mogła stać się tytanem. Jednak z powodu skażenia kryształami wewnątrz łuski, zginął, gdy próbował w końcu się wyłonić.	Eine seltene Kolosszikade, die zu einem Titan herangewachsen wäre. Jedoch wurde sie noch in ihrer Hülle von Kristallen befallen und starb beim Ausschlüpfen.
+Items/CrystalCrust	Text		Crystal Crust	Kryształowa skorupa	Kristallkruste
+Items/CrystalCrustDesc	Text		A shimmering surface that attracts lifeforms found in crystalline environments.	Lśniąca powierzchnia, która przyciąga formy życia występujące w krystalicznych środowiskach.	Eine schillernde Oberfläche, die in kristallinen Gegenden beheimatete Lebensformen anlockt.
+Items/CrystalDestructible	Text		Sun Crystal	Słoneczny kryształ	Sonnenkristall
+Items/CrystalDestructibleDesc	Text		A fragile crystal growth that shimmers like the sun. You can see items encased within.	Kruchy kryształ, który mieni się jak słońce. Można w nim zobaczyć zamknięte przedmioty.	Ein zerbrechliches Kristallgebilde, das wie die Sonne schimmert. Man kann darin eingeschlossene Gegenstände erkennen.
+Items/CrystalHelm	Text		Solarite Barbute	Solarytowa barbuta	Solarit-Barbuta
+Items/CrystalHelmDesc	Text		A nearly indestructible helm forged with patience and precision. When it is worn, you feel energized, lively and protected.	Niemal niezniszczalny hełm wykuty z cierpliwością i precyzją. Kiedy go nosisz, czujesz się pełen energii, żywy i chroniony.	Ein nahezu unzerstörbarer Helm, der mit Geduld und Sorgfalt geschmiedet wurde. Der Träger fühlt sich geladen, lebendig und geschützt.
+Items/CrystalKelp	Text		Crystal Kelp	Kryształowy wodorost	Kristall-Seetang
+Items/CrystalKelpDesc	Text		A crystallized lump of marine plants.	Skrystalizowana bryła roślin morskich.	Ein kristallisierter Klumpen Meerespflanzen.
+Items/CrystalLamp	Text		Crystal Lamp	Kryształowa lampa	Kristall-Lampe
+Items/CrystalLampDesc	Text		This tall torch seems to generate fire from transforming the energy of an ancient gemstone.	Ta wysoka pochodnia wydaje się generować ogień z transformacji energii starożytnego kamienia szlachetnego.	Diese hohe Fackel scheint Feuer durch das Umwandeln der Energie eines Antiken Edelsteins zu generieren.
+Items/CrystalMerchant	Text	Nilipede can be translated as anything millipede/centipede + words relating to darkness	Brave Merchant	Odważny handlarz	Mutiger Händler
+Items/CrystalMerchantSpawnItem	Text		Nuclear Battery	Bateria jądrowa	Nuklear-Batterie
+Items/CrystalMerchantSpawnItemDesc	Text		A highly advanced piece of technology that stores nuclear energy. When placed in a habitable room, it will attract a bold traveler of the Shimmering Frontier.	Wysoce zaawansowana technologia przechowująca energię jądrową. Umieszczony w pomieszczeniu nadającym się do zamieszkania, przyciągnie odważnego podróżnika z Błyszczącej Granicy.	Ein hochentwickeltes Stück Technologie, das Nuklearenergie speichert. Wird es in einem bewohnbaren Raum platziert, lockt es einen Reisenden der Schimmernden Grenze an.
+Items/CrystalMeteorShard	Text		Crystal Meteor Shard	Odłamek kryształowego meteoru	Kristallmeteor-Scherbe
+Items/CrystalMeteorShardDesc	Text		This piece is merely a fraction of an enormous ancient gemstone.	Ten kawałek to zaledwie ułamek ogromnego starożytnego kamienia szlachetnego.	Dieses Stück ist lediglich nur ein Bruchteil eines gigantischen Antiken Edelsteins.
+Items/CrystalMeteorShardOffhand	Text		Crystal Meteor Chunk	Kawałek kryształowego meteoru	Kristallmeteor-Klumpen
+Items/CrystalMeteorShardOffhandDesc	Text		A very big ancient gemstone fused from smaller shards. It emits a strange energy that makes you feel nauseous and feverish.	Bardzo duży starożytny kamień szlachetny scalony z mniejszych odłamków. Emituje dziwną energię, która wywołuje mdłości i gorączkę.	Ein sehr großer Antiker Edelstein, zusammengesetzt aus vielen kleinen Scherben. Die Energie, die er ausstrahlt, lässt dich fiebrig und schwindelig fühlen.
+Items/CrystalNecklace	Text		Glass Bead Necklace	Naszyjnik ze szklanych koralików	Glasperlen-Halskette
+Items/CrystalNecklaceDesc	Text		A captivating necklace that catches your enemies off-guard so that they lower their defense. Unfortunately it has the same effect on you.	Urzekający naszyjnik, który zaskakuje wrogów, tak że obniżają swoją obronę. Niestety taki sam efekt wywiera na ciebie.	Eine hinreißende Halskette, die deine Feinde überwältigt, so dass sie ihre Deckung vernachlässigen. Leider hat sie auf dich denselben Effekt.
 Items/CrystalPantsArmor	Text		Solarite Tassets		Solarit-Tassetten
 Items/CrystalPantsArmorDesc	Text		Heavy hip protection made from miraculous materials. When it is worn, you feel guided along a path to victory.		Ein schwerer Hüftschutz, gefertigt aus wundersamen Materialien. Der Träger fühlt sich, als sei er auf den Pfad des Sieges geleitet worden.
 Items/CrystalRing	Text		Glass Bead Ring		Glasperlen-Ring
