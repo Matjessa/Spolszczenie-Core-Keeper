@@ -123,7 +123,7 @@ Advanced	Text		Advanced	Zaawansowane	Fortgeschritten
 AvailableInEarlyAccess	Text		Will be available at Early Access launch	Będzie dostępne w momencie uruchomienia wczesnego dostępu	Ist beim Start des Early Access verfügbar
 BetaVersion	Text	{0} will be replaced by the version number	{0} Beta Version	{0} Wersja beta	{0} Beta-Version
 BiomeNames/Crystal	Text		The Shimmering Frontier	Błyszcząca Granica	Die Schimmernde Grenze
-BiomeNames/Desert	Text		The Desert of Beginnings	Pustynia Początku	Die Wüste des Anbeginns
+BiomeNames/Desert	Text		The Desert of Beginnings	Pustynia Początków	Die Wüste des Anbeginns
 BiomeNames/Great Wall	Text		Great Wall	Wielki Mur	Große Mauer
 BiomeNames/Larva	Text		The Clay Caves	Gliniane Jaskinie	Die Lehm-Höhlen
 BiomeNames/Nature	Text		Azeos' Wilderness	Dzicz Azeosa	Azeos' Wildnis
@@ -1004,8 +1004,8 @@ FoodNouns/GoldenLarvaMeat	Text		Gold	Złoto	Gold
 FoodNouns/GoldenTorrentDart	Text		Dart	Strzałka	Pfeil
 FoodNouns/GreenBlisterHead	Text		Blister	Blister	Blasen
 FoodNouns/GreyDuneTail	Text		Dune	Wydma	Dünen
-FoodNouns/Grumpkin	Text		Lump	Lump	Knollen
-FoodNouns/GrumpkinRare	Text		Goldlump	Złocista bryła	Goldknollen
+FoodNouns/Grumpkin	Text		Lump	Kępa	Knollen
+FoodNouns/GrumpkinRare	Text		Goldlump	Złota kępa	Goldknollen
 FoodNouns/HeartBerry	Text		Berry	Jagoda	Beeren
 FoodNouns/HeartBerryRare	Text		Goldberry	Złota jagoda	Goldbeeren
 FoodNouns/LarvaMeat	Text		Meat	Mięso	Fleisch
@@ -1370,7 +1370,7 @@ Items/BlueGlassKalimbaDesc	Text		"A delicate instrument that has multiple fractu
 Items/BlueGlassShard	Text		Blue Glass Shard	Odłamek niebieskiego szkła	Blauglas-Scherbe
 Items/BlueGlassShardDesc	Text		A piece of deep blue glass, it appears to be a fusion of molten sand and ancient gemstones.	Kawałek ciemnoniebieskiego szkła, wydaje się być połączeniem stopionego piasku i starożytnych kamieni szlachetnych.	Ein Stück tiefblauen Glases, offenbar eine Fusion aus geschmolzenem Sand und Antiken Edelsteinen.
 Items/BlueKelp	Text		Blue Kelp	Niebieski wodorost	Blauer Seetang
-Items/BlueKelpDesc	Text		A blue lump of marine plants.	Niebieski płat roślin morskich.	Ein blauer Klumpen Meerespflanzen.
+Items/BlueKelpDesc	Text		A blue lump of marine plants.	Niebieska kępa roślin morskich.	Ein blauer Klumpen Meerespflanzen.
 Items/BlueSlimeTrophy	Text		Blue Slime Figurine	Figurka niebieskiego szlamu	Blauschleim-Figur
 Items/BlueSlimeTrophyDesc	Text		A lifelike representation of a slippery Blue Slime.	Realistyczne odwzorowanie śliskiego niebieskiego szlamu.	Eine lebensechte Nachbildung eines Blauschleims.
 Items/Boat	Text		Boat	Łódka	Boot
@@ -1402,7 +1402,7 @@ Items/BottomTracer	Text		Bottom Tracer	Tropiciel denny	Seegrund-Sucher
 Items/BottomTracerDesc	Text		A bright yellow fish with long barbels that it drags along the sea floor in search for food.	Jasnożółta ryba z długimi wąsami, które ciągnie po dnie morza w poszukiwaniu pożywienia.	Ein hellgelber Fisch mit langen Barteln, die er am Seegrund entlangzieht, um nach Beute zu suchen.
 Items/BoxOfChocolates	Text		Box of Chocolates	Pudełko czekoladek	Valentins-Pralinen
 Items/BoxOfChocolatesDesc	Text		These chocolates come in a nice gift box and are mouth and heart melting.	Te czekoladki są zapakowane w ładne ozdobne pudełko i rozpływają się w ustach jak i w sercu.	Diese Pralinen werden in einer schönen Geschenkschachtel gereicht und sind einfach zum Dahinschmelzen.
-Items/BrightLavaEater	Text		Bright Lava Eater	Jasny zjadacz lawy	Heller Lavafresser
+Items/BrightLavaEater	Text		Bright Lava Eater	Jaskrawy pożeracz lawy	Heller Lavafresser
 Items/BrightLavaEaterDesc	Text		A bright fish with fiery belly that seems to purely feed from liquid stone and the gemstones caught within.	Jasna ryba z ognistym brzuchem, która wydaje się żywić wyłącznie płynnym kamieniem i znajdującymi się w nim klejnotami.	Ein heller Fisch mit feurigem Bauch, der sich ausschließlich von geschmolzenem Gestein und den darin enthaltenen Edelsteinen zu ernähren scheint.
 Items/BrokenCoreIdol	Text		Broken Core Idol	Bożek zniszczonego rdzenia	Kaputtes Kern-Abbild
 Items/BrokenCoreIdolDesc	Text		A familiar-looking object.	Znajomo wyglądający przedmiot.	Ein vertraut aussehendes Objekt.
@@ -1794,7 +1794,7 @@ Items/CrystalDestructibleDesc	Text		A fragile crystal growth that shimmers like 
 Items/CrystalHelm	Text		Solarite Barbute	Solarytowa barbuta	Solarit-Barbuta
 Items/CrystalHelmDesc	Text		A nearly indestructible helm forged with patience and precision. When it is worn, you feel energized, lively and protected.	Niemal niezniszczalny hełm wykuty z cierpliwością i precyzją. Kiedy go nosisz, czujesz się pełen energii, żywy i chroniony.	Ein nahezu unzerstörbarer Helm, der mit Geduld und Sorgfalt geschmiedet wurde. Der Träger fühlt sich geladen, lebendig und geschützt.
 Items/CrystalKelp	Text		Crystal Kelp	Kryształowy wodorost	Kristall-Seetang
-Items/CrystalKelpDesc	Text		A crystallized lump of marine plants.	Skrystalizowana bryła roślin morskich.	Ein kristallisierter Klumpen Meerespflanzen.
+Items/CrystalKelpDesc	Text		A crystallized lump of marine plants.	Skrystalizowana kępa roślin morskich.	Ein kristallisierter Klumpen Meerespflanzen.
 Items/CrystalLamp	Text		Crystal Lamp	Kryształowa lampa	Kristall-Lampe
 Items/CrystalLampDesc	Text		This tall torch seems to generate fire from transforming the energy of an ancient gemstone.	Ta wysoka pochodnia wydaje się generować ogień z transformacji energii starożytnego kamienia szlachetnego.	Diese hohe Fackel scheint Feuer durch das Umwandeln der Energie eines Antiken Edelsteins zu generieren.
 Items/CrystalMerchant	Text	Nilipede can be translated as anything millipede/centipede + words relating to darkness	Brave Merchant	Odważny handlarz	Mutiger Händler
@@ -1806,119 +1806,119 @@ Items/CrystalMeteorShardOffhand	Text		Crystal Meteor Chunk	Kawałek kryształowe
 Items/CrystalMeteorShardOffhandDesc	Text		A very big ancient gemstone fused from smaller shards. It emits a strange energy that makes you feel nauseous and feverish.	Bardzo duży starożytny kamień szlachetny scalony z mniejszych odłamków. Emituje dziwną energię, która wywołuje mdłości i gorączkę.	Ein sehr großer Antiker Edelstein, zusammengesetzt aus vielen kleinen Scherben. Die Energie, die er ausstrahlt, lässt dich fiebrig und schwindelig fühlen.
 Items/CrystalNecklace	Text		Glass Bead Necklace	Naszyjnik ze szklanych koralików	Glasperlen-Halskette
 Items/CrystalNecklaceDesc	Text		A captivating necklace that catches your enemies off-guard so that they lower their defense. Unfortunately it has the same effect on you.	Urzekający naszyjnik, który zaskakuje wrogów, tak że obniżają swoją obronę. Niestety taki sam efekt wywiera na ciebie.	Eine hinreißende Halskette, die deine Feinde überwältigt, so dass sie ihre Deckung vernachlässigen. Leider hat sie auf dich denselben Effekt.
-Items/CrystalPantsArmor	Text		Solarite Tassets		Solarit-Tassetten
-Items/CrystalPantsArmorDesc	Text		Heavy hip protection made from miraculous materials. When it is worn, you feel guided along a path to victory.		Ein schwerer Hüftschutz, gefertigt aus wundersamen Materialien. Der Träger fühlt sich, als sei er auf den Pfad des Sieges geleitet worden.
-Items/CrystalRing	Text		Glass Bead Ring		Glasperlen-Ring
-Items/CrystalRingDesc	Text		A captivating ring that catches your enemies off-guard so that they lower their defense. Unfortunately it has the same effect on you.		Ein hinreißender Ring, der deine Feinde überwältigt, so dass sie ihre Deckung vernachlässigen. Leider hat er auf dich denselben Effekt.
-Items/CrystalSpearhead	Text		Crystal Spearhead		Kristall-Speerspitze
-Items/CrystalSpearheadDesc	Text		The leftovers of a crude prehistoric weapon made with an ancient gemstone. It may have helped early humans to hunt more effectively.		Das Überbleibsel einer einfachen, prähistorischen Waffe, gefertigt mit einem Antiken Edelstein. Es könnte Frühmenschen bei der Jagd einen Vorteil verschafft haben.
-Items/CrystalSphere	Text		Crystal Sphere		Kristall-Sphäre
-Items/CrystalSphereDesc	Text		A small orb made from deep-blue glass. Its purpose is unknown.		Eine kleine Kugel aus tiefblauem Glas. Ihre Verwendung bleibt ein Rätsel.
-Items/CrystalStalagmite	Text		Crystal Stalagmite		Kristall-Stalagmit
-Items/CrystalStalagmiteDesc	Text		A naturally-grown pillar that rises up from the crystalline depths of the Shimmering Frontier.		Eine natürlich entstandene Säule, die aus den Tiefen der Schimmernden Grenze in die Höhe steigt.
-Items/CrystalStar	Text		Crystal Star		Kristallstern
-Items/CrystalStarDesc	Text		A golden-colored glass star for decorating the base in a festive fashion. Better not drop it.		Ein goldfarbener Glas-Stern, um deine Basis festlich zu dekorieren. Vorsicht, zerbrechlich.
-Items/CrystalTent	Text		Crystal Tent		Kristall-Zelt
-Items/CrystalTentDesc	Text		The crystallized, makeshift resting place of a former explorer. They don't have much use for each other anymore.		Der kristallisierte Schlafplatz eines ehemaligen Entdeckers. Leider sind sich beide nicht mehr von großem Nutzen.
-Items/CrystalWater	Text		Crystal Water		Kristallwasser
-Items/CrystalWaterDesc	Text		Crystal clear water that has been filtered through ancient gemstones.		Kristallklares Wasser, das durch Antike Edelsteine gefiltert wurde.
-Items/CupidBow	Text		Cupid Bow		Amor-Bogen
-Items/CupidBowDesc	Text		A bow that hits right into the heart of its target and has a chance to infatuate it with the archer.		Ein Bogen, der mitten ins Herz seines Zieles trifft und die Chance hat, es zu betören.
-Items/CupidBreastArmor	Text		Cupid Tunic		Amor-Tunika
-Items/CupidBreastArmorDesc	Text		When wearing this tunic, one feels as if they have been sent from the heavens to spread love.		Wenn man diese Tunika trägt, fühlt man sich, als wäre man vom Himmel gesandt worden, um Liebe zu verbreiten.
-Items/DaggerFin	Text		Dagger Fin		Dolch-Flosse
-Items/DaggerFinDesc	Text		The scales of this fish are thin like razorblades.		Die Schuppen dieses Fisches sind dünn wie Rasierklingen.
-Items/DarkBlueKelp	Text		Dark Blue Kelp		Dunkelblauer Seetang
-Items/DarkBlueKelpDesc	Text		A dark blue lump of marine plants.		Ein dunkelblauer Klumpen Meerespflanzen.
-Items/DarkLavaEater	Text		Dark Lava Eater		Dunkler Lavafresser
-Items/DarkLavaEaterDesc	Text		A dark fish with fiery belly that seems to purely feed from liquid stone and the gemstones caught within.		Ein dunkler Fisch mit feurigem Bauch, der sich ausschließlich von geschmolzenem Gestein und den darin enthaltenen Edelsteinen zu ernähren scheint.
-Items/DataSlate	Text		Data Slate		Datentafel
-Items/DataSlateDesc	Text		A stone disc with peculiar engravings, it must contain mysterious records.		Eine steinerne Scheibe mit feinen Gravierungen. Sie muss mysteriöse Aufnahmen enthalten.
-Items/DecorativePot	Text		Decorative Pot		Dekorativer Topf
-Items/DecorativePotDesc	Text		Adding a plant to it will make for a nice decoration.		Eignet sich als schöne Dekoration, wenn eine Pflanze darin eingetopft wird.
-Items/DecorativeTorch1	Text		Decorative Torch		Dekorative Fackel
-Items/DecorativeTorch1Desc	Text		A safer, better-looking alternative to crude torches.		Eine sicherere, ästhetischere Alternative zur herkömmlichen Fackel.
-Items/DeepspaceLog	Text		Deepspace Log		Weltraum-Aufzeichnung
-Items/DeepspaceLogDesc	Text		A thin glass tablet that displays a map of unfamiliar star constellations.		Eine dünne Glastafel, auf der eine Karte mit unbekannten Sternenkonstellationen zu sehen ist.
-Items/Deepstalker	Text		Glistening Deepstalker		Glitzernder Tiefenjäger
-Items/DeepstalkerDesc	Text		A crystal-plated predator that slithers through the glowing waters of the Shimmering Frontier, always on the hunt for something weaker.		Ein mit Kristallen gepanzertes Raubtier, das sich durch die leuchtenden Gewässer der Schimmernden Grenze schlängelt, stets auf der Suche nach einer schwächeren Beute.
-Items/DelayCircuit	Text		Delay Circuit		Verzögerungsschaltung
-Items/DelayCircuitDesc	Text		Stores electricity input and sends it out during intervals of 1 second.		Speichert ein elektrisches Signal und sendet es in 1-Sekunden-Abständen.
-Items/DesertBreastArmor	Text		Paladin Harness		Paladin-Harnisch
-Items/DesertBreastArmorDesc	Text		A golden breastplate with loose fabric sewn to it that makes you feel like a stealthy warrior of the desert.		Ein goldener Brustpanzer mit lockerem Stoff daran, der dich wie ein Krieger der Wüste anmuten lässt.
-Items/DesertBush	Text		Desert Shrub		Wüstenbusch
-Items/DesertBushDesc	Text		A dry bush that can live hundreds of years without water.		Ein trockenes Gestrüpp, das hunderte von Jahren ohne Wasser auskommt.
-Items/DesertCavelingMoss	Text		Valley Moss		Tal-Moos
-Items/DesertCavelingMossDesc	Text		Ground plants found in the Desert of Beginnings. They grow fragrant flowers that attract cavelings of the corresponding area.		Bodenpflanzen, die in der Wüste des Anbeginns gefunden werden. Auf ihnen wachsen duftende Blüten, die Grottlinge aus dem jeweiligen Areal anlocken.
-Items/DesertDestructible	Text		Desert Flower Vessel		Wüstenblüten-Gefäß
-Items/DesertDestructibleDesc	Text		A dry plant containing natural loot from the desert.		Eine trockene Pflanze, gefüllt mit den natürlichen Schätzen der Wüste.
-Items/DesertDiamond	Text		Desert Diamond		Wüstendiamant
-Items/DesertDiamondDesc	Text		A very rare crystal sparkling with a beautiful white light.		Ein sehr seltener Kristall, der in einem wunderschönen weißen Licht erstrahlt.
-Items/DesertGemstone	Text		Desert Ruby		Wüsten-Rubin
-Items/DesertGemstoneDesc	Text		A crimson gemstone rarely found in dry regions. Its special properties allow it to be used for higher quality crafting.		Ein purpurfarbener Edelstein, der manchmal in trockenen Gebieten gefunden werden kann. Seine besonderen Eigenheiten lassen ihn bei der Herstellung hochwertiger Produkte zum Einsatz kommen.
-Items/DesertHelm	Text		Paladin Mask		Paladin-Maske
-Items/DesertHelmDesc	Text		A mysterious piece of equipment with a golden mask. It seems to have been granted to warriors of high rank.		Ein mysteriöses Stück Ausrüstung mit einer goldenen Maske. Offenbar wurde sie nur an hochrangige Krieger verliehen.
-Items/DesertPantsArmor	Text		Paladin Pants		Paladin-Hose
-Items/DesertPantsArmorDesc	Text		Wide harem pants made for fighting, coupled with a set of pointy golden shoes.		Eine weite Haremshose für den Kampf. Dazu gibt es ein Paar goldene Spitzschuhe.
-Items/DesertRock1	Text		Desert Rock		Wüstenstein
-Items/DesertRock1Desc	Text		A medium-sized sandstone boulder.		Ein mittelgroßer Sandstein-Felsblock.
-Items/DesertRock2Left	Text		Large Left-Facing Rock Arc		Linksgerichteter großer Steinbogen
-Items/DesertRock2LeftDesc	Text		A large sandstone arc, you're not exactly sure how it fits in your backpack.		Ein großer Sandstein-Bogen. Du weißt nicht genau, warum er in deinen Rucksack passt.
-Items/DesertRock2Right	Text		Large Right-Facing Rock Arc		Rechtsgerichteter großer Steinbogen
-Items/DesertRock2RightDesc	Text		A large sandstone arc, you're not exactly sure how it fits in your backpack.		Ein großer Sandstein-Bogen. Du weißt nicht genau, warum er in deinen Rucksack passt.
-Items/DesertRock3Left	Text		Giant Left-Facing Rock Arc		Linksgerichteter gigantischer Steinbogen
-Items/DesertRock3LeftDesc	Text		A giant sandstone arc, you're not exactly sure how it fits in your backpack.		Ein gigantischer Sandstein-Bogen. Du weißt nicht genau, warum er in deinen Rucksack passt.
-Items/DesertRock3Right	Text		Giant Right-Facing Rock Arc		Rechtsgerichteter gigantischer Steinbogen
-Items/DesertRock3RightDesc	Text		A giant sandstone arc, you're not exactly sure how it fits in your backpack.		Ein gigantischer Sandstein-Bogen. Du weißt nicht genau, warum er in deinen Rucksack passt.
-Items/DesertRockSmall	Text		Small Desert Rock		Kleiner Wüstenstein
-Items/DesertRockSmallDesc	Text		A small dry sandstone boulder.		Ein kleiner, trockener Sandstein-Felsblock.
-Items/DesertTempleDestructible	Text		Temple Crate		Tempel-Behälter
-Items/DesertTempleDestructibleDesc	Text		An ancient crate filled with goods of an old desert civilization.		Eine uralte Kiste, gefüllt mit den Habseligkeiten einer alten Wüstenzivilisation.
-Items/DevilWorm	Text		Devil Worm		Teufelswurm
-Items/DevilWormDesc	Text		A hellspawn that dwells in the sea ground. Don't step on it.		Eine Ausgeburt der Hölle, die im Seeboden lauert. Bloß nicht drauftreten.
-Items/DistilledSlime	Text		Distilled Love		Destillierte Liebe
-Items/DistilledSlimeDesc	Text		This beverage made from rare pink slime tastes like cotton sugar and makes your heart flutter.		Dieses Getränk wurde aus seltenem pinkem Schleim hergestellt. Es schmeckt nach Zuckerwatte und verursacht Herzklopfen.
-Items/DistilleryTable	Text		Distillery Table		Destillerie-Tisch
-Items/DistilleryTableDesc	Text		A workbench to produce more advanced potions and explosives.		Eine Werkbank, um anspruchsvollere Tränke und Sprengladungen herzustellen.
-Items/DiverArmor	Text		Kelp Mantle		Seetang-Mantel
-Items/DiverArmorDesc	Text		An upper body armor made from long kelp strands. Now you feel like a real creature of the sea.		Eine Oberkörper-Rüstung, hergestellt aus langen Seetang-Blättern. Jetzt fühlst du dich wie ein wahrer Bewohner der See.
-Items/DiverHelm	Text		Diving Helm		Tauchhelm
-Items/DiverHelmDesc	Text		This heavy chunk of metal was used to explore deep waters, unfortunately it's leaking now. Still works as a nice armor piece.		Dieser schwere Klotz aus Metall wurde zum Erforschen des Meeres genutzt. Obwohl er undicht ist, lässt er sich noch gut als Rüstung verwenden.
-Items/DiverNecklace	Text		Neptune Necklace		Neptun-Halskette
-Items/DiverNecklaceDesc	Text		A true trinket of the sea, made from kelp and a trident pendant. Mistaking you for a mythic sea ruler, fish come to you more often.		Ein wahres Schmuckstück der See, bestehend aus Seetang und einem Dreizack-Anhänger. Fische halten dich für einen mythischen Seegott und lassen sich einfacher fangen.
-Items/DiverPantsArmor	Text		Scuba Fins		Schwimmflossen
-Items/DiverPantsArmorDesc	Text		Squeaky footwear made from a rubber-like material. It's uncomfortably wet.		Quietschende Fußbekleidung aus einem gummiähnlichen Material. Sie sind unangenehm feucht.
-Items/DiverRing	Text		Goldfish Ring		Goldfisch-Ring
-Items/DiverRingDesc	Text		A quite lively little ring that tries to swim off of your finger. By the time it realizes it's merely a ring it has already forgot about it again.		Ein recht lebhafter kleiner Ring, der von deinem Finger wegzuschwimmen versucht. Bis er merkt, dass er nur ein Ring ist, hat er es schon wieder vergessen.
-Items/DoubleRing	Text		Double Ring		Doppelring
-Items/DoubleRingDesc	Text		This ring is made to be put an two fingers at the same time. Revolutionary.		Dieser Ring wurde erschaffen, um an zwei Finger gleichzeitig angesteckt zu werden. Revolutionär.
-Items/DragonMaskHelm	Text		Dragon Mask		Drachenmaske
-Items/DragonMaskHelmDesc	Text		An intimidating but well-meaning mask that invokes the spirit of mythological dragons.		Eine einschüchternde, jedoch wohlwollende Maske, die den Geist mythologischer Drachen in sich trägt.
-Items/Dresser	Text		Dresser		Kommode
-Items/DresserDesc	Text		Allows changing the equipment shown on your character.		Erlaubt es, die an deinem Charakter angezeigte Kleidung zu ändern.
-Items/DriftwoodStool	Text		Driftwood Stool		Treibholz-Hocker
-Items/DriftwoodStoolDesc	Text		A simple stool made with beach materials.		Ein einfacher Hocker, aus angespülten Materialien hergestellt.
-Items/DriftwoodTable	Text		Driftwood Table		Treibholz-Tisch
-Items/DriftwoodTableDesc	Text		Someone made this from materials floating in the water.		Von jemandem aus angeschwemmten Materialien hergestellt.
-Items/Drill	Text		Drill		Bohrer
-Items/DrillDesc	Text		Can slowly drill through tougher materials such as ore boulders when powered with electricity. Drills drilling together yield better results.		Bohrt sich langsam durch harte Materialien wie Erzblöcke, wenn er an Elektrizität angeschlossen ist.
-Items/DrillTool	Text		Hand Drill		Handbohrer
-Items/DrillToolDesc	Text		A powerfull tool to cut through weaker walls like butter.		Ein kraftvolles Werkzeug, mit dem sich schwächere Wände wie Butter zerteilen lassen.
-Items/DrillToolScarlet	Text		Scarlet Hand Drill		Skarlit-Handbohrer
-Items/DrillToolScarletDesc	Text		A powered up hand drill, ready to tear down stronger walls without struggle.		Ein aufgearbeiteter Handbohrer, mit dem man mühelos stärkere Wände einreißen kann.
-Items/DryButterfly	Text		Dry Butterfly		Trockener Schmetterling
-Items/DryButterflyDesc	Text		A dead insect void of any moisture. It is nice to look at but needs to be handled with care.		Ein totes Insekt, jeglicher Feuchtigkeit beraubt. Ist schön anzusehen, muss aber mit äußerster Vorsicht behandelt werden.
-Items/DynamitePack	Text		Dynamite Pack		Dynamitbündel
-Items/DynamitePackDesc	Text		This tight pack of explosives can be detonated in safety with an external trigger.		Dieses kompakte Sprengstoffbündel kann mit einem externen Auslöser in einer sicheren Entfernung detoniert werden.
-Items/EarPlate	Text		Ear Plate		Ohrplättchen
-Items/EarPlateDesc	Text		A squarish earring plated with gold.		Ein quadratischer, mit Gold überzogener Ohrring.
-Items/EarlyHumanSkull	Text		Early Human Skull		Frühmensch-Schädel
-Items/EarlyHumanSkullDesc	Text		Remains of a human that lived about 200.000 years ago. Has mankind found these caves before?		Überbleibsel eines Menschen, der vor ungefähr 200.000 Jahren lebte. Hat die Menschheit diese Höhlen bereits zuvor entdeckt?
-Items/EasterAzeosTrophy	Text		Awakened Azeos Figurine		Erwachter Azeos-Figur
-Items/EasterAzeosTrophyDesc	Text		A unique lifelike representation of the Awakened Azeos.		Eine lebensechte Nachbildung des Erwachten Azeos.
-Items/EasterChest	Text		Golden Titan's Chest		Goldene Titanen-Kiste
-Items/EasterChestDesc	Text		A unique variant of the large ancient chest.		Eine einzigartige Variante der großen antiken Kiste.
-Items/EasterChickenHat	Text		Chicken Hat		Hühnchen-Hut
+Items/CrystalPantsArmor	Text		Solarite Tassets	Solarytowe taszki	Solarit-Tassetten
+Items/CrystalPantsArmorDesc	Text		Heavy hip protection made from miraculous materials. When it is worn, you feel guided along a path to victory.	Ciężka ochrona bioder wykonana z cudownych materiałów. Kiedy ją nosisz, czujesz się prowadzony ścieżką do zwycięstwa.	Ein schwerer Hüftschutz, gefertigt aus wundersamen Materialien. Der Träger fühlt sich, als sei er auf den Pfad des Sieges geleitet worden.
+Items/CrystalRing	Text		Glass Bead Ring	Pierścień z szklanych koralików	Glasperlen-Ring
+Items/CrystalRingDesc	Text		A captivating ring that catches your enemies off-guard so that they lower their defense. Unfortunately it has the same effect on you.	Urzekający pierścień, który zaskakuje wrogów, tak że obniżają swoją obronę. Niestety ten sam efekt wywiera na ciebie.	Ein hinreißender Ring, der deine Feinde überwältigt, so dass sie ihre Deckung vernachlässigen. Leider hat er auf dich denselben Effekt.
+Items/CrystalSpearhead	Text		Crystal Spearhead	Kryształowy grot włóczni	Kristall-Speerspitze
+Items/CrystalSpearheadDesc	Text		The leftovers of a crude prehistoric weapon made with an ancient gemstone. It may have helped early humans to hunt more effectively.	Resztki prymitywnej prehistorycznej broni wykonanej ze starożytnego kamienia szlachetnego. Mogła ona pomóc pierwotnym ludziom w skuteczniejszym polowaniu.	Das Überbleibsel einer einfachen, prähistorischen Waffe, gefertigt mit einem Antiken Edelstein. Es könnte Frühmenschen bei der Jagd einen Vorteil verschafft haben.
+Items/CrystalSphere	Text		Crystal Sphere	Kryształowa kula	Kristall-Sphäre
+Items/CrystalSphereDesc	Text		A small orb made from deep-blue glass. Its purpose is unknown.	Mała kula wykonana z ciemnoniebieskiego szkła. Jej przeznaczenie jest nieznane.	Eine kleine Kugel aus tiefblauem Glas. Ihre Verwendung bleibt ein Rätsel.
+Items/CrystalStalagmite	Text		Crystal Stalagmite	Kryształowy stalagmit	Kristall-Stalagmit
+Items/CrystalStalagmiteDesc	Text		A naturally-grown pillar that rises up from the crystalline depths of the Shimmering Frontier.	Naturalnie wyhodowany filar, który wyrasta z krystalicznych głębin Błyszczącej Granicy.	Eine natürlich entstandene Säule, die aus den Tiefen der Schimmernden Grenze in die Höhe steigt.
+Items/CrystalStar	Text		Crystal Star	Kryształowa gwiazda	Kristallstern
+Items/CrystalStarDesc	Text		A golden-colored glass star for decorating the base in a festive fashion. Better not drop it.	Szklana gwiazda w złotym kolorze do świątecznej dekoracji bazy. Lepiej jej nie upuść.	Ein goldfarbener Glas-Stern, um deine Basis festlich zu dekorieren. Vorsicht, zerbrechlich.
+Items/CrystalTent	Text		Crystal Tent	Kryształowy namiot	Kristall-Zelt
+Items/CrystalTentDesc	Text		The crystallized, makeshift resting place of a former explorer. They don't have much use for each other anymore.	Skrystalizowane, prowizoryczne miejsce spoczynku byłego odkrywcy. Nie mają już dla siebie zbyt wiele pożytku.	Der kristallisierte Schlafplatz eines ehemaligen Entdeckers. Leider sind sich beide nicht mehr von großem Nutzen.
+Items/CrystalWater	Text		Crystal Water	Kryształowa woda	Kristallwasser
+Items/CrystalWaterDesc	Text		Crystal clear water that has been filtered through ancient gemstones.	Krystalicznie czysta woda, która została przefiltrowana przez starożytne kamienie szlachetne.	Kristallklares Wasser, das durch Antike Edelsteine gefiltert wurde.
+Items/CupidBow	Text		Cupid Bow	Łuk Kupidyna	Amor-Bogen
+Items/CupidBowDesc	Text		A bow that hits right into the heart of its target and has a chance to infatuate it with the archer.	Łuk, który trafia prosto w serce celu i ma szansę rozkochać go w łuczniku.	Ein Bogen, der mitten ins Herz seines Zieles trifft und die Chance hat, es zu betören.
+Items/CupidBreastArmor	Text		Cupid Tunic	Tunika Kupidyna	Amor-Tunika
+Items/CupidBreastArmorDesc	Text		When wearing this tunic, one feels as if they have been sent from the heavens to spread love.	Nosząc tę tunikę, człowiek czuje się tak, jakby został zesłany z niebios, by szerzyć miłość.	Wenn man diese Tunika trägt, fühlt man sich, als wäre man vom Himmel gesandt worden, um Liebe zu verbreiten.
+Items/DaggerFin	Text		Dagger Fin	Płetwa sztyletowa	Dolch-Flosse
+Items/DaggerFinDesc	Text		The scales of this fish are thin like razorblades.	Łuski tej ryby są cienkie niczym ostrza brzytwy.	Die Schuppen dieses Fisches sind dünn wie Rasierklingen.
+Items/DarkBlueKelp	Text		Dark Blue Kelp	Ciemnoniebieski wodorost	Dunkelblauer Seetang
+Items/DarkBlueKelpDesc	Text		A dark blue lump of marine plants.	Ciemnoniebieska kępa roślin morskich.	Ein dunkelblauer Klumpen Meerespflanzen.
+Items/DarkLavaEater	Text		Dark Lava Eater	Mroczny pożeracz lawy	Dunkler Lavafresser
+Items/DarkLavaEaterDesc	Text		A dark fish with fiery belly that seems to purely feed from liquid stone and the gemstones caught within.	Ciemna ryba z ognistym brzuchem, która wydaje się żywić wyłącznie płynnym kamieniem i znajdującymi się w nim klejnotami.	Ein dunkler Fisch mit feurigem Bauch, der sich ausschließlich von geschmolzenem Gestein und den darin enthaltenen Edelsteinen zu ernähren scheint.
+Items/DataSlate	Text		Data Slate	Płytka danych	Datentafel
+Items/DataSlateDesc	Text		A stone disc with peculiar engravings, it must contain mysterious records.	Kamienny dysk z dziwnymi grawerunkami, musi on skrywać tajemnicze zapiski.	Eine steinerne Scheibe mit feinen Gravierungen. Sie muss mysteriöse Aufnahmen enthalten.
+Items/DecorativePot	Text		Decorative Pot	Doniczka ozdobna	Dekorativer Topf
+Items/DecorativePotDesc	Text		Adding a plant to it will make for a nice decoration.	Umieszczenie w niej rośliny będzie ładną dekoracją.	Eignet sich als schöne Dekoration, wenn eine Pflanze darin eingetopft wird.
+Items/DecorativeTorch1	Text		Decorative Torch	Pochodnia ozdobna	Dekorative Fackel
+Items/DecorativeTorch1Desc	Text		A safer, better-looking alternative to crude torches.	Bezpieczniejsza i lepiej wyglądająca alternatywa dla prostych pochodni.	Eine sicherere, ästhetischere Alternative zur herkömmlichen Fackel.
+Items/DeepspaceLog	Text		Deepspace Log	Dziennik głębokiej przestrzeni	Weltraum-Aufzeichnung
+Items/DeepspaceLogDesc	Text		A thin glass tablet that displays a map of unfamiliar star constellations.	Cienki szklany tablet wyświetlający mapę nieznanych konstelacji gwiezdnych.	Eine dünne Glastafel, auf der eine Karte mit unbekannten Sternenkonstellationen zu sehen ist.
+Items/Deepstalker	Text		Glistening Deepstalker	Brylantowy łowca głębin	Glitzernder Tiefenjäger
+Items/DeepstalkerDesc	Text		A crystal-plated predator that slithers through the glowing waters of the Shimmering Frontier, always on the hunt for something weaker.	Kryształowy drapieżnik, który przemyka przez świecące wody Błyszczącej Granicy, zawsze polując na coś słabszego.	Ein mit Kristallen gepanzertes Raubtier, das sich durch die leuchtenden Gewässer der Schimmernden Grenze schlängelt, stets auf der Suche nach einer schwächeren Beute.
+Items/DelayCircuit	Text		Delay Circuit	Obwód opóźniający	Verzögerungsschaltung
+Items/DelayCircuitDesc	Text		Stores electricity input and sends it out during intervals of 1 second.	Przechowuje pobraną energię elektryczną i wysyła ją w odstępach 1 sekundowych.	Speichert ein elektrisches Signal und sendet es in 1-Sekunden-Abständen.
+Items/DesertBreastArmor	Text		Paladin Harness	Uprząż Paladyna	Paladin-Harnisch
+Items/DesertBreastArmorDesc	Text		A golden breastplate with loose fabric sewn to it that makes you feel like a stealthy warrior of the desert.	Złoty napierśnik z naszytym luźnym materiałem, dzięki któremu poczujesz się jak skradający się wojownik pustyni.	Ein goldener Brustpanzer mit lockerem Stoff daran, der dich wie ein Krieger der Wüste anmuten lässt.
+Items/DesertBush	Text		Desert Shrub	Pustynny krzew	Wüstenbusch
+Items/DesertBushDesc	Text		A dry bush that can live hundreds of years without water.	Suchy krzew, który może żyć setki lat bez wody.	Ein trockenes Gestrüpp, das hunderte von Jahren ohne Wasser auskommt.
+Items/DesertCavelingMoss	Text		Valley Moss	Mech doliny	Tal-Moos
+Items/DesertCavelingMossDesc	Text		Ground plants found in the Desert of Beginnings. They grow fragrant flowers that attract cavelings of the corresponding area.	Rośliny naziemne występujące na Pustyni Początków. Rosną na nich pachnące kwiaty, które przyciągają jaskiniowców z danego obszaru.	Bodenpflanzen, die in der Wüste des Anbeginns gefunden werden. Auf ihnen wachsen duftende Blüten, die Grottlinge aus dem jeweiligen Areal anlocken.
+Items/DesertDestructible	Text		Desert Flower Vessel	Pustynne naczynie kwiatowe	Wüstenblüten-Gefäß
+Items/DesertDestructibleDesc	Text		A dry plant containing natural loot from the desert.	Sucha roślina zawierająca naturalne bogactwa z pustyni.	Eine trockene Pflanze, gefüllt mit den natürlichen Schätzen der Wüste.
+Items/DesertDiamond	Text		Desert Diamond	Pustynny diament	Wüstendiamant
+Items/DesertDiamondDesc	Text		A very rare crystal sparkling with a beautiful white light.	Bardzo rzadki kryształ mieniący się pięknym białym światłem.	Ein sehr seltener Kristall, der in einem wunderschönen weißen Licht erstrahlt.
+Items/DesertGemstone	Text		Desert Ruby	Pustynny Rubin	Wüsten-Rubin
+Items/DesertGemstoneDesc	Text		A crimson gemstone rarely found in dry regions. Its special properties allow it to be used for higher quality crafting.	Szkarłatny kamień szlachetny rzadko spotykany w suchych regionach. Jego specjalne właściwości pozwalają na wykorzystanie go w rzemiośle wyższej jakości.	Ein purpurfarbener Edelstein, der manchmal in trockenen Gebieten gefunden werden kann. Seine besonderen Eigenheiten lassen ihn bei der Herstellung hochwertiger Produkte zum Einsatz kommen.
+Items/DesertHelm	Text		Paladin Mask	Maska Paladyna	Paladin-Maske
+Items/DesertHelmDesc	Text		A mysterious piece of equipment with a golden mask. It seems to have been granted to warriors of high rank.	Tajemniczy przedmiot ze złotą maską. Wydaje się, że był przyznawany wojownikom o wysokiej randze.	Ein mysteriöses Stück Ausrüstung mit einer goldenen Maske. Offenbar wurde sie nur an hochrangige Krieger verliehen.
+Items/DesertPantsArmor	Text		Paladin Pants	Spodnie Paladyna	Paladin-Hose
+Items/DesertPantsArmorDesc	Text		Wide harem pants made for fighting, coupled with a set of pointy golden shoes.	Szerokie spodnie haremowe stworzone do walki, w połączeniu z zestawem spiczastych złotych butów.	Eine weite Haremshose für den Kampf. Dazu gibt es ein Paar goldene Spitzschuhe.
+Items/DesertRock1	Text	&	Desert Rock	Skała z piaskowca	Wüstenstein
+Items/DesertRock1Desc	Text		A medium-sized sandstone boulder.	Średniej wielkości głaz z piaskowca.	Ein mittelgroßer Sandstein-Felsblock.
+Items/DesertRock2Left	Text		Large Left-Facing Rock Arc	Duży łuk skalny skierowany w lewo	Linksgerichteter großer Steinbogen
+Items/DesertRock2LeftDesc	Text		A large sandstone arc, you're not exactly sure how it fits in your backpack.	Duży łuk z piaskowca, nie do końca wiesz, jak mieści ci się w plecaku.	Ein großer Sandstein-Bogen. Du weißt nicht genau, warum er in deinen Rucksack passt.
+Items/DesertRock2Right	Text		Large Right-Facing Rock Arc	Duży łuk skalny skierowany w prawo	Rechtsgerichteter großer Steinbogen
+Items/DesertRock2RightDesc	Text		A large sandstone arc, you're not exactly sure how it fits in your backpack.	Duży łuk z piaskowca, nie do końca wiesz, jak mieści ci się w plecaku.	Ein großer Sandstein-Bogen. Du weißt nicht genau, warum er in deinen Rucksack passt.
+Items/DesertRock3Left	Text		Giant Left-Facing Rock Arc	Gigantyczny łuk skalny skierowany w lewo	Linksgerichteter gigantischer Steinbogen
+Items/DesertRock3LeftDesc	Text		A giant sandstone arc, you're not exactly sure how it fits in your backpack.	Duży łuk z piaskowca, nie do końca wiesz, jak mieści ci się w plecaku.	Ein gigantischer Sandstein-Bogen. Du weißt nicht genau, warum er in deinen Rucksack passt.
+Items/DesertRock3Right	Text		Giant Right-Facing Rock Arc	Gigantyczny łuk skalny skierowany w prawo	Rechtsgerichteter gigantischer Steinbogen
+Items/DesertRock3RightDesc	Text		A giant sandstone arc, you're not exactly sure how it fits in your backpack.	Duży łuk z piaskowca, nie do końca wiesz, jak mieści ci się w plecaku.	Ein gigantischer Sandstein-Bogen. Du weißt nicht genau, warum er in deinen Rucksack passt.
+Items/DesertRockSmall	Text	&	Small Desert Rock	Mała skała z piaskowca	Kleiner Wüstenstein
+Items/DesertRockSmallDesc	Text		A small dry sandstone boulder.	Mały suchy głaz z piaskowca.	Ein kleiner, trockener Sandstein-Felsblock.
+Items/DesertTempleDestructible	Text		Temple Crate	Skrzynia Świątyni	Tempel-Behälter
+Items/DesertTempleDestructibleDesc	Text		An ancient crate filled with goods of an old desert civilization.	Starożytna skrzynia wypełniona dobrami starej pustynnej cywilizacji.	Eine uralte Kiste, gefüllt mit den Habseligkeiten einer alten Wüstenzivilisation.
+Items/DevilWorm	Text		Devil Worm	Devil Worm	Teufelswurm
+Items/DevilWormDesc	Text		A hellspawn that dwells in the sea ground. Don't step on it.	Piekielny plugawiec, który mieszka w morskiej głębi. Nie nadepnij na niego.	Eine Ausgeburt der Hölle, die im Seeboden lauert. Bloß nicht drauftreten.
+Items/DistilledSlime	Text		Distilled Love	Destylowana miłość	Destillierte Liebe
+Items/DistilledSlimeDesc	Text		This beverage made from rare pink slime tastes like cotton sugar and makes your heart flutter.	Ten napój z rzadkiego różowego szlamu smakuje jak wata cukrowa i przyprawia o drżenie serca.	Dieses Getränk wurde aus seltenem pinkem Schleim hergestellt. Es schmeckt nach Zuckerwatte und verursacht Herzklopfen.
+Items/DistilleryTable	Text		Distillery Table	Stół destylarni	Destillerie-Tisch
+Items/DistilleryTableDesc	Text		A workbench to produce more advanced potions and explosives.	Stół warsztatowy do produkcji bardziej zaawansowanych mikstur i materiałów wybuchowych.	Eine Werkbank, um anspruchsvollere Tränke und Sprengladungen herzustellen.
+Items/DiverArmor	Text		Kelp Mantle	Płaszcz z wodorostów	Seetang-Mantel
+Items/DiverArmorDesc	Text		An upper body armor made from long kelp strands. Now you feel like a real creature of the sea.	Pancerz na górną część ciała wykonany z długich pasm wodorostów. Teraz czujesz się jak prawdziwe stworzenie morskie.	Eine Oberkörper-Rüstung, hergestellt aus langen Seetang-Blättern. Jetzt fühlst du dich wie ein wahrer Bewohner der See.
+Items/DiverHelm	Text		Diving Helm	Hełm nurka	Tauchhelm
+Items/DiverHelmDesc	Text		This heavy chunk of metal was used to explore deep waters, unfortunately it's leaking now. Still works as a nice armor piece.	Ten ciężki kawałek metalu był używany do eksploracji głębokich wód, niestety teraz przecieka. Wciąż sprawdza się jako ładny element zbroi.	Dieser schwere Klotz aus Metall wurde zum Erforschen des Meeres genutzt. Obwohl er undicht ist, lässt er sich noch gut als Rüstung verwenden.
+Items/DiverNecklace	Text		Neptune Necklace	Naszyjnik Neptuna	Neptun-Halskette
+Items/DiverNecklaceDesc	Text		A true trinket of the sea, made from kelp and a trident pendant. Mistaking you for a mythic sea ruler, fish come to you more often.	Prawdziwy morski drobiazg, wykonany z wodorostów i wisiorka z trójzębem. Myląc cię z mitycznym władcą mórz, ryby przypływają do ciebie częściej.	Ein wahres Schmuckstück der See, bestehend aus Seetang und einem Dreizack-Anhänger. Fische halten dich für einen mythischen Seegott und lassen sich einfacher fangen.
+Items/DiverPantsArmor	Text		Scuba Fins	Scuba Fins	Schwimmflossen
+Items/DiverPantsArmorDesc	Text		Squeaky footwear made from a rubber-like material. It's uncomfortably wet.	Piszczące obuwie wykonane z materiału przypominającego gumę. Jest nieprzyjemnie mokre.	Quietschende Fußbekleidung aus einem gummiähnlichen Material. Sie sind unangenehm feucht.
+Items/DiverRing	Text		Goldfish Ring	Pierścień złotej rybki	Goldfisch-Ring
+Items/DiverRingDesc	Text		A quite lively little ring that tries to swim off of your finger. By the time it realizes it's merely a ring it has already forgot about it again.	Dość żywy mały pierścionek, który próbuje spłynąć z palca. Zanim zorientuje się, że jest jedynie pierścionkiem, zdąży już o tym zapomnieć.	Ein recht lebhafter kleiner Ring, der von deinem Finger wegzuschwimmen versucht. Bis er merkt, dass er nur ein Ring ist, hat er es schon wieder vergessen.
+Items/DoubleRing	Text		Double Ring	Podwójny pierścień	Doppelring
+Items/DoubleRingDesc	Text		This ring is made to be put an two fingers at the same time. Revolutionary.	Ten pierścień jest przeznaczony do zakładania na dwa palce jednocześnie. Rewolucyjne rozwiązanie.	Dieser Ring wurde erschaffen, um an zwei Finger gleichzeitig angesteckt zu werden. Revolutionär.
+Items/DragonMaskHelm	Text		Dragon Mask	Smocza maska	Drachenmaske
+Items/DragonMaskHelmDesc	Text		An intimidating but well-meaning mask that invokes the spirit of mythological dragons.	Zastraszająca, ale pełna dobrych intencji maska, która przywołuje ducha mitologicznych smoków.	Eine einschüchternde, jedoch wohlwollende Maske, die den Geist mythologischer Drachen in sich trägt.
+Items/Dresser	Text		Dresser	Komoda	Kommode
+Items/DresserDesc	Text		Allows changing the equipment shown on your character.	Umożliwia zmianę wyposażenia widocznego na postaci.	Erlaubt es, die an deinem Charakter angezeigte Kleidung zu ändern.
+Items/DriftwoodStool	Text		Driftwood Stool	Stołek z dryfującego drewna	Treibholz-Hocker
+Items/DriftwoodStoolDesc	Text		A simple stool made with beach materials.	Prosty stołek wykonany z materiałów z plaży.	Ein einfacher Hocker, aus angespülten Materialien hergestellt.
+Items/DriftwoodTable	Text		Driftwood Table	Stół z dryfującego drewna	Treibholz-Tisch
+Items/DriftwoodTableDesc	Text		Someone made this from materials floating in the water.	Ktoś zrobił to z materiałów unoszących się na wodzie.	Von jemandem aus angeschwemmten Materialien hergestellt.
+Items/Drill	Text		Drill	Wiertło	Bohrer
+Items/DrillDesc	Text		Can slowly drill through tougher materials such as ore boulders when powered with electricity. Drills drilling together yield better results.	Może powoli wiercić w twardszych materiałach, takich jak głazy rud, gdy jest zasilany energią elektryczną. Wiertła wiercące razem dają lepsze wyniki.	Bohrt sich langsam durch harte Materialien wie Erzblöcke, wenn er an Elektrizität angeschlossen ist.
+Items/DrillTool	Text		Hand Drill	Wiertło ręczne	Handbohrer
+Items/DrillToolDesc	Text		A powerfull tool to cut through weaker walls like butter.	Potężne narzędzie do przebijania się przez słabsze ściany jak przez masło.	Ein kraftvolles Werkzeug, mit dem sich schwächere Wände wie Butter zerteilen lassen.
+Items/DrillToolScarlet	Text		Scarlet Hand Drill	Szkarłatne wiertło ręczne	Skarlit-Handbohrer
+Items/DrillToolScarletDesc	Text		A powered up hand drill, ready to tear down stronger walls without struggle.	Wiertło ręczne z napędem, gotowe do burzenia mocniejszych ścian bez wysiłku.	Ein aufgearbeiteter Handbohrer, mit dem man mühelos stärkere Wände einreißen kann.
+Items/DryButterfly	Text		Dry Butterfly	Suchy motyl	Trockener Schmetterling
+Items/DryButterflyDesc	Text		A dead insect void of any moisture. It is nice to look at but needs to be handled with care.	Martwy owad pozbawiony jakiejkolwiek wilgoci. Przyjemnie się na niego patrzy, ale należy obchodzić się z nim ostrożnie.	Ein totes Insekt, jeglicher Feuchtigkeit beraubt. Ist schön anzusehen, muss aber mit äußerster Vorsicht behandelt werden.
+Items/DynamitePack	Text		Dynamite Pack	Pakiet dynamitu	Dynamitbündel
+Items/DynamitePackDesc	Text		This tight pack of explosives can be detonated in safety with an external trigger.	Ta szczelna paczka materiałów wybuchowych może zostać bezpiecznie zdetonowana za pomocą zewnętrznego spustu.	Dieses kompakte Sprengstoffbündel kann mit einem externen Auslöser in einer sicheren Entfernung detoniert werden.
+Items/EarPlate	Text		Ear Plate	Płytka uszna	Ohrplättchen
+Items/EarPlateDesc	Text		A squarish earring plated with gold.	Kwadratowy kolczyk pokryty złotem.	Ein quadratischer, mit Gold überzogener Ohrring.
+Items/EarlyHumanSkull	Text		Early Human Skull	Czaszka wczesnego człowieka	Frühmensch-Schädel
+Items/EarlyHumanSkullDesc	Text		Remains of a human that lived about 200.000 years ago. Has mankind found these caves before?	Szczątki człowieka, który żył około 200 000 lat temu. Czy ludzkość znalazła te jaskinie wcześniej?	Überbleibsel eines Menschen, der vor ungefähr 200.000 Jahren lebte. Hat die Menschheit diese Höhlen bereits zuvor entdeckt?
+Items/EasterAzeosTrophy	Text		Awakened Azeos Figurine	Figurka Przebudzonego Azeosa	Erwachter Azeos-Figur
+Items/EasterAzeosTrophyDesc	Text		A unique lifelike representation of the Awakened Azeos.	Unikalna, realistyczna reprezentacja Przebudzonego Azeosa.	Eine lebensechte Nachbildung des Erwachten Azeos.
+Items/EasterChest	Text		Golden Titan's Chest	Skrzynia Złotego Tytana	Goldene Titanen-Kiste
+Items/EasterChestDesc	Text		A unique variant of the large ancient chest.	Unikalny wariant dużej antycznej skrzyni.	Eine einzigartige Variante der großen antiken Kiste.
+Items/EasterChickenHat	Text		Chicken Hat	Kurza czapka	Hühnchen-Hut
 Items/EasterChickenHatDesc	Text		A derpy-looking chicken hat that will be center of attention at the next party. Clucking funny!		Ein verrückter Hühnerkopf-Helm, der der Mittelpunkt der nächsten Party sein wird. Einfach zum Gackern!
 Items/EasterChickenPants	Text		Chicken Pants		Hühnchen-Hose
 Items/EasterChickenPantsDesc	Text		These flashy pants are chicken skin-inducing and complete the look of an egg-citing easter costume.		Diese auffällige Hose verursacht eine Gänsehaut und komplettiert den Look eines ei-zigartigen Osterkostüms.
