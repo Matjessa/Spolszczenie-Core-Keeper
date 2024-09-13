@@ -1050,24 +1050,24 @@ Intro/Slide3	Text		Feeling a strange presence,* you notice something between the
 Intro/Slide4	Text		Drawn to it,* you approach this strange relic and raise a hand towards it.	Przyciągnięty do tego,* podchodzisz do tego dziwnego reliktu i wyciągasz rękę w jego kierunku.	Davon angezogen* näherst du dich diesem seltsamen Relikt und erhebst eine Hand.
 Intro/Slide5	Text		Upon touching its surface, a blinding light engulfs you.	Po dotknięciu jego powierzchni ogarnia cię oślepiające światło.	Als du seine Oberfläche berührst, wirst du von einem blendenden Licht umschlossen.
 ItemCategory/Building	Text		Building	Budynek	Gebäude
-ItemCategory/Building_BaseBuilding	Text		Base building	Budynek podstawowy	Basisbau
-ItemCategory/Building_Chest	Text		Chest	Skrzynia	Kiste
-ItemCategory/Building_FunctionalBuilding	Text		Functional building	Budynek funkcjonalny	Funktionales Gebäude
+ItemCategory/Building_BaseBuilding	Text		Base building	Podstawy budynku	Basisbau
+ItemCategory/Building_Chest	Text		Chest	Skrzynie	Kiste
+ItemCategory/Building_FunctionalBuilding	Text		Functional building	Funkcjonalne	Funktionales Gebäude
 ItemCategory/Building_MerchantItem	Text		Merchant item	Przedmiot sprzedawcy	Händler-Gegenstand
-ItemCategory/Building_Object	Text		Object	Obiekt	Objekt
+ItemCategory/Building_Object	Text		Object	Obiekty	Objekt
 ItemCategory/Consumable	Text		Consumable	Zużywalne	Verbrauchsgut
 ItemCategory/Consumable_Fish	Text		Fish	Ryby	Fisch
 ItemCategory/Consumable_Food	Text		Snacks	Przekąski	Snacks
-ItemCategory/Consumable_Ingredient	Text		Ingredient	Składnik	Zutat
+ItemCategory/Consumable_Ingredient	Text		Ingredient	Składniki	Zutat
 ItemCategory/Consumable_PetCandy	Text		Pet candy	Słodycze dla zwierząt	Leckerli
-ItemCategory/Consumable_Potion	Text		Potion	Mikstura	Trank
-ItemCategory/Creature	Text		Creature	Stworzenie	Kreatur
+ItemCategory/Consumable_Potion	Text		Potion	Mikstury	Trank
+ItemCategory/Creature	Text		Creature	Stwór	Kreatur
 ItemCategory/Creature_Cattle	Text		Cattle	Bydło	Nutztier
-ItemCategory/Creature_Critter	Text		Critter	Stwór	Kriechtier
-ItemCategory/Creature_Enemy	Text		Enemy	Wróg	Feind
+ItemCategory/Creature_Critter	Text		Critter	Stworzenia	Kriechtier
+ItemCategory/Creature_Enemy	Text		Enemy	Wrogowie	Feind
 ItemCategory/Creature_Merchant	Text		Merchant	Handlarz	Händler
-ItemCategory/Creature_Pet	Text		Pet	Zwierzak	Haustier
-ItemCategory/Environment	Text		Environment	Środowisko	Umgebung
+ItemCategory/Creature_Pet	Text		Pet	Zwierzaki	Haustier
+ItemCategory/Environment	Text		Environment	Środowiskowe	Umgebung
 ItemCategory/Environment_CityBiome	Text		City biome	Biom miejski	Stadt-Biom
 ItemCategory/Environment_ClayBiome	Text		Clay biome	Biom gliniasty	Lehm-Biom
 ItemCategory/Environment_CrystalBiome	Text		Crystal biome	Biom kryształowy	Kristall-Biom
@@ -1085,25 +1085,25 @@ ItemCategory/Environment_SlimeBiome	Text		Slime biome	Biom szlamu	Schleim-Biom
 ItemCategory/Environment_StoneBiome	Text		Stone biome	Biom kamienny	Stein-Biom
 ItemCategory/Environment_Wall	Text		Wall	Ściana	Wand
 ItemCategory/Equipment	Text		Equipment	Wyposażenie	Ausrüstung
-ItemCategory/Equipment_Bag	Text		Bag	Bagaż	Tasche
-ItemCategory/Equipment_Bait	Text		Bait	Przynęta	Köder
-ItemCategory/Equipment_BreastArmor	Text		Breast armor	Pancerz piersiowy	Brustkleidung
-ItemCategory/Equipment_Helm	Text		Helm	Hełm	Helm
-ItemCategory/Equipment_MeleeWeapon	Text		Melee weapon	Broń do walki wręcz	Nahkampfwaffe
-ItemCategory/Equipment_Necklace	Text		Necklace	Naszyjnik	Halskette
+ItemCategory/Equipment_Bag	Text		Bag	Bagaże	Tasche
+ItemCategory/Equipment_Bait	Text		Bait	Przynęty	Köder
+ItemCategory/Equipment_BreastArmor	Text		Breast armor	Napierśniki	Brustkleidung
+ItemCategory/Equipment_Helm	Text		Helm	Hełmy	Helm
+ItemCategory/Equipment_MeleeWeapon	Text		Melee weapon	Bronie do walki wręcz	Nahkampfwaffe
+ItemCategory/Equipment_Necklace	Text		Necklace	Naszyjniki	Halskette
 ItemCategory/Equipment_Offhand	Text		Offhand	Druga ręka	Zweithand
-ItemCategory/Equipment_PaintBrush	Text		Paint brush	Pędzel	Pinsel
-ItemCategory/Equipment_PantsArmor	Text		Pants armor	Pancerz na nogi	Beinkleidung
-ItemCategory/Equipment_RangeWeapon	Text		Range weapon	Broń dystansowa	Fernkampfwaffe
-ItemCategory/Equipment_Ring	Text		Ring	Pierścień	Ring
-ItemCategory/Equipment_Tool	Text		Tool	Narzędzie	Werkzeug
-ItemCategory/Material	Text		Material	Materiał	Material
-ItemCategory/Material_RawMaterial	Text		Raw material	Surowy materiał	Rohmaterial
-ItemCategory/Material_RefinedMaterial	Text		Refined material	Wyrafinowany materiał	Verarbeitetes Material
-ItemCategory/Material_UniqueMaterial	Text		Unique material	Unikalny materiał	Einzigartiges Material
+ItemCategory/Equipment_PaintBrush	Text		Paint brush	Pędzle	Pinsel
+ItemCategory/Equipment_PantsArmor	Text		Pants armor	Spodnie	Beinkleidung
+ItemCategory/Equipment_RangeWeapon	Text		Range weapon	Bronie dystansowe	Fernkampfwaffe
+ItemCategory/Equipment_Ring	Text		Ring	Pierścienie	Ring
+ItemCategory/Equipment_Tool	Text		Tool	Narzędzia	Werkzeug
+ItemCategory/Material	Text		Material	Materiały 	Material
+ItemCategory/Material_RawMaterial	Text		Raw material	Surowe materiały	Rohmaterial
+ItemCategory/Material_RefinedMaterial	Text		Refined material	Wyrafinowane materiały	Verarbeitetes Material
+ItemCategory/Material_UniqueMaterial	Text		Unique material	Unikalne materiały	Einzigartiges Material
 ItemCategory/Music	Text		Music	Muzyka	Musik
-ItemCategory/Music_Instrument	Text		Instrument	Instrument	Instrument
-ItemCategory/Music_MusicSheet	Text		Music sheet	Arkusz nutowy	Notenblatt
+ItemCategory/Music_Instrument	Text		Instrument	Instrumenty	Instrument
+ItemCategory/Music_MusicSheet	Text		Music sheet	Arkusze nutowe	Notenblatt
 ItemCategory/Other	Text		Other	Inne	Andere
 ItemCategory/Other_KeyItem	Text		Key item	Element kluczowy	Schlüsselgegenstand
 ItemCategory/Other_Mods	Text	This category contains objects from mods	Mods	Mody	Mods
@@ -1919,105 +1919,105 @@ Items/EasterAzeosTrophyDesc	Text		A unique lifelike representation of the Awaken
 Items/EasterChest	Text		Golden Titan's Chest	Skrzynia Złotego Tytana	Goldene Titanen-Kiste
 Items/EasterChestDesc	Text		A unique variant of the large ancient chest.	Unikalny wariant dużej antycznej skrzyni.	Eine einzigartige Variante der großen antiken Kiste.
 Items/EasterChickenHat	Text		Chicken Hat	Kurza czapka	Hühnchen-Hut
-Items/EasterChickenHatDesc	Text		A derpy-looking chicken hat that will be center of attention at the next party. Clucking funny!		Ein verrückter Hühnerkopf-Helm, der der Mittelpunkt der nächsten Party sein wird. Einfach zum Gackern!
-Items/EasterChickenPants	Text		Chicken Pants		Hühnchen-Hose
-Items/EasterChickenPantsDesc	Text		These flashy pants are chicken skin-inducing and complete the look of an egg-citing easter costume.		Diese auffällige Hose verursacht eine Gänsehaut und komplettiert den Look eines ei-zigartigen Osterkostüms.
-Items/EasterChickenSuit	Text		Chicken Breast Piece		Hühnerbrust-Panzer
-Items/EasterChickenSuitDesc	Text		Itchy feathers and a concerning lack of ventilation make this chicken body piece a bold choice of clothing.		Juckende Federn und ein besorgniserregender Mangel an Belüftung machen dieses Hühner-Kleidungsstück zu einer gewagten Wahl.
-Items/EasterDaisyFloorspread	Text		Daisy Flooring		Gänseblümchen-Bodenbelag
-Items/EasterDaisyFloorspreadDesc	Text		A handful of daisies, made to sprinkle some spring onto the floor. One package is enough to cover a 1x1 ground tile.		Eine Handvoll Gänseblümchen, gemacht, um eine Prise Frühling auf dem Boden zu verteilen. Ein Päckchen reicht, um einen 1x1-Bodenbereich zu bedecken.
-Items/EasterEggClay	Text		Rose Easter Egg		Rosafarbenes Osterei
-Items/EasterEggClayDesc	Text		An icky collectible egg that can be used as currency for a certain merchant. Get as many as you can, they might not be around for long.		Ein klebriges, sammelbares Ei, das als Währung für einen bestimmten Händler verwendet wird. Hol dir so viele davon wie möglich, sie werden vielleicht nicht lange da sein.
-Items/EasterEggDirt	Text		Brown Easter Egg		Braunes Osterei
-Items/EasterEggDirtDesc	Text		A dirty collectible egg that can be used as currency for a certain merchant. Get as many as you can, they might not be around for long.		Ein schmutziges, sammelbares Ei, das als Währung für einen bestimmten Händler verwendet wird. Hol dir so viele davon wie möglich, sie werden vielleicht nicht lange da sein.
-Items/EasterEggFlowerpot	Text		Easter Egg Flowerpot		Osterei-Blumentopf
-Items/EasterEggFlowerpotDesc	Text		Greenery and daisies pop out of this egg-shaped flowerpot. They resemble the awakening of spring.		Grünzeug und Gänseblümchen sprießen aus diesem eierförmigen Blumentopf. Sie symbolisieren das Erwachen des Frühlings.
-Items/EasterEggLamp	Text		Easter Egg Lamp		Osterei-Lampe
-Items/EasterEggLampDesc	Text		Illuminate your base with this decorative lamp, featuring a golden easter egg sitting in a nest of greenery.		Erhelle deine Basis mit dieser dekorativen Lampe, die einem goldenen Ei auf einem Nest aus Grünzeug ähnelt.
-Items/EasterEggNature	Text		Green Easter Egg		Grünes Osterei
-Items/EasterEggNatureDesc	Text		A weedy collectible egg that can be used as currency for a certain merchant. Get as many as you can, they might not be around for long.		Ein von Unkraut bewachsenes, sammelbares Ei, das als Währung für einen bestimmten Händler verwendet wird. Hol dir so viele davon wie möglich, sie werden vielleicht nicht lange da sein.
-Items/EasterEggStone	Text		Gray Easter Egg		Graues Osterei
-Items/EasterEggStoneDesc	Text		A rocky collectible egg that can be used as currency for a certain merchant. Get as many as you can, they might not be around for long.		Ein steinhartes, sammelbares Ei, das als Währung für einen bestimmten Händler verwendet wird. Hol dir so viele davon wie möglich, sie werden vielleicht nicht lange da sein.
-Items/EasterEggcellentHat	Text		Eggcellent Hat		Ei-maliger Hut
-Items/EasterEggcellentHatDesc	Text		Everyone wearing this oversized egg shell hat has only one mission: to become egg.		Jeder, der diesen übergroßen Eierschalenhut trägt, hat nur eine Mission: Ei mit sich zu werden.
-Items/EasterEggcellentPants	Text		Eggcellent Pants		Ei-malige Hose
-Items/EasterEggcellentPantsDesc	Text		These cheaply made pants are as yellow as egg yolk and itchy beyond comprehension.		Diese billig hergestellte Hose sieht aus wie in Eigelb getaucht und juckt unerträglich.
-Items/EasterEggcellentSuit	Text		Eggcellent Breast Piece		Ei-maliger Brustpanzer
-Items/EasterEggcellentSuitDesc	Text	"Any translations of the word ""eggcellent"" should be ""Egg"" + ""positive word"" in other languages."	A spacious, oval shape that is made from hopes, dreams and lime. In other words: Egg.		Eine geräumige, ovale Form, die aus Hoffnungen, Träumen und Kalk gemacht ist. Mit anderen Worten: Ei.
-Items/EasterGarland	Text		Easter Garland		Oster-Girlande
-Items/EasterGarlandDesc	Text		This charming green garland is adorned with little daisies, making it a perfect addition to your Easter-themed walls.		Diese reizende, grüne Girlande ist bestückt mit kleinen Gänseblümchen, die sie zu einer perfekten Ergänzung deiner österlichen Wandgestaltung machen.
-Items/EasterGoldenEgg	Text		Large Golden Egg		Großes goldenes Ei
-Items/EasterGoldenEggDesc	Text		A golden crystalline egg. It might be used for something more than just decoration...		Ein goldenes, kristallines Ei, es könnte für mehr als nur zur Dekoration verwendet werden ...
-Items/EasterMeadowStool	Text		Easter Meadow Stool		Osterwiesen-Hocker
-Items/EasterMeadowStoolDesc	Text		Sitting on this stool feels as if sitting on a freshly cut meadow. There is no better spot to place ones bottoms.		Auf diesem Hocker zu sitzen ist, als sitze man auf einer frisch gemähten Wiese. Es gibt keinen besseren Ort, um sein Hinterteil zu platzieren.
-Items/EasterMeadowTable	Text		Easter Meadow Table		Osterwiesen-Tisch
-Items/EasterMeadowTableDesc	Text		Lay out your belongings on this soft, overgrown table that fits every nature-themed base.		Breite deine Habseligkeiten auf diesem weichen, überwachsenen Tisch aus. Er passt in jede Basis mit einem Natur-Look.
-Items/EasterPedestal	Text		Easter Pedestal		Oster-Podest
-Items/EasterPedestalDesc	Text		A small 1x1 table made from creme-colored stone and a little leaf as cover. Simple, practical and still in line with the Easter spririt.		Ein kleines, 1x1-großes Tischchen aus beigem Gestein und mit einem kleinen Blatt als Tischdecke. Einfach, praktisch und trotzdem passend zur Osterstimmung.
-Items/EasterPillar	Text		Easter Pillar		Oster-Säule
-Items/EasterPillarDesc	Text		A beautiful decorative pillar, holding up high a planter containing spring flowers. A perfect way to greet the new season.		Eine wunderschöne, dekorative Säule, die einen Übertopf mit Frühlingsblumen emporhält. Die perfekte Art, um die neue Jahreszeit zu begrüßen.
-Items/EasterWorkbench	Text		Easter Workbench		Oster-Werkbank
-Items/EasterWorkbenchDesc	Text		This small working table contains the right materials to create a selection of spring and Easter-themed decorations.		Dieser kleine Arbeitstisch enthält die passenden Materialien, um eine Auswahl an Frühlings- und Osterdekorationen zu erstellen.
-Items/EerieChest	Text		Eerie Chest		Unheimliche Kiste
-Items/EerieChestDesc	Text		A creaking chest, useful for storing belongings. There are faint growling noises that can be heard from inside.		Eine knarzende Kiste, nützlich um Hab und Gut darin zu verstauen. Man kann leise Knurrgeräusche aus dem Inneren vernehmen.
-Items/EerieDresser	Text		Eerie Dresser		Unheimliche Kommode
-Items/EerieDresserDesc	Text		Years of misuse turned this dresser into what it is now. Hopefully it treats your clothes better.		Jahre der Zweckentfremdung haben diese Kommode zu dem gemacht, was sie jetzt ist. Hoffentlich behandelt sie deine Kleidung besser.
-Items/EerieFloor	Text		Eerie Floor		Unheimlicher Boden
-Items/EerieFloorDesc	Text		Dark floor boards trodden for many years by unholy feet.		Dunkle Bodendielen, die jahrelang von unseligen Füßen betreten wurden.
-Items/EerieRug	Text		Eerie Rug		Unheimlicher Teppich
-Items/EerieRugDesc	Text		An old rug with a mysterious sigil. A witness of too many séances.		Ein alter Teppich mit einem mysteriösen Symbol darauf. Ein Zeuge zu vieler Geistersitzungen.
-Items/EerieStool	Text		Eerie Stool		Unheimlicher Hocker
-Items/EerieStoolDesc	Text		A seating opportunity made from cursed wood, ready to scare your buttocks off.		Eine Sitzgelegenheit aus verfluchtem Holz, bereit dich in Grund und Hosenboden zu erschrecken.
-Items/EerieTable	Text		Eerie Table		Unheimlicher Tisch
-Items/EerieTableDesc	Text		An old table that was used to serve horrible dishes. The presence of those who devoured them still lingers.		Ein alter Tisch, auf dem schreckliche Gerichte serviert wurden. Die Präsenz jener, die sie verschlungen, verweilt noch immer.
-Items/EerieTreeLight	Text		Twisted Roots Torch		Krummwurzel-Fackel
-Items/EerieTreeLightDesc	Text		A torch that stands like an eerie beacon in the darkness of the caves.		Eine Fackel, die wie ein unheimliches Leuchtfeuer in der Dunkelheit der Höhlen steht.
-Items/EggIncubator	Text		Egg Incubator		Eier-Brutkasten
-Items/EggIncubatorDesc	Text		This device is made to hatch mysterious eggs. Please don't exceed the recommended temperature.		Mit diesem Gerät können geheimnisvolle Eier ausgebrütet werden. Bitte nicht die empfohlene Temperatur überschreiten.
-Items/ElderDragonfish	Text		Elder Dragonfish		Elder-Drachenfisch
-Items/ElderDragonfishDesc	Text		A draconic fish that is several hundred years old. The verdant color of its scales has long faded.		Ein drakonischer Fisch, der mehrere hundert Jahre alt ist. Die grüne Farbe seiner Schuppen ist längst verblasst.
-Items/ElectricalDoor	Text		Electrical Door		Elektrische Tür
-Items/ElectricalDoorDesc	Text		Opens up when powered with electricity.		Öffnet sich, wenn sie mit Elektrizität versorgt wird.
-Items/ElectricalWire	Text		Electrical Wire		Elektrisches Kabel
-Items/ElectricalWireDesc	Text		Connects sources of electricity to machines and apparatuses.		Verbindet Elektrizitätsquellen mit Maschinen und Apparaten.
-Items/ElectricityGenerator	Text		Electricity Generator		Elektrizitätsgenerator
-Items/ElectricityGeneratorDesc	Text		Powers wires and objects with electricity.		Versorgt Kabel und andere Objekte mit Elektrizität.
-Items/ElectricityStick	Text		Electricity Stick		Elektrischer Stab
-Items/ElectricityStickDesc	Text		Emits a very low electricity that is too low to power up objects but useful to change behavior of logic circuits.		Gibt eine Spannung ab, die zu schwach ist, um Objekte mit Elektrizität zu versorgen, aber stark genug, um Schaltkreise zu beeinflussen.
-Items/ElectronicsTable	Text		Electronics Table		Elektronik-Werkbank
-Items/ElectronicsTableDesc	Text		Workbench to create electrical and logical systems.		Eine Werkbank, um elektrische Systeme und Schaltkreise anzulegen.
-Items/EmberPit	Text		Coal Pit		Kohlengrube
-Items/EmberPitDesc	Text		The ashen remains in it hint at it once being used to harden metals in its fires over a long period of time.		Die Aschenreste darin deuten darauf hin, dass sie einst dazu benutzt wurde, Metalle über einen langen Zeitraum in ihren Feuern zu härten.
-Items/EmeraldFeatherFish	Text		Emerald Feather Fish		Smaragd-Federfisch
-Items/EmeraldFeatherFishDesc	Text		A beautiful green fish with scales that look like feathers.		Ein wunderschöner, grüner Fisch mit federartigen Schuppen.
-Items/EmptyGrave	Text		Raided Grave		Verwüstetes Grab
-Items/EmptyGraveDesc	Text		Its emptiness is proof of the blasphemous acts of grave raiders.		Seine Leere ist der Beweis für die gotteslästerlichen Taten der Grabräuber.
-Items/EnchantedRose	Text		Enchanted Rose		Verzauberte Rose
-Items/EnchantedRoseDesc	Text	It's a reference to The Beauty and the Beast. The German translation has a different wording to resemble the German phrase used in the film regarding the curse of the enchanted rose. Please try to treat it equally for other languages, might need a bit of research	To love another and earn their love in return.		Um aufrichtig zu lieben und Liebe zu erringen.
-Items/EnemySpawnerPlatform	Text		Materializer		Materialisator
-Items/EnemySpawnerPlatformDesc	Text		This incredible device is able to weave free matter into a temporary living being when charged with electricity. Requires a figurine as blueprint.		Dieses unglaubliche Gerät kann freie Materie in temporäre lebendige Formen umwandeln, wenn es an Elektrizität angeschlossen wird. Benötigt eine Figur als Bauplan.
-Items/EnhydroCrystal	Text		Enhydro Crystal		Enhydro-Kristall
-Items/EnhydroCrystalDesc	Text		Ancient water is encapsulated in this beautiful crystal. It's been in there for millions of years.		Ein wunderschöner Kristall, in dem Wasser eingeschlossen ist. Es muss sich seit Millionen von Jahren darin befinden.
-Items/EnragePotion	Text		Enrage Potion		Zorn-Trank
-Items/EnragePotionDesc	Text		A strong elixir that buffs your muscles and your temper.		Ein starkes Elixier, das die Muskeln stärkt und das Gemüt entfacht.
-Items/EostreNecklace	Text		Eostre Necklace		Eostre-Halskette
-Items/EostreNecklaceDesc	Text		A curved twig holding a golden egg at its end. It is a sign of renewal and fertility.		Ein gebogener Zweig mit einem goldenen Ei an einem Ende. Er ist ein Zeichen der Wiedergeburt und Fruchtbarkeit.
-Items/EvilEyeCandy	Text		Evil Eye Candy		Böser Blick-Bonbon
-Items/EvilEyeCandyDesc	Text		The most wicked creation of all, its taste an insult to the living. Black licorice.		Die gottloseste Kreation von allen, sein Geschmack eine Beleidigung der Lebenden. Schwarzer Lakritz.
-Items/ExplorerBackpack	Text		Explorer Backpack		Forscher-Rucksack
-Items/ExplorerBackpackDesc	Text		A simple backpack made for traveling the underground caves. Holds quite a few items.		Ein einfacher Rucksack, um die Untergrund-Höhlen zu erkunden. Bietet Platz für viele Gegenstände.
-Items/ExplorerHelm	Text		Adventurer’s Hat		Abenteurer-Hut
-Items/ExplorerHelmDesc	Text		Looks familiar.		Wirkt vertraut.
-Items/FangNecklace	Text		Fang Necklace		Fangzahn-Halskette
-Items/FangNecklaceDesc	Text		A status symbol among tribal cavelings. You can sense blood lust from the loose tooth.		Ein Statussymbol unter Stammesgrottlingen. Du kannst Blutlust spüren, die von dem losen Zahn ausgeht.
-Items/FarmerHelm	Text		Farmer's Hat		Farmer-Hut
-Items/FarmerHelmDesc	Text		Tuck a straw in your mouth and get ready for a whole day of relaxing on the porch.		Steck dir einen Strohhalm in den Mund und mach dich bereit für einen entspannten Tag auf der Veranda.
-Items/FeatherFishScale	Text		Feather Fish Scale		Federfisch-Schuppe
-Items/FeatherFishScaleDesc	Text		Scale of the Feather Fish, it is sturdy but as light as a feather.		Die Schuppe eines Federfischs. Sie ist hart aber leicht wie eine Feder.
-Items/Fiber	Text		Fiber		Fasern
-Items/FiberDesc	Text		Silky-smooth material for creating fabric and armor.		Seidiges Material, um Stoffe und Rüstungen herzustellen.
-Items/FireballStaff	Text		Fireball Staff		Feuerstab
-Items/FireballStaffDesc	Text		A magical staff that the caveling shamans use in their rituals and against uninvited guests.		Ein magischer Stab, den die Grottling-Schamanen für ihre Rituale und gegen ungebetene Gäste einsetzen.
+Items/EasterChickenHatDesc	Text		A derpy-looking chicken hat that will be center of attention at the next party. Clucking funny!	Śmiesznie wyglądająca kurza czapka, która będzie w centrum uwagi na następnej imprezie. Zabawnie gdacze!	Ein verrückter Hühnerkopf-Helm, der der Mittelpunkt der nächsten Party sein wird. Einfach zum Gackern!
+Items/EasterChickenPants	Text		Chicken Pants	Kurze spodnie	Hühnchen-Hose
+Items/EasterChickenPantsDesc	Text		These flashy pants are chicken skin-inducing and complete the look of an egg-citing easter costume.	Te krzykliwe spodnie przypominają skórę kurczaka i dopełniają wygląd kostiumu wielkanocnego.	Diese auffällige Hose verursacht eine Gänsehaut und komplettiert den Look eines ei-zigartigen Osterkostüms.
+Items/EasterChickenSuit	Text		Chicken Breast Piece	Pierś kurczaka	Hühnerbrust-Panzer
+Items/EasterChickenSuitDesc	Text		Itchy feathers and a concerning lack of ventilation make this chicken body piece a bold choice of clothing.	Swędzące pióra i niepokojący brak wentylacji sprawiają, że ten kurzy korpus jest śmiałą propozycją odzieży.	Juckende Federn und ein besorgniserregender Mangel an Belüftung machen dieses Hühner-Kleidungsstück zu einer gewagten Wahl.
+Items/EasterDaisyFloorspread	Text		Daisy Flooring	Stokrotkowa podłoga	Gänseblümchen-Bodenbelag
+Items/EasterDaisyFloorspreadDesc	Text		A handful of daisies, made to sprinkle some spring onto the floor. One package is enough to cover a 1x1 ground tile.	Garść stokrotek, przygotowanych, aby okryć podłogę wiosennym blaskiem. Jedno opakowanie wystarcza na pokrycie płytki podłoża 1x1.	Eine Handvoll Gänseblümchen, gemacht, um eine Prise Frühling auf dem Boden zu verteilen. Ein Päckchen reicht, um einen 1x1-Bodenbereich zu bedecken.
+Items/EasterEggClay	Text		Rose Easter Egg	Różane jajko wielkanocne	Rosafarbenes Osterei
+Items/EasterEggClayDesc	Text		An icky collectible egg that can be used as currency for a certain merchant. Get as many as you can, they might not be around for long.	Obrzydliwe jajko kolekcjonerskie, które może posłużyć jako waluta dla pewnego kupca. Zbierz ich jak najwięcej, bo mogą nie być dostępne zbyt długo.	Ein klebriges, sammelbares Ei, das als Währung für einen bestimmten Händler verwendet wird. Hol dir so viele davon wie möglich, sie werden vielleicht nicht lange da sein.
+Items/EasterEggDirt	Text		Brown Easter Egg	Brązowe jajko wielkanocne	Braunes Osterei
+Items/EasterEggDirtDesc	Text		A dirty collectible egg that can be used as currency for a certain merchant. Get as many as you can, they might not be around for long.	Brudne jajko kolekcjonerskie, które można wykorzystać jako walutę u określonego kupca. Zbierz ich jak najwięcej, bo mogą nie być dostępne zbyt długo.	Ein schmutziges, sammelbares Ei, das als Währung für einen bestimmten Händler verwendet wird. Hol dir so viele davon wie möglich, sie werden vielleicht nicht lange da sein.
+Items/EasterEggFlowerpot	Text		Easter Egg Flowerpot	Wielkanocna doniczka	Osterei-Blumentopf
+Items/EasterEggFlowerpotDesc	Text		Greenery and daisies pop out of this egg-shaped flowerpot. They resemble the awakening of spring.	Zieleń i stokrotki wyskakują z tej doniczki w kształcie jajka. Symbolizują one budzącą się wiosnę.	Grünzeug und Gänseblümchen sprießen aus diesem eierförmigen Blumentopf. Sie symbolisieren das Erwachen des Frühlings.
+Items/EasterEggLamp	Text		Easter Egg Lamp	Wielkanocna lampa	Osterei-Lampe
+Items/EasterEggLampDesc	Text		Illuminate your base with this decorative lamp, featuring a golden easter egg sitting in a nest of greenery.	Oświetl swoją bazę za pomocą tej dekoracyjnej lampy, przedstawiającej złotą pisankę umieszczoną w gnieździe zieleni.	Erhelle deine Basis mit dieser dekorativen Lampe, die einem goldenen Ei auf einem Nest aus Grünzeug ähnelt.
+Items/EasterEggNature	Text		Green Easter Egg	Zielone jajko wielkanocne	Grünes Osterei
+Items/EasterEggNatureDesc	Text		A weedy collectible egg that can be used as currency for a certain merchant. Get as many as you can, they might not be around for long.	Zarośnięte jajko kolekcjonerskie, które może posłużyć jako waluta dla pewnego kupca. Zbierz ich jak najwięcej, bo mogą nie być dostępne zbyt długo.	Ein von Unkraut bewachsenes, sammelbares Ei, das als Währung für einen bestimmten Händler verwendet wird. Hol dir so viele davon wie möglich, sie werden vielleicht nicht lange da sein.
+Items/EasterEggStone	Text		Gray Easter Egg	Szare jajko wielkanocne	Graues Osterei
+Items/EasterEggStoneDesc	Text		A rocky collectible egg that can be used as currency for a certain merchant. Get as many as you can, they might not be around for long.	Skalne jajko kolekcjonerskie, które można wykorzystać jako walutę u określonego kupca. Zbierz ich jak najwięcej, bo mogą nie być dostępne zbyt długo.	Ein steinhartes, sammelbares Ei, das als Währung für einen bestimmten Händler verwendet wird. Hol dir so viele davon wie möglich, sie werden vielleicht nicht lange da sein.
+Items/EasterEggcellentHat	Text		Eggcellent Hat	Jajestyczna czapka	Ei-maliger Hut
+Items/EasterEggcellentHatDesc	Text		Everyone wearing this oversized egg shell hat has only one mission: to become egg.	Każdy, kto nosi tą dużą skorupkę jajka, ma tylko jedną misję: stać się jajkiem.	Jeder, der diesen übergroßen Eierschalenhut trägt, hat nur eine Mission: Ei mit sich zu werden.
+Items/EasterEggcellentPants	Text		Eggcellent Pants	Jajestyczne spodnie	Ei-malige Hose
+Items/EasterEggcellentPantsDesc	Text		These cheaply made pants are as yellow as egg yolk and itchy beyond comprehension.	Te tanio wykonane spodnie są żółte jak żółtko i swędzą nie do pojęcia.	Diese billig hergestellte Hose sieht aus wie in Eigelb getaucht und juckt unerträglich.
+Items/EasterEggcellentSuit	Text		Eggcellent Breast Piece	Jajestyczny napierśnik	Ei-maliger Brustpanzer
+Items/EasterEggcellentSuitDesc	Text	"Any translations of the word ""eggcellent"" should be ""Egg"" + ""positive word"" in other languages."	A spacious, oval shape that is made from hopes, dreams and lime. In other words: Egg.	Przestronny, owalny kształt stworzony z nadziei, marzeń i wapna. Innymi słowy: Jajko.	Eine geräumige, ovale Form, die aus Hoffnungen, Träumen und Kalk gemacht ist. Mit anderen Worten: Ei.
+Items/EasterGarland	Text		Easter Garland	Girlanda wielkanocna	Oster-Girlande
+Items/EasterGarlandDesc	Text		This charming green garland is adorned with little daisies, making it a perfect addition to your Easter-themed walls.	Ta urocza zielona girlanda ozdobiona jest małymi stokrotkami, co czyni ją idealnym dodatkiem do ścian w tematyce wielkanocnej.	Diese reizende, grüne Girlande ist bestückt mit kleinen Gänseblümchen, die sie zu einer perfekten Ergänzung deiner österlichen Wandgestaltung machen.
+Items/EasterGoldenEgg	Text		Large Golden Egg	Duże złote jajko	Großes goldenes Ei
+Items/EasterGoldenEggDesc	Text		A golden crystalline egg. It might be used for something more than just decoration…	Złote, krystaliczne jajko. Może służyć do czegoś więcej niż tylko dekoracji...	Ein goldenes, kristallines Ei, es könnte für mehr als nur zur Dekoration verwendet werden ...
+Items/EasterMeadowStool	Text		Easter Meadow Stool	Łąkowy stołek wielkanocny	Osterwiesen-Hocker
+Items/EasterMeadowStoolDesc	Text		Sitting on this stool feels as if sitting on a freshly cut meadow. There is no better spot to place ones bottoms.	Siedząc na tym stołku można poczuć się jak gdyby siedziało się na świeżo skoszonej łące. Nie ma lepszego miejsca na umieszczenie pośladków.	Auf diesem Hocker zu sitzen ist, als sitze man auf einer frisch gemähten Wiese. Es gibt keinen besseren Ort, um sein Hinterteil zu platzieren.
+Items/EasterMeadowTable	Text		Easter Meadow Table	Łąkowy stół wielkanocny	Osterwiesen-Tisch
+Items/EasterMeadowTableDesc	Text		Lay out your belongings on this soft, overgrown table that fits every nature-themed base.	Rozłóż swoje rzeczy na tym miękkim, zarośniętym stole, który pasuje do każdej bazy o tematyce związanej z naturą.	Breite deine Habseligkeiten auf diesem weichen, überwachsenen Tisch aus. Er passt in jede Basis mit einem Natur-Look.
+Items/EasterPedestal	Text		Easter Pedestal	Wielkanocny cokół	Oster-Podest
+Items/EasterPedestalDesc	Text		A small 1x1 table made from creme-colored stone and a little leaf as cover. Simple, practical and still in line with the Easter spririt.	Mały stolik 1x1 wykonany z kamienia w kolorze kremowym i małego liścia jako nakrycia. Prosty, praktyczny i wciąż zgodny z duchem Wielkanocy.	Ein kleines, 1x1-großes Tischchen aus beigem Gestein und mit einem kleinen Blatt als Tischdecke. Einfach, praktisch und trotzdem passend zur Osterstimmung.
+Items/EasterPillar	Text		Easter Pillar	Filar wielkanocny	Oster-Säule
+Items/EasterPillarDesc	Text		A beautiful decorative pillar, holding up high a planter containing spring flowers. A perfect way to greet the new season.	Piękny słupek dekoracyjny, podtrzymujący wysoko doniczkę z wiosennymi kwiatami. Idealny sposób na powitanie nowej pory roku.	Eine wunderschöne, dekorative Säule, die einen Übertopf mit Frühlingsblumen emporhält. Die perfekte Art, um die neue Jahreszeit zu begrüßen.
+Items/EasterWorkbench	Text		Easter Workbench	Wielkanocny stół warsztatowy	Oster-Werkbank
+Items/EasterWorkbenchDesc	Text		This small working table contains the right materials to create a selection of spring and Easter-themed decorations.	Ten niewielki stół roboczy zawiera odpowiednie materiały do tworzenia dekoracji o tematyce wiosennej i wielkanocnej.	Dieser kleine Arbeitstisch enthält die passenden Materialien, um eine Auswahl an Frühlings- und Osterdekorationen zu erstellen.
+Items/EerieChest	Text		Eerie Chest	Upiorna skrzynia	Unheimliche Kiste
+Items/EerieChestDesc	Text		A creaking chest, useful for storing belongings. There are faint growling noises that can be heard from inside.	Skrzypiąca skrzynia, przydatna do przechowywania rzeczy. Z jej wnętrza słychać słabe warczenie.	Eine knarzende Kiste, nützlich um Hab und Gut darin zu verstauen. Man kann leise Knurrgeräusche aus dem Inneren vernehmen.
+Items/EerieDresser	Text		Eerie Dresser	Upiorna komoda	Unheimliche Kommode
+Items/EerieDresserDesc	Text		Years of misuse turned this dresser into what it is now. Hopefully it treats your clothes better.	Lata niewłaściwego użytkowania zmieniły tę komodę w to, czym jest teraz. Na szczęście lepiej traktuje twoje ubrania.	Jahre der Zweckentfremdung haben diese Kommode zu dem gemacht, was sie jetzt ist. Hoffentlich behandelt sie deine Kleidung besser.
+Items/EerieFloor	Text		Eerie Floor	Upiorna podłoga	Unheimlicher Boden
+Items/EerieFloorDesc	Text		Dark floor boards trodden for many years by unholy feet.	Ciemne deski podłogi deptane przez wiele lat przez nieświęte stopy.	Dunkle Bodendielen, die jahrelang von unseligen Füßen betreten wurden.
+Items/EerieRug	Text		Eerie Rug	Upiorny dywan	Unheimlicher Teppich
+Items/EerieRugDesc	Text		An old rug with a mysterious sigil. A witness of too many séances.	Stary dywan z tajemniczym znakiem. Świadek zbyt wielu seansów.	Ein alter Teppich mit einem mysteriösen Symbol darauf. Ein Zeuge zu vieler Geistersitzungen.
+Items/EerieStool	Text		Eerie Stool	Upiorny stołek	Unheimlicher Hocker
+Items/EerieStoolDesc	Text		A seating opportunity made from cursed wood, ready to scare your buttocks off.	Możliwość siedzenia wykonana z przeklętego drewna, gotowa przestraszyć twoje pośladki.	Eine Sitzgelegenheit aus verfluchtem Holz, bereit dich in Grund und Hosenboden zu erschrecken.
+Items/EerieTable	Text		Eerie Table	Upiorny stół	Unheimlicher Tisch
+Items/EerieTableDesc	Text		An old table that was used to serve horrible dishes. The presence of those who devoured them still lingers.	Stary stół, który służył do serwowania okropnych potraw. Obecność tych, którzy je pożerali, wciąż jest wyczuwalna.	Ein alter Tisch, auf dem schreckliche Gerichte serviert wurden. Die Präsenz jener, die sie verschlungen, verweilt noch immer.
+Items/EerieTreeLight	Text		Twisted Roots Torch	Pochodnia z skręconych korzeni	Krummwurzel-Fackel
+Items/EerieTreeLightDesc	Text		A torch that stands like an eerie beacon in the darkness of the caves.	Pochodnia, która stoi jak upiorna latarnia w ciemności jaskiń.	Eine Fackel, die wie ein unheimliches Leuchtfeuer in der Dunkelheit der Höhlen steht.
+Items/EggIncubator	Text		Egg Incubator	Inkubator do jaj	Eier-Brutkasten
+Items/EggIncubatorDesc	Text		This device is made to hatch mysterious eggs. Please don't exceed the recommended temperature.	To urządzenie jest przeznaczone do wykluwania tajemniczych jaj. Nie należy przekraczać zalecanej temperatury.	Mit diesem Gerät können geheimnisvolle Eier ausgebrütet werden. Bitte nicht die empfohlene Temperatur überschreiten.
+Items/ElderDragonfish	Text		Elder Dragonfish	Starsza smocza ryba	Elder-Drachenfisch
+Items/ElderDragonfishDesc	Text		A draconic fish that is several hundred years old. The verdant color of its scales has long faded.	Drakoniczna ryba, która ma kilkaset lat. Zielony kolor jej łusek już dawno wyblakł.	Ein drakonischer Fisch, der mehrere hundert Jahre alt ist. Die grüne Farbe seiner Schuppen ist längst verblasst.
+Items/ElectricalDoor	Text		Electrical Door	Drzwi elektryczne	Elektrische Tür
+Items/ElectricalDoorDesc	Text		Opens up when powered with electricity.	Otwierają się, gdy są zasilane energią elektryczną.	Öffnet sich, wenn sie mit Elektrizität versorgt wird.
+Items/ElectricalWire	Text		Electrical Wire	Przewód elektryczny	Elektrisches Kabel
+Items/ElectricalWireDesc	Text		Connects sources of electricity to machines and apparatuses.	Łączy źródła energii elektrycznej z maszynami i urządzeniami.	Verbindet Elektrizitätsquellen mit Maschinen und Apparaten.
+Items/ElectricityGenerator	Text		Electricity Generator	Generator prądu	Elektrizitätsgenerator
+Items/ElectricityGeneratorDesc	Text		Powers wires and objects with electricity.	Zasilają przewody i obiekty energią elektryczną.	Versorgt Kabel und andere Objekte mit Elektrizität.
+Items/ElectricityStick	Text		Electricity Stick	Drążek elektryczny	Elektrischer Stab
+Items/ElectricityStickDesc	Text		Emits a very low electricity that is too low to power up objects but useful to change behavior of logic circuits.	Emituje bardzo niską energię elektryczną, która jest zbyt niska, aby zasilać obiekty, ale przydatna do zmiany zachowania obwodów logicznych.	Gibt eine Spannung ab, die zu schwach ist, um Objekte mit Elektrizität zu versorgen, aber stark genug, um Schaltkreise zu beeinflussen.
+Items/ElectronicsTable	Text		Electronics Table	Stół elektroniczny	Elektronik-Werkbank
+Items/ElectronicsTableDesc	Text		Workbench to create electrical and logical systems.	Stacja robocza do tworzenia systemów elektrycznych i logicznych.	Eine Werkbank, um elektrische Systeme und Schaltkreise anzulegen.
+Items/EmberPit	Text		Coal Pit	Szyb węglowy	Kohlengrube
+Items/EmberPitDesc	Text		The ashen remains in it hint at it once being used to harden metals in its fires over a long period of time.	Pozostałości popiołu wskazują na to, że kiedyś był używany do utwardzania metali w ogniu przez długi czas.	Die Aschenreste darin deuten darauf hin, dass sie einst dazu benutzt wurde, Metalle über einen langen Zeitraum in ihren Feuern zu härten.
+Items/EmeraldFeatherFish	Text		Emerald Feather Fish	Szmaragdowa pierzasta ryba	Smaragd-Federfisch
+Items/EmeraldFeatherFishDesc	Text		A beautiful green fish with scales that look like feathers.	Piękna zielona ryba z łuskami przypominającymi pióra.	Ein wunderschöner, grüner Fisch mit federartigen Schuppen.
+Items/EmptyGrave	Text		Raided Grave	Splądrowany grób	Verwüstetes Grab
+Items/EmptyGraveDesc	Text		Its emptiness is proof of the blasphemous acts of grave raiders.	Jego pustka jest dowodem bluźnierczych czynów grabieżców grobów.	Seine Leere ist der Beweis für die gotteslästerlichen Taten der Grabräuber.
+Items/EnchantedRose	Text		Enchanted Rose	Zaczarowana róża	Verzauberte Rose
+Items/EnchantedRoseDesc	Text	It's a reference to The Beauty and the Beast. The German translation has a different wording to resemble the German phrase used in the film regarding the curse of the enchanted rose. Please try to treat it equally for other languages, might need a bit of research	To love another and earn their love in return.	By kochać innych i zasłużyć na ich miłość w zamian.	Um aufrichtig zu lieben und Liebe zu erringen.
+Items/EnemySpawnerPlatform	Text		Materializer	Materializer	Materialisator
+Items/EnemySpawnerPlatformDesc	Text		This incredible device is able to weave free matter into a temporary living being when charged with electricity. Requires a figurine as blueprint.	To niesamowite urządzenie jest w stanie spleść wolną materię w tymczasową żywą istotę po naładowaniu elektrycznością. Wymaga figurki jako wzoru.	Dieses unglaubliche Gerät kann freie Materie in temporäre lebendige Formen umwandeln, wenn es an Elektrizität angeschlossen wird. Benötigt eine Figur als Bauplan.
+Items/EnhydroCrystal	Text		Enhydro Crystal	Kryształ Enhydro	Enhydro-Kristall
+Items/EnhydroCrystalDesc	Text		Ancient water is encapsulated in this beautiful crystal. It's been in there for millions of years.	W tym pięknym krysztale zamknięta jest starożytna woda. Jest tam od milionów lat.	Ein wunderschöner Kristall, in dem Wasser eingeschlossen ist. Es muss sich seit Millionen von Jahren darin befinden.
+Items/EnragePotion	Text		Enrage Potion	Mikstura wściekłości	Zorn-Trank
+Items/EnragePotionDesc	Text		A strong elixir that buffs your muscles and your temper.	Silny eliksir, który wzmacnia twoje mięśnie i temperament.	Ein starkes Elixier, das die Muskeln stärkt und das Gemüt entfacht.
+Items/EostreNecklace	Text		Eostre Necklace	Naszyjnik Eostre	Eostre-Halskette
+Items/EostreNecklaceDesc	Text		A curved twig holding a golden egg at its end. It is a sign of renewal and fertility.	Zakrzywiona gałązka, na której końcu znajduje się złote jajko. Jest to znak odnowy i płodności.	Ein gebogener Zweig mit einem goldenen Ei an einem Ende. Er ist ein Zeichen der Wiedergeburt und Fruchtbarkeit.
+Items/EvilEyeCandy	Text		Evil Eye Candy	Cukierek z złym okiem	Böser Blick-Bonbon
+Items/EvilEyeCandyDesc	Text		The most wicked creation of all, its taste an insult to the living. Black licorice.	Najbardziej nikczemne dzieło ze wszystkich, jego smak jest obrazą dla żyjących. Czarna lukrecja.	Die gottloseste Kreation von allen, sein Geschmack eine Beleidigung der Lebenden. Schwarzer Lakritz.
+Items/ExplorerBackpack	Text		Explorer Backpack	Plecak odkrywcy	Forscher-Rucksack
+Items/ExplorerBackpackDesc	Text		A simple backpack made for traveling the underground caves. Holds quite a few items.	Prosty plecak stworzony do podróżowania po podziemnych jaskiniach. Mieści całkiem sporo przedmiotów.	Ein einfacher Rucksack, um die Untergrund-Höhlen zu erkunden. Bietet Platz für viele Gegenstände.
+Items/ExplorerHelm	Text		Adventurer’s Hat	Kapelusz awanturnika	Abenteurer-Hut
+Items/ExplorerHelmDesc	Text		Looks familiar.	Wygląda znajomo.	Wirkt vertraut.
+Items/FangNecklace	Text		Fang Necklace	Naszyjnik z kłem	Fangzahn-Halskette
+Items/FangNecklaceDesc	Text		A status symbol among tribal cavelings. You can sense blood lust from the loose tooth.	Symbol statusu wśród plemiennych jaskiniowców. W poluzowanym zębie można wyczuć żądzę krwi.	Ein Statussymbol unter Stammesgrottlingen. Du kannst Blutlust spüren, die von dem losen Zahn ausgeht.
+Items/FarmerHelm	Text		Farmer's Hat	Czapka rolnika	Farmer-Hut
+Items/FarmerHelmDesc	Text		Tuck a straw in your mouth and get ready for a whole day of relaxing on the porch.	Włóż słomkę do ust i przygotuj się na cały dzień relaksu na tarasie.	Steck dir einen Strohhalm in den Mund und mach dich bereit für einen entspannten Tag auf der Veranda.
+Items/FeatherFishScale	Text		Feather Fish Scale	Łuska pierzastej ryby	Federfisch-Schuppe
+Items/FeatherFishScaleDesc	Text		Scale of the Feather Fish, it is sturdy but as light as a feather.	Łuska pierzastej ryby jest wytrzymała, ale lekka jak piórko.	Die Schuppe eines Federfischs. Sie ist hart aber leicht wie eine Feder.
+Items/Fiber	Text		Fiber	Włókno	Fasern
+Items/FiberDesc	Text		Silky-smooth material for creating fabric and armor.	Jedwabiście gładki materiał do tworzenia tkanin i zbroi.	Seidiges Material, um Stoffe und Rüstungen herzustellen.
+Items/FireballStaff	Text		Fireball Staff	Ognista różdżka	Feuerstab
+Items/FireballStaffDesc	Text		A magical staff that the caveling shamans use in their rituals and against uninvited guests.	Magiczna laska, której jaskiniowi szamani używają podczas rytuałów i przeciwko nieproszonym gościom.	Ein magischer Stab, den die Grottling-Schamanen für ihre Rituale und gegen ungebetene Gäste einsetzen.
 Items/Firefly	Text				
 Items/FireflyDesc	Text				
 Items/FireworkBig	Text		The BIG		Die GROSSE
