@@ -2262,7 +2262,7 @@ Items/GolemTrophy	Text		Core Sentry Figurine	Figurka strażnika rdzenia	Kernwach
 Items/GolemTrophyDesc	Text		A lifelike representation of a core sentry.	Realistyczne odwzorowanie strażnika rdzenia.	Eine lebensechte Nachbildung einer Kernwache.
 Items/GraveTree	Text		Lush Tree	Bujne drzewo	Üppiger Baum
 Items/GraveTreeDesc	Text		This verdant tree spent many years growing in Azeos' Wilderness. Plant it back into the ground to decorate your home.	To zielone drzewo spędziło wiele lat rosnąc w dziczy Azeosa. Posadź je z powrotem w ziemi, aby ozdobić swój dom.	Dieser saftgrüne Baum wuchs über viele Jahre in Azeos Wildnis heran. Pflanze ihn wieder ein, um damit dein Heim zu dekorieren.
-Items/GreaterHealingPotion	Text		Greater Healing Potion	Większa mikstura lecznicza	Großer Heiltrank
+Items/GreaterHealingPotion	Text		Greater Healing Potion	Większa mikstura leczenia	Großer Heiltrank
 Items/GreaterHealingPotionDesc	Text		A much healthier elixir that heals instantly. Also tastes great.	Znacznie zdrowszy eliksir, który leczy błyskawicznie. Ponadto świetnie smakuje.	Ein viel gesünderes Elixier, das augenblicklich heilt. Schmeckt außerdem gut.
 Items/GreenBlisterHead	Text		Green Blister Head	Zielona pęcherzowa główka	Grünblasen-Fisch
 Items/GreenBlisterHeadDesc	Text		A fish with large green bubbles on its head.	Ryba z dużymi zielonymi bąbelkami na głowie.	Ein Fisch mit großen, grünen Geschwüren auf dem Kopf.
@@ -2278,7 +2278,7 @@ Items/GreyDuneTail	Text		Grey Dune Tail	Szara kita wydmowa	Grauer Dünenschwanz
 Items/GreyDuneTailDesc	Text		This grey, agile fish is able to move between water holes in the desert to change feeding grounds.	Ta szara, zwinna ryba jest w stanie przemieszczać się między wodopojami na pustyni, aby zmienić żerowisko.	Dieser graue, wendige Fisch ist in der Lage, in der Wüste von Wasserloch zu Wasserloch zu wandern, um neue Futterplätze zu finden.
 Items/GreyKelp	Text		Grey Kelp	Szary wodorost	Grauer Seetang
 Items/GreyKelpDesc	Text		A grey lump of marine plants.	Szara kępa roślin morskich.	Ein grauer Klumpen Meerespflanzen.
-Items/GroundAcidSlime	Text		Ground Acid Slime	Podłogowy kwasowy szlam	Säureschleim-Boden
+Items/GroundAcidSlime	Text		Ground Acid Slime	Kwasowy szlam – podłoże	Säureschleim-Boden
 Items/GroundAcidSlimeDesc	Text		Sticky material that slowly dissolves everything that touches it.	Lepki materiał, który powoli rozpuszcza wszystko, co go dotknie.	Glibberiges Material, das langsam alles zersetzt, mit dem es in Berührung kommt.
 Items/GroundAlienBlock	Text		Alien Tech Floor	Podłoga techniczna obcych	Alientechnologie-Boden
 Items/GroundAlienBlockDesc	Text		A mysterious, intricate piece of ground.	Tajemniczy, skomplikowany kawałek podłoża.	Ein mysteriöses, komplexes Stück Boden.
@@ -2306,68 +2306,68 @@ Items/GroundHiveBlock	Text		Larva Hive Ground	Podłoże ula larw	Larvenbau-Boden
 Items/GroundHiveBlockDesc	Text		A lumpy piece of...ground?	Zbrylony kawałek... gruntu?	Ein klumpiges Stück ... Boden?
 Items/GroundLavaBlock	Text		Lava Rock Ground	Podłoże ze skał lawowych	Lavagestein-Boden
 Items/GroundLavaBlockDesc	Text		A molten piece of ground.	Stopiony kawałek gruntu.	Ein geschmolzenes Stück Boden.
-Items/GroundLavaSlime	Text		Ground Magma Slime	Podłogowy magmowy szlam	Magmaschleim-Boden
-Items/GroundLavaSlimeDesc	Text		Sticky material mixed with magma that burns careless explorers.		Glibberiges Material, das sich mit Magma vermischt hat. Verbrennt unvorsichtige Entdecker.
-Items/GroundMeadowBlock	Text		Meadow Ground		Wiesenboden
-Items/GroundMeadowBlockDesc	Text		An mellow piece of ground that grows little summer flowers.		Ein weiches Stück Boden, auf dem kleine Sommerblümchen wachsen.
-Items/GroundMoldBlock	Text		Mold Ground		Schimmel-Boden
-Items/GroundMoldBlockDesc	Text		An moldy piece of ground that releases infestious spores.		Ein fauliges Stück Boden, das langsam schädliche Sporen freisetzt.
-Items/GroundObsidianBlock	Text		Obsidian Ground		Obsidian-Boden
-Items/GroundObsidianBlockDesc	Text		An indestructible piece of ground. We know you're cheating.		Ein unzerstörbares Stück Boden. Wir wissen, dass du schummelst.
-Items/GroundPoisonSlime	Text		Ground Poison Slime		Giftschleim-Boden
-Items/GroundPoisonSlimeDesc	Text		Sticky material that builds up toxin in the body.		Glibberiges Material, das im Körper Giftstoffe freisetzt.
-Items/GroundSandBlock	Text		Sand Ground		Sandboden
-Items/GroundSandBlockDesc	Text		A yellow, fragile piece of ground.		Ein gelbes, trockenes Stück Boden.
-Items/GroundSlime	Text		Ground Slime		Schleim-Boden
-Items/GroundSlimeDesc	Text		Sticky material that slows down careless adventurers. Slime blobs will start to coagulate from slime covered surfaces over time.		Glibberiges Material, das unvorsichtige Abenteurer verlangsamt. Lebende Schleime entstehen nach einer Weile auf schleimbedeckten Böden.
-Items/GroundSlipperySlime	Text		Ground Slippery Slime		Gleitschleim-Boden
-Items/GroundSlipperySlimeDesc	Text		Slick material that makes it difficult to get a steady footing.		Rutschiges Material, das einen festen Stand erschwert.
-Items/GroundSnowBlock	Text		Snow Ground		Schneeboden
-Items/GroundSnowBlockDesc	Text		A white, cold piece of ground.		Ein weißes, kaltes Stück Boden.
-Items/GroundStoneBlock	Text		Stone Ground		Steinboden
-Items/GroundStoneBlockDesc	Text		A sturdy piece of ground.		Ein festes Stück Boden.
-Items/GroundTurfBlock	Text		Turf Ground		Torf-Boden
-Items/GroundTurfBlockDesc	Text		A soft, mossy piece of ground.		Ein weiches, bemoostes Stück Boden.
-Items/GrubEggNecklace	Text		Grub Egg Necklace		Larvenei-Halskette
-Items/GrubEggNecklaceDesc	Text		This odd necklace seems to have a life of its own.		Diese merkwürdige Halskette scheint lebendig zu sein.
-Items/GrubKapokSeed	Text		Grub Kapok Seed		Wollarven-Samen
-Items/GrubKapokSeedDesc	Text		Turns into a plant that gives fiber when harvested.		Wird zu einer faserproduzierenden Pflanze, wenn er angebaut wird.
-Items/GrubKnot	Text		Grub Knot		Larvenknoten
-Items/GrubKnotDesc	Text		A mutated lump of small grubs. Disgusting.		Ein mutierter Klumpen aus kleinen Larven. Ekelhaft.
-Items/GrubPearl	Text		Grub Pearl		Larvenperle
-Items/GrubPearlDesc	Text		Is it a grub-shaped pearl or a pearl-like grub?		Ist es eine larvenförmige Perle oder eine perlartige Larve?
-Items/Grubzooka	Text		Grubzooka		Larvzooka
-Items/GrubzookaDesc	Text		The heavy shots from the Grubzooka also tear down any dirt, sand and turf walls in its path.		Die durchschlagenden Schüsse der Larvzooka vernichten auch Erd-, Sand- und Torf-Wände in ihrem Weg.
-Items/Grumpkin	Text		Grumpkin		Knurrbis
-Items/GrumpkinDesc	Text		A lumpy vegetable that looks very annoyed with having been pulled from the soil.		Eine knollige Frucht, die sehr unzufrieden mit dem Herausziehen aus der Erde zu sein scheint.
-Items/GrumpkinRare	Text		Golden Grumpkin		Goldener Knurrbis
-Items/GrumpkinRareDesc	Text		A very rare variant of the common grumpkin.		Eine sehr seltene Variante des Knurrbis.
-Items/GrumpkinSeed	Text		Grumpkin Seed		Knurrbis-Samen
-Items/GrumpkinSeedDesc	Text		Grows into a lumpy fruit when planted.		Wenn er eingepflanzt wird, erwächst daraus eine knollige Frucht.
-Items/GuardiansPotion	Text		Guardian's Potion		Wächter-Trank
-Items/GuardiansPotionDesc	Text		A potion that fills you with great courage and the ability to withstand the strongest of foes.		Ein Trank, der dich mit großem Mut erfüllt, und der Fähigkeit, den gefährlichsten aller Widersacher zu trotzen.
-Items/HalloweenGoodieBag	Text		Samhain Goodie Bag		Samhain-Wundertüte
-Items/HalloweenGoodieBagDesc	Text		A bag full of spooky sweets and secrets. Pop it up to peek inside.		Eine Tüte voller gruseliger Süßigkeiten und Geheimnisse. Reiß sie auf und schau nach was drin ist.
-Items/HalloweenWorkbench	Text		Samhain Workbench		Samhain-Werkbank
-Items/HalloweenWorkbenchDesc	Text		A coffin-shaped workbench that aids the creation of eerie furniture.		Eine sargförmige Werkbank zur Herstellung unheimlicher Möbel.
-Items/HandMortar	Text		Hand Mortar		Hand-Granatenwerfer
-Items/HandMortarDesc	Text		Problems that can't be solved can usually be blasted away.		Probleme, die sich nicht lösen lassen, können auch weggesprengt werden.
-Items/HardThorn	Text		Hard Thorn		Harter Stachel
-Items/HardThornDesc	Text		A sturdy wooden thorn that can quickly poke careless fingers.		Ein fester Holzstachel, der sehr schnell unvorsichtige Finger piksen kann.
-Items/HealingPotion	Text		Healing Potion		Heiltrank
-Items/HealingPotionDesc	Text		A healthy elixir that heals instantly. Also tastes good.		Ein gesundes Elixier, das augenblicklich heilt. Schmeckt außerdem gut.
-Items/HeartBerry	Text		Heart Berry		Herzbeere
-Items/HeartBerryDesc	Text		A sweet, juicy berry that refreshes the body.		Eine süße, saftige Beere, die den Körper erfrischt.
-Items/HeartBerryNecklace	Text		Heart Berry Necklace		Herzbeeren-Anhänger
-Items/HeartBerryNecklaceDesc	Text		A heart berry on the neck makes for an easy snack!		Eine Herzbeere am Hals und du hungerst niemals!
-Items/HeartBerryRare	Text		Golden Heart Berry		Goldene Herzbeere
-Items/HeartBerryRareDesc	Text		A very rare variant of the common heart berry.		Eine sehr seltene Variante der Herzbeere.
-Items/HeartBerrySeed	Text		Heart Berry Seed		Herzbeeren-Samen
-Items/HeartBerrySeedDesc	Text		Grows into a healthy fruit when planted.		Wenn er eingepflanzt wird, erwächst daraus eine gesunde Frucht.
-Items/HeartOfGold	Text		Heart of Gold		Herz aus Gold
-Items/HeartOfGoldDesc	Text		Rewarded to those who truly look out for others and help whenever they can.		Vergeben an jene, die sich um andere kümmern und stets ihre Hilfe anbieten.
-Items/HeartberrySoda	Text		Heart Berry Soda		Herzbeeren-Soda
-Items/HeartberrySodaDesc	Text		This canned sparkly drink is a pure explosion of taste and sweetness in your mouth.		Dieser sprudelige Drink in Dosenform erzeugt im Mund eine wahre Geschmacksexplosion.
+Items/GroundLavaSlime	Text		Ground Magma Slime	Magmowy szlam – podłoże	Magmaschleim-Boden
+Items/GroundLavaSlimeDesc	Text		Sticky material mixed with magma that burns careless explorers.	Lepki materiał zmieszany z magmą, który spala nieostrożnych odkrywców.	Glibberiges Material, das sich mit Magma vermischt hat. Verbrennt unvorsichtige Entdecker.
+Items/GroundMeadowBlock	Text		Meadow Ground	Podłoże łąkowe	Wiesenboden
+Items/GroundMeadowBlockDesc	Text		An mellow piece of ground that grows little summer flowers.	Delikatny kawałek ziemi, na którym rosną małe letnie kwiaty.	Ein weiches Stück Boden, auf dem kleine Sommerblümchen wachsen.
+Items/GroundMoldBlock	Text		Mold Ground	Grunt z pleśnią	Schimmel-Boden
+Items/GroundMoldBlockDesc	Text		An moldy piece of ground that releases infestious spores.	Spleśniały kawałek ziemi, który uwalnia szkodliwe zarodniki.	Ein fauliges Stück Boden, das langsam schädliche Sporen freisetzt.
+Items/GroundObsidianBlock	Text		Obsidian Ground	Obsydianowy grunt	Obsidian-Boden
+Items/GroundObsidianBlockDesc	Text		An indestructible piece of ground. We know you're cheating.	Niezniszczalny kawałek ziemi. Wiemy, że oszukujesz.	Ein unzerstörbares Stück Boden. Wir wissen, dass du schummelst.
+Items/GroundPoisonSlime	Text		Ground Poison Slime	Trujący szlam – podłoże	Giftschleim-Boden
+Items/GroundPoisonSlimeDesc	Text		Sticky material that builds up toxin in the body.	Lepki materiał, który kumuluje toksyny w organizmie.	Glibberiges Material, das im Körper Giftstoffe freisetzt.
+Items/GroundSandBlock	Text		Sand Ground	Piasek – podłoże	Sandboden
+Items/GroundSandBlockDesc	Text		A yellow, fragile piece of ground.	Żółty, kruchy kawałek gruntu.	Ein gelbes, trockenes Stück Boden.
+Items/GroundSlime	Text		Ground Slime	Szlam – podłoże	Schleim-Boden
+Items/GroundSlimeDesc	Text		Sticky material that slows down careless adventurers. Slime blobs will start to coagulate from slime covered surfaces over time.	Lepki materiał, który spowalnia nieostrożnych poszukiwaczy przygód. Z czasem z pokrytych śluzem powierzchni zaczną się tworzyć szlamowe kłębki.	Glibberiges Material, das unvorsichtige Abenteurer verlangsamt. Lebende Schleime entstehen nach einer Weile auf schleimbedeckten Böden.
+Items/GroundSlipperySlime	Text		Ground Slippery Slime	Śliski szlam – podłoże	Gleitschleim-Boden
+Items/GroundSlipperySlimeDesc	Text		Slick material that makes it difficult to get a steady footing.	Śliski materiał, który utrudnia stabilne postawienie stopy.	Rutschiges Material, das einen festen Stand erschwert.
+Items/GroundSnowBlock	Text		Snow Ground	Śnieżny grunt	Schneeboden
+Items/GroundSnowBlockDesc	Text		A white, cold piece of ground.	Biały, zimny kawałek gruntu.	Ein weißes, kaltes Stück Boden.
+Items/GroundStoneBlock	Text		Stone Ground	Kamienne podłoże	Steinboden
+Items/GroundStoneBlockDesc	Text		A sturdy piece of ground.	Solidny kawałek gruntu.	Ein festes Stück Boden.
+Items/GroundTurfBlock	Text		Turf Ground	Podłoże turfowe	Torf-Boden
+Items/GroundTurfBlockDesc	Text		A soft, mossy piece of ground.	Miękki, omszały kawałek ziemi.	Ein weiches, bemoostes Stück Boden.
+Items/GrubEggNecklace	Text		Grub Egg Necklace	Naszyjnik z jaj larw	Larvenei-Halskette
+Items/GrubEggNecklaceDesc	Text		This odd necklace seems to have a life of its own.	Ten dziwny naszyjnik wydaje się żyć własnym życiem.	Diese merkwürdige Halskette scheint lebendig zu sein.
+Items/GrubKapokSeed	Text		Grub Kapok Seed	Nasiono bawełny wykopkowej	Wollarven-Samen
+Items/GrubKapokSeedDesc	Text		Turns into a plant that gives fiber when harvested.	Przy zbiorze daje włókno.	Wird zu einer faserproduzierenden Pflanze, wenn er angebaut wird.
+Items/GrubKnot	Text		Grub Knot	Węzeł czerwi	Larvenknoten
+Items/GrubKnotDesc	Text		A mutated lump of small grubs. Disgusting.	Zmutowana kępa małych larw. Obrzydliwe.	Ein mutierter Klumpen aus kleinen Larven. Ekelhaft.
+Items/GrubPearl	Text		Grub Pearl	Larwowa perła	Larvenperle
+Items/GrubPearlDesc	Text		Is it a grub-shaped pearl or a pearl-like grub?	Czy jest to perła w kształcie larwy czy larwa podobna do perły?	Ist es eine larvenförmige Perle oder eine perlartige Larve?
+Items/Grubzooka	Text		Grubzooka	Larwzooka	Larvzooka
+Items/GrubzookaDesc	Text		The heavy shots from the Grubzooka also tear down any dirt, sand and turf walls in its path.	Silne strzały z Larwzooki niszczą również wszelkie ściany z ziemi, piasku i turfu na swojej drodze.	Die durchschlagenden Schüsse der Larvzooka vernichten auch Erd-, Sand- und Torf-Wände in ihrem Weg.
+Items/Grumpkin	Text		Grumpkin	Zrzędynia	Knurrbis
+Items/GrumpkinDesc	Text		A lumpy vegetable that looks very annoyed with having been pulled from the soil.	Kuliste warzywo, które wygląda na bardzo zirytowane wyrwaniem z gleby.	Eine knollige Frucht, die sehr unzufrieden mit dem Herausziehen aus der Erde zu sein scheint.
+Items/GrumpkinRare	Text		Golden Grumpkin	Złota zrzędynia	Goldener Knurrbis
+Items/GrumpkinRareDesc	Text		A very rare variant of the common grumpkin.	Bardzo rzadka odmiana pospolitej zrzędyni.	Eine sehr seltene Variante des Knurrbis.
+Items/GrumpkinSeed	Text		Grumpkin Seed	Nasiono zrzędyni	Knurrbis-Samen
+Items/GrumpkinSeedDesc	Text		Grows into a lumpy fruit when planted.	Po posadzeniu wyrasta na kulisty owoc.	Wenn er eingepflanzt wird, erwächst daraus eine knollige Frucht.
+Items/GuardiansPotion	Text		Guardian's Potion	Mikstura Strażnika	Wächter-Trank
+Items/GuardiansPotionDesc	Text		A potion that fills you with great courage and the ability to withstand the strongest of foes.	Mikstura, która napełnia cię wielką odwagą i zdolnością do stawienia czoła najsilniejszym wrogom.	Ein Trank, der dich mit großem Mut erfüllt, und der Fähigkeit, den gefährlichsten aller Widersacher zu trotzen.
+Items/HalloweenGoodieBag	Text		Samhain Goodie Bag	&	Samhain-Wundertüte
+Items/HalloweenGoodieBagDesc	Text		A bag full of spooky sweets and secrets. Pop it up to peek inside.	Torba pełna upiornych słodyczy i sekretów. Otwórz ją, aby zajrzeć do środka.	Eine Tüte voller gruseliger Süßigkeiten und Geheimnisse. Reiß sie auf und schau nach was drin ist.
+Items/HalloweenWorkbench	Text		Samhain Workbench	&	Samhain-Werkbank
+Items/HalloweenWorkbenchDesc	Text		A coffin-shaped workbench that aids the creation of eerie furniture.	Stół warsztatowy w kształcie trumny, który pomaga w tworzeniu upiornych mebli.	Eine sargförmige Werkbank zur Herstellung unheimlicher Möbel.
+Items/HandMortar	Text	&	Hand Mortar	Ręczny moździerz	Hand-Granatenwerfer
+Items/HandMortarDesc	Text		Problems that can't be solved can usually be blasted away.	Problemy, których nie da się rozwiązać, można zazwyczaj wysadzić w powietrze.	Probleme, die sich nicht lösen lassen, können auch weggesprengt werden.
+Items/HardThorn	Text		Hard Thorn	Twardy cierń	Harter Stachel
+Items/HardThornDesc	Text		A sturdy wooden thorn that can quickly poke careless fingers.	Solidny drewniany kolec, który może szybko wbić się w nieostrożne palce.	Ein fester Holzstachel, der sehr schnell unvorsichtige Finger piksen kann.
+Items/HealingPotion	Text		Healing Potion	Mikstura leczenia	Heiltrank
+Items/HealingPotionDesc	Text		A healthy elixir that heals instantly. Also tastes good.	Skuteczny eliksir, który natychmiast leczy. Również dobrze smakuje.	Ein gesundes Elixier, das augenblicklich heilt. Schmeckt außerdem gut.
+Items/HeartBerry	Text		Heart Berry	Sercowa jagoda	Herzbeere
+Items/HeartBerryDesc	Text		A sweet, juicy berry that refreshes the body.	Słodka, soczysta jagoda, która odświeża ciało.	Eine süße, saftige Beere, die den Körper erfrischt.
+Items/HeartBerryNecklace	Text		Heart Berry Necklace	Naszyjnik z sercową jagodą	Herzbeeren-Anhänger
+Items/HeartBerryNecklaceDesc	Text		A heart berry on the neck makes for an easy snack!	Sercowa jagoda na szyi to łatwa przekąska!	Eine Herzbeere am Hals und du hungerst niemals!
+Items/HeartBerryRare	Text		Golden Heart Berry	Złota sercowa jagoda	Goldene Herzbeere
+Items/HeartBerryRareDesc	Text		A very rare variant of the common heart berry.	Bardzo rzadka odmiana sercowej jagody.	Eine sehr seltene Variante der Herzbeere.
+Items/HeartBerrySeed	Text		Heart Berry Seed	Nasiono sercowej jagody	Herzbeeren-Samen
+Items/HeartBerrySeedDesc	Text		Grows into a healthy fruit when planted.	Po zasadzeniu wyrasta na zdrowy owoc.	Wenn er eingepflanzt wird, erwächst daraus eine gesunde Frucht.
+Items/HeartOfGold	Text		Heart of Gold	Złote serce	Herz aus Gold
+Items/HeartOfGoldDesc	Text		Rewarded to those who truly look out for others and help whenever they can.	Nagradzani są ci, którzy naprawdę troszczą się o innych i pomagają, kiedy tylko mogą.	Vergeben an jene, die sich um andere kümmern und stets ihre Hilfe anbieten.
+Items/HeartberrySoda	Text		Heart Berry Soda	Gazowana sercowa jagoda	Herzbeeren-Soda
+Items/HeartberrySodaDesc	Text		This canned sparkly drink is a pure explosion of taste and sweetness in your mouth.	Ten musujący napój w puszce to czysta eksplozja smaku i słodyczy w ustach.	Dieser sprudelige Drink in Dosenform erzeugt im Mund eine wahre Geschmacksexplosion.
 Items/HiveBigLarva	Text		Big Hive Larva		Große Nestlarve
 Items/HiveBigLarvaTrophy	Text		Big Hive Larva Figurine		Große Nestlarven-Figur
 Items/HiveBigLarvaTrophyDesc	Text		A lifelike representation of a Big Hive Larva.		Eine lebensechte Nachbildung einer Großen Nestlarve.
