@@ -86,7 +86,7 @@ AchievementsUnlockedDescription/DefeatAzeos	Text		Defeated Azeos the Sky Titan	P
 AchievementsUnlockedDescription/DefeatGhorm	Text		Defeated Ghorm the Devourer	Pokonano Ghorma Pożeracza	Ghorm den Verschlinger, besiegt
 AchievementsUnlockedDescription/DefeatGlurch	Text		Defeated Glurch the Abominous Mass	Pokonano Glurcha Obrzydliwego	Glurch die Abscheuliche Masse, besiegt
 AchievementsUnlockedDescription/DefeatHivemother	Text		Defeated The Hive Mother	Pokonano Matkę Ula	Nestmutter, besiegt
-AchievementsUnlockedDescription/DefeatIgneous	Text		Defeated Igneous the Molten Mass	Pokonano Igneousa Stopionego	Igneous die Geschmolzene Masse, besiegt
+AchievementsUnlockedDescription/DefeatIgneous	Text		Defeated Igneous the Molten Mass	Pokonano Igneosa Stopionego	Igneous die Geschmolzene Masse, besiegt
 AchievementsUnlockedDescription/DefeatIvy	Text		Defeated Ivy the Poisonous Mass	Pokonano Ivy Trującego	Ivy die Giftige Masse, besiegt
 AchievementsUnlockedDescription/DefeatKingSlime	Text		Defeated King Slime	Pokonano Króla Szlamu	Schleimkönig, besiegt
 AchievementsUnlockedDescription/DefeatMalugaz	Text		Defeated Malugaz the Corrupted	Pokonano Malugaza Skażonego	Malugaz der Korrupte, besiegt
@@ -2368,93 +2368,93 @@ Items/HeartOfGold	Text		Heart of Gold	Złote serce	Herz aus Gold
 Items/HeartOfGoldDesc	Text		Rewarded to those who truly look out for others and help whenever they can.	Nagradzani są ci, którzy naprawdę troszczą się o innych i pomagają, kiedy tylko mogą.	Vergeben an jene, die sich um andere kümmern und stets ihre Hilfe anbieten.
 Items/HeartberrySoda	Text		Heart Berry Soda	Gazowana sercowa jagoda	Herzbeeren-Soda
 Items/HeartberrySodaDesc	Text		This canned sparkly drink is a pure explosion of taste and sweetness in your mouth.	Ten musujący napój w puszce to czysta eksplozja smaku i słodyczy w ustach.	Dieser sprudelige Drink in Dosenform erzeugt im Mund eine wahre Geschmacksexplosion.
-Items/HiveBigLarva	Text		Big Hive Larva		Große Nestlarve
-Items/HiveBigLarvaTrophy	Text		Big Hive Larva Figurine		Große Nestlarven-Figur
-Items/HiveBigLarvaTrophyDesc	Text		A lifelike representation of a Big Hive Larva.		Eine lebensechte Nachbildung einer Großen Nestlarve.
-Items/HiveBone	Text		Hive Bones		Nest-Knochen
-Items/HiveBoneBreastArmor	Text		Hivebone Breastplate		Nestknochen-Brustplatte
-Items/HiveBoneBreastArmorDesc	Text		A fleshy suit covered by protective spines. The feeling on your skin is quite unpleasant.		Fleischige Kleidung, die in schützende Stacheln gehüllt ist. Das Gefühl auf der Haut ist allerdings ziemlich unangenehm.
-Items/HiveBoneHelm	Text		Hivebone Helm		Nestknochen-Helm
-Items/HiveBoneHelmDesc	Text		A helm crowned with erratic fangs and thorns akin to those on the Hivemother maw.		Ein mit unregelmäßigen Fangzähnen und Dornen gekrönter Helm, der an das Maul der Nestmutter erinnert.
-Items/HiveBonePantsArmor	Text		Hivebone Pants		Nestknochen-Hose
-Items/HiveBonePantsArmorDesc	Text		Legwear of haphazard pillows of thick hide that wrap around the legs as defensive folds.		Beinkleid aus willkürlich angeordneten Wulsten dicker Haut, die sich als defensive Falten um die Beine legen.
-Items/HiveBossCrystal	Text		Heart of the Hive Mother		Herz der Nestmutter
-Items/HiveBossCrystalDesc	Text		A giant ancient gemstone that mutated its holder into a monstrosity.		Ein riesiger Antiker Edelstein, der seinen Träger in eine Monstrosität mutieren ließ.
-Items/HiveBossSummoningItem	Text		Hive Mother Summoning Idol		Nestmutter-Beschwörungsstein
-Items/HiveBossSummoningItemDesc	Text		Crystal idol to reawaken the Hive Mother. Consumed upon placing it on the Hive Mother's summoning rune.		Ein Kristall-Abbild, um die Nestmutter erneut zu erwecken. Wird beim Platzieren auf der Beschwörungsrune verbraucht.
-Items/HiveDestructible	Text		Hive Growth		Nest-Wuchs
-Items/HiveDestructibleDesc	Text		A vein-like growth that reveals loot when popped open.		Ein aderförmiger Wuchs, der beim Aufplatzen Beute freigibt.
-Items/HiveHalloweenBossSummoningItem	Text		Haunted Hive Mother Summoning Idol		Besessene Nestmutter-Beschwörungsstein
-Items/HiveHalloweenBossSummoningItemDesc	Text		Crystal idol to reawaken the Haunted Hive Mother. Consumed upon placing it on the Hive Mother's summoning rune.		Ein Kristall-Abbild, um die Besessene Nestmutter erneut zu erwecken. Wird beim Platzieren auf der Beschwörungsrune verbraucht.
-Items/HiveHalloweenBossTrophy	Text		Haunted Hive Mother Figurine		Besessene Nestmutter-Figur
-Items/HiveHalloweenBossTrophyDesc	Text		A lifelike representation of the Haunted Hivemother.		Eine lebensechte Nachbildung der Besessenen Nestmutter.
-Items/HiveLarva	Text		Hive Larva		Nestlarve
-Items/HiveLarvaTrophy	Text		Hive Larva Figurine		Nestlarven-Figur
-Items/HiveLarvaTrophyDesc	Text		A lifelike representation of a Hive Larva.		Eine lebensechte Nachbildung einer Nestlarve.
-Items/HiveMotherScanner	Text		Hive Mother scanner		Nestmutter-Scanner
-Items/HiveMotherScannerDesc	Text		Scans the world for the Hive Mother. Consumed on successful scan.		Scannt die Welt nach der Nestmutter. Wird bei einem erfolgreichen Scan verbraucht.
-Items/HiveSpikeTrap	Text		Hive Spike Trap		Nest-Stachelfalle
-Items/HiveSpikeTrapDesc	Text		A larva hive trap made out of sharp bones, damaging any creature who steps on it.		Eine Larvennest-Falle, bestehend aus scharfen Knochen, die jeden verletzt, der drauftritt.
-Items/HivemotherChest	Text		Hive Mother Chest		Nestmutter-Kiste
-Items/HivemotherChestDesc	Text		This chest is pulsating as if it is alive, a leftover of the Hive Mother.		Diese Kiste pulsiert, als wäre sie lebendig. Ein Überbleibsel der Nestmutter.
-Items/HivemotherHalloweenChest	Text		Haunted Hive Mother Chest		Besessene Nestmutter-Kiste
-Items/HivemotherHalloweenChestDesc	Text		This chest is pulsating as if it is alive, a leftover of the Haunted Hive Mother.		Diese Kiste pulsiert, als wäre sie lebendig. Ein Überbleibsel der Besessenen Nestmutter.
-Items/HivemotherTrophy	Text		Hive Mother Figurine		Nestmutter-Figur
-Items/HivemotherTrophyDesc	Text		A lifelike representation of the Hive Mother.		Eine lebensechte Nachbildung der Nestmutter.
-Items/HomeworldReminiscence	Text		Homeworld Reminiscence		Heimplanet-Erinnerung
-Items/HomeworldReminiscenceDesc	Text		The replica of a blue, glistening planet, orbited by what seems to be three suns. Is this a model of a solar system?		Die Nachbildung eines blauen, glitzernden Planeten, der von drei Sonnen umkreist wird. Ist es das Modell eines Sonnensystems?
-Items/HotChocolate	Text		Hot Chocolate		Heiße Schokolade
-Items/HotChocolateDesc	Text		A mug full of creamy, hot chocolate milk with small marshmallows on top. Drinking it feels like being a kid again.		Eine Tasse gefüllt mit cremiger, heißer Schokolade und kleinen Marshmallows oben drauf. Nach dem Genuss fühlt man sich in die Kindheit zurückversetzt.
-Items/HotPunch	Text		Hot Punch		Heißer Punsch
-Items/HotPunchDesc	Text		Sitting down with this nice beverage will send a shiver of cozyness down ones spine. It's spicy, fruity and simply tasty.  		Wenn man sich mit diesem köstlichen Getränk niederlässt, läuft einem ein wohliger Schauer über den Rücken. Es ist würzig, fruchtig und einfach köstlich.  
-Items/HunterBreastArmor	Text		Hunter Cloak		Jägermantel
-Items/HunterBreastArmorDesc	Text		A cloak crafted from big leaves woven together. Makes you look like a walking bush.		Ein Mantel, zusammengenäht aus großen Blättern. Damit siehst du aus wie ein laufender Busch.
-Items/HunterHelm	Text		Hunter Hood		Jägerkapuze
-Items/HunterHelmDesc	Text		This hood is made from big leaves tucked into a headband. Lets you blend into green environments.		Diese Kapuze besteht aus großen, in ein Stirnband gewobenen Blättern. Tarnt gut in grünen Umgebungen.
-Items/HuntingSpear	Text		Hunting Spear		Jagdspeer
-Items/HuntingSpearDesc	Text		A very crude long-reach weapon used by the cavelings dwelling in the Clay Caves. Good to hunt larve and place them over a fire.		Eine sehr simple Waffe mit großer Reichweite, die von den Grottlingen der Lehm-Höhlen genutzt wird. Eignet sich gut, um Larven zu jagen und sie anschließend über einem Feuer zu platzieren.
-Items/IgneousTrophy	Text		Igneous Figurine		Igneous-Figur
-Items/IgneousTrophyDesc	Text		A lifelike representation of Igneous, the Molten Mass.		Eine lebensechte Nachbildung von Igneous, der Geschmolzenen Masse.
-Items/IncenseBowl	Text		Incense Bowl		Weihrauch-Schale
-Items/IncenseBowlDesc	Text		A porcelain bowl with blue details on the edge and dark residue in its centre. The smell that still lingers around it eases the senses.		Eine Porzellanschale mit blauen Verzierungen am Rand und dunklen Rückständen im Inneren. Sie verströmt noch immer einen Duft, der die Sinne entspannt.
-Items/InfectedCaveling	Text		Infected Caveling		Infizierter Grottling
-Items/InfoBoardBroken	Text		Broken Holoboard		Zerstörte Holotafel
-Items/InfoBoardBrokenDesc	Text		A broken panel made from blue glass. It's hard to make out the flickering glyphs on it.		Ein zerstörtes Panel aus blauem Glas. Die flackernden Symbole darauf sind fast nicht zu erkennen.
-Items/InfoBoardLarge	Text		Large Holoboard		Große Holotafel
-Items/InfoBoardLargeDesc	Text		A vertical large panel made from blue glass. The flickering glyphs on it almost appear like some kind of advertisement.		Ein großes, aufrechtes Panel aus blauem Glas. Die flackernden Symbole darauf erinnern fast an eine Art Reklame.
-Items/InfoBoardSmall	Text		Small Holoboard		Kleine Holotafel
-Items/InfoBoardSmallDesc	Text		A vertical panel made from blue glass. The flickering glyphs on it almost appear like a city map.		Ein aufrechtes Panel aus blauem Glas. Die flackernden Symbole darauf erinnern fast an einen Stadtplan.
-Items/InstrumentCello	Text		Cello		Cello
-Items/InstrumentCelloDesc	Text		A string instrument made from wood. It's not a world-class creation but good enough to fill the silent caves with harmony.		Ein Saiteninstrument aus Holz. Es ist keine Weltklasse-Kreation, aber gut genug, um die stillen Höhlen mit Harmonie zu erfüllen.
-Items/InstrumentDrumkit	Text		Drumkit		Schlagzeug
-Items/InstrumentDrumkitDesc	Text		An instrument that annoys the neighbours but induces irresistible rhythm when played correctly.		Ein Instrument, das die Nachbarn nervt, jedoch einen unwiderstehlichen Rhythmus mit sich bringt, wenn es richtig gespielt wird.
-Items/InstrumentFlute	Text		Flute		Flöte
-Items/InstrumentFluteDesc	Text		A fine wind instrument producing a whistling sound. Can be tricky to master.		Ein zierliches Blasinstrument, das ein Pfeifgeräusch erzeugt. Es ist gar nicht so einfach zu meistern.
-Items/InstrumentHarp	Text		Harp		Harfe
-Items/InstrumentHarpDesc	Text		Simply gliding the fingertips across its fine strings results in a harmonic sound vibrating through the air.		Einfach nur die Fingerspitzen über ihre feinen Saiten gleiten zu lassen, lässt einen harmonischen Klang in der Luft vibrieren.
-Items/InstrumentPiano	Text		Pocket Piano		Taschenpiano
-Items/InstrumentPianoDesc	Text		This transportable key instrument can be played solo or as a nice addition to an orchestra.		Dieses transportable Tasteninstrument kann allein oder in Begleitung eines Orchesters gespielt werden.
-Items/IntactGrave	Text		Servant Grave		Diener-Grab
-Items/IntactGraveDesc	Text		This grave made from stone shows the relief of an ancient caveling in service of the kingdom that once persisted in the desert.		Dieses Steingrab zeigt das Relief eines antiken Grottlings im Dienste des Reiches, das einst in der Wüste existierte.
-Items/InventoryAncientChest	Text		Ancient Chest		Antike Kiste
-Items/InventoryAncientChestDesc	Text		This chest seems to be thousands of years old.		Diese Kiste scheint tausende von Jahren alt zu sein.
-Items/InventoryChest	Text		Chest		Kiste
-Items/InventoryChestDesc	Text		Useful for storing lots of items. Items can be used while crafting if the chest is placed adjacent to the workbench.		Nützlich, um Gegenstände darin aufzubewahren. Gegenstände können zur Fertigung benutzt werden, wenn die Kiste neben einer Werkbank steht.
-Items/InventoryDesertBiomeChest	Text		Golden Ancient Chest		Antike Goldkiste
-Items/InventoryDesertBiomeChestDesc	Text		A golden version of the ancient chest which seems to be even older.		Die goldene Version einer antiken Kiste, sie scheint noch viel älter zu sein.
-Items/InventoryLarvaHiveChest	Text		Larva Hive Chest		Larvennest-Kiste
-Items/InventoryLarvaHiveChestDesc	Text		Less like a chest and more like a living organism.		Weniger wie eine Kiste und eher mehr wie ein lebender Organismus.
-Items/InventoryLavaChest	Text		Smoldering Chest		Schwelende Kiste
-Items/InventoryLavaChestDesc	Text		A container with a fiery crust but its insides are safe for storage.		Ein Behältnis überzogen mit einer heißen Kruste, aber sein Inneres eignet sich zum Aufbewahren.
-Items/InventoryMoldDungeonChest	Text		Mold Covered Chest		Schimmelbedeckte Kiste
-Items/InventoryMoldDungeonChestDesc	Text		An ancient chest overgrown with white mold.		Eine antike Kiste, die mit weißem Schimmel überzogen ist.
-Items/InventorySeaBiomeChest	Text		Seashell Chest		Seemuschel-Kiste
-Items/InventorySeaBiomeChestDesc	Text		Is it a chest or is it a clam?		Ist es eine Kiste oder eine Muschel?
-Items/IronAnvil	Text		Iron Anvil		Eisen-Amboss
-Items/IronAnvilDesc	Text		Great for creating high tier equipment.		Großartig, um hochwertige Ausrüstung herzustellen.
-Items/IronBar	Text		Iron Bar		Eisenbarren
-Items/IronBarDesc	Text		A strong metal ingot for blacksmithing.		Ein harter Metallbarren zum Schmieden.
-Items/IronBow	Text		Iron Bow		Eisen-Bogen
+Items/HiveBigLarva	Text	&	Big Hive Larva	Duża gruba larwa	Große Nestlarve
+Items/HiveBigLarvaTrophy	Text	&	Big Hive Larva Figurine	figurka dużej grubej larwy	Große Nestlarven-Figur
+Items/HiveBigLarvaTrophyDesc	Text	&	A lifelike representation of a Big Hive Larva.	Realistyczna reprezentacja dużej grubej larwy.	Eine lebensechte Nachbildung einer Großen Nestlarve.
+Items/HiveBone	Text		Hive Bones	Kości ula	Nest-Knochen
+Items/HiveBoneBreastArmor	Text		Hivebone Breastplate	Napierśnik z kości ula	Nestknochen-Brustplatte
+Items/HiveBoneBreastArmorDesc	Text		A fleshy suit covered by protective spines. The feeling on your skin is quite unpleasant.	Cielisty kombinezon pokryty ochronnymi kolcami. Uczucie na skórze jest dość nieprzyjemne.	Fleischige Kleidung, die in schützende Stacheln gehüllt ist. Das Gefühl auf der Haut ist allerdings ziemlich unangenehm.
+Items/HiveBoneHelm	Text		Hivebone Helm	Hełm z kości ula	Nestknochen-Helm
+Items/HiveBoneHelmDesc	Text		A helm crowned with erratic fangs and thorns akin to those on the Hivemother maw.	Hełm zwieńczony nieregularnymi kłami i cierniami podobnymi do tych na paszczy Matki ula.	Ein mit unregelmäßigen Fangzähnen und Dornen gekrönter Helm, der an das Maul der Nestmutter erinnert.
+Items/HiveBonePantsArmor	Text		Hivebone Pants	Spodnie z kości ula	Nestknochen-Hose
+Items/HiveBonePantsArmorDesc	Text		Legwear of haphazard pillows of thick hide that wrap around the legs as defensive folds.	Odzież na nogi składająca się z przypadkowych poduszek z grubej skóry, które owijają się wokół nóg jako fałdy obronne.	Beinkleid aus willkürlich angeordneten Wulsten dicker Haut, die sich als defensive Falten um die Beine legen.
+Items/HiveBossCrystal	Text		Heart of the Hive Mother	Serce Matki Ula	Herz der Nestmutter
+Items/HiveBossCrystalDesc	Text		A giant ancient gemstone that mutated its holder into a monstrosity.	Gigantyczny starożytny kamień szlachetny, który zmutował swojego posiadacza w monstrum 	Ein riesiger Antiker Edelstein, der seinen Träger in eine Monstrosität mutieren ließ.
+Items/HiveBossSummoningItem	Text		Hive Mother Summoning Idol	Bożek przywołujący Matkę Ula	Nestmutter-Beschwörungsstein
+Items/HiveBossSummoningItemDesc	Text		Crystal idol to reawaken the Hive Mother. Consumed upon placing it on the Hive Mother's summoning rune.	Kryształowy bożek służący do przebudzenia Matki Ula. Zużywany po umieszczeniu na runie przywołania Matki Ula.	Ein Kristall-Abbild, um die Nestmutter erneut zu erwecken. Wird beim Platzieren auf der Beschwörungsrune verbraucht.
+Items/HiveDestructible	Text		Hive Growth	Narośl ula	Nest-Wuchs
+Items/HiveDestructibleDesc	Text		A vein-like growth that reveals loot when popped open.	Żylasta narośl, która po pęknięciu ujawnia łupy.	Ein aderförmiger Wuchs, der beim Aufplatzen Beute freigibt.
+Items/HiveHalloweenBossSummoningItem	Text		Haunted Hive Mother Summoning Idol	Bożek przywołujący Nawiedzoną Matkę Ula	Besessene Nestmutter-Beschwörungsstein
+Items/HiveHalloweenBossSummoningItemDesc	Text		Crystal idol to reawaken the Haunted Hive Mother. Consumed upon placing it on the Hive Mother's summoning rune.	Kryształowy bożek służący do przebudzenia Nawiedzonej Matki Ula. Zużywany po umieszczeniu na runie przywołania Matki Ula.	Ein Kristall-Abbild, um die Besessene Nestmutter erneut zu erwecken. Wird beim Platzieren auf der Beschwörungsrune verbraucht.
+Items/HiveHalloweenBossTrophy	Text		Haunted Hive Mother Figurine	Figurka Nawiedzonej Matki Ula	Besessene Nestmutter-Figur
+Items/HiveHalloweenBossTrophyDesc	Text		A lifelike representation of the Haunted Hivemother.	Realistycznie odwzorowana Nawiedzona Matka Ula.	Eine lebensechte Nachbildung der Besessenen Nestmutter.
+Items/HiveLarva	Text		Hive Larva	Larwa ula	Nestlarve
+Items/HiveLarvaTrophy	Text		Hive Larva Figurine	Figurka larwy ula	Nestlarven-Figur
+Items/HiveLarvaTrophyDesc	Text		A lifelike representation of a Hive Larva.	Realistyczna reprezentacja larwy ula.	Eine lebensechte Nachbildung einer Nestlarve.
+Items/HiveMotherScanner	Text		Hive Mother scanner	Skaner Matki Ula	Nestmutter-Scanner
+Items/HiveMotherScannerDesc	Text		Scans the world for the Hive Mother. Consumed on successful scan.	Skanuje świat w poszukiwaniu Matki Ula. Zużywany po udanym skanowaniu.	Scannt die Welt nach der Nestmutter. Wird bei einem erfolgreichen Scan verbraucht.
+Items/HiveSpikeTrap	Text		Hive Spike Trap	Kolcowa pułapka ula	Nest-Stachelfalle
+Items/HiveSpikeTrapDesc	Text		A larva hive trap made out of sharp bones, damaging any creature who steps on it.	Pułapka larw wykonana z ostrych kości, uszkadzająca każdą istotę, która na nią nadepnie.	Eine Larvennest-Falle, bestehend aus scharfen Knochen, die jeden verletzt, der drauftritt.
+Items/HivemotherChest	Text		Hive Mother Chest	Skrzynia Matki Ula	Nestmutter-Kiste
+Items/HivemotherChestDesc	Text		This chest is pulsating as if it is alive, a leftover of the Hive Mother.	Ta skrzynia pulsuje, jakby była żywa, jest pozostałością po Matce Ula.	Diese Kiste pulsiert, als wäre sie lebendig. Ein Überbleibsel der Nestmutter.
+Items/HivemotherHalloweenChest	Text		Haunted Hive Mother Chest	Skrzynia Nawiedzonej Matki Ula	Besessene Nestmutter-Kiste
+Items/HivemotherHalloweenChestDesc	Text		This chest is pulsating as if it is alive, a leftover of the Haunted Hive Mother.	Ta skrzynia pulsuje, jakby była żywa, jest pozostałością po Nawiedzonej Matce Ula.	Diese Kiste pulsiert, als wäre sie lebendig. Ein Überbleibsel der Besessenen Nestmutter.
+Items/HivemotherTrophy	Text		Hive Mother Figurine	Figurka Matki Ula	Nestmutter-Figur
+Items/HivemotherTrophyDesc	Text		A lifelike representation of the Hive Mother.	Realistyczna reprezentacja Matki Ula.	Eine lebensechte Nachbildung der Nestmutter.
+Items/HomeworldReminiscence	Text		Homeworld Reminiscence	Wspomnienie domowego świata	Heimplanet-Erinnerung
+Items/HomeworldReminiscenceDesc	Text		The replica of a blue, glistening planet, orbited by what seems to be three suns. Is this a model of a solar system?	Replika niebieskiej, lśniącej planety, orbitowanej przez coś, co wydaje się być trzema słońcami. Czy to model układu słonecznego?	Die Nachbildung eines blauen, glitzernden Planeten, der von drei Sonnen umkreist wird. Ist es das Modell eines Sonnensystems?
+Items/HotChocolate	Text		Hot Chocolate	Gorąca czekolada	Heiße Schokolade
+Items/HotChocolateDesc	Text		A mug full of creamy, hot chocolate milk with small marshmallows on top. Drinking it feels like being a kid again.	Kubek pełen kremowej, gorącej czekolady mlecznej z małymi piankami na wierzchu. Pijąc ją, czujesz się, jakbyś znów był dzieckiem.	Eine Tasse gefüllt mit cremiger, heißer Schokolade und kleinen Marshmallows oben drauf. Nach dem Genuss fühlt man sich in die Kindheit zurückversetzt.
+Items/HotPunch	Text		Hot Punch	Gorący poncz	Heißer Punsch
+Items/HotPunchDesc	Text		Sitting down with this nice beverage will send a shiver of cozyness down ones spine. It's spicy, fruity and simply tasty.  	Usiądź z tym przyjemnym napojem, a poczujesz dreszcz przytulności. Jest pikantny, owocowy i po prostu smaczny.  	Wenn man sich mit diesem köstlichen Getränk niederlässt, läuft einem ein wohliger Schauer über den Rücken. Es ist würzig, fruchtig und einfach köstlich.  
+Items/HunterBreastArmor	Text		Hunter Cloak	Płaszcz łowcy	Jägermantel
+Items/HunterBreastArmorDesc	Text		A cloak crafted from big leaves woven together. Makes you look like a walking bush.	Płaszcz wykonany ze splecionych ze sobą dużych liści. Sprawia, że wyglądasz jak chodzący krzak.	Ein Mantel, zusammengenäht aus großen Blättern. Damit siehst du aus wie ein laufender Busch.
+Items/HunterHelm	Text		Hunter Hood	Kaptur łowcy	Jägerkapuze
+Items/HunterHelmDesc	Text		This hood is made from big leaves tucked into a headband. Lets you blend into green environments.	Ten kaptur jest wykonany z dużych liści wplecionych w opaskę. Pozwala wtopić się w zielone otoczenie.	Diese Kapuze besteht aus großen, in ein Stirnband gewobenen Blättern. Tarnt gut in grünen Umgebungen.
+Items/HuntingSpear	Text		Hunting Spear	Włócznia myśliwska	Jagdspeer
+Items/HuntingSpearDesc	Text		A very crude long-reach weapon used by the cavelings dwelling in the Clay Caves. Good to hunt larve and place them over a fire.	Bardzo prymitywna broń długodystansowa używana przez jaskiniowców zamieszkujących Gliniane Jaskinie. Dobra do polowania na larwy i umieszczania ich nad ogniem.	Eine sehr simple Waffe mit großer Reichweite, die von den Grottlingen der Lehm-Höhlen genutzt wird. Eignet sich gut, um Larven zu jagen und sie anschließend über einem Feuer zu platzieren.
+Items/IgneousTrophy	Text		Igneous Figurine	Figurka Igneosa	Igneous-Figur
+Items/IgneousTrophyDesc	Text		A lifelike representation of Igneous, the Molten Mass.	Realistyczna reprezentacja Igneosa Stopionego.	Eine lebensechte Nachbildung von Igneous, der Geschmolzenen Masse.
+Items/IncenseBowl	Text		Incense Bowl	Kadzielniczka	Weihrauch-Schale
+Items/IncenseBowlDesc	Text		A porcelain bowl with blue details on the edge and dark residue in its centre. The smell that still lingers around it eases the senses.	Porcelanowa miska z niebieskimi detalami na krawędzi i ciemnymi pozostałościami w środku. Zapach, który wciąż unosi się wokół niej, łagodzi zmysły.	Eine Porzellanschale mit blauen Verzierungen am Rand und dunklen Rückständen im Inneren. Sie verströmt noch immer einen Duft, der die Sinne entspannt.
+Items/InfectedCaveling	Text		Infected Caveling	Zainfekowany jaskiniowiec	Infizierter Grottling
+Items/InfoBoardBroken	Text		Broken Holoboard	Uszkodzona płyta holograficzna	Zerstörte Holotafel
+Items/InfoBoardBrokenDesc	Text		A broken panel made from blue glass. It's hard to make out the flickering glyphs on it.	Pęknięty panel wykonany z niebieskiego szkła. Trudno odczytać na nim migoczące glify.	Ein zerstörtes Panel aus blauem Glas. Die flackernden Symbole darauf sind fast nicht zu erkennen.
+Items/InfoBoardLarge	Text		Large Holoboard	Duża płyta holograficzna	Große Holotafel
+Items/InfoBoardLargeDesc	Text		A vertical large panel made from blue glass. The flickering glyphs on it almost appear like some kind of advertisement.	Pionowy duży panel wykonany z niebieskiego szkła. Migoczące glify na nim wyglądają prawie jak jakaś reklama.	Ein großes, aufrechtes Panel aus blauem Glas. Die flackernden Symbole darauf erinnern fast an eine Art Reklame.
+Items/InfoBoardSmall	Text		Small Holoboard	Mała płyta holograficzna	Kleine Holotafel
+Items/InfoBoardSmallDesc	Text		A vertical panel made from blue glass. The flickering glyphs on it almost appear like a city map.	Pionowy panel wykonany z niebieskiego szkła. Migoczące glify na nim wyglądają prawie jak mapa miasta.	Ein aufrechtes Panel aus blauem Glas. Die flackernden Symbole darauf erinnern fast an einen Stadtplan.
+Items/InstrumentCello	Text		Cello	Wiolonczela	Cello
+Items/InstrumentCelloDesc	Text		A string instrument made from wood. It's not a world-class creation but good enough to fill the silent caves with harmony.	Instrument smyczkowy wykonany z drewna. Nie jest to dzieło światowej klasy, ale wystarczająco dobre, by wypełnić harmonią ciche jaskinie.	Ein Saiteninstrument aus Holz. Es ist keine Weltklasse-Kreation, aber gut genug, um die stillen Höhlen mit Harmonie zu erfüllen.
+Items/InstrumentDrumkit	Text		Drumkit	Perkusja	Schlagzeug
+Items/InstrumentDrumkitDesc	Text		An instrument that annoys the neighbours but induces irresistible rhythm when played correctly.	Instrument, który denerwuje sąsiadów, ale wywołuje nieodparty rytm, gdy gra się na nim poprawnie.	Ein Instrument, das die Nachbarn nervt, jedoch einen unwiderstehlichen Rhythmus mit sich bringt, wenn es richtig gespielt wird.
+Items/InstrumentFlute	Text		Flute	Flet	Flöte
+Items/InstrumentFluteDesc	Text		A fine wind instrument producing a whistling sound. Can be tricky to master.	Instrument dęty wytwarzający gwiżdżący dźwięk. Może być trudny do opanowania.	Ein zierliches Blasinstrument, das ein Pfeifgeräusch erzeugt. Es ist gar nicht so einfach zu meistern.
+Items/InstrumentHarp	Text		Harp	Harfa	Harfe
+Items/InstrumentHarpDesc	Text		Simply gliding the fingertips across its fine strings results in a harmonic sound vibrating through the air.	Wystarczy przesunąć opuszkami palców po cienkich strunach, aby uzyskać harmoniczny dźwięk wibrujący w powietrzu.	Einfach nur die Fingerspitzen über ihre feinen Saiten gleiten zu lassen, lässt einen harmonischen Klang in der Luft vibrieren.
+Items/InstrumentPiano	Text		Pocket Piano	Kieszonkowe pianino	Taschenpiano
+Items/InstrumentPianoDesc	Text		This transportable key instrument can be played solo or as a nice addition to an orchestra.	Ten przenośny instrument klawiszowy może być używany solo lub jako miły dodatek do orkiestry.	Dieses transportable Tasteninstrument kann allein oder in Begleitung eines Orchesters gespielt werden.
+Items/IntactGrave	Text		Servant Grave	Grób sługi	Diener-Grab
+Items/IntactGraveDesc	Text		This grave made from stone shows the relief of an ancient caveling in service of the kingdom that once persisted in the desert.	Ten kamienny grób przedstawia płaskorzeźbę starożytnego jaskiniowca służącego królestwu, które kiedyś istniało na pustyni.	Dieses Steingrab zeigt das Relief eines antiken Grottlings im Dienste des Reiches, das einst in der Wüste existierte.
+Items/InventoryAncientChest	Text		Ancient Chest	Starożytna skrzynia	Antike Kiste
+Items/InventoryAncientChestDesc	Text		This chest seems to be thousands of years old.	Ta skrzynia wydaje się mieć tysiące lat.	Diese Kiste scheint tausende von Jahren alt zu sein.
+Items/InventoryChest	Text		Chest	Skrzynia	Kiste
+Items/InventoryChestDesc	Text		Useful for storing lots of items. Items can be used while crafting if the chest is placed adjacent to the workbench.	Przydatna do przechowywania wielu przedmiotów. Przedmioty mogą być używane podczas tworzenia, jeśli skrzynia jest umieszczona obok stołu warsztatowego.	Nützlich, um Gegenstände darin aufzubewahren. Gegenstände können zur Fertigung benutzt werden, wenn die Kiste neben einer Werkbank steht.
+Items/InventoryDesertBiomeChest	Text		Golden Ancient Chest	Złota starożytna skrzynia	Antike Goldkiste
+Items/InventoryDesertBiomeChestDesc	Text		A golden version of the ancient chest which seems to be even older.	Złota wersja starożytnej skrzyni, która wydaje się być jeszcze starsza.	Die goldene Version einer antiken Kiste, sie scheint noch viel älter zu sein.
+Items/InventoryLarvaHiveChest	Text		Larva Hive Chest	Skrzynia ula larw	Larvennest-Kiste
+Items/InventoryLarvaHiveChestDesc	Text		Less like a chest and more like a living organism.	Mniej jak skrzynia, a bardziej jak żywy organizm.	Weniger wie eine Kiste und eher mehr wie ein lebender Organismus.
+Items/InventoryLavaChest	Text		Smoldering Chest	Płonąca skrzynia	Schwelende Kiste
+Items/InventoryLavaChestDesc	Text		A container with a fiery crust but its insides are safe for storage.	Pojemnik z ognistą skorupą, ale jego wnętrze jest bezpieczne do przechowywania.	Ein Behältnis überzogen mit einer heißen Kruste, aber sein Inneres eignet sich zum Aufbewahren.
+Items/InventoryMoldDungeonChest	Text		Mold Covered Chest	Skrzynia pokryta pleśnią	Schimmelbedeckte Kiste
+Items/InventoryMoldDungeonChestDesc	Text		An ancient chest overgrown with white mold.	Starożytna skrzynia porośnięta białą pleśnią.	Eine antike Kiste, die mit weißem Schimmel überzogen ist.
+Items/InventorySeaBiomeChest	Text		Seashell Chest	Muszlowa skrzynia	Seemuschel-Kiste
+Items/InventorySeaBiomeChestDesc	Text		Is it a chest or is it a clam?	Czy to skrzynia, czy małż?	Ist es eine Kiste oder eine Muschel?
+Items/IronAnvil	Text		Iron Anvil	Żelazne kowadło	Eisen-Amboss
+Items/IronAnvilDesc	Text		Great for creating high tier equipment.	Świetnie nadaje się do tworzenia sprzętu wysokiego poziomu.	Großartig, um hochwertige Ausrüstung herzustellen.
+Items/IronBar	Text		Iron Bar	Sztabka żelaza	Eisenbarren
+Items/IronBarDesc	Text		A strong metal ingot for blacksmithing.	Mocna metalowa sztabka do zastosowań kowalskich.	Ein harter Metallbarren zum Schmieden.
+Items/IronBow	Text		Iron Bow	Żelazny łuk	Eisen-Bogen
 Items/IronBowDesc	Text		A sturdy bow to shoot foes from afar.		Ein fester Bogen, um Widersacher aus der Ferne anzugreifen.
 Items/IronBreastArmor	Text		Iron Breastplate		Eisen-Brustplatte
 Items/IronBreastArmorDesc	Text		Charge into battle with this epic chest piece.		Stürze dich mit dieser epischen Brustrüstung in den Kampf.
