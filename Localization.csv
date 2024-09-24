@@ -2455,77 +2455,77 @@ Items/IronAnvilDesc	Text		Great for creating high tier equipment.	Świetnie nada
 Items/IronBar	Text		Iron Bar	Sztabka żelaza	Eisenbarren
 Items/IronBarDesc	Text		A strong metal ingot for blacksmithing.	Mocna metalowa sztabka do zastosowań kowalskich.	Ein harter Metallbarren zum Schmieden.
 Items/IronBow	Text		Iron Bow	Żelazny łuk	Eisen-Bogen
-Items/IronBowDesc	Text		A sturdy bow to shoot foes from afar.		Ein fester Bogen, um Widersacher aus der Ferne anzugreifen.
-Items/IronBreastArmor	Text		Iron Breastplate		Eisen-Brustplatte
-Items/IronBreastArmorDesc	Text		Charge into battle with this epic chest piece.		Stürze dich mit dieser epischen Brustrüstung in den Kampf.
-Items/IronChest	Text		Iron Chest		Eisen-Kiste
-Items/IronChestDesc	Text		An old chest made from iron. It is not locked anymore.		Eine alte Kiste aus Eisen. Sie ist nicht mehr verschlossen.
-Items/IronChunkNecklace	Text		Iron Chunk Necklace		Eisenklotz-Halskette
-Items/IronChunkNecklaceDesc	Text		A heavy piece of jewelry that increases defence.		Ein schweres Schmuckstück, das die Abwehr verstärkt.
-Items/IronFishingRod	Text		Iron Fishing Rod		Eisen-Angel
-Items/IronFishingRodDesc	Text		A strong tool for pulling up rare fish.		Ein starkes Werkzeug, um seltenere Fische an Land zu ziehen.
-Items/IronHalberdSpear	Text		Iron Halberd		Eisen-Hellebarde
-Items/IronHalberdSpearDesc	Text		A luxurious pole-weapon fit for a royal guardian and perfect for poking at adversaries.		Eine edle Stabwaffe, passend für einen königlichen Wächter und perfekt, um damit Gegner aufzuspießen.
-Items/IronHelm	Text		Iron Helm		Eisen-Helm
-Items/IronHelmDesc	Text		Tough helm fit for knights. Comes with a visor and a flamboyant plume.		Ein harter Helm, passend für Ritter. Kommt mit einem Visier und einem extravaganten Federbusch.
-Items/IronHoe	Text		Iron Hoe		Eisen-Hacke
-Items/IronHoeDesc	Text		A strong tool to prepare ground for farming. Covers an area of 4x4 tiles.		Ein starkes Werkzeug, um Böden für den Anbau vorzubereiten. Deckt eine Fläche von 4x4 Fliesen ab.
-Items/IronKey	Text		Iron Key		Eisen-Schlüssel
-Items/IronKeyDesc	Text		An old key cast in iron. There should be a lock somewhere that it fits into.		Ein alter, in Eisen gegossener Schlüssel. Es muss irgendwo ein Schloss geben, in das er passt.
-Items/IronMiningPick	Text		Iron Pickaxe		Eisen-Spitzhacke
-Items/IronMiningPickDesc	Text		A strong tool, excellent for breaking down harder walls.		Ein starkes Werkzeug, exzellent geeignet, um harte Wände zu zerstören.
-Items/IronOre	Text		Iron Ore		Eisenerz
-Items/IronOreBoulder	Text		Iron Ore Boulder		Eisen-Erzblock
-Items/IronOreDesc	Text		Commonly found in stone walls.		Wird häufig in Steinwänden gefunden.
-Items/IronPantsArmor	Text		Iron Pants		Eisen-Beinharnisch
-Items/IronPantsArmorDesc	Text		You've got knees of steel!		Du hast Knie aus Stahl!
-Items/IronShield	Text		Iron Shield		Eisenschild
-Items/IronShieldDesc	Text		A heraldic shield offering significant protection from attacks.		Ein Wappenschild, der beachtlichen Schutz vor Attacken bietet.
-Items/IronShovel	Text		Iron Shovel		Eisen-Schaufel
-Items/IronShovelDesc	Text		A strong shovel, excellent for digging up ground.		Eine starke Schaufel. Exzellent, um Böden zu entfernen.
-Items/IronSledge	Text		Iron Sledge Hammer		Eisen-Hammer
-Items/IronSledgeDesc	Text		A strong weapon for smashing foes and walls.		Eine starke Waffe, um Widersacher zu erschlagen und Wände zu zertrümmern.
-Items/IronSword	Text		Iron Sword		Eisen-Schwert
-Items/IronSwordDesc	Text		A strong weapon for slaying foes.		Eine starke Waffe, um Widersacher zu erschlagen.
-Items/IronWorkBench	Text		Iron Workbench		Eisen-Werkbank
-Items/IronWorkBenchDesc	Text		Essential workbench for survival in the underground.		Essentielle Werkbank, um im Untergrund zu überleben.
-Items/IvyBreastArmor	Text		Ivy's Thorn Harness		Ivys Dornenharnisch
-Items/IvyBreastArmorDesc	Text		This organic breastplate armor is crested with thorns, allowing for stronger critical hits.		Diese organische Brustplatte ist mit Dornen besetzt und erlaubt stärkere kritische Treffer.
-Items/IvyChest	Text		Ivy's Chest		Ivys Kiste
-Items/IvyChestDesc	Text		A slime-covered chest reminiscent of the Poisonous Mass.		Eine schleimbedeckte Kiste, die an die Giftige Masse erinnert.
-Items/IvyPantsArmor	Text		Ivy's Pants		Ivys Beinharnisch
-Items/IvyPantsArmorDesc	Text		Lower body armor naturally grown in the underground jungle, featuring thorned kneecaps.		Eine im Untergrund-Dschungel natürlich entstandene Rüstung für die Beine, mit Dornen an den Kniescheiben.
-Items/IvyRing	Text		Ivy's Ring		Ivys Ring
-Items/IvyRingDesc	Text		An organic ring grown from slime covered thorns.		Ein organischer Ring, entstanden aus schleimbedeckten Dornen.
-Items/IvyTrophy	Text		Ivy Figurine		Ivy-Figur
-Items/IvyTrophyDesc	Text		A lifelike representation of Ivy the Poisonous Mass.		Eine lebensechte Nachbildung von Ivy, der Giftigen Masse.
-Items/JellyFish	Text		Gem-Jellyfish		Edelstein-Qualle
-Items/JellyFishDesc	Text		A glowing kind of jellyfish that inherited ancient energy.		Eine leuchtende Quallenart, der antike Energie innewohnt.
-Items/JellyfishDestructable	Text		Beached Jelly		Gestrandete Qualle
-Items/JellyfishDestructableDesc	Text		A gelatinous creature containing goods from the sea.		Eine gelartige Kreatur, die Güter aus dem Meer enthält.
-Items/JewelryWorkBench	Text		Jewelry Workbench		Schmuck-Werkbank
-Items/JewelryWorkBenchDesc	Text		Workbench for creating rings and necklaces.		Eine Werkbank, um Ringe und Halsketten herzustellen.
-Items/JingleJamCookie	Text		Jingle Jam Cookie		Jingle-Jam-Keks
-Items/JingleJamCookieDesc	Text		A special gift for participating in the Jingle Jam charity event.		Ein spezielles Geschenk fürs Teilnehmen im Jingle-Jam-Spendenevent.
-Items/JuteBag	Text		Belt Pocket		Gürteltasche
-Items/JuteBagDesc	Text		A simple clip on belt pocket, made from smoothened bark.		Eine einfache Klipp-Gürteltasche, hergestellt aus geglätteter Rinde.
-Items/KeenPotion	Text		Keen Potion		Fokus-Trank
-Items/KeenPotionDesc	Text		A cold elixir that focuses your senses and aim.		Ein kühles Elixier, das die Sinne schärft und die Genauigkeit steigert.
-Items/KelpDumpling	Text		Kelp Dumpling		Seetang-Knödel
-Items/KelpDumplingDesc	Text		A soft, warm dumpling that smells pretty... funny. You don't really want to know where that one came from.		Ein weicher, warmer Knödel, der ziemlich ... merkwürdig riecht. Du willst nicht wirklich wissen, wo der herkommt.
-Items/KelpTree	Text		Kelp Tree		Seetang-Baum
-Items/KelpTreeDesc	Text		It's technically not a tree but a giant kelp with a double-helix coral as a trunk.		Genau genommen handelt es sich nicht um einen Baum, sondern um einen gigantischen Seetang mit einer spiralförmigen Koralle als Stamm.
-Items/KeyCraftingTable	Text		Key Casting Table		Schlüssel-Gusstisch
-Items/KeyCraftingTableDesc	Text		A workbench with changeable casting plates to create all kinds of different keys.		Eine Werkbank mit austauschbaren Gussplatten, um jegliche Art von Schlüsseln herzustellen.
-Items/Kiln1	Text		Broken Clay Kiln		Kaputter Lehmofen
-Items/Kiln1Desc	Text		Having seen many years of use this old kiln is beyond repair.		Nach vielen Jahren der Nutzung ist dieser alte Ofen nicht mehr zu reparieren.
-Items/Kiln2	Text		Clay Firing Bucket		Ton-Brenneimer
-Items/Kiln2Desc	Text		A simple gadget that was used to burn clay and make it harder.		Eine einfache Vorrichtung, die verwendet wurde, um Ton zu brennen und zu härten.
-Items/KingSlimeChest	Text		King Slime's Chest		Schleimkönig-Kiste
-Items/KingSlimeChestDesc	Text		A slime-covered chest with golden additions reminiscent of the King Slime.		Eine schleimbedeckte Kiste mit goldenen Verzierungen, die an den Schleimkönig erinnert.
-Items/KingSlimeCrown	Text		King Slime Crown		Schleimkönig-Krone
-Items/KingSlimeCrownDesc	Text		A rare headpiece that crowns you as king of all slimes. You feel very royal wearing it.		Ein seltenes Kopfstück, das dich als König aller Schleime krönt. Du fühlst dich sehr hoheitlich, wenn du es trägst.
-Items/KingSlimeSummoningItem	Text		Crown Summoning Idol		Kronen-Beschwörungsstein
+Items/IronBowDesc	Text		A sturdy bow to shoot foes from afar.	Wytrzymały łuk do strzelania do wrogów z dystansu.	Ein fester Bogen, um Widersacher aus der Ferne anzugreifen.
+Items/IronBreastArmor	Text		Iron Breastplate	Żelazny napierśnik	Eisen-Brustplatte
+Items/IronBreastArmorDesc	Text		Charge into battle with this epic chest piece.	Ruszaj do walki z tym epickim elementem na piersi.	Stürze dich mit dieser epischen Brustrüstung in den Kampf.
+Items/IronChest	Text		Iron Chest	Żelazna skrzynia	Eisen-Kiste
+Items/IronChestDesc	Text		An old chest made from iron. It is not locked anymore.	Stara skrzynia wykonana z żelaza. Nie jest już zamknięta.	Eine alte Kiste aus Eisen. Sie ist nicht mehr verschlossen.
+Items/IronChunkNecklace	Text		Iron Chunk Necklace	Naszyjnik z żelaznych odłamków	Eisenklotz-Halskette
+Items/IronChunkNecklaceDesc	Text		A heavy piece of jewelry that increases defence.	Ciężka biżuteria zwiększająca obronę.	Ein schweres Schmuckstück, das die Abwehr verstärkt.
+Items/IronFishingRod	Text		Iron Fishing Rod	Żelazna wędka	Eisen-Angel
+Items/IronFishingRodDesc	Text		A strong tool for pulling up rare fish.	Mocne narzędzie do łowienia rzadkich ryb.	Ein starkes Werkzeug, um seltenere Fische an Land zu ziehen.
+Items/IronHalberdSpear	Text		Iron Halberd	Żelazna halabarda	Eisen-Hellebarde
+Items/IronHalberdSpearDesc	Text		A luxurious pole-weapon fit for a royal guardian and perfect for poking at adversaries.	Luksusowa broń na kiju, odpowiednia dla królewskiego strażnika i idealna do szturchania przeciwników.	Eine edle Stabwaffe, passend für einen königlichen Wächter und perfekt, um damit Gegner aufzuspießen.
+Items/IronHelm	Text		Iron Helm	Żelazny hełm	Eisen-Helm
+Items/IronHelmDesc	Text		Tough helm fit for knights. Comes with a visor and a flamboyant plume.	Wytrzymały hełm dla rycerzy. W zestawie przyłbica i ekstrawagancki pióropusz.	Ein harter Helm, passend für Ritter. Kommt mit einem Visier und einem extravaganten Federbusch.
+Items/IronHoe	Text		Iron Hoe	Żelazna motyka	Eisen-Hacke
+Items/IronHoeDesc	Text		A strong tool to prepare ground for farming. Covers an area of 4x4 tiles.	Mocne narzędzie do przygotowania gruntu pod uprawę. Obejmuje obszar 4x4 płytki.	Ein starkes Werkzeug, um Böden für den Anbau vorzubereiten. Deckt eine Fläche von 4x4 Fliesen ab.
+Items/IronKey	Text		Iron Key	Żelazny klucz	Eisen-Schlüssel
+Items/IronKeyDesc	Text		An old key cast in iron. There should be a lock somewhere that it fits into.	Stary klucz odlany z żelaza. Gdzieś powinien być zamek, do którego pasuje.	Ein alter, in Eisen gegossener Schlüssel. Es muss irgendwo ein Schloss geben, in das er passt.
+Items/IronMiningPick	Text		Iron Pickaxe	Żelazny kilof	Eisen-Spitzhacke
+Items/IronMiningPickDesc	Text		A strong tool, excellent for breaking down harder walls.	Mocne narzędzie, doskonałe do rozbijania twardych ścian.	Ein starkes Werkzeug, exzellent geeignet, um harte Wände zu zerstören.
+Items/IronOre	Text		Iron Ore	Ruda żelaza	Eisenerz
+Items/IronOreBoulder	Text		Iron Ore Boulder	Głaz rudy żelaza	Eisen-Erzblock
+Items/IronOreDesc	Text		Commonly found in stone walls.	Powszechnie spotykana w kamiennych ścianach.	Wird häufig in Steinwänden gefunden.
+Items/IronPantsArmor	Text		Iron Pants	Żelazne spodnie	Eisen-Beinharnisch
+Items/IronPantsArmorDesc	Text		You've got knees of steel!	Masz kolana ze stali!	Du hast Knie aus Stahl!
+Items/IronShield	Text		Iron Shield	Żelazna Tarcza	Eisenschild
+Items/IronShieldDesc	Text	&	A heraldic shield offering significant protection from attacks.	Tarcza heraldyczna zapewniająca znaczną ochronę przed atakami.	Ein Wappenschild, der beachtlichen Schutz vor Attacken bietet.
+Items/IronShovel	Text		Iron Shovel	Żelazna łopata	Eisen-Schaufel
+Items/IronShovelDesc	Text		A strong shovel, excellent for digging up ground.	Mocna łopata, doskonała do kopania ziemi.	Eine starke Schaufel. Exzellent, um Böden zu entfernen.
+Items/IronSledge	Text		Iron Sledge Hammer	Żelazny młot	Eisen-Hammer
+Items/IronSledgeDesc	Text		A strong weapon for smashing foes and walls.	Silna broń do rozbijania wrogów i ścian.	Eine starke Waffe, um Widersacher zu erschlagen und Wände zu zertrümmern.
+Items/IronSword	Text		Iron Sword	Żelazny miecz	Eisen-Schwert
+Items/IronSwordDesc	Text		A strong weapon for slaying foes.	Silna broń do zabijania wrogów.	Eine starke Waffe, um Widersacher zu erschlagen.
+Items/IronWorkBench	Text		Iron Workbench	Żelazny stół warsztatowy	Eisen-Werkbank
+Items/IronWorkBenchDesc	Text		Essential workbench for survival in the underground.	Niezbędny stół warsztatowy do przetrwania w podziemiach.	Essentielle Werkbank, um im Untergrund zu überleben.
+Items/IvyBreastArmor	Text		Ivy's Thorn Harness	Napierśnik z ciernistego bluszczu	Ivys Dornenharnisch
+Items/IvyBreastArmorDesc	Text		This organic breastplate armor is crested with thorns, allowing for stronger critical hits.	Ten organiczny napierśnik jest ozdobiony cierniami, co pozwala na silniejsze trafienia krytyczne.	Diese organische Brustplatte ist mit Dornen besetzt und erlaubt stärkere kritische Treffer.
+Items/IvyChest	Text		Ivy's Chest	Bluszczowa skrzynia	Ivys Kiste
+Items/IvyChestDesc	Text	&	A slime-covered chest reminiscent of the Poisonous Mass.	Pokryta śluzem skrzynia przypominająca Trującą Mszę.	Eine schleimbedeckte Kiste, die an die Giftige Masse erinnert.
+Items/IvyPantsArmor	Text		Ivy's Pants	Spodnie z bluszczu	Ivys Beinharnisch
+Items/IvyPantsArmorDesc	Text		Lower body armor naturally grown in the underground jungle, featuring thorned kneecaps.	Dolny pancerz naturalnie wyhodowany w podziemnej dżungli, wyposażony w kolczaste nakolanniki.	Eine im Untergrund-Dschungel natürlich entstandene Rüstung für die Beine, mit Dornen an den Kniescheiben.
+Items/IvyRing	Text		Ivy's Ring	Bluszczowy pierścień	Ivys Ring
+Items/IvyRingDesc	Text		An organic ring grown from slime covered thorns.	Organiczny pierścień wyhodowany z cierni pokrytych śluzem.	Ein organischer Ring, entstanden aus schleimbedeckten Dornen.
+Items/IvyTrophy	Text	&	Ivy Figurine	Figurka Ivy	Ivy-Figur
+Items/IvyTrophyDesc	Text		A lifelike representation of Ivy the Poisonous Mass.	Realistycznie odwzorowany Ivy trujący.	Eine lebensechte Nachbildung von Ivy, der Giftigen Masse.
+Items/JellyFish	Text		Gem-Jellyfish	Meduza-klejnot	Edelstein-Qualle
+Items/JellyFishDesc	Text		A glowing kind of jellyfish that inherited ancient energy.	Świecący rodzaj meduzy, który odziedziczył starożytną energię.	Eine leuchtende Quallenart, der antike Energie innewohnt.
+Items/JellyfishDestructable	Text		Beached Jelly	Meduza plażowa	Gestrandete Qualle
+Items/JellyfishDestructableDesc	Text		A gelatinous creature containing goods from the sea.	Galaretowate stworzenie zawierające morskie dobra.	Eine gelartige Kreatur, die Güter aus dem Meer enthält.
+Items/JewelryWorkBench	Text		Jewelry Workbench	Stół jubilerski	Schmuck-Werkbank
+Items/JewelryWorkBenchDesc	Text		Workbench for creating rings and necklaces.	Stół warsztatowy do tworzenia pierścieni i naszyjników.	Eine Werkbank, um Ringe und Halsketten herzustellen.
+Items/JingleJamCookie	Text	&	Jingle Jam Cookie	Ciasteczko Jingle Jam	Jingle-Jam-Keks
+Items/JingleJamCookieDesc	Text		A special gift for participating in the Jingle Jam charity event.	Specjalny prezent za udział w imprezie charytatywnej Jingle Jam.	Ein spezielles Geschenk fürs Teilnehmen im Jingle-Jam-Spendenevent.
+Items/JuteBag	Text		Belt Pocket	Kieszeń na pasek	Gürteltasche
+Items/JuteBagDesc	Text		A simple clip on belt pocket, made from smoothened bark.	Prosta kieszeń na pasek z klipsem, wykonana z wygładzonej kory.	Eine einfache Klipp-Gürteltasche, hergestellt aus geglätteter Rinde.
+Items/KeenPotion	Text		Keen Potion	&	Fokus-Trank
+Items/KeenPotionDesc	Text		A cold elixir that focuses your senses and aim.	Zimny eliksir, który skupia zmysły i koncentruje.	Ein kühles Elixier, das die Sinne schärft und die Genauigkeit steigert.
+Items/KelpDumpling	Text		Kelp Dumpling	Pieróg z wodorostów	Seetang-Knödel
+Items/KelpDumplingDesc	Text		A soft, warm dumpling that smells pretty... funny. You don't really want to know where that one came from.	Miękki, ciepły pieróg, który pachnie dość... zabawnie. Naprawdę nie chcesz wiedzieć, skąd się wziął.	Ein weicher, warmer Knödel, der ziemlich ... merkwürdig riecht. Du willst nicht wirklich wissen, wo der herkommt.
+Items/KelpTree	Text		Kelp Tree	Drzewo wodorostów	Seetang-Baum
+Items/KelpTreeDesc	Text		It's technically not a tree but a giant kelp with a double-helix coral as a trunk.	Technicznie rzecz biorąc, nie jest to drzewo, lecz gigantyczny wodorost z koralowcem o podwójnej helisie jako pniem.	Genau genommen handelt es sich nicht um einen Baum, sondern um einen gigantischen Seetang mit einer spiralförmigen Koralle als Stamm.
+Items/KeyCraftingTable	Text		Key Casting Table	Stół do odlewania kluczy	Schlüssel-Gusstisch
+Items/KeyCraftingTableDesc	Text		A workbench with changeable casting plates to create all kinds of different keys.	Stół warsztatowy z wymiennymi płytami odlewniczymi do tworzenia różnego rodzaju kluczy.	Eine Werkbank mit austauschbaren Gussplatten, um jegliche Art von Schlüsseln herzustellen.
+Items/Kiln1	Text		Broken Clay Kiln	Uszkodzony piec do wypalania gliny	Kaputter Lehmofen
+Items/Kiln1Desc	Text		Having seen many years of use this old kiln is beyond repair.	Po wielu latach użytkowania ten stary piec jest nie do naprawienia.	Nach vielen Jahren der Nutzung ist dieser alte Ofen nicht mehr zu reparieren.
+Items/Kiln2	Text		Clay Firing Bucket	Kubeł do wypalania gliny	Ton-Brenneimer
+Items/Kiln2Desc	Text		A simple gadget that was used to burn clay and make it harder.	Prosty gadżet, który służył do wypalania gliny i nadawania jej twardości.	Eine einfache Vorrichtung, die verwendet wurde, um Ton zu brennen und zu härten.
+Items/KingSlimeChest	Text		King Slime's Chest	Skrzynia króla szlamu	Schleimkönig-Kiste
+Items/KingSlimeChestDesc	Text		A slime-covered chest with golden additions reminiscent of the King Slime.	Pokryta szlamem skrzynia ze złotymi dodatkami przypominającymi Króla Szlamu.	Eine schleimbedeckte Kiste mit goldenen Verzierungen, die an den Schleimkönig erinnert.
+Items/KingSlimeCrown	Text		King Slime Crown	Korona króla szlamu	Schleimkönig-Krone
+Items/KingSlimeCrownDesc	Text		A rare headpiece that crowns you as king of all slimes. You feel very royal wearing it.	Rzadkie nakrycie głowy, które koronuje cię na króla wszystkich szlamów. Nosząc go, czujesz się bardzo królewsko.	Ein seltenes Kopfstück, das dich als König aller Schleime krönt. Du fühlst dich sehr hoheitlich, wenn du es trägst.
+Items/KingSlimeSummoningItem	Text		Crown Summoning Idol	&	Kronen-Beschwörungsstein
 Items/KingSlimeSummoningItemDesc	Text		A crystal idol that feels out of this world. Consumed upon placing it on any Giant Slime summoning rune.		Ein Kristall-Abbild aus einer anderen Welt. Wird beim Platzieren auf einer Großschleim-Beschwörungsrune verbraucht.
 Items/KingSlimeTrophy	Text		King Slime Figurine		Schleimkönig-Figur
 Items/KingSlimeTrophyDesc	Text		A lifelike representation of the King Slime.		Eine lebensechte Nachbildung des Schleimkönigs.
