@@ -2526,134 +2526,134 @@ Items/KingSlimeChestDesc	Text		A slime-covered chest with golden additions remin
 Items/KingSlimeCrown	Text		King Slime Crown	Korona króla szlamu	Schleimkönig-Krone
 Items/KingSlimeCrownDesc	Text		A rare headpiece that crowns you as king of all slimes. You feel very royal wearing it.	Rzadkie nakrycie głowy, które koronuje cię na króla wszystkich szlamów. Nosząc go, czujesz się bardzo królewsko.	Ein seltenes Kopfstück, das dich als König aller Schleime krönt. Du fühlst dich sehr hoheitlich, wenn du es trägst.
 Items/KingSlimeSummoningItem	Text		Crown Summoning Idol	&	Kronen-Beschwörungsstein
-Items/KingSlimeSummoningItemDesc	Text		A crystal idol that feels out of this world. Consumed upon placing it on any Giant Slime summoning rune.		Ein Kristall-Abbild aus einer anderen Welt. Wird beim Platzieren auf einer Großschleim-Beschwörungsrune verbraucht.
-Items/KingSlimeTrophy	Text		King Slime Figurine		Schleimkönig-Figur
-Items/KingSlimeTrophyDesc	Text		A lifelike representation of the King Slime.		Eine lebensechte Nachbildung des Schleimkönigs.
-Items/KingfishScale	Text		Kingfish Scale		Königsfisch-Schuppe
-Items/KingfishScaleDesc	Text		This beautiful scale seems to belong to a truly extraordinary fish.		Diese wunderschöne Schuppe stammt sicher von einem wahrlich außergewöhnlichen Fisch.
-Items/Lamp	Text		Lamp		Lampe
-Items/LampDesc	Text		Lights up when powered with electricity.		Leuchtet, wenn sie an Elektrizität angeschlossen wird.
-Items/LandKelp	Text		Land Algae		Land-Alge
-Items/LandKelpDesc	Text		A type of algae that can grow outside of water.		Eine Algenart, die außerhalb von Gewässern wachsen kann.
-Items/Lantern	Text		Lantern		Laterne
-Items/LanternDesc	Text		A small, useful light that leaves your hands free.		Ein kleines, nützliches Licht, mit dem du die Hände frei hast.
-Items/LargeAlienTechDestructible	Text		Large Alien Tech Destructible		Großer Alientechnologie-Behälter
-Items/LargeAncientDestructible	Text		Large Ancient Crate		Große antike Kiste
-Items/LargeBomb	Text		Large Bomb		Große Bombe
-Items/LargeBombDesc	Text		A very strong explosive for massive destruction.		Eine sehr starke Sprengladung für massive Zerstörung.
-Items/LargeCityDestructible	Text		Large Metropolis Crate		Großer Metropolis-Behälter
-Items/LargeCrystalDestructible	Text		Large Sun Crystal		Großer Sonnenkristall
-Items/LargeDesertDestructible	Text		Large Desert Flower Vessel		Großes Wüstenblüten-Gefäß
-Items/LargeDesertTempleDestructible	Text		Large Temple Crate		Großer Tempel-Behälter
-Items/LargeJellyfishDestructable	Text		Large Beached Jelly		Große gestrandete Qualle
-Items/LargeMoldDestructible	Text		Large Mold Vessel		Großes Schimmel-Gefäß
-Items/LargeShinyGlimmeringObject	Text		Large Shiny Glimmering Object		Großes, glänzendes Objekt
-Items/LargeShinyGlimmeringObjectDesc	Text		A crystalline, egg-shaped object. It will catch your eye even from large distances.		Ein kristallines, eiförmiges Objekt. Selbst aus großer Entfernung zieht es deinen Blick auf sich.
-Items/LargeTempleRug	Text		Large Temple Decor Rug		Großer Tempel-Dekorteppich
-Items/LargeTempleRugDesc	Text		A large, ancient rug with a very detailed design woven into it. It must once have been an expensive item and a sign of prosperity.		Ein großer, alter Teppich mit einem sehr aufwendigen Webmuster. Er muss einst ein teurer Gegenstand und ein Zeichen von Wohlstand gewesen sein.
-Items/LargeWaterCan	Text		Large Watering Can		Große Gießkanne
-Items/LargeWaterCanDesc	Text		Used to water seeds and soil. Holds more water than a regular watering can and covers an area of 2x2 tiles.		Wird genutzt, um Böden und Samen zu bewässern. Fasst mehr Inhalt als eine herkömmliche Gießkanne und hat einen 2x2-Wirkungsradius.
-Items/Larva	Text		Larva		Larve
-Items/LarvaBBQ	Text		Roast Firepit		Grill-Feuerstelle
-Items/LarvaBBQDesc	Text		Part fireplace, part barbecue it is a great place to huddle together and enjoy some burned pieces of larva meat.		Teils Feuerstelle, teils Grill und ein toller Ort, um gemeinsam ein paar angebrannte Stücke Larvenfleisch zu genießen.
-Items/LarvaBossCrystal	Text		Ghorm's Horn		Ghorms Horn
-Items/LarvaBossCrystalDesc	Text		A pointy gemstone that let a larva grow way beyond its maximum size.		Ein spitzer Edelstein, der eine Larve weit jenseits ihrer maximalen Größe wachsen ließ.
-Items/LarvaBossScanner	Text		Ghorm the Devourer Scanner		Ghorm-Scanner
-Items/LarvaBossScannerDesc	Text		Scans the world for Ghorm the Devourer. Consumed on successful scan.		Scannt die Welt nach Ghorm, dem Verschlinger. Wird bei erfolgreichem Scan verbraucht.
-Items/LarvaBossSummoningItem	Text		Ghorm Summoning Idol		Ghorm-Beschwörungsstein
-Items/LarvaBossSummoningItemDesc	Text		Crystal idol to reawaken Ghorm the Devourer. Consumed upon placing it on Ghorm's summoning rune.		Ein Kristall-Abbild, um Ghorm, den Verschlinger neu zu erwecken. Wird beim Platzieren auf der Beschwörungsrune verbraucht.
-Items/LarvaBreastArmor	Text		Larva Chest		Larven-Gewand
-Items/LarvaBreastArmorDesc	Text		Don't be anything else. Be grub.		Sei nichts anderes. Sei Larve.
-Items/LarvaHelm	Text		Larva Helm		Larven-Helm
-Items/LarvaHelmDesc	Text		No need for fancy hats. Just grub.		Kein Zwang für schicke Hüte. Nur Larve.
-Items/LarvaMeat	Text		Larva Meat		Larvenfleisch
-Items/LarvaMeatDesc	Text		Only true survivors eat it raw.		Nur wahre Überlebenskünstler essen es roh.
-Items/LarvaRing	Text		Larva Ring		Larven-Ring
-Items/LarvaRingDesc	Text		A living ring, not for the squirmish to wear.		Ein lebender Ring, nichts für weichliche Gemüter.
-Items/LarvaSkewer	Text		Larva Skewer		Larvenspieß
-Items/LarvaSkewerDesc	Text		A pretty cruel way of stacking up meat for later use.		Eine ziemlich grausame Methode, Fleisch zur späteren Verwendung zu stapeln.
-Items/LarvaSpikeClub	Text		Larva Spike Club		Larven-Keule
-Items/LarvaSpikeClubDesc	Text		A bludgeoning weapon that is hard to withstand.		Eine Schmetterwaffe, der man nur schwer widerstehen kann.
-Items/LarvaTrophy	Text		Larva Figurine		Larven-Figur
-Items/LarvaTrophyDesc	Text		A lifelike representation of a Larva.		Eine lebensechte Nachbildung einer Larve.
-Items/LarvaskinRug	Text		Larvaskin Rug		Larvenhaut-Teppich
-Items/LarvaskinRugDesc	Text		This gross rug doubles down as a trophy for the hunted larva that provided their skin.		Dieser eklige Teppich ist gleichzeitig eine Trophäe der erlegten Larve, die ihre Haut dafür hergeben musste.
-Items/LarvaskinRugRed	Text		Hive Larvaskin Rug		Nestlarvenhaut-Teppich
-Items/LarvaskinRugRedDesc	Text		This gross rug doubles down as a trophy for the hunted hive larva that provided their skin.		Dieser eklige Teppich ist gleichzeitig eine Trophäe der erlegten Nestlarve, die ihre Haut dafür hergeben musste.
-Items/LarvaskinTent	Text		Larvaskin Tent		Larvenhaut-Zelt
-Items/LarvaskinTentDesc	Text		This simple type of housing must have used many skins of larva. There are patches of other creatures thrown in too.		Für diese einfache Behausung wurden sicher viele Larven-Häute verwendet. Auch Teile anderer Lebewesen sind hier und da zu sehen.
-Items/LaserDrillTool	Text		Obliteration Ray		Vernichtungs-Strahl
-Items/LaserDrillToolDesc	Text		A high energy mining tool that is at the constant limit of bursting. The barely contained laser melts almost anything in its path.		Ein Hochenergie-Bergbauwerkzeug, das sich stets an der Grenze der Zerstörung befindet. Der kaum kontrollierbare Laserstrahl bringt fast alles in seinem Weg zum Schmelzen.
-Items/LavaAxe	Text		Lava Battle Axe		Lava-Kriegsaxt
-Items/LavaAxeDesc	Text		A smoldering, heavy weapon that looks like it was just taken out of the forge.		Eine schwelende, schwere Waffe, die aussieht, als käme sie frisch aus der Schmiede.
-Items/LavaBreastArmor	Text		Magma Torso Armor		Magma-Torsopanzer
-Items/LavaBreastArmorDesc	Text		This fiery armor is almost too hot to handle but becomes well-tempered when worn.		Diese feurige Rüstung ist fast zu heiß zum Anfassen, ist aber beim Tragen wohltemperiert.
-Items/LavaButterfly	Text		Lava Butterfly		Lavaschmetterling
-Items/LavaButterflyTrophy	Text		Lava Butterfly Figurine		Lavaschmetterling-Figur
-Items/LavaButterflyTrophyDesc	Text		A lifelike representation of a Lava Butterfly		Eine lebensechte Nachbildung eines Lavaschmetterlings.
-Items/LavaHelm	Text		Magma Horn Armor		Magma-Hornpanzer
-Items/LavaHelmDesc	Text		A pretty awesome piece of equipment that makes you look like the harbinger of doom.		Ein ziemliches cooles Stück Ausrüstung, das dich wie den Vorboten des Untergangs aussehen lässt.
-Items/LavaPantsArmor	Text		Magma Shin Armor		Magma-Beinpanzer
-Items/LavaPantsArmorDesc	Text		A melting leg armor made from liquid stone, giving hot legs a whole new definition.		Ein schmelzender Beinschutz aus flüssigem Gestein. Gibt heißen Beinen eine ganz neue Bedeutung.
-Items/LavaPost1	Text		Broken Quarry Timber		Gesplittertes Steinbruchgerüst
-Items/LavaPost1Desc	Text		One half of a broken wooden construction that seemed to have once held something in place.		Eine Hälfte eines zerbrochenen Holzgerüsts, das einst etwas gestützt hat.
-Items/LavaPost2	Text		Large Quarry Timber		Großes Steinbruchgerüst
-Items/LavaPost2Desc	Text		A wooden construction used to keep ore and rocks above a fire. A surge in temperatures rendered it unusable.		Ein Holzgerüst, das dazu verwendet wurde, Erz und Gestein über einem Feuer zu halten. Ein Temperaturanstieg hat es unbrauchbar gemacht.
-Items/LavaRock	Text		Lava Rock		Lavagestein
-Items/LavaRockDesc	Text		You're not sure why you did this...but at least you now have a very hot rock.		Du bist dir nicht sicher, warum du das getan hast ... aber zumindest hast du jetzt einen sehr heißen Stein.
-Items/LavaShield	Text		Scorching Aegis		Sengende Aegis
-Items/LavaShieldDesc	Text		The crust of molten rock, formed to be wielded like a shield.		Diese Kruste geschmolzenen Gesteins ist zu einem Schild geformt worden.
-Items/LavaSlime	Text		Magma Slime		Magmaschleim
-Items/LavaSlimeBlob	Text		Lava Slime		Lavaschleim
-Items/LavaSlimeBossChest	Text		Igneous' Chest		Igneous' Kiste
-Items/LavaSlimeBossChestDesc	Text		A magma-covered chest reminiscent of the Molten Mass.		Eine schleimbedeckte Kiste, die an die Geschmolzene Masse erinnert.
-Items/LavaSlimeBossScanner	Text		Igneous the Molten Mass Scanner		Igneous-Scanner
-Items/LavaSlimeBossScannerDesc	Text		Scans the world for Igneous the Molten Mass. Consumed on successful scan.		Scannt die Welt nach Igneous, der Geschmolzenen Masse. Wird bei erfolgreichem Scan verbraucht.
-Items/LavaSlimeDesc	Text		A dark blob of flaming slime. Can be further processed.		Ein dunkler Klumpen feurigen Schleims. Kann weiterverarbeitet werden.
-Items/LavaSlimeTrophy	Text		Lava Slime Figurine		Lavaschleim-Figur
-Items/LavaSlimeTrophyDesc	Text		A lifelike representation of a Lava Slime.		Eine lebensechte Nachbildung eines Lavaschleims.
-Items/LavaStalagmite	Text		Lava Stalagmite		Lavagestein-Stalagmit
-Items/LavaStalagmiteDesc	Text		A stone pillar formed over thousands of years through dripping magma.		Eine Steinsäule, die über tausende von Jahren durch herabtropfendes Magma entstanden ist.
-Items/LavaWoodenDestructible	Text		Charred Crate		Verbrannte Holzkiste
-Items/LavaWoodenDestructibleDesc	Text		This wooden crate has been blackened by a scorching environment.		Diese Holzkiste ist durch die sengende Umgebung schwarz angelaufen.
-Items/LeafFossil	Text		Leaf Fossil		Blattfossil
-Items/LeafFossilDesc	Text		Proof of a once flourishing environment.		Beweis einer einst blühenden Umgebung.
-Items/Leash	Text		Leash		Leine
-Items/LeashDesc	Text		This long leash can be attached to any cattle so that they can get hurried along. Quite helpful when there are enemies on the hunt for some tender meat.		Diese lange Leine kann an jedem Nutztier angebracht werden, um es zur Eile anzutreiben. Ziemlich nützlich, wenn gerade Feinde auf der Jagd nach zartem Fleisch sind.
-Items/LeatherFrame	Text		Clamping Frame		Spannrahmen
-Items/LeatherFrameDesc	Text		This wooden frame has been used to stretch larva skin and manufacture it into leather.		Dieser Holzrahmen wurde verwendet, um Larvenhau zu spannen und zu Leder zu verarbeiten.
-Items/LeatherFrameSmall	Text		Small Clamping Frame		Kleiner Spannrahmen
-Items/LeatherFrameSmallDesc	Text		This small wooden frame made use of even the tiniest larva to turn its skin into leather.		An diesem kleinen Holzgestell wurde selbst die kleinste Larve zu Leder verarbeitet.
-Items/LegendaryBow	Text		Phantom Spark		Phantomfunke
-Items/LegendaryBowDesc	Text		A legendary, masterfully crafted bow that shoots pure energy projectiles. Sometimes those pierce the veil of time and space, calling upon the spirits of the past.		Ein legendärer, meisterhaft gearbeiteter Bogen, der reine Energieprojektile verschießt. Manchmal durchdringen diese Zeit und Raum und rufen die Geister der Vergangenheit.
-Items/LegendaryBowParchment	Text		Glyph Parchment		Glyphen-Pergament
-Items/LegendaryBowParchmentDesc	Text		An unusually well preserved piece of ancient paper. There are glyphs and images on it that show how to forge a powerful ancient weapon.		Ein ungewöhnlich gut erhaltenes Stück uraltes Papier. Die Zeichen und Abbildungen darauf zeigen, wie man eine mächtige, antike Waffe schmiedet.
-Items/LegendaryBowPart1	Text		Channeling Gemstone		Leit-Edelstein
-Items/LegendaryBowPart1Desc	Text		A specially carved ancient gemstone that focusses energy at it's tip. It seems to be the center piece of an ancient powerful weapon.		Ein speziell gearbeiteter Antiker Edelstein, der Energie in seiner Spitze ansammeln kann. Er scheint das Kernstück einer antiken, mächtigen Waffe zu sein.
-Items/LegendaryBowPart2	Text		Fractured Limbs		Gesplitterte Stücke
-Items/LegendaryBowPart2Desc	Text		Golden pieces that once seemed to be fused together to endure great pressure. Something inherently powerful must have broken them apart.		Goldene Stücke, die einst zusammengeschmiedet waren, um großer Belastung zu widerstehen. Etwas unfassbar Mächtiges muss sie zerbrochen haben.
-Items/LegendaryBowPart3	Text		Energy String		Energie-Sehne
-Items/LegendaryBowPart3Desc	Text		A fine filament that has microscopic pieces of ancient gemstones woven into it. Its existence is proof of the absolute mastery over materials by whoever created it.		Ein feines Filament, in dem mikroskopisch kleine Stücke Antiker Edelsteine eingearbeitet sind. Derjenige, der es hergestellt hat, bewies ein meisterhaftes Talent für Materialien.
-Items/LegendaryMiningPick	Text		Soul Seeker		Seelensucher
-Items/LegendaryMiningPickDesc	Text		A successor prototype to the Ancient Mining Pick that had been left unfinished before. In the fires of the Ancient Forge it was now finally completed.		Ein Nachfolger-Prototyp der Antiken Spitzhacke, die bis dahin unvollendet war. In den Feuern der uralten Schmiede wurde sie nun fertiggestellt.
-Items/LegendaryMiningPickParchment	Text		Cipher Parchment		Chiffren-Pergament
-Items/LegendaryMiningPickParchmentDesc	Text		An unusually well preserved scroll made from golden paper. Among the blue edged runes are drawings of an ancient forge resembling the face of a caveling.		Eine ungewöhnlich gut erhaltene Schriftrolle aus vergoldetem Papier. Zwischen blauen Runen finden sich Abbildungen einer Antiken Schmiede, die dem Gesicht eines Grottlings ähnelt.
-Items/LegendarySword	Text		Rune Song		Runenlied
-Items/LegendarySwordBlade	Text		Chipped Blade		Gebrochene Klinge
-Items/LegendarySwordBladeDesc	Text		A piece of an ancient weapon. Its glass-like appearance makes it look fragile but it's harder than any material you've seen.		Bruchteil einer antiken Waffe. Ihre glasähnliche Erscheinung verleiht ihr ein empfindliches Aussehen, aber sie ist härter als jedes Material, das du kennst.
-Items/LegendarySwordDesc	Text		A legendary sword that hums when swung through the air. Its durability is a sign of extraordinary craftsmanship and it has the power to defeat enemies in one strike.		Ein legendäres Schwert, das summt, wenn es geschwungen wird. Seine Haltbarkeit ist ein Zeichen außergewöhnlicher Handwerkskunst und es kann Feinde mit einem Schlag vernichten.
-Items/LegendarySwordGemstone	Text		Clear Gemstone		Klarer Edelstein
-Items/LegendarySwordGemstoneDesc	Text		A piece of an ancient weapon. Even though it is of the same material as ancient gemstones, this one feels unnaturally clear and infused with a strange energy.		Bruchteil einer antiken Waffe. Obwohl er aus dem gleichen Material wie die Antiken Edelsteine besteht, ist dieser unnatürlich rein und mit einer mysteriösen Energie geladen.
-Items/LegendarySwordParchment	Text		Rune Parchment		Runen-Pergament
-Items/LegendarySwordParchmentDesc	Text		An unusually well preserved piece of ancient paper. The runes are impossible to decipher but small symbols hint at it being the recipe for a strange weapon.		Ein ungewöhnlich gut erhaltenes Stück uraltes Papier. Die Runen darauf sind nicht zu entziffern, aber kleine Symbole geben Aufschluss, dass es sich um den Bauplan einer seltsamen Waffe handelt.
-Items/Lever	Text		Lever		Hebel
-Items/LeverDesc	Text		Generates a low amount of electricity that can be turned on and off.		Erzeugt eine geringe Menge an Elektrizität, der ein- und ausgeschaltet werden kann.
-Items/LockedCopperChest	Text		Locked Copper Chest		Verschlossene Kupfer-Kiste
-Items/LockedCopperChestDesc	Text		A crude chest made from copper with heavy chains strung around it. It could be opened with the right key.		Eine einfache Kiste aus Kupfer mit einer schweren Kette darum. Mit dem richtigen Schlüssel könnte sie geöffnet werden.
-Items/LockedGalaxiteChest	Text		Locked Galaxite Chest		Verschlossene Galaxit-Kiste
-Items/LockedGalaxiteChestDesc	Text		An indestructible chest made from galaxite with heavy chains strung around it. It could be opened with the right key.		Eine unzerstörbare Kiste aus Galaxit mit einer schweren Kette darum. Mit dem richtigen Schlüssel könnte sie geöffnet werden.
-Items/LockedIronChest	Text		Locked Iron Chest		Verschlossene Eisen-Kiste
-Items/LockedIronChestDesc	Text		An old chest made from iron with heavy chains strung around it. It could be opened with the right key.		Eine alte Eisenkiste, um die eine schwere Kette geschlungen ist. Mit dem richtigen Schlüssel könnte man sie öffnen.
+Items/KingSlimeSummoningItemDesc	Text		A crystal idol that feels out of this world. Consumed upon placing it on any Giant Slime summoning rune.	Kryształowy posążek, który sprawia wrażenie nie z tego świata. Zużywa się po umieszczeniu go na dowolnej runie przywołującej Gigantyczny Szlam.	Ein Kristall-Abbild aus einer anderen Welt. Wird beim Platzieren auf einer Großschleim-Beschwörungsrune verbraucht.
+Items/KingSlimeTrophy	Text		King Slime Figurine	Figurka króla szlamu	Schleimkönig-Figur
+Items/KingSlimeTrophyDesc	Text		A lifelike representation of the King Slime.	Realistyczne odwzorowanie króla szlamu.	Eine lebensechte Nachbildung des Schleimkönigs.
+Items/KingfishScale	Text		Kingfish Scale	Łuska ryby królewskiej	Königsfisch-Schuppe
+Items/KingfishScaleDesc	Text		This beautiful scale seems to belong to a truly extraordinary fish.	Ta piękna łuska wydaje się należeć do naprawdę niezwykłej ryby.	Diese wunderschöne Schuppe stammt sicher von einem wahrlich außergewöhnlichen Fisch.
+Items/Lamp	Text		Lamp	Lampa	Lampe
+Items/LampDesc	Text		Lights up when powered with electricity.	Świeci, gdy jest zasilana energią elektryczną.	Leuchtet, wenn sie an Elektrizität angeschlossen wird.
+Items/LandKelp	Text		Land Algae	Glony lądowe	Land-Alge
+Items/LandKelpDesc	Text		A type of algae that can grow outside of water.	Rodzaj glonów, które mogą rosnąć poza wodą.	Eine Algenart, die außerhalb von Gewässern wachsen kann.
+Items/Lantern	Text		Lantern	Latarenka	Laterne
+Items/LanternDesc	Text		A small, useful light that leaves your hands free.	Mała, użyteczna lampka, która zapewnia wolne ręce.	Ein kleines, nützliches Licht, mit dem du die Hände frei hast.
+Items/LargeAlienTechDestructible	Text		Large Alien Tech Destructible	Duża zniszczalna technologia obcych	Großer Alientechnologie-Behälter
+Items/LargeAncientDestructible	Text		Large Ancient Crate	Duża starożytna skrzynia	Große antike Kiste
+Items/LargeBomb	Text		Large Bomb	Duża bomba	Große Bombe
+Items/LargeBombDesc	Text		A very strong explosive for massive destruction.	Bardzo silny materiał wybuchowy powodujący ogromne zniszczenia.	Eine sehr starke Sprengladung für massive Zerstörung.
+Items/LargeCityDestructible	Text		Large Metropolis Crate	Duża skrzynia Metropolis	Großer Metropolis-Behälter
+Items/LargeCrystalDestructible	Text		Large Sun Crystal	Duży kryształ słoneczny	Großer Sonnenkristall
+Items/LargeDesertDestructible	Text		Large Desert Flower Vessel	Duże pustynne naczynie kwiatowe	Großes Wüstenblüten-Gefäß
+Items/LargeDesertTempleDestructible	Text		Large Temple Crate	Duża skrzynia świątyni	Großer Tempel-Behälter
+Items/LargeJellyfishDestructable	Text		Large Beached Jelly	Duża meduza plażowa	Große gestrandete Qualle
+Items/LargeMoldDestructible	Text		Large Mold Vessel	Duża pleśniowa kula	Großes Schimmel-Gefäß
+Items/LargeShinyGlimmeringObject	Text		Large Shiny Glimmering Object	Duży, błyszczący, mieniący się obiekt	Großes, glänzendes Objekt
+Items/LargeShinyGlimmeringObjectDesc	Text		A crystalline, egg-shaped object. It will catch your eye even from large distances.	Krystaliczny obiekt w kształcie jajka. Przyciąga wzrok nawet z dużych odległości.	Ein kristallines, eiförmiges Objekt. Selbst aus großer Entfernung zieht es deinen Blick auf sich.
+Items/LargeTempleRug	Text		Large Temple Decor Rug	Duży dywan dekoracyjny świątyni	Großer Tempel-Dekorteppich
+Items/LargeTempleRugDesc	Text		A large, ancient rug with a very detailed design woven into it. It must once have been an expensive item and a sign of prosperity.	Duży, starożytny dywan z bardzo szczegółowym wzorem. Kiedyś musiał to być drogi przedmiot i oznaka dobrobytu.	Ein großer, alter Teppich mit einem sehr aufwendigen Webmuster. Er muss einst ein teurer Gegenstand und ein Zeichen von Wohlstand gewesen sein.
+Items/LargeWaterCan	Text		Large Watering Can	Duża konewka	Große Gießkanne
+Items/LargeWaterCanDesc	Text		Used to water seeds and soil. Holds more water than a regular watering can and covers an area of 2x2 tiles.	Służy do podlewania nasion i gleby. Mieści więcej wody niż zwykła konewka i pokrywa obszar 2x2 płytki.	Wird genutzt, um Böden und Samen zu bewässern. Fasst mehr Inhalt als eine herkömmliche Gießkanne und hat einen 2x2-Wirkungsradius.
+Items/Larva	Text		Larva	Larwa	Larve
+Items/LarvaBBQ	Text		Roast Firepit	Ognisko do pieczenia	Grill-Feuerstelle
+Items/LarvaBBQDesc	Text		Part fireplace, part barbecue it is a great place to huddle together and enjoy some burned pieces of larva meat.	Po części ognisko, po części grill, jest to świetne miejsce, aby zebrać się razem i cieszyć się spalonymi kawałkami mięsa larw.	Teils Feuerstelle, teils Grill und ein toller Ort, um gemeinsam ein paar angebrannte Stücke Larvenfleisch zu genießen.
+Items/LarvaBossCrystal	Text		Ghorm's Horn	Róg Ghorma	Ghorms Horn
+Items/LarvaBossCrystalDesc	Text		A pointy gemstone that let a larva grow way beyond its maximum size.	Spiczasty kamień szlachetny, który pozwala larwie urosnąć ponad jej maksymalny rozmiar.	Ein spitzer Edelstein, der eine Larve weit jenseits ihrer maximalen Größe wachsen ließ.
+Items/LarvaBossScanner	Text		Ghorm the Devourer Scanner	Skaner Ghorma Pożeracza	Ghorm-Scanner
+Items/LarvaBossScannerDesc	Text		Scans the world for Ghorm the Devourer. Consumed on successful scan.	Skanuje świat w poszukiwaniu Ghorma Pożeracza. Zużywa się po udanym skanowaniu.	Scannt die Welt nach Ghorm, dem Verschlinger. Wird bei erfolgreichem Scan verbraucht.
+Items/LarvaBossSummoningItem	Text		Ghorm Summoning Idol	Bożek przywołujący Ghorma	Ghorm-Beschwörungsstein
+Items/LarvaBossSummoningItemDesc	Text		Crystal idol to reawaken Ghorm the Devourer. Consumed upon placing it on Ghorm's summoning rune.	Kryształowy bożek pozwalający obudzić Ghorma Pożeracza. Zużywa się po umieszczeniu go na runie przywołania Ghorma.	Ein Kristall-Abbild, um Ghorm, den Verschlinger neu zu erwecken. Wird beim Platzieren auf der Beschwörungsrune verbraucht.
+Items/LarvaBreastArmor	Text		Larva Chest	Tułów larwy	Larven-Gewand
+Items/LarvaBreastArmorDesc	Text		Don't be anything else. Be grub.	Nie bądź niczym innym. Bądź larwą.	Sei nichts anderes. Sei Larve.
+Items/LarvaHelm	Text		Larva Helm	Hełm Larwy	Larven-Helm
+Items/LarvaHelmDesc	Text		No need for fancy hats. Just grub.	Nie ma potrzeby noszenia wymyślnych kapeluszy. Tylko larwa.	Kein Zwang für schicke Hüte. Nur Larve.
+Items/LarvaMeat	Text		Larva Meat	Mięso larwy	Larvenfleisch
+Items/LarvaMeatDesc	Text		Only true survivors eat it raw.	Tylko prawdziwi rozbitkowie jedzą je na surowo.	Nur wahre Überlebenskünstler essen es roh.
+Items/LarvaRing	Text		Larva Ring	Pierścień Larwy	Larven-Ring
+Items/LarvaRingDesc	Text		A living ring, not for the squirmish to wear.	Żywy pierścień, nie do noszenia przez słabeuszy.	Ein lebender Ring, nichts für weichliche Gemüter.
+Items/LarvaSkewer	Text		Larva Skewer	Larwy nadziane na szpikulec	Larvenspieß
+Items/LarvaSkewerDesc	Text		A pretty cruel way of stacking up meat for later use.	Dość okrutny sposób gromadzenia mięsa do późniejszego wykorzystania.	Eine ziemlich grausame Methode, Fleisch zur späteren Verwendung zu stapeln.
+Items/LarvaSpikeClub	Text		Larva Spike Club	Larwowa kolczata maczuga	Larven-Keule
+Items/LarvaSpikeClubDesc	Text		A bludgeoning weapon that is hard to withstand.	Broń obuchowa, której trudno się przeciwstawić.	Eine Schmetterwaffe, der man nur schwer widerstehen kann.
+Items/LarvaTrophy	Text		Larva Figurine	Figurka larwy	Larven-Figur
+Items/LarvaTrophyDesc	Text		A lifelike representation of a Larva.	Realistyczna reprezentacja larwy.	Eine lebensechte Nachbildung einer Larve.
+Items/LarvaskinRug	Text		Larvaskin Rug	Dywan z larwy	Larvenhaut-Teppich
+Items/LarvaskinRugDesc	Text		This gross rug doubles down as a trophy for the hunted larva that provided their skin.	Ten obrzydliwy dywan stanowi również trofeum upolowanej larwy, która dostarczyła mu skóry.	Dieser eklige Teppich ist gleichzeitig eine Trophäe der erlegten Larve, die ihre Haut dafür hergeben musste.
+Items/LarvaskinRugRed	Text		Hive Larvaskin Rug	Dywan z larwy ula	Nestlarvenhaut-Teppich
+Items/LarvaskinRugRedDesc	Text		This gross rug doubles down as a trophy for the hunted hive larva that provided their skin.	Ten obrzydliwy dywan stanowi również trofeum upolowanej larwy ula, która dostarczyła mu skóry.	Dieser eklige Teppich ist gleichzeitig eine Trophäe der erlegten Nestlarve, die ihre Haut dafür hergeben musste.
+Items/LarvaskinTent	Text		Larvaskin Tent	Namiot z skór larw	Larvenhaut-Zelt
+Items/LarvaskinTentDesc	Text		This simple type of housing must have used many skins of larva. There are patches of other creatures thrown in too.	Ten prosty rodzaj schronienia musiał zostać zrobiony z wielu skór larw. Znajdują się tam również łaty z skór innych stworzeń.	Für diese einfache Behausung wurden sicher viele Larven-Häute verwendet. Auch Teile anderer Lebewesen sind hier und da zu sehen.
+Items/LaserDrillTool	Text		Obliteration Ray	Promień unicestwienia	Vernichtungs-Strahl
+Items/LaserDrillToolDesc	Text		A high energy mining tool that is at the constant limit of bursting. The barely contained laser melts almost anything in its path.	Wysokoenergetyczne narzędzie górnicze, które jest na granicy wytrzymałości. Ledwo kontrolowany laser topi niemal wszystko na swojej drodze.	Ein Hochenergie-Bergbauwerkzeug, das sich stets an der Grenze der Zerstörung befindet. Der kaum kontrollierbare Laserstrahl bringt fast alles in seinem Weg zum Schmelzen.
+Items/LavaAxe	Text		Lava Battle Axe	Lawowy topór bojowy	Lava-Kriegsaxt
+Items/LavaAxeDesc	Text		A smoldering, heavy weapon that looks like it was just taken out of the forge.	Rozżarzona, ciężka broń, która wygląda, jakby dopiero co wyjęto ją z kuźni.	Eine schwelende, schwere Waffe, die aussieht, als käme sie frisch aus der Schmiede.
+Items/LavaBreastArmor	Text		Magma Torso Armor	Magmowy napierśnik	Magma-Torsopanzer
+Items/LavaBreastArmorDesc	Text		This fiery armor is almost too hot to handle but becomes well-tempered when worn.	Ta ognista zbroja jest prawie zbyt gorąca, by można było ją nosić, ale po założeniu staje się nieszkodliwa.	Diese feurige Rüstung ist fast zu heiß zum Anfassen, ist aber beim Tragen wohltemperiert.
+Items/LavaButterfly	Text		Lava Butterfly	Lawowy motyl	Lavaschmetterling
+Items/LavaButterflyTrophy	Text		Lava Butterfly Figurine	Figurka lawowego motyla	Lavaschmetterling-Figur
+Items/LavaButterflyTrophyDesc	Text		A lifelike representation of a Lava Butterfly	Realistyczne odwzorowanie lawowego motyla	Eine lebensechte Nachbildung eines Lavaschmetterlings.
+Items/LavaHelm	Text		Magma Horn Armor	Magmowy hełm z rogami	Magma-Hornpanzer
+Items/LavaHelmDesc	Text		A pretty awesome piece of equipment that makes you look like the harbinger of doom.	Niesamowity element uzbrojenia, który sprawia, że wyglądasz jak zwiastun zagłady.	Ein ziemliches cooles Stück Ausrüstung, das dich wie den Vorboten des Untergangs aussehen lässt.
+Items/LavaPantsArmor	Text		Magma Shin Armor	Magmowe nagolenniki	Magma-Beinpanzer
+Items/LavaPantsArmorDesc	Text	&	A melting leg armor made from liquid stone, giving hot legs a whole new definition.	Topniejący pancerz na nogi wykonany z płynnego kamienia, nadający gorącym nogom zupełnie nową definicję.	Ein schmelzender Beinschutz aus flüssigem Gestein. Gibt heißen Beinen eine ganz neue Bedeutung.
+Items/LavaPost1	Text		Broken Quarry Timber	Zniszczone podpory kamieniołomu	Gesplittertes Steinbruchgerüst
+Items/LavaPost1Desc	Text		One half of a broken wooden construction that seemed to have once held something in place.	Połowa połamanej drewnianej konstrukcji, która zdawała się kiedyś utrzymywać coś w miejscu.	Eine Hälfte eines zerbrochenen Holzgerüsts, das einst etwas gestützt hat.
+Items/LavaPost2	Text		Large Quarry Timber	Duża podpora kamieniołomu	Großes Steinbruchgerüst
+Items/LavaPost2Desc	Text		A wooden construction used to keep ore and rocks above a fire. A surge in temperatures rendered it unusable.	Drewniana konstrukcja używana do utrzymywania rudy i skał nad ogniem. Gwałtowny wzrost temperatury sprawił, że stała się bezużyteczna.	Ein Holzgerüst, das dazu verwendet wurde, Erz und Gestein über einem Feuer zu halten. Ein Temperaturanstieg hat es unbrauchbar gemacht.
+Items/LavaRock	Text		Lava Rock	Skała lawowa	Lavagestein
+Items/LavaRockDesc	Text		You're not sure why you did this...but at least you now have a very hot rock.	Nie jesteś pewien, dlaczego to zrobiłeś... ale przynajmniej masz teraz bardzo gorący kamień.	Du bist dir nicht sicher, warum du das getan hast ... aber zumindest hast du jetzt einen sehr heißen Stein.
+Items/LavaShield	Text		Scorching Aegis	Płonąca Egida	Sengende Aegis
+Items/LavaShieldDesc	Text		The crust of molten rock, formed to be wielded like a shield.	Skorupa stopionej skały, uformowana tak, by można było nią władać jak tarczą.	Diese Kruste geschmolzenen Gesteins ist zu einem Schild geformt worden.
+Items/LavaSlime	Text		Magma Slime	Magmowy szlam	Magmaschleim
+Items/LavaSlimeBlob	Text		Lava Slime	Lawowy szlam	Lavaschleim
+Items/LavaSlimeBossChest	Text		Igneous' Chest	Skrzynia Igneousa	Igneous' Kiste
+Items/LavaSlimeBossChestDesc	Text	&	A magma-covered chest reminiscent of the Molten Mass.	Pokryta magmą skrzynia przypominająca stopioną masę.	Eine schleimbedeckte Kiste, die an die Geschmolzene Masse erinnert.
+Items/LavaSlimeBossScanner	Text		Igneous the Molten Mass Scanner	Skaner Igneosa Stopionego	Igneous-Scanner
+Items/LavaSlimeBossScannerDesc	Text		Scans the world for Igneous the Molten Mass. Consumed on successful scan.	Skanuje świat w poszukiwaniu Igneosa Stopionego. Zużywany po udanym skanowaniu.	Scannt die Welt nach Igneous, der Geschmolzenen Masse. Wird bei erfolgreichem Scan verbraucht.
+Items/LavaSlimeDesc	Text		A dark blob of flaming slime. Can be further processed.	Ciemna kula płonącego szlamu. Może być dalej przetwarzany.	Ein dunkler Klumpen feurigen Schleims. Kann weiterverarbeitet werden.
+Items/LavaSlimeTrophy	Text		Lava Slime Figurine	Figurka lawowego szlamu	Lavaschleim-Figur
+Items/LavaSlimeTrophyDesc	Text		A lifelike representation of a Lava Slime.	Realistycznie odwzorowany lawowego szlamu.	Eine lebensechte Nachbildung eines Lavaschleims.
+Items/LavaStalagmite	Text		Lava Stalagmite	Lawowy stalagmit	Lavagestein-Stalagmit
+Items/LavaStalagmiteDesc	Text		A stone pillar formed over thousands of years through dripping magma.	Kamienny filar uformowany na przestrzeni tysięcy lat przez kapiącą magmę.	Eine Steinsäule, die über tausende von Jahren durch herabtropfendes Magma entstanden ist.
+Items/LavaWoodenDestructible	Text		Charred Crate	Zwęglona skrzynia	Verbrannte Holzkiste
+Items/LavaWoodenDestructibleDesc	Text		This wooden crate has been blackened by a scorching environment.	Ta drewniana skrzynia poczerniała w wyniku działania palącego środowiska.	Diese Holzkiste ist durch die sengende Umgebung schwarz angelaufen.
+Items/LeafFossil	Text		Leaf Fossil	Skamielina liścia	Blattfossil
+Items/LeafFossilDesc	Text		Proof of a once flourishing environment.	Dowód niegdyś kwitnącego środowiska.	Beweis einer einst blühenden Umgebung.
+Items/Leash	Text		Leash	Smycz	Leine
+Items/LeashDesc	Text		This long leash can be attached to any cattle so that they can get hurried along. Quite helpful when there are enemies on the hunt for some tender meat.	Ta długa smycz może być przymocowana do każdego bydła, aby można było je poganiać. Bardzo pomocna, gdy wrogowie polują na delikatne mięso.	Diese lange Leine kann an jedem Nutztier angebracht werden, um es zur Eile anzutreiben. Ziemlich nützlich, wenn gerade Feinde auf der Jagd nach zartem Fleisch sind.
+Items/LeatherFrame	Text	&	Clamping Frame		Spannrahmen
+Items/LeatherFrameDesc	Text		This wooden frame has been used to stretch larva skin and manufacture it into leather.	Ta drewniana rama była używana do rozciągania skóry larw i wytwarzania z niej produktów skórzanych.	Dieser Holzrahmen wurde verwendet, um Larvenhau zu spannen und zu Leder zu verarbeiten.
+Items/LeatherFrameSmall	Text	&	Small Clamping Frame		Kleiner Spannrahmen
+Items/LeatherFrameSmallDesc	Text		This small wooden frame made use of even the tiniest larva to turn its skin into leather.	Ta mała drewniana rama pozwalała zamienić nawet najmniejszą larwę w skórę.	An diesem kleinen Holzgestell wurde selbst die kleinste Larve zu Leder verarbeitet.
+Items/LegendaryBow	Text		Phantom Spark	Iskra Widmo	Phantomfunke
+Items/LegendaryBowDesc	Text		A legendary, masterfully crafted bow that shoots pure energy projectiles. Sometimes those pierce the veil of time and space, calling upon the spirits of the past.	Legendarny, mistrzowsko wykonany łuk, który wystrzeliwuje pociski o czystej energii. Czasami przebijają one zasłonę czasu i przestrzeni, wzywając duchy przeszłości.	Ein legendärer, meisterhaft gearbeiteter Bogen, der reine Energieprojektile verschießt. Manchmal durchdringen diese Zeit und Raum und rufen die Geister der Vergangenheit.
+Items/LegendaryBowParchment	Text		Glyph Parchment	Pergamin glificzny	Glyphen-Pergament
+Items/LegendaryBowParchmentDesc	Text		An unusually well preserved piece of ancient paper. There are glyphs and images on it that show how to forge a powerful ancient weapon.	Niezwykle dobrze zachowany kawałek pradawnego papieru. Znajdują się na nim glify i obrazy, które pokazują, jak wykuć potężną starożytną broń.	Ein ungewöhnlich gut erhaltenes Stück uraltes Papier. Die Zeichen und Abbildungen darauf zeigen, wie man eine mächtige, antike Waffe schmiedet.
+Items/LegendaryBowPart1	Text		Channeling Gemstone	Klejnot kanalizujący	Leit-Edelstein
+Items/LegendaryBowPart1Desc	Text		A specially carved ancient gemstone that focusses energy at it's tip. It seems to be the center piece of an ancient powerful weapon.	Specjalnie wyrzeźbiony starożytny kamień szlachetny, który skupia energię na swoim czubku. Wydaje się być centralnym elementem starożytnej, potężnej broni.	Ein speziell gearbeiteter Antiker Edelstein, der Energie in seiner Spitze ansammeln kann. Er scheint das Kernstück einer antiken, mächtigen Waffe zu sein.
+Items/LegendaryBowPart2	Text		Fractured Limbs	Odłamane części	Gesplitterte Stücke
+Items/LegendaryBowPart2Desc	Text		Golden pieces that once seemed to be fused together to endure great pressure. Something inherently powerful must have broken them apart.	Złote kawałki, które niegdyś zdawały się być połączone, by wytrzymać wielki napór. Coś z natury potężnego musiało je rozdzielić.	Goldene Stücke, die einst zusammengeschmiedet waren, um großer Belastung zu widerstehen. Etwas unfassbar Mächtiges muss sie zerbrochen haben.
+Items/LegendaryBowPart3	Text		Energy String	Struna energetyczna	Energie-Sehne
+Items/LegendaryBowPart3Desc	Text		A fine filament that has microscopic pieces of ancient gemstones woven into it. Its existence is proof of the absolute mastery over materials by whoever created it.	Cienkie włókno, w które wplecione są mikroskopijne kawałki starożytnych kamieni szlachetnych. Jego istnienie jest dowodem absolutnego mistrzostwa nad materiałami przez tego, kto go stworzył.	Ein feines Filament, in dem mikroskopisch kleine Stücke Antiker Edelsteine eingearbeitet sind. Derjenige, der es hergestellt hat, bewies ein meisterhaftes Talent für Materialien.
+Items/LegendaryMiningPick	Text		Soul Seeker	Poszukiwacz dusz	Seelensucher
+Items/LegendaryMiningPickDesc	Text		A successor prototype to the Ancient Mining Pick that had been left unfinished before. In the fires of the Ancient Forge it was now finally completed.	Następca prototypu Starożytnego Kilofa Górniczego, który wcześniej nie został ukończony. Ostatecznie został skończony w ogniu starożytnej kuźni.	Ein Nachfolger-Prototyp der Antiken Spitzhacke, die bis dahin unvollendet war. In den Feuern der uralten Schmiede wurde sie nun fertiggestellt.
+Items/LegendaryMiningPickParchment	Text		Cipher Parchment	Szyfrowany pergamin	Chiffren-Pergament
+Items/LegendaryMiningPickParchmentDesc	Text		An unusually well preserved scroll made from golden paper. Among the blue edged runes are drawings of an ancient forge resembling the face of a caveling.	Niezwykle dobrze zachowany zwój wykonany ze złotego papieru. Wśród run o niebieskich krawędziach znajdują się rysunki starożytnej kuźni przypominające twarz jaskiniowca.	Eine ungewöhnlich gut erhaltene Schriftrolle aus vergoldetem Papier. Zwischen blauen Runen finden sich Abbildungen einer Antiken Schmiede, die dem Gesicht eines Grottlings ähnelt.
+Items/LegendarySword	Text		Rune Song	Runiczna pieśń	Runenlied
+Items/LegendarySwordBlade	Text		Chipped Blade	Wyszczerbione ostrze	Gebrochene Klinge
+Items/LegendarySwordBladeDesc	Text		A piece of an ancient weapon. Its glass-like appearance makes it look fragile but it's harder than any material you've seen.	Fragment starożytnej broni. Jego szklany wygląd sprawia, że wygląda na kruchy, ale jest twardszy niż jakikolwiek materiał, który widziałeś.	Bruchteil einer antiken Waffe. Ihre glasähnliche Erscheinung verleiht ihr ein empfindliches Aussehen, aber sie ist härter als jedes Material, das du kennst.
+Items/LegendarySwordDesc	Text		A legendary sword that hums when swung through the air. Its durability is a sign of extraordinary craftsmanship and it has the power to defeat enemies in one strike.	Legendarny miecz, który wibruje w powietrzu. Jego wytrzymałość jest oznaką niezwykłego kunsztu i ma moc pokonywania wrogów jednym uderzeniem.	Ein legendäres Schwert, das summt, wenn es geschwungen wird. Seine Haltbarkeit ist ein Zeichen außergewöhnlicher Handwerkskunst und es kann Feinde mit einem Schlag vernichten.
+Items/LegendarySwordGemstone	Text		Clear Gemstone	Przezroczysty klejnot	Klarer Edelstein
+Items/LegendarySwordGemstoneDesc	Text		A piece of an ancient weapon. Even though it is of the same material as ancient gemstones, this one feels unnaturally clear and infused with a strange energy.	Fragment starożytnej broni. Mimo że jest wykonany z tego samego materiału co starożytne kamienie szlachetne, ten wydaje się nienaturalnie przejrzysty i przepełniony dziwną energią.	Bruchteil einer antiken Waffe. Obwohl er aus dem gleichen Material wie die Antiken Edelsteine besteht, ist dieser unnatürlich rein und mit einer mysteriösen Energie geladen.
+Items/LegendarySwordParchment	Text		Rune Parchment	Pergamin runiczny	Runen-Pergament
+Items/LegendarySwordParchmentDesc	Text		An unusually well preserved piece of ancient paper. The runes are impossible to decipher but small symbols hint at it being the recipe for a strange weapon.	Niezwykle dobrze zachowany kawałek starożytnego papieru. Runy są niemożliwe do rozszyfrowania, ale małe symbole wskazują, że jest to receptura na dziwną broń.	Ein ungewöhnlich gut erhaltenes Stück uraltes Papier. Die Runen darauf sind nicht zu entziffern, aber kleine Symbole geben Aufschluss, dass es sich um den Bauplan einer seltsamen Waffe handelt.
+Items/Lever	Text		Lever	Dźwignia	Hebel
+Items/LeverDesc	Text		Generates a low amount of electricity that can be turned on and off.	Generuje niewielką ilość energii elektrycznej, którą można włączać i wyłączać.	Erzeugt eine geringe Menge an Elektrizität, der ein- und ausgeschaltet werden kann.
+Items/LockedCopperChest	Text		Locked Copper Chest	Zamknięta miedziana skrzynia	Verschlossene Kupfer-Kiste
+Items/LockedCopperChestDesc	Text		A crude chest made from copper with heavy chains strung around it. It could be opened with the right key.	Prymitywna skrzynia wykonana z miedzi, wokół której nawleczono ciężkie łańcuchy. Można ją otworzyć odpowiednim kluczem.	Eine einfache Kiste aus Kupfer mit einer schweren Kette darum. Mit dem richtigen Schlüssel könnte sie geöffnet werden.
+Items/LockedGalaxiteChest	Text		Locked Galaxite Chest	Zamknięta skrzynia galaktyczna	Verschlossene Galaxit-Kiste
+Items/LockedGalaxiteChestDesc	Text		An indestructible chest made from galaxite with heavy chains strung around it. It could be opened with the right key.	Niezniszczalna skrzynia wykonana z galaksytu, wokół której nawleczono ciężkie łańcuchy. Można ją otworzyć za pomocą odpowiedniego klucza.	Eine unzerstörbare Kiste aus Galaxit mit einer schweren Kette darum. Mit dem richtigen Schlüssel könnte sie geöffnet werden.
+Items/LockedIronChest	Text		Locked Iron Chest	Zamknięta żelazna skrzynia	Verschlossene Eisen-Kiste
+Items/LockedIronChestDesc	Text		An old chest made from iron with heavy chains strung around it. It could be opened with the right key.	Stara skrzynia wykonana z żelaza, wokół której wiszą ciężkie łańcuchy. Można ją otworzyć odpowiednim kluczem.	Eine alte Eisenkiste, um die eine schwere Kette geschlungen ist. Mit dem richtigen Schlüssel könnte man sie öffnen.
 Items/LockedKingChest	Text		Locked Desert King Chest		Verschlossene Wüstenkönig-Kiste
 Items/LockedOctarineChest	Text		Locked Octarine Chest		Verschlossene Oktarin-Kiste
 Items/LockedOctarineChestDesc	Text		A clunky chest made from octarine with heavy chains strung around it. It could be opened with the right key.		Eine klotzige Kiste aus Oktarin mit einer schweren Kette darum. Mit dem richtigen Schlüssel könnte sie geöffnet werden.
