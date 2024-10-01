@@ -2546,7 +2546,7 @@ Items/LargeCrystalDestructible	Text		Large Sun Crystal	Duży kryształ słoneczn
 Items/LargeDesertDestructible	Text		Large Desert Flower Vessel	Duże pustynne naczynie kwiatowe	Großes Wüstenblüten-Gefäß
 Items/LargeDesertTempleDestructible	Text		Large Temple Crate	Duża skrzynia świątyni	Großer Tempel-Behälter
 Items/LargeJellyfishDestructable	Text		Large Beached Jelly	Duża meduza plażowa	Große gestrandete Qualle
-Items/LargeMoldDestructible	Text		Large Mold Vessel	Duża pleśniowa kula	Großes Schimmel-Gefäß
+Items/LargeMoldDestructible	Text		Large Mold Vessel	Duża kula pleśni	Großes Schimmel-Gefäß
 Items/LargeShinyGlimmeringObject	Text		Large Shiny Glimmering Object	Duży, błyszczący, mieniący się obiekt	Großes, glänzendes Objekt
 Items/LargeShinyGlimmeringObjectDesc	Text		A crystalline, egg-shaped object. It will catch your eye even from large distances.	Krystaliczny obiekt w kształcie jajka. Przyciąga wzrok nawet z dużych odległości.	Ein kristallines, eiförmiges Objekt. Selbst aus großer Entfernung zieht es deinen Blick auf sich.
 Items/LargeTempleRug	Text		Large Temple Decor Rug	Duży dywan dekoracyjny świątyni	Großer Tempel-Dekorteppich
@@ -2654,160 +2654,160 @@ Items/LockedGalaxiteChest	Text		Locked Galaxite Chest	Zamknięta skrzynia galakt
 Items/LockedGalaxiteChestDesc	Text		An indestructible chest made from galaxite with heavy chains strung around it. It could be opened with the right key.	Niezniszczalna skrzynia wykonana z galaksytu, wokół której nawleczono ciężkie łańcuchy. Można ją otworzyć za pomocą odpowiedniego klucza.	Eine unzerstörbare Kiste aus Galaxit mit einer schweren Kette darum. Mit dem richtigen Schlüssel könnte sie geöffnet werden.
 Items/LockedIronChest	Text		Locked Iron Chest	Zamknięta żelazna skrzynia	Verschlossene Eisen-Kiste
 Items/LockedIronChestDesc	Text		An old chest made from iron with heavy chains strung around it. It could be opened with the right key.	Stara skrzynia wykonana z żelaza, wokół której wiszą ciężkie łańcuchy. Można ją otworzyć odpowiednim kluczem.	Eine alte Eisenkiste, um die eine schwere Kette geschlungen ist. Mit dem richtigen Schlüssel könnte man sie öffnen.
-Items/LockedKingChest	Text		Locked Desert King Chest		Verschlossene Wüstenkönig-Kiste
-Items/LockedOctarineChest	Text		Locked Octarine Chest		Verschlossene Oktarin-Kiste
-Items/LockedOctarineChestDesc	Text		A clunky chest made from octarine with heavy chains strung around it. It could be opened with the right key.		Eine klotzige Kiste aus Oktarin mit einer schweren Kette darum. Mit dem richtigen Schlüssel könnte sie geöffnet werden.
-Items/LockedPrinceChest	Text		Locked Desert Prince Chest		Verschlossene Wüstenprinz-Kiste
-Items/LockedQueenChest	Text		Locked Desert Queen Chest		Verschlossene Wüstenkönigin-Kiste
-Items/LockedScarletChest	Text		Locked Scarlet Chest		Verschlossene Skarlit-Kiste
-Items/LockedScarletChestDesc	Text		A sturdy chest made from scarlet with heavy chains strung around it. It could be opened with the right key.		Eine widerstandsfähige Kiste aus Skarlit mit einer schweren Kette darum. Mit dem richtigen Schlüssel könnte sie geöffnet werden.
-Items/LockedSolariteChest	Text		Locked Solarite Chest		Verschlossene Solarit-Kiste
-Items/LockedSolariteChestDesc	Text		A shimmering chest made from solarite with heavy chains strung around it. It could be opened with the right key.		Eine schimmernde Kiste aus Solarit, um die eine schwere Kette geschlungen ist. Mit dem richtigen Schlüssel könnte man sie öffnen.
-Items/LogicCircuit	Text		Logic Circuit		Logik-Schaltkreis
-Items/LogicCircuitDesc	Text		Electricity can move through the circuit when it receives electricity on exactly 2 out of 3 inputs.		Elektrizität kann durch diesen Schaltkreis fließen, wenn exakt 2 der 3 Eingänge mit Elektrizität versorgt sind.
-Items/LoomSpinningWheel	Text		Loom		Spinnrad
-Items/LoomSpinningWheelDesc	Text		This archaic device makes it possible to turn fiber into beautiful clothing and costumes.		Dieses altertümliche Gerät macht es möglich, aus Fasern wunderschöne Kleider und Kostüme herzustellen.
-Items/LooseFlooring	Text	"A decorative flooring item like bricks or stone plates, they can change design a bit depending on what the player color them hence why we don't call it just ""stone plates"" or so"	Loose Flooring		Loser Bodenbelag
-Items/LooseFlooringDesc	Text		A collection of workable groundcover made from clay. A true hobbyist might turn them into different shapes and colors.		Eine Ansammlung bearbeitbarer Lehmplättchen. Ein Hobbybastler könnte ihnen eine andere Form und Farbe verleihen.
-Items/LostPaddle	Text		Lost Paddle		Verlorenes Paddel
-Items/LostPaddleDesc	Text		Somewhere someone must paddle around in circles.		Irgendwo rudert irgendjemand im Kreis.
-Items/LucentOakTree	Text		Lucent Oak		Schiller-Eiche
-Items/LucentOakTreeDesc	Text		What once seemed to have been a normal tree got permeated by crystals, turning it into a living work of art.		Dieser einst gewöhnliche Baum wurde von Kristallen durchdrungen, die ihn in ein lebendiges Kunstwerk verwandelt haben.
-Items/LuckyRing	Text		Lucky Ring		Glücksring
-Items/LuckyRingDesc	Text		A cheaply made ring from a vending machine. If you believe hard enough you may feel more lucky.		Ein billiger Ring aus einem Automaten. Wenn du fest genug dran glaubst, hast du vielleicht wirklich mehr Glück.
-Items/LumpOfCoal	Text		Lump of Coal		Kohleklumpen
-Items/LumpOfCoalDesc	Text		A dusty piece of coal that leaves your hands black and your conscience tainted. Have you perhaps been naughty?		Ein staubiges Stück Kohle, das die Hände schwarz färbt und das Gewissen trübt. Warst du vielleicht nicht ganz artig?
-Items/Lunacorn	Text		Lunacorn		Lunakorn
-Items/LunacornDesc	Text		A mealy, colorful crop that increases your toughness.		Ein mehliges, buntes Getreide, das dich zäher macht.
-Items/LunacornRare	Text		Golden Lunacorn		Goldenes Lunakorn
-Items/LunacornRareDesc	Text		A very rare variant of the common lunacorn.		Eine sehr seltene Variante des Lunakorns.
-Items/LunacornSeed	Text		Lunacorn Seed		Lunakorn-Samen
-Items/LunacornSeedDesc	Text		Grows into an inspiriting crop when planted. Only grows in crystal ground.		Wächst zu einem belebenden Getreide heran, wenn er eingepflanzt wird. Wächst nur in Kristallboden.
-Items/LuxuriousHandmirror	Text		Luxurious Handmirror		Luxuriöser Handspiegel
-Items/LuxuriousHandmirrorDesc	Text		A hand-held mirror in great condition. Clearly someone had a sense of beauty.		Ein handlicher Spiegel in wunderbarer Verfassung. Jemand hatte einen Sinn fürs Schöne.
-Items/MagicMirror	Text		Magic Mirror		Magischer Spiegel
-Items/MagicMirrorDesc	Text		This mysterious piece of furniture has been enhanced in strange ways. Looking into it makes it possible to change your appearance.		Dieses mysteriöse Möbelstück wurde auf wundersame Weise verbessert. Hineinzusehen ermöglicht es, dein Erscheinungsbild zu ändern.
-Items/MagneticRing	Text		Magnetic Ring		Magnetring
-Items/MagneticRingDesc	Text		A strange ring that pulls in loot around you in a higher radius. Magnets, how do they work?		Ein merkwürdiger Ring, der Schätze aus einem größeren Radius zu dir heranzieht. Magnete, wie funktionieren sie?
-Items/MalugazTrophy	Text		Malugaz Figurine		Malugaz-Figur
-Items/MalugazTrophyDesc	Text		A lifelike representation of Malugaz the Corrupted.		Eine lebensechte Nachbildung von Malugaz, dem Verdorbenen.
-Items/Mannequin	Text		Mannequin		Mannequin
-Items/MannequinDesc	Text		A wooden figure that's great for showcasing gear and feeling less alone.		Eine Holzfigur, die sich wunderbar eignet, um Ausrüstung auszustellen und sich weniger einsam zu fühlen.
-Items/MeadowBush	Text		Meadow Bush		Wiesen-Büschel
-Items/MeadowBushDesc	Text		A golden-colored patch of meadow grass to use as a decorative.		Ein goldfarbener Wiesen-Grasbüschel. Kann zum Dekorieren verwendet werden.
-Items/MeadowTallGrass	Text		Tall Meadow Grass		Hohes Wiesengras
-Items/MeadowTallGrassDesc	Text		A large golden-colored patch of tall meadow grass to use as a decorative.		Ein großes, goldfarbenes Büschel hohes Wiesengras, kann zum Dekorieren verwendet werden.
-Items/MeadowTree	Text		Meadow Tree		Wiesenbaum
-Items/MeadowTreeDesc	Text		The tranquility of the meadow produced a Lush Tree variant that grows golden-colored leafs. Plant it back into the ground to decorate your home.		Die Friedlichkeit der Wiesen erschuf eine Variation des Üppigen Baumes, an der goldfarbene Blätter wachsen.
-Items/Meat	Text		Marbled Meat		Marmoriertes Fleisch
-Items/MeatDesc	Text		A thick slab of meat, waiting to be simmered and seasoned.		Eine dickes Stück Fleisch, das nur darauf wartet, gebraten und gewürzt zu werden.
-Items/MechanicalArm	Text		Mechanical Arm		Mechanischer Arm
-Items/MechanicalArmDesc	Text		An overgrown piece of ancient technology. The joints are stiff but it must have performed remarkable tasks in the past.		Ein bewachsenes Stück uralter Technologie. Die Gelenke sind versteift, aber es muss außergewöhnliche Taten vollbracht haben.
-Items/MechanicalPart	Text		Mechanical Part		Mechanisches Teil
-Items/MechanicalPartDesc	Text		A piece of ancient machinery.		Ein Stück uralter Maschinerie.
-Items/MeltingCrystalRing	Text		Melting Crystal Ring		Schmelzender Kristall-Ring
-Items/MeltingCrystalRingDesc	Text		A gooey ring dripping slippery slime on the floor.		Ein glibberiger Ring, von dem Schleim tropft.
-Items/MetalGrateBridge	Text		Metal Grate		Metallgitter
-Items/MetalGrateBridgeDesc	Text		A metal bridge that was used to cross lava in the molten quarry.		Eine Metallbrücke, die benutzt wurde, um die Lava im geschmolzenen Steinbruch zu überqueren.
-Items/MildewLeaf	Text		Mildew Leaf		Mehltau-Blatt
-Items/MildewLeafDesc	Text		A leaf with white mold spots on it, apart from that it looks unscathed.		Ein Blatt mit weißen Pilzflecken darauf. Davon abgesehen ist es unversehrt.
-Items/Milk	Text		Meadow Milk		Wiesenmilch
-Items/MilkDesc	Text		A bottle of milk with a slight vanilla aroma and an earthy aftertaste.		Eine Flasche Milch mit leichtem Vanille-Aroma und erdigem Nachgeschmack.
-Items/Mimite	Text	Mimite is a word combination from Mimic + Mite. Please translate accordingly into other languages	Mimite		Mimilbe
-Items/MimiteTrophy	Text		Mimite Figurine		Mimilben-Figur
-Items/MimiteTrophyDesc	Text		A lifelike representation of a Mimite.		Eine lebensechte Nachbildung einer Mimilbe.
-Items/Minecart	Text		Minecart		Minenwagen
-Items/MinecartDesc	Text		Allows riding the railways with high speed.		Erlaubt das schnelle Reisen auf Gleisen.
-Items/MinerBreastArmor	Text		Miner's Labour Suit		Minen-Arbeitsanzug
-Items/MinerBreastArmorDesc	Text		An airtight zip-up suit for working in deep caverns. The flashy orange makes it official.		Ein luftdichter Anzug mit Reißverschluss zum Arbeiten in tiefen Höhlen. Das auffällige Orange macht ihn offiziell.
-Items/MinerHelm	Text		Miner's Protective Helm		Minen-Schutzhelm
-Items/MinerHelmDesc	Text		A handy helm with integrated goggles and a still functioning headlamp.		Ein nützlicher Helm mit eingebauter Schutzbrille und einer noch funktionierenden Helmlampe.
-Items/MinerPantsArmor	Text		Miner's Worker Pants		Minen-Arbeitshose
-Items/MinerPantsArmorDesc	Text		Well-fitting pants that make traversing the underground much more convenient. Comes with squeaky rubber boots.		Eine gut passende Hose, die die Bewegung im Untergrund einfacher macht. Quietschende Gummistiefel sind im Lieferumfang inbegriffen.
-Items/MoldChest	Text		Mold Chest		Schimmel-Kiste
-Items/MoldChestDesc	Text		This ancient chest has been overgrown with mold.		Diese antike Kiste ist mit Schimmel überwuchert.
-Items/MoldCicada	Text		Mold Cicada (Sickle)		Schimmelzikade (Sichel)
-Items/MoldCicadaDesc	Text		A colossal cicada that died before it could cast off its hull. It looks like it got infected with an agressive mold that caused it to run rampage.		Eine Kolosszikade, die starb, bevor sie ihre Hülle abwerfen konnte. Anscheinend wurde sie von einem aggressiven Schimmel befallen, der sie in Raserei versetzt hat.
-Items/MoldCicadaWithoutSickle	Text		Mold Cicada		Schimmelzikade
-Items/MoldCicadaWithoutSickleDesc	Text		A colossal cicada that died before it could cast off its hull. It looks like it got infected with an agressive mold that caused it to run rampage.		Eine Kolosszikade, die starb, bevor sie ihre Hülle abwerfen konnte. Anscheinend wurde sie von einem aggressiven Schimmel befallen, der sie in Raserei versetzt hat.
-Items/MoldDestructible	Text		Mold Vessel		Schimmel-Gefäß
-Items/MoldDestructibleDesc	Text		A hollow, fuzzy fungus. Breaking it open may yield some useful goods.		Ein hohler, wuscheliger Schimmelpilz. Es könnten wertvolle Sachen darin sein.
-Items/MoldDew	Text		Mold Dew		Schimmel-Tau
-Items/MoldDewDesc	Text		Golden-colored dew that emanated from mold spores, maybe someone can find a use for it.		Goldfarbener Tau, der von großen Sporen abgesondert wird. Vielleicht hat jemand Verwendung dafür.
-Items/MoldPillar	Text		Mold Pillar		Schimmel-Säule
-Items/MoldPillarDesc	Text		An ancient pillar featuring the core, it is overgrown by mold.		Eine uralte Säule mit dem Abbild des Kerns. Sie ist mit Pilzwuchs überzogen.
-Items/MoldRing	Text		Mold Ring		Schimmel-Ring
-Items/MoldRingDesc	Text		A soft ring slowly releasing mold spores.		Ein weicher Ring, der langsam Pilzsporen freisetzt.
-Items/MoldShark	Text		Mold Shark		Schimmel-Hai
-Items/MoldSharkDesc	Text		A small predator of the murky mold waters.		Ein kleiner Jäger der trüben Schimmel-Gewässer.
-Items/MoldShell	Text		Mold Shell		Schimmel-Schneckenhaus
-Items/MoldShellDesc	Text		The fuzzy, pale housing of a critter that has moved on.		Die flaumige, bleiche Behausung einer Kreatur, die weitergezogen ist.
-Items/MoldTentacle	Text		Mold Tentacle		Schimmel-Tentakel
-Items/MoldTentacleTrophy	Text		Mold Tentacle Figurine		Schimmel-Tentakel-Figur
-Items/MoldTentacleTrophyDesc	Text		A lifelike representation of a Mold Tentacle.		Eine lebensechte Nachbildung eines Schimmel-Tentakels.
-Items/MoldTree	Text		Mold Tree		Schimmel-Baum
-Items/MoldTreeDesc	Text		A once green tree that is thoroughly infected with mold.		Ein ehemals grüner Baum, der vollständig mit Schimmel befallen ist.
-Items/MoldVeinNecklace	Text		Mold Vein Necklace		Schimmel-Aderhalskette
-Items/MoldVeinNecklaceDesc	Text		A circle of white organic filaments, it latches onto the skin.		Ein Halsreif aus weißen, organischen Filamenten, die sich an deiner Haut anheften.
-Items/MoldWell	Text		Mold Well		Schimmel-Brunnen
-Items/MoldWellDesc	Text		You surely don't want to water your plants with its contents.		Der Inhalt dieses Brunnens eignet sich auf keinen Fall für deine Pflanzen.
-Items/MoldwebBreastArmor	Text		Moldweb Breastplate		Schimmelnetz-Brustplatte
-Items/MoldwebBreastArmorDesc	Text		A chest-piece covered in living mold, hungering for big prey.		Ein Bruststück, überzogen mit lebendigem Schimmel, den es nach großer Beute hungert.
-Items/MoldwebHelm	Text		Moldweb Helm		Schimmelnetz-Helm
-Items/MoldwebHelmDesc	Text		A head-piece covered in living mold. Its pulse enhances your bodily functions.		Ein Kopfstück, überzogen mit lebendigem Schimmel. Sein Puls verbessert deine körperlichen Fähigkeiten.
-Items/MoldwebPantsArmor	Text		Moldweb Pants		Schimmelnetz-Hose
-Items/MoldwebPantsArmorDesc	Text		Legwear covered in living mold. It seems uninterested in feeding on the wearer.		Beinkleid, überzogen mit lebendigem Schimmel. Scheint den Träger nicht als Wirt zu betrachten.
-Items/MoltenButterflyWing	Text		Melting Lava Wing		Schmelzende Lavaschwinge
-Items/MoltenButterflyWingDesc	Text		The wing of a lava butterfly, swinging it causes spark to fly off in all directions.		Der Flügel eines Lavaschmetterlings. Er versprüht Funken in jede Richtung, wenn er geschwungen wird.
-Items/MorphaBag	Text		Morpha's Bubble Bag		Morphas Blubberbeutel
-Items/MorphaBagDesc	Text		An elastic bag with lots of space that formed from one of Morpha's outer growths.		Ein elastischer Beutel mit viel Platz im Inneren, der aus einem von Morphas Wüchsen entstanden ist.
-Items/MorphaChest	Text		Morpha's Chest		Morphas Kiste
-Items/MorphaChestDesc	Text		A slime-covered chest reminiscent of the Aquatic Mass.		Eine schleimbedeckte Kiste, die an die Aquatische Masse erinnert.
-Items/MorphaRing	Text		Morpha's Ring		Morphas Ring
-Items/MorphaRingDesc	Text		A strange, little loop made from blue slime, it almost slides off of your finger.		Ein kleiner, seltsamer Ring aus blauem Schleim. Er rutscht dir fast vom Finger.
-Items/MorphaTrophy	Text		Morpha Figurine		Morpha-Figur
-Items/MorphaTrophyDesc	Text		A lifelike representation of Morpha, the Aquatic Mass.		Eine lebensechte Nachbildung von Morpha, der Aquatischen Masse.
-Items/MucusAmoeba	Text		Mucus Amoeba		Mukus-Amöbe
-Items/MucusAmoebaDesc	Text		A slimy giant amoeba, it seems to be looking at you.		Eine schleimige, riesige Amöbe. Sie scheint dich genau anzusehen.
-Items/Mushroom	Text		Mushroom		Pilz
-Items/MushroomDesc	Text		A small cave mushroom, perfect for a snack on the go.		Ein kleiner Höhlenpilz, perfekt für einen Snack unterwegs.
-Items/MushroomEnemy	Text		Shrooman		Pilzbold
-Items/MushroomEnemyTrophy	Text		Shrooman Figurine		Pilzbold-Figur
-Items/MushroomEnemyTrophyDesc	Text		A lifelike representation of a shrooman.		Eine lebensechte Nachbildung eines Pilzboldes.
-Items/MushroomHelm	Text		Shrooman Cap		Pilzbold-Kappe
-Items/MushroomHelmDesc	Text		It grows on your head. You can feel your wounds growing shut along with it.		Wächst auf deinem Kopf. Du kannst spüren, wie sich deine Wunden damit schließen.
-Items/MushroomPlural	Text		Mushrooms		Pilze
-Items/MusicBowl	Text		Music Bowl		Klangschale
-Items/MusicBowlDesc	Text		A precious bowl holding a golden cylinder that once seemed to have played a melancholic melody. But it stopped working.		Eine wertvolle Schale mit einem goldenen Zylinder, die einst eine melancholische Melodie gespielt haben muss. Sie funktioniert nicht mehr.
-Items/MusicSheetCookServeDelicious3ItsDangerousToGoAlone	Text		CSD!3!? – It's Dangerous To Go Alone		CSD!3!? – It's Dangerous To Go Alone
-Items/MusicSheetCookServeDelicious3ItsDangerousToGoAloneDesc	Text		A composition containing a motivating melody. Putting it on a music sheet stand lets one play the melody with an instrument.		Eine Komposition, die eine motivierende Melodie enthält. Wird sie auf einem Notenblatt-Ständer platziert, kann man die Melodie mit einem Instrument nachspielen.
-Items/MusicSheetCoreKeeperBaseTheme	Text		Core Keeper - Base Theme		Core Keeper - Base Theme
-Items/MusicSheetCoreKeeperBaseThemeDesc	Text		A composition containing a homely melody. Putting it on a music sheet stand lets one play the melody with an instrument.		Eine Komposition, die eine heimelige Melodie enthält. Wird sie auf einem Notenblatt-Ständer platziert, kann man die Melodie mit einem Instrument nachspielen.
-Items/MusicSheetHappyBirthday	Text		Happy Birthday To You		Zum Geburtstag viel Glück
-Items/MusicSheetHappyBirthdayDesc	Text		A composition containing a celebrative birthday melody. Putting it on a music sheet stand lets one play the melody with an instrument.		Eine Komposition, die eine feierliche Geburtstagsmelodie enthält. Wird sie auf einem Notenblatt-Ständer platziert, kann man die Melodie mit einem Instrument nachspielen.
-Items/MusicSheetOwlBoyMainTheme	Text		Owlboy - Main Title		Owlboy - Main Title
-Items/MusicSheetOwlBoyMainThemeDesc	Text		A composition containing an uplifting melody. Putting it on a music sheet stand lets one play the melody with an instrument.		Eine Komposition, die eine erhebende Melodie enthält. Wird sie auf einem Notenblatt-Ständer platziert, kann man die Melodie mit einem Instrument nachspielen.
-Items/MusicSheetStand	Text		Music Sheet Stand		Notenblatt-Ständer
-Items/MusicSheetStandDesc	Text		A useful piece of furniture to prop up music sheets. When a music sheet is inserted, one can play the melody it contains with an instrument.		Ein nützliches Möbelstück, um Notenblätter daran zu fixieren. Wenn ein Notenblatt aufgestellt wurde, kann die darin enthaltene Melodie mit einem Instrument abgespielt werden.
-Items/MusicSheetStardewValleyItsABigWorldOutside	Text		Stardew Valley - Spring (It's a Big World Outside)		Stardew Valley - Spring (It's a Big World Outside)
-Items/MusicSheetStardewValleyItsABigWorldOutsideDesc	Text		A composition containing a relaxing melody. Putting it on a music sheet stand lets one play the melody with an instrument.		Eine Komposition, die eine beruhigende Melodie enthält. Wird sie auf einem Notenblatt-Ständer platziert, kann man die Melodie mit einem Instrument nachspielen.
-Items/MusicSheetTerrariaJourneysBeginning	Text		Terraria - Journey's Beginning		Terraria - Journey's Beginning
-Items/MusicSheetTerrariaJourneysBeginningDesc	Text		A composition containing an adventurous melody. Putting it on a music sheet stand lets one play the melody with an instrument.		Eine Komposition, die eine abenteuerliche Melodie enthält. Wird sie auf einem Notenblatt-Ständer platziert, kann man die Melodie mit einem Instrument nachspielen.
-Items/MusicSheetValheimMeadows	Text		Valheim - Meadows		Valheim - Meadows
-Items/MusicSheetValheimMeadowsDesc	Text		A composition containing a peaceful melody. Putting it on a music sheet stand lets one play the melody with an instrument.		Eine Komposition, die eine friedliche Melodie enthält. Wird sie auf einem Notenblatt-Ständer platziert, kann man die Melodie mit einem Instrument nachspielen.
-Items/MusicWorkbench	Text		Music Workbench		Musik-Werkbank
-Items/MusicWorkbenchDesc	Text		This writers' table sparks the inspiration for tools and compositions used to conduct music.		Dieser Schreibtisch inspiriert die Herstellung von Werkzeugen und Kompositionen, um damit Musik aufzuführen.
-Items/MysteriousIdol	Text		Mysterious Idol		Mysteriöse Statue
-Items/MysteriousIdolDesc	Text		A crystalline core statue. May attract someone looking for mysterious idols if placed in a habitable room.		Ein kristallines Abbild des Kerns. Könnte einen Sammler für mysteriöse Statuen anlocken, wenn es in einem passenden Raum platziert wird.
-Items/NatureBones	Text		Wilderness Bones		Wildnis-Knochen
-Items/NatureCavelingMoss	Text		Lush Moss		Blüten-Moos
-Items/NatureCavelingMossDesc	Text		Ground plants found in Azeos' Wilderness. They grow tiny berries that attract cavelings of the corresponding area.		Bodenpflanzen, die in Azeos' Wildnis gefunden werden. Auf ihnen wachsen winzige Beeren, die Grottlinge aus dem jeweiligen Areal anlocken.
-Items/NatureDestructible	Text		Flower Vessel		Blütengefäß
-Items/NatureDestructibleDesc	Text		A yellow plant containing organic loot.		Eine gelbe Pflanze, die organische Schätze enthält.
-Items/NatureGemstone	Text		Jungle Emerald		Dschungel-Smaragd
-Items/NatureGemstoneDesc	Text		A verdant gemstone rarely found in lush regions. Its special properties allow it to be used for higher quality crafting.		Ein grüner Edelstein, der manchmal in üppig bewachsenen Gebieten gefunden werden kann. Seine besonderen Eigenheiten lassen ihn bei der Herstellung hochwertiger Produkte zum Einsatz kommen.
-Items/NatureWoodenDestructible	Text		Overgrown Wooden Crate		Bewachsene Holzkiste
-Items/NatureWoodenDestructibleDesc	Text		A box that has been partially reclaimed by nature. It's containing useful goods.		Ein Behälter, der teilweise von der Natur zurückerobert wurde. Er enthält nützliche Gegenstände.
+Items/LockedKingChest	Text		Locked Desert King Chest	Zamknięta skrzynia pustynnego króla	Verschlossene Wüstenkönig-Kiste
+Items/LockedOctarineChest	Text		Locked Octarine Chest	&	Verschlossene Oktarin-Kiste
+Items/LockedOctarineChestDesc	Text		A clunky chest made from octarine with heavy chains strung around it. It could be opened with the right key.	&	Eine klotzige Kiste aus Oktarin mit einer schweren Kette darum. Mit dem richtigen Schlüssel könnte sie geöffnet werden.
+Items/LockedPrinceChest	Text		Locked Desert Prince Chest	Zamknięta skrzynia pustynnego księcia	Verschlossene Wüstenprinz-Kiste
+Items/LockedQueenChest	Text		Locked Desert Queen Chest	Zamknięta skrzynia pustynnej królowej	Verschlossene Wüstenkönigin-Kiste
+Items/LockedScarletChest	Text		Locked Scarlet Chest	Zamknięta szkarłatna skrzynia	Verschlossene Skarlit-Kiste
+Items/LockedScarletChestDesc	Text		A sturdy chest made from scarlet with heavy chains strung around it. It could be opened with the right key.	Solidna skrzynia wykonana ze szkarłatu z ciężkimi łańcuchami nawleczonymi wokół niej. Można ją otworzyć odpowiednim kluczem.	Eine widerstandsfähige Kiste aus Skarlit mit einer schweren Kette darum. Mit dem richtigen Schlüssel könnte sie geöffnet werden.
+Items/LockedSolariteChest	Text		Locked Solarite Chest	Zamknięta solarytowa skrzynia	Verschlossene Solarit-Kiste
+Items/LockedSolariteChestDesc	Text		A shimmering chest made from solarite with heavy chains strung around it. It could be opened with the right key.	Lśniąca skrzynia wykonana z solarytu, wokół której nawleczono ciężkie łańcuchy. Można ją otworzyć za pomocą odpowiedniego klucza.	Eine schimmernde Kiste aus Solarit, um die eine schwere Kette geschlungen ist. Mit dem richtigen Schlüssel könnte man sie öffnen.
+Items/LogicCircuit	Text		Logic Circuit	Obwód logiczny	Logik-Schaltkreis
+Items/LogicCircuitDesc	Text		Electricity can move through the circuit when it receives electricity on exactly 2 out of 3 inputs.	Prąd może przepływać przez obwód, gdy otrzymuje on energię elektryczną na dokładnie 2 z 3 wejść.	Elektrizität kann durch diesen Schaltkreis fließen, wenn exakt 2 der 3 Eingänge mit Elektrizität versorgt sind.
+Items/LoomSpinningWheel	Text		Loom	Krosno	Spinnrad
+Items/LoomSpinningWheelDesc	Text		This archaic device makes it possible to turn fiber into beautiful clothing and costumes.	To archaiczne urządzenie umożliwia przekształcanie włókien w piękne ubrania i kostiumy.	Dieses altertümliche Gerät macht es möglich, aus Fasern wunderschöne Kleider und Kostüme herzustellen.
+Items/LooseFlooring	Text	"A decorative flooring item like bricks or stone plates, they can change design a bit depending on what the player color them hence why we don't call it just ""stone plates"" or so"	Loose Flooring	Luźne kamienie	Loser Bodenbelag
+Items/LooseFlooringDesc	Text		A collection of workable groundcover made from clay. A true hobbyist might turn them into different shapes and colors.	Kolekcja nadających się do użytku materiałów gruntowych wykonanych z gliny. Prawdziwy hobbysta może zmienić je w różne kształty i kolory.	Eine Ansammlung bearbeitbarer Lehmplättchen. Ein Hobbybastler könnte ihnen eine andere Form und Farbe verleihen.
+Items/LostPaddle	Text		Lost Paddle	Zagubione wiosło	Verlorenes Paddel
+Items/LostPaddleDesc	Text		Somewhere someone must paddle around in circles.	Gdzieś ktoś musi wiosłować w kółko.	Irgendwo rudert irgendjemand im Kreis.
+Items/LucentOakTree	Text		Lucent Oak	Błyszczący dąb	Schiller-Eiche
+Items/LucentOakTreeDesc	Text		What once seemed to have been a normal tree got permeated by crystals, turning it into a living work of art.	To, co kiedyś wydawało się zwykłym drzewem, zostało przeniknięte przez kryształy, zamieniając je w żywe dzieło sztuki.	Dieser einst gewöhnliche Baum wurde von Kristallen durchdrungen, die ihn in ein lebendiges Kunstwerk verwandelt haben.
+Items/LuckyRing	Text		Lucky Ring	Szczęśliwy pierścień	Glücksring
+Items/LuckyRingDesc	Text		A cheaply made ring from a vending machine. If you believe hard enough you may feel more lucky.	Tandetnie wykonany pierścionek z automatu. Jeśli uwierzysz wystarczająco mocno, możesz poczuć przypływ szczęścia.	Ein billiger Ring aus einem Automaten. Wenn du fest genug dran glaubst, hast du vielleicht wirklich mehr Glück.
+Items/LumpOfCoal	Text		Lump of Coal	Bryła węgla	Kohleklumpen
+Items/LumpOfCoalDesc	Text		A dusty piece of coal that leaves your hands black and your conscience tainted. Have you perhaps been naughty?	Pylisty kawałek węgla, który pozostawia twoje ręce czarne, a sumienie skażone. Może byłeś niegrzeczny?	Ein staubiges Stück Kohle, das die Hände schwarz färbt und das Gewissen trübt. Warst du vielleicht nicht ganz artig?
+Items/Lunacorn	Text		Lunacorn	Lunarydza	Lunakorn
+Items/LunacornDesc	Text		A mealy, colorful crop that increases your toughness.	Mączysta, kolorowa roślina, która zwiększa wytrzymałość.	Ein mehliges, buntes Getreide, das dich zäher macht.
+Items/LunacornRare	Text		Golden Lunacorn	Złota lunarydza	Goldenes Lunakorn
+Items/LunacornRareDesc	Text		A very rare variant of the common lunacorn.	Bardzo rzadki wariant zwykłej lunarydzy	Eine sehr seltene Variante des Lunakorns.
+Items/LunacornSeed	Text		Lunacorn Seed	Nasiono lunarydzy	Lunakorn-Samen
+Items/LunacornSeedDesc	Text		Grows into an inspiriting crop when planted. Only grows in crystal ground.	Po zasadzeniu daje ożywiające plony. Rośnie tylko w kryształowej ziemi.	Wächst zu einem belebenden Getreide heran, wenn er eingepflanzt wird. Wächst nur in Kristallboden.
+Items/LuxuriousHandmirror	Text		Luxurious Handmirror	Luksusowe lusterko	Luxuriöser Handspiegel
+Items/LuxuriousHandmirrorDesc	Text		A hand-held mirror in great condition. Clearly someone had a sense of beauty.	Ręczne lusterko w świetnym stanie. Najwyraźniej ktoś miał poczucie piękna.	Ein handlicher Spiegel in wunderbarer Verfassung. Jemand hatte einen Sinn fürs Schöne.
+Items/MagicMirror	Text		Magic Mirror	Magiczne zwierciadło	Magischer Spiegel
+Items/MagicMirrorDesc	Text		This mysterious piece of furniture has been enhanced in strange ways. Looking into it makes it possible to change your appearance.	Ten tajemniczy mebel został udoskonalony w dziwny sposób. Spojrzenie w niego umożliwia zmianę wyglądu.	Dieses mysteriöse Möbelstück wurde auf wundersame Weise verbessert. Hineinzusehen ermöglicht es, dein Erscheinungsbild zu ändern.
+Items/MagneticRing	Text		Magnetic Ring	Pierścień magnetyczny	Magnetring
+Items/MagneticRingDesc	Text		A strange ring that pulls in loot around you in a higher radius. Magnets, how do they work?	Dziwny pierścień, który przyciąga przedmioty w większym zasięgu. Magnesy, jak one działają?	Ein merkwürdiger Ring, der Schätze aus einem größeren Radius zu dir heranzieht. Magnete, wie funktionieren sie?
+Items/MalugazTrophy	Text		Malugaz Figurine	Figurka Malugaza	Malugaz-Figur
+Items/MalugazTrophyDesc	Text		A lifelike representation of Malugaz the Corrupted.	Realistycznie odwzorowany Malugaz Skażony	Eine lebensechte Nachbildung von Malugaz, dem Verdorbenen.
+Items/Mannequin	Text		Mannequin	Manekin	Mannequin
+Items/MannequinDesc	Text		A wooden figure that's great for showcasing gear and feeling less alone.	Drewniana figurka, która świetnie nadaje się do prezentowania sprzętu i poczucia się mniej samotnym.	Eine Holzfigur, die sich wunderbar eignet, um Ausrüstung auszustellen und sich weniger einsam zu fühlen.
+Items/MeadowBush	Text		Meadow Bush	Krzak łąkowy	Wiesen-Büschel
+Items/MeadowBushDesc	Text		A golden-colored patch of meadow grass to use as a decorative.	Złocisty płat trawy łąkowej do wykorzystania jako dekoracja.	Ein goldfarbener Wiesen-Grasbüschel. Kann zum Dekorieren verwendet werden.
+Items/MeadowTallGrass	Text		Tall Meadow Grass	Wysoka trawa łąkowa	Hohes Wiesengras
+Items/MeadowTallGrassDesc	Text		A large golden-colored patch of tall meadow grass to use as a decorative.	Duży płat złocistej wysokiej trawy łąkowej do wykorzystania jako dekoracja.	Ein großes, goldfarbenes Büschel hohes Wiesengras, kann zum Dekorieren verwendet werden.
+Items/MeadowTree	Text		Meadow Tree	Drzewo łąkowe	Wiesenbaum
+Items/MeadowTreeDesc	Text		The tranquility of the meadow produced a Lush Tree variant that grows golden-colored leafs. Plant it back into the ground to decorate your home.	Spokój łąki zaowocował odmianą bujnego drzewa o złocistych liściach. Posadź je z powrotem w ziemi, aby udekorować swój dom.	Die Friedlichkeit der Wiesen erschuf eine Variation des Üppigen Baumes, an der goldfarbene Blätter wachsen.
+Items/Meat	Text		Marbled Meat	Marmurkowe mięso	Marmoriertes Fleisch
+Items/MeatDesc	Text		A thick slab of meat, waiting to be simmered and seasoned.	Gruby płat mięsa, czekający na ugotowanie i doprawienie.	Eine dickes Stück Fleisch, das nur darauf wartet, gebraten und gewürzt zu werden.
+Items/MechanicalArm	Text		Mechanical Arm	Mechaniczne ramię	Mechanischer Arm
+Items/MechanicalArmDesc	Text		An overgrown piece of ancient technology. The joints are stiff but it must have performed remarkable tasks in the past.	Zarośnięty kawałek starożytnej technologii. Stawy są sztywne, ale w przeszłości musiało wykonywać niezwykłe zadania.	Ein bewachsenes Stück uralter Technologie. Die Gelenke sind versteift, aber es muss außergewöhnliche Taten vollbracht haben.
+Items/MechanicalPart	Text		Mechanical Part	Część mechaniczna	Mechanisches Teil
+Items/MechanicalPartDesc	Text		A piece of ancient machinery.	Kawałek starożytnej maszynerii.	Ein Stück uralter Maschinerie.
+Items/MeltingCrystalRing	Text		Melting Crystal Ring	Topniejący pierścień z kryształem	Schmelzender Kristall-Ring
+Items/MeltingCrystalRingDesc	Text		A gooey ring dripping slippery slime on the floor.	Gęsty pierścień kapiący śliskim śluzem na podłogę.	Ein glibberiger Ring, von dem Schleim tropft.
+Items/MetalGrateBridge	Text	&	Metal Grate	Metalowa krata	Metallgitter
+Items/MetalGrateBridgeDesc	Text		A metal bridge that was used to cross lava in the molten quarry.	Metalowy most, który był używany do przekraczania lawy w roztopionym kamieniołomie.	Eine Metallbrücke, die benutzt wurde, um die Lava im geschmolzenen Steinbruch zu überqueren.
+Items/MildewLeaf	Text		Mildew Leaf	Liść z pleśnią	Mehltau-Blatt
+Items/MildewLeafDesc	Text		A leaf with white mold spots on it, apart from that it looks unscathed.	Liść z białymi plamami pleśni, poza tym wygląda na nietknięty.	Ein Blatt mit weißen Pilzflecken darauf. Davon abgesehen ist es unversehrt.
+Items/Milk	Text		Meadow Milk	Mleko łąkowe	Wiesenmilch
+Items/MilkDesc	Text		A bottle of milk with a slight vanilla aroma and an earthy aftertaste.	Butelka mleka z lekkim aromatem wanilii i ziemistym posmakiem.	Eine Flasche Milch mit leichtem Vanille-Aroma und erdigem Nachgeschmack.
+Items/Mimite	Text	Mimite is a word combination from Mimic + Mite. Please translate accordingly into other languages	Mimite	Mimocz	Mimilbe
+Items/MimiteTrophy	Text		Mimite Figurine	Figurka Mimoczy	Mimilben-Figur
+Items/MimiteTrophyDesc	Text		A lifelike representation of a Mimite.	Realistyczna reprezentacja Mimoczy.	Eine lebensechte Nachbildung einer Mimilbe.
+Items/Minecart	Text		Minecart	Wagonik	Minenwagen
+Items/MinecartDesc	Text		Allows riding the railways with high speed.	Umożliwia jazdę po torach z dużą prędkością.	Erlaubt das schnelle Reisen auf Gleisen.
+Items/MinerBreastArmor	Text		Miner's Labour Suit	Strój roboczy górnika	Minen-Arbeitsanzug
+Items/MinerBreastArmorDesc	Text		An airtight zip-up suit for working in deep caverns. The flashy orange makes it official.	Szczelny kombinezon z zamkiem błyskawicznym do pracy w głębokich jaskiniach. Pomarańczowy kolor nadaje mu oficjalny charakter.	Ein luftdichter Anzug mit Reißverschluss zum Arbeiten in tiefen Höhlen. Das auffällige Orange macht ihn offiziell.
+Items/MinerHelm	Text		Miner's Protective Helm	Kask ochronny górnika	Minen-Schutzhelm
+Items/MinerHelmDesc	Text		A handy helm with integrated goggles and a still functioning headlamp.	Poręczny kask ze zintegrowanymi goglami i wciąż działającą latarką czołową.	Ein nützlicher Helm mit eingebauter Schutzbrille und einer noch funktionierenden Helmlampe.
+Items/MinerPantsArmor	Text		Miner's Worker Pants	Spodnie robocze górnika	Minen-Arbeitshose
+Items/MinerPantsArmorDesc	Text		Well-fitting pants that make traversing the underground much more convenient. Comes with squeaky rubber boots.	Dobrze dopasowane spodnie, które sprawiają, że przemierzanie podziemi jest znacznie wygodniejsze. W zestawie piskliwe gumowe buty.	Eine gut passende Hose, die die Bewegung im Untergrund einfacher macht. Quietschende Gummistiefel sind im Lieferumfang inbegriffen.
+Items/MoldChest	Text		Mold Chest	Skrzynia pokryta pleśnią	Schimmel-Kiste
+Items/MoldChestDesc	Text		This ancient chest has been overgrown with mold.	Ta starożytna skrzynia została porośnięta pleśnią.	Diese antike Kiste ist mit Schimmel überwuchert.
+Items/MoldCicada	Text		Mold Cicada (Sickle)	Spleśniała cykada (sierp)	Schimmelzikade (Sichel)
+Items/MoldCicadaDesc	Text		A colossal cicada that died before it could cast off its hull. It looks like it got infected with an agressive mold that caused it to run rampage.	Kolosalna cykada, która zginęła, zanim zdążyła zrzucić swój pancerz. Wygląda na to, że została zainfekowana agresywną pleśnią, która doprowadziła ją do szału.	Eine Kolosszikade, die starb, bevor sie ihre Hülle abwerfen konnte. Anscheinend wurde sie von einem aggressiven Schimmel befallen, der sie in Raserei versetzt hat.
+Items/MoldCicadaWithoutSickle	Text		Mold Cicada	Spleśniała cykada	Schimmelzikade
+Items/MoldCicadaWithoutSickleDesc	Text		A colossal cicada that died before it could cast off its hull. It looks like it got infected with an agressive mold that caused it to run rampage.	Kolosalna cykada, która zginęła, zanim zdążyła zrzucić swój pancerz. Wygląda na to, że została zainfekowana agresywną pleśnią, która doprowadziła ją do szału.	Eine Kolosszikade, die starb, bevor sie ihre Hülle abwerfen konnte. Anscheinend wurde sie von einem aggressiven Schimmel befallen, der sie in Raserei versetzt hat.
+Items/MoldDestructible	Text		Mold Vessel	Kula pleśni	Schimmel-Gefäß
+Items/MoldDestructibleDesc	Text		A hollow, fuzzy fungus. Breaking it open may yield some useful goods.	Wydrążony, puszysty grzyb. Jego rozłupanie może ujawnić kilka przydatnych rzeczy.	Ein hohler, wuscheliger Schimmelpilz. Es könnten wertvolle Sachen darin sein.
+Items/MoldDew	Text		Mold Dew	Spleśniała rosa	Schimmel-Tau
+Items/MoldDewDesc	Text		Golden-colored dew that emanated from mold spores, maybe someone can find a use for it.	Rosa o złotym kolorze, która emanowała z zarodników pleśni, może ktoś znajdzie dla niej zastosowanie.	Goldfarbener Tau, der von großen Sporen abgesondert wird. Vielleicht hat jemand Verwendung dafür.
+Items/MoldPillar	Text		Mold Pillar	Filar pokryty pleśnią	Schimmel-Säule
+Items/MoldPillarDesc	Text		An ancient pillar featuring the core, it is overgrown by mold.	Starożytny filar przedstawiający rdzeń, jest porośnięty pleśnią.	Eine uralte Säule mit dem Abbild des Kerns. Sie ist mit Pilzwuchs überzogen.
+Items/MoldRing	Text		Mold Ring	Pierścień pleśni	Schimmel-Ring
+Items/MoldRingDesc	Text		A soft ring slowly releasing mold spores.	Miękki pierścień powoli uwalniający zarodniki pleśni.	Ein weicher Ring, der langsam Pilzsporen freisetzt.
+Items/MoldShark	Text		Mold Shark	Rekin pokryty pleśnią	Schimmel-Hai
+Items/MoldSharkDesc	Text		A small predator of the murky mold waters.	Mały drapieżnik w mętnych wodach pleśni.	Ein kleiner Jäger der trüben Schimmel-Gewässer.
+Items/MoldShell	Text		Mold Shell	Skorupa pokryta pleśnią	Schimmel-Schneckenhaus
+Items/MoldShellDesc	Text		The fuzzy, pale housing of a critter that has moved on.	Puszysta, blada powłoka zwierzęcia, które odeszło.	Die flaumige, bleiche Behausung einer Kreatur, die weitergezogen ist.
+Items/MoldTentacle	Text		Mold Tentacle	Macka pleśni	Schimmel-Tentakel
+Items/MoldTentacleTrophy	Text		Mold Tentacle Figurine	Figurka macki pleśni	Schimmel-Tentakel-Figur
+Items/MoldTentacleTrophyDesc	Text		A lifelike representation of a Mold Tentacle.	Realistycznie odwzorowana macka pleśni.	Eine lebensechte Nachbildung eines Schimmel-Tentakels.
+Items/MoldTree	Text		Mold Tree	Drzewo pleśniowe	Schimmel-Baum
+Items/MoldTreeDesc	Text		A once green tree that is thoroughly infected with mold.	Niegdyś zielone drzewo zostało całkowicie zainfekowane pleśnią.	Ein ehemals grüner Baum, der vollständig mit Schimmel befallen ist.
+Items/MoldVeinNecklace	Text		Mold Vein Necklace	Naszyjnik z żył pleśni	Schimmel-Aderhalskette
+Items/MoldVeinNecklaceDesc	Text		A circle of white organic filaments, it latches onto the skin.	Jest to krąg białych włókien organicznych, które przyczepiają się do skóry.	Ein Halsreif aus weißen, organischen Filamenten, die sich an deiner Haut anheften.
+Items/MoldWell	Text		Mold Well	Studnia pleśniowa	Schimmel-Brunnen
+Items/MoldWellDesc	Text		You surely don't want to water your plants with its contents.	Z pewnością nie chcesz podlewać roślin jej zawartością.	Der Inhalt dieses Brunnens eignet sich auf keinen Fall für deine Pflanzen.
+Items/MoldwebBreastArmor	Text		Moldweb Breastplate	Pleśniowy napierśnik	Schimmelnetz-Brustplatte
+Items/MoldwebBreastArmorDesc	Text		A chest-piece covered in living mold, hungering for big prey.	Napierśnik pokryty żywą pleśnią, łaknącą dużej zdobyczy.	Ein Bruststück, überzogen mit lebendigem Schimmel, den es nach großer Beute hungert.
+Items/MoldwebHelm	Text		Moldweb Helm	Pleśniowy hełm	Schimmelnetz-Helm
+Items/MoldwebHelmDesc	Text		A head-piece covered in living mold. Its pulse enhances your bodily functions.	Nakrycie głowy pokryte żywą pleśnią. Jej puls poprawia funkcje organizmu.	Ein Kopfstück, überzogen mit lebendigem Schimmel. Sein Puls verbessert deine körperlichen Fähigkeiten.
+Items/MoldwebPantsArmor	Text		Moldweb Pants	Pleśniowe spodnie	Schimmelnetz-Hose
+Items/MoldwebPantsArmorDesc	Text		Legwear covered in living mold. It seems uninterested in feeding on the wearer.	Odzież na nogi pokryta żywą pleśnią. Nie wydaje się ona zainteresowana żerowaniem na użytkowniku.	Beinkleid, überzogen mit lebendigem Schimmel. Scheint den Träger nicht als Wirt zu betrachten.
+Items/MoltenButterflyWing	Text		Melting Lava Wing	Skrzydło z topniejącej lawy	Schmelzende Lavaschwinge
+Items/MoltenButterflyWingDesc	Text		The wing of a lava butterfly, swinging it causes spark to fly off in all directions.	Skrzydło motyla lawowego, którego machnięcie powoduje wyrzucenie iskier we wszystkich kierunkach.	Der Flügel eines Lavaschmetterlings. Er versprüht Funken in jede Richtung, wenn er geschwungen wird.
+Items/MorphaBag	Text		Morpha's Bubble Bag	Torba bąbelkowa Morphy	Morphas Blubberbeutel
+Items/MorphaBagDesc	Text		An elastic bag with lots of space that formed from one of Morpha's outer growths.	Elastyczna torba z dużą ilością miejsca, która powstała z jednej z zewnętrznych części Morphy 	Ein elastischer Beutel mit viel Platz im Inneren, der aus einem von Morphas Wüchsen entstanden ist.
+Items/MorphaChest	Text		Morpha's Chest	Skrzynia Morphy	Morphas Kiste
+Items/MorphaChestDesc	Text	&	A slime-covered chest reminiscent of the Aquatic Mass.	Pokryta szlamem skrzynia przypomina Wodnego.	Eine schleimbedeckte Kiste, die an die Aquatische Masse erinnert.
+Items/MorphaRing	Text		Morpha's Ring	Pierścień Morphy	Morphas Ring
+Items/MorphaRingDesc	Text		A strange, little loop made from blue slime, it almost slides off of your finger.	Dziwna, mała pętla wykonana z niebieskiego szlamu, prawie zsuwa się z palca.	Ein kleiner, seltsamer Ring aus blauem Schleim. Er rutscht dir fast vom Finger.
+Items/MorphaTrophy	Text		Morpha Figurine	Figurka Morphy	Morpha-Figur
+Items/MorphaTrophyDesc	Text	&	A lifelike representation of Morpha, the Aquatic Mass.	Realistycznie odwzorowany Morpha Wodny.	Eine lebensechte Nachbildung von Morpha, der Aquatischen Masse.
+Items/MucusAmoeba	Text		Mucus Amoeba	Ameba śluzowa	Mukus-Amöbe
+Items/MucusAmoebaDesc	Text		A slimy giant amoeba, it seems to be looking at you.	Oślizgła gigantyczna ameba, wydaje się patrzeć na ciebie.	Eine schleimige, riesige Amöbe. Sie scheint dich genau anzusehen.
+Items/Mushroom	Text		Mushroom	Grzyb	Pilz
+Items/MushroomDesc	Text		A small cave mushroom, perfect for a snack on the go.	Mały grzyb jaskiniowy, idealny na przekąskę w podróży.	Ein kleiner Höhlenpilz, perfekt für einen Snack unterwegs.
+Items/MushroomEnemy	Text		Shrooman	Grzyboludek	Pilzbold
+Items/MushroomEnemyTrophy	Text		Shrooman Figurine	Figurka grzyboludka	Pilzbold-Figur
+Items/MushroomEnemyTrophyDesc	Text		A lifelike representation of a shrooman.	Realistyczna reprezentacja grzyboludka.	Eine lebensechte Nachbildung eines Pilzboldes.
+Items/MushroomHelm	Text		Shrooman Cap	Czapka grzyboludka	Pilzbold-Kappe
+Items/MushroomHelmDesc	Text		It grows on your head. You can feel your wounds growing shut along with it.	Rośnie na twojej głowie. Czujesz, jak twoje rany zamykają się przy jej pomocy.	Wächst auf deinem Kopf. Du kannst spüren, wie sich deine Wunden damit schließen.
+Items/MushroomPlural	Text		Mushrooms	Grzyby	Pilze
+Items/MusicBowl	Text		Music Bowl	Muzyczna miska	Klangschale
+Items/MusicBowlDesc	Text		A precious bowl holding a golden cylinder that once seemed to have played a melancholic melody. But it stopped working.	Cenna misa zawierająca złoty cylinder, który kiedyś wydawał się grać melancholijną melodię. Ale przestał działać.	Eine wertvolle Schale mit einem goldenen Zylinder, die einst eine melancholische Melodie gespielt haben muss. Sie funktioniert nicht mehr.
+Items/MusicSheetCookServeDelicious3ItsDangerousToGoAlone	Text		CSD!3!? – It's Dangerous To Go Alone	CSD!3!? – It's Dangerous To Go Alone	CSD!3!? – It's Dangerous To Go Alone
+Items/MusicSheetCookServeDelicious3ItsDangerousToGoAloneDesc	Text		A composition containing a motivating melody. Putting it on a music sheet stand lets one play the melody with an instrument.	Kompozycja zawierająca motywującą melodię. Umieszczenie jej na stojaku na nuty pozwala zagrać melodię na instrumencie.	Eine Komposition, die eine motivierende Melodie enthält. Wird sie auf einem Notenblatt-Ständer platziert, kann man die Melodie mit einem Instrument nachspielen.
+Items/MusicSheetCoreKeeperBaseTheme	Text		Core Keeper - Base Theme	Core Keeper - Motyw Główny	Core Keeper - Base Theme
+Items/MusicSheetCoreKeeperBaseThemeDesc	Text		A composition containing a homely melody. Putting it on a music sheet stand lets one play the melody with an instrument.	Kompozycja zawierająca przyjazną melodię. Umieszczenie jej na stojaku na nuty pozwala zagrać melodię na instrumencie.	Eine Komposition, die eine heimelige Melodie enthält. Wird sie auf einem Notenblatt-Ständer platziert, kann man die Melodie mit einem Instrument nachspielen.
+Items/MusicSheetHappyBirthday	Text		Happy Birthday To You	Happy Birthday To You	Zum Geburtstag viel Glück
+Items/MusicSheetHappyBirthdayDesc	Text		A composition containing a celebrative birthday melody. Putting it on a music sheet stand lets one play the melody with an instrument.	Kompozycja zawierająca uroczystą melodię urodzinową. Umieszczenie jej na stojaku na nuty pozwala zagrać melodię na instrumencie.	Eine Komposition, die eine feierliche Geburtstagsmelodie enthält. Wird sie auf einem Notenblatt-Ständer platziert, kann man die Melodie mit einem Instrument nachspielen.
+Items/MusicSheetOwlBoyMainTheme	Text		Owlboy - Main Title	Owlboy - Main Title	Owlboy - Main Title
+Items/MusicSheetOwlBoyMainThemeDesc	Text		A composition containing an uplifting melody. Putting it on a music sheet stand lets one play the melody with an instrument.	Kompozycja zawierająca podnoszącą na duchu melodię. Umieszczenie jej na stojaku na nuty pozwala zagrać melodię na instrumencie.	Eine Komposition, die eine erhebende Melodie enthält. Wird sie auf einem Notenblatt-Ständer platziert, kann man die Melodie mit einem Instrument nachspielen.
+Items/MusicSheetStand	Text		Music Sheet Stand	Stojak na nuty	Notenblatt-Ständer
+Items/MusicSheetStandDesc	Text		A useful piece of furniture to prop up music sheets. When a music sheet is inserted, one can play the melody it contains with an instrument.	Przydatny sprzęt do podpierania zapisów nutowych. Po włożeniu arkusza muzycznego można zagrać zawartą w nim melodię na instrumencie.	Ein nützliches Möbelstück, um Notenblätter daran zu fixieren. Wenn ein Notenblatt aufgestellt wurde, kann die darin enthaltene Melodie mit einem Instrument abgespielt werden.
+Items/MusicSheetStardewValleyItsABigWorldOutside	Text		Stardew Valley - Spring (It's a Big World Outside)	Stardew Valley - Spring (It's a Big World Outside)	Stardew Valley - Spring (It's a Big World Outside)
+Items/MusicSheetStardewValleyItsABigWorldOutsideDesc	Text		A composition containing a relaxing melody. Putting it on a music sheet stand lets one play the melody with an instrument.	Kompozycja zawierająca relaksującą melodię. Umieszczenie jej na stojaku na nuty pozwala zagrać melodię na instrumencie.	Eine Komposition, die eine beruhigende Melodie enthält. Wird sie auf einem Notenblatt-Ständer platziert, kann man die Melodie mit einem Instrument nachspielen.
+Items/MusicSheetTerrariaJourneysBeginning	Text		Terraria - Journey's Beginning	Terraria - Journey's Beginning	Terraria - Journey's Beginning
+Items/MusicSheetTerrariaJourneysBeginningDesc	Text		A composition containing an adventurous melody. Putting it on a music sheet stand lets one play the melody with an instrument.	Kompozycja zawierająca pełną przygód melodię. Umieszczenie jej na stojaku na nuty pozwala zagrać melodię na instrumencie.	Eine Komposition, die eine abenteuerliche Melodie enthält. Wird sie auf einem Notenblatt-Ständer platziert, kann man die Melodie mit einem Instrument nachspielen.
+Items/MusicSheetValheimMeadows	Text		Valheim - Meadows	Valheim - Meadows	Valheim - Meadows
+Items/MusicSheetValheimMeadowsDesc	Text		A composition containing a peaceful melody. Putting it on a music sheet stand lets one play the melody with an instrument.	Kompozycja zawierająca spokojną melodię. Umieszczenie jej na stojaku na nuty pozwala zagrać melodię na instrumencie.	Eine Komposition, die eine friedliche Melodie enthält. Wird sie auf einem Notenblatt-Ständer platziert, kann man die Melodie mit einem Instrument nachspielen.
+Items/MusicWorkbench	Text		Music Workbench	Muzyczny stół warsztatowy	Musik-Werkbank
+Items/MusicWorkbenchDesc	Text		This writers' table sparks the inspiration for tools and compositions used to conduct music.	Ten stół pisarski jest inspiracją do tworzenia narzędzi i kompozycji wykorzystywanych do prowadzenia muzyki.	Dieser Schreibtisch inspiriert die Herstellung von Werkzeugen und Kompositionen, um damit Musik aufzuführen.
+Items/MysteriousIdol	Text		Mysterious Idol	Tajemniczy posążek	Mysteriöse Statue
+Items/MysteriousIdolDesc	Text		A crystalline core statue. May attract someone looking for mysterious idols if placed in a habitable room.	Posążek z krystalicznym rdzeniem. Może przyciągnąć kogoś szukającego tajemniczych bożków, jeśli zostanie umieszczony w pomieszczeniu mieszkalnym.	Ein kristallines Abbild des Kerns. Könnte einen Sammler für mysteriöse Statuen anlocken, wenn es in einem passenden Raum platziert wird.
+Items/NatureBones	Text	&	Wilderness Bones	Dzikie kości	Wildnis-Knochen
+Items/NatureCavelingMoss	Text		Lush Moss	Bujny mech	Blüten-Moos
+Items/NatureCavelingMossDesc	Text		Ground plants found in Azeos' Wilderness. They grow tiny berries that attract cavelings of the corresponding area.	Rośliny naziemne występujące na pustkowiach Azeos. Rosną na nich małe jagody, które przyciągają jaskiniowców z danego obszaru.	Bodenpflanzen, die in Azeos' Wildnis gefunden werden. Auf ihnen wachsen winzige Beeren, die Grottlinge aus dem jeweiligen Areal anlocken.
+Items/NatureDestructible	Text		Flower Vessel	Naczynie kwiatowe	Blütengefäß
+Items/NatureDestructibleDesc	Text		A yellow plant containing organic loot.	Żółta roślina zawierająca organiczne łupy.	Eine gelbe Pflanze, die organische Schätze enthält.
+Items/NatureGemstone	Text		Jungle Emerald	Dżunglowy szmaragd	Dschungel-Smaragd
+Items/NatureGemstoneDesc	Text		A verdant gemstone rarely found in lush regions. Its special properties allow it to be used for higher quality crafting.	Zielony kamień szlachetny rzadko spotykany w bujnych regionach. Jego specjalne właściwości pozwalają na wykorzystanie go w rzemiośle wyższej jakości.	Ein grüner Edelstein, der manchmal in üppig bewachsenen Gebieten gefunden werden kann. Seine besonderen Eigenheiten lassen ihn bei der Herstellung hochwertiger Produkte zum Einsatz kommen.
+Items/NatureWoodenDestructible	Text		Overgrown Wooden Crate	Zarośnięta drewniana skrzynia	Bewachsene Holzkiste
+Items/NatureWoodenDestructibleDesc	Text		A box that has been partially reclaimed by nature. It's containing useful goods.	Pudełko, które zostało częściowo przejęte przez naturę. Zawiera przydatne towary.	Ein Behälter, der teilweise von der Natur zurückerobert wurde. Er enthält nützliche Gegenstände.
 Items/NilipedeTrophy	Text	"Change the translations in a way that it relates to the Nilipede having no legs if you haven't already. Nil is latin for ""zero""."	Nilipede Figurine		Nullfüßler-Figur
 Items/NilipedeTrophyDesc	Text	"Change the translations in a way that it relates to the Nilipede having no legs if you haven't already. Nil is latin for ""zero""."	A lifelike representation of a Nilipede.		Eine lebensechte Nachbildung eines Nullfüßlers.
 Items/NinjaBreastArmor	Text		Ninja Garments		Ninja-Gewand
