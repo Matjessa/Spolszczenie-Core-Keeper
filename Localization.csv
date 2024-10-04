@@ -2808,16 +2808,16 @@ Items/NatureGemstone	Text		Jungle Emerald	Dżunglowy szmaragd	Dschungel-Smaragd
 Items/NatureGemstoneDesc	Text		A verdant gemstone rarely found in lush regions. Its special properties allow it to be used for higher quality crafting.	Zielony kamień szlachetny rzadko spotykany w bujnych regionach. Jego specjalne właściwości pozwalają na wykorzystanie go w rzemiośle wyższej jakości.	Ein grüner Edelstein, der manchmal in üppig bewachsenen Gebieten gefunden werden kann. Seine besonderen Eigenheiten lassen ihn bei der Herstellung hochwertiger Produkte zum Einsatz kommen.
 Items/NatureWoodenDestructible	Text		Overgrown Wooden Crate	Zarośnięta drewniana skrzynia	Bewachsene Holzkiste
 Items/NatureWoodenDestructibleDesc	Text		A box that has been partially reclaimed by nature. It's containing useful goods.	Pudełko, które zostało częściowo przejęte przez naturę. Zawiera przydatne towary.	Ein Behälter, der teilweise von der Natur zurückerobert wurde. Er enthält nützliche Gegenstände.
-Items/NilipedeTrophy	Text	"Change the translations in a way that it relates to the Nilipede having no legs if you haven't already. Nil is latin for ""zero""."	Nilipede Figurine		Nullfüßler-Figur
-Items/NilipedeTrophyDesc	Text	"Change the translations in a way that it relates to the Nilipede having no legs if you haven't already. Nil is latin for ""zero""."	A lifelike representation of a Nilipede.		Eine lebensechte Nachbildung eines Nullfüßlers.
-Items/NinjaBreastArmor	Text		Ninja Garments		Ninja-Gewand
-Items/NinjaBreastArmorDesc	Text	Should be written with 7 syllables, like the second sentence in a haiku.	Moving swiftly as the wind.		Der Schritt vom Wind beflügelt.
-Items/NinjaHelm	Text		Ninja Cowl		Ninja-Kapuze
-Items/NinjaHelmDesc	Text	Should be written with 5 syllables, like the first sentence in a haiku.	Hidden by the dark.		In Schatten gehüllt.
-Items/NinjaPantsArmor	Text		Ninja Leggings		Ninja-Gamaschen
-Items/NinjaPantsArmorDesc	Text	Should be written with 5 syllables, like the last sentence in a haiku.	Gone without a sound.		Ohne Spur entschwunden.
-Items/NobleRing	Text		Noble Ring		Nobler Ring
-Items/NobleRingDesc	Text		An expensive looking ring featuring a ruby. It must have belonged to someone wealthy.		Ein teuer anmutender Ring, verziert mit einem Rubin. Er hat sicher einer sehr wohlhabenden Person gehört.
+Items/NilipedeTrophy	Text	"Change the translations in a way that it relates to the Nilipede having no legs if you haven't already. Nil is latin for ""zero""."	Nilipede Figurine	Nullsienica	Nullfüßler-Figur
+Items/NilipedeTrophyDesc	Text	"Change the translations in a way that it relates to the Nilipede having no legs if you haven't already. Nil is latin for ""zero""."	A lifelike representation of a Nilipede.	Realistyczna reprezentacja Nullsienica.	Eine lebensechte Nachbildung eines Nullfüßlers.
+Items/NinjaBreastArmor	Text		Ninja Garments	Odzież Ninja	Ninja-Gewand
+Items/NinjaBreastArmorDesc	Text	Should be written with 7 syllables, like the second sentence in a haiku.	Moving swiftly as the wind.	&	Der Schritt vom Wind beflügelt.
+Items/NinjaHelm	Text		Ninja Cowl	Kaptur Ninja	Ninja-Kapuze
+Items/NinjaHelmDesc	Text	Should be written with 5 syllables, like the first sentence in a haiku.	Hidden by the dark.	&	In Schatten gehüllt.
+Items/NinjaPantsArmor	Text		Ninja Leggings	Legginsy Ninja	Ninja-Gamaschen
+Items/NinjaPantsArmorDesc	Text	Should be written with 5 syllables, like the last sentence in a haiku.	Gone without a sound.	&	Ohne Spur entschwunden.
+Items/NobleRing	Text		Noble Ring	Szlachetny Pierścień	Nobler Ring
+Items/NobleRingDesc	Text		An expensive looking ring featuring a ruby. It must have belonged to someone wealthy.	Drogo wyglądający pierścień z rubinem. Musiał należeć do kogoś bogatego.	Ein teuer anmutender Ring, verziert mit einem Rubin. Er hat sicher einer sehr wohlhabenden Person gehört.
 Items/NomadNecklace	Text		Nomad Necklace		Nomadenhalsschmuck
 Items/NomadNecklaceDesc	Text		Made from ragged cloth and metal badges this witness of the desert gives you a keen advantage on attacks.		Hergestellt aus Stofffetzen und Metallplaketten, verleiht dieser Zeuge der Wüste seinem Träger einen Angriffsvorteil.
 Items/NomadRing	Text		Nomad Ring		Nomadenring
@@ -4382,337 +4382,345 @@ TheCore/SoulOfScarabBossHint1	Text		The desert of beginnings in which Ra-Akar re
 TheCore/SoulOfScarabBossHint2	Text		Ra-Akar slumbers deep in the sands and only emerges when disturbed by intruders.		Ra-Akar schlummert in den Tiefen des Sandes und erwacht nur, wenn Eindringlinge seine Ruhe stören.
 TheCore/TheGreatWallHint1	Text		Thou must travel far out to the Great Wall and lay a hand upon it to open it.		Ihr müsst weit reisen, bis zu Großen Mauer, und Eure Hand an sie legen.
 TheCore/TheGreatWallHint2	Text		The titans can be found beyond the Great Wall.		Die Titanen können weit jenseits der großen Mauer gefunden werden.
-TotalItemLevel	Text		Total item level: {0}		Gesamte Gegenstandsstufe: {0}
-TurnOffSeasons	Text		Turn off seasons		Saisons ausschalten
-WeaponSecondary/ArcSlash	Text		Wide Slash		Breiter Hieb
-WeaponSecondary/ChargedMultishot	Text		Strong Multishot		Starker Mehrfach-Schuss
-WeaponSecondary/ChargedShot	Text		Strong Shot		Starker Schuss
-WeaponSecondary/ChargedThrust	Text		Charged Thrust		Gezielter Stoß
-WeaponSecondary/ExplosiveBolt	Text		Explosive Projectile		Explosiv-Projektil
-WeaponSecondary/PiercingShot	Text		Piercing Shot		Durchdringender Schuss
-WeaponSecondary/TrailingCrystals	Text		Trailing Crystals		Schleppkristalle
-WeaponSpeed	Text		{0} attacks per second		{0} Angriffe pro Sekunde
-additionalItemGained	Text	"For example"" Gained 5 extra mushroom soup!"""	Gained {0} extra {1}!		{0} {1} zusätzlich erhalten!
-additionalSlotsStat	Text		+{0} inventory slots		+{0} Inventar-Slots
-ancientCoins	Text	"For example ""14 ancient coins"""	{0} ancient coins		{0} antike Münzen
-anyCommonEdibleObject	Text	Shown on items as a requirement for the material used in crafting	Any cooked food of uncommon or lower rarity		Jede Art von zubereitetem Essen mit der Seltenheitsstufe „ungewöhnlich“ oder niedriger
-anyRareEdibleObject	Text	Shown on items as a requirement for the material used in crafting	Any cooked food of rare or higher rarity		Jede Art von zubereitetem Essen mit der Seltenheitsstufe „selten“ oder höher
-anySandObject	Text		Any sand block		Jeder Sand-Block
-areYouSure	Text		Hardcore!? Are you sure?		Hardcore!? Bist du sicher?
-audioOptions	Text		Audio settings		Toneinstellungen
-back	Text		Back		Zurück
-backToTitle	Text		Exit to title screen		Zurück zum Titelbildschirm
-bagSlot	Text		Bag slot		Taschen-Slot
-banPlayerDialogue	Text		Do you want to ban this player?		Möchtest du diesen Spieler sperren?
-base	Text	Shown as title in crafting window	Base		Basis
-body	Text	Option to choose gender	Body		Körper
-buffsOwner	Text	"{0} will be replaced with a buff text such as ""Buffs owner with: +5% attack speed"""	Buffs owner with: {0}		Verleiht dem Besitzer folgenden Buff: {0}
-buffsOwnerTitle	Text		Buffs owner with:		Verleiht dem Besitzer folgenden Buff:
-buildings	Text		Buildings		Gebäude
-buy	Text		Buy		Kaufen
-canBeCooked	Text	Shown as a tag in description of items  that can be cooked.	Can be cooked		Kann gekocht werden
-canBeEquippedInOffhand	Text		Can be equipped in off-hand		Kann in der Zweithand getragen werden
-canBePainted	Text		Can be painted		Kann bemalt werden
-cancelDialogue	Text		Cancel		Abbrechen
-cantBanAdmin	Text		You cannot ban admins.		Du kannst keine Admins sperren.
-cantBanYourself	Text		You cannot ban yourself		Du kannst dich nicht selbst sperren.
-cantBeReinforced	Text		Cannot be reinforced		Kann nicht verstärkt werden
-cantRemoveAdmin	Text		You cannot remove admin privileges from this player.		Du kannst diesem Spieler die Administratorrechte nicht entziehen.
-cantRemoveAdminFromYourself	Text		You cannot remove admin privileges from yourself.		Du kannst dir die Administratorrechte nicht selbst entziehen.
-cattle	Text		Cattle		Nutztier
-caughtItem	Text	Shown in chat when for example catching an item through fishing where {0} is the name of the item	Caught: {0}		Gefangen: {0}
-changeProfile	Text		Change profile		Profil wechseln
-character	Text		Character		Charakter
-characterBackground	Text	As in what type of character such as Miner, Explorer etc.	Background		Hintergrund
-cheatDeath	Text		Cheated death!		Den Tod betrogen!
-chestSlot	Text	Chest as in the breast armor slot	Chest slot		Oberkörper-Slot
-click	Text		Click		Klicken
-clickToActivate	Text		Click to activate.		Zum Aktivieren klicken.
-clickToDeactivate	Text		Click to deactivate.		Zum Deaktivieren klicken.
-components	Text		Components		Komponenten
-confirm	Text		Confirm		Bestätigen
-connecting	Text		Connecting...		Verbinden ...
-connectionFailed	Text		Connection failed		Verbindung fehlgeschlagen
-continue	Text		Continue		Fortsetzen
-controls	Text		Controls		Steuerung
-cooking	Text		Cooking		Kochen
-copyGameID	Text		Copy game ID		Spiel-ID kopieren
-crafting	Text	Shown as title in crafting window	Crafting		Fertigung
-createCharacter	Text		Create character		Charakter erstellen
-creativeModeOptions	Text		Creative mode options		Kreativmodus-Einstellungen
-crystalSlot	Text	Used as hint when hovering a slot that needs a crystal	Crystal slot		Kristall-Slot
-currentlySaving	Text		Saving...		Speichert ...
-damage	Text	"The damage of an item like a trap or a turret shown when hovering it, for example ""19-22 damage"""	{0}-{1} damage		{0}-{1} Schaden
+TotalItemLevel	Text		Total item level: {0}	Całkowity poziom przedmiotu: {0}	Gesamte Gegenstandsstufe: {0}
+TurnOffSeasons	Text		Turn off seasons	Wyłącz sezony	Saisons ausschalten
+WeaponSecondary/ArcSlash	Text		Wide Slash	Szerokie Cięcie	Breiter Hieb
+WeaponSecondary/ChargedMultishot	Text		Strong Multishot	Silny Wielostrzał	Starker Mehrfach-Schuss
+WeaponSecondary/ChargedShot	Text		Strong Shot	Silny strzał	Starker Schuss
+WeaponSecondary/ChargedThrust	Text		Charged Thrust	Naładowane Pchnięcie	Gezielter Stoß
+WeaponSecondary/ExplosiveBolt	Text		Explosive Projectile	Wybuchowy pocisk	Explosiv-Projektil
+WeaponSecondary/PiercingShot	Text		Piercing Shot	Przebijający strzał	Durchdringender Schuss
+WeaponSecondary/TrailingCrystals	Text		Trailing Crystals	&	Schleppkristalle
+WeaponSpeed	Text		{0} attacks per second	{0} ataku na sekundę	{0} Angriffe pro Sekunde
+additionalItemGained	Text	"For example"" Gained 5 extra mushroom soup!"""	Gained {0} extra {1}!	Otrzymano {0} dodatkowych {1}!	{0} {1} zusätzlich erhalten!
+additionalSlotsStat	Text		+{0} inventory slots	&	+{0} Inventar-Slots
+ancientCoins	Text	"For example ""14 ancient coins"""	{0} ancient coins	{0} antycznych monet &	{0} antike Münzen
+anyCommonEdibleObject	Text	Shown on items as a requirement for the material used in crafting	Any cooked food of uncommon or lower rarity	Dowolna gotowana żywność o rzadkiej lub niższej rzadkości	Jede Art von zubereitetem Essen mit der Seltenheitsstufe „ungewöhnlich“ oder niedriger
+anyRareEdibleObject	Text	Shown on items as a requirement for the material used in crafting	Any cooked food of rare or higher rarity	Dowolna gotowana żywność o rzadkiej lub wyższej rzadkości	Jede Art von zubereitetem Essen mit der Seltenheitsstufe „selten“ oder höher
+anySandObject	Text		Any sand block	Dowolny blok piasku	Jeder Sand-Block
+areYouSure	Text		Hardcore!? Are you sure?	Hardcore!? Jesteś pewien?	Hardcore!? Bist du sicher?
+audioOptions	Text		Audio settings	Ustawienia audio	Toneinstellungen
+back	Text		Back	Wstecz	Zurück
+backToTitle	Text		Exit to title screen	Wyjście do ekranu tytułowego &	Zurück zum Titelbildschirm
+bagSlot	Text		Bag slot	Miejsce na torbę	Taschen-Slot
+banPlayerDialogue	Text		Do you want to ban this player?	Czy chcesz zbanować tego gracza?	Möchtest du diesen Spieler sperren?
+base	Text	Shown as title in crafting window	Base	Baza	Basis
+body	Text	Option to choose gender	Body	Płeć	Körper
+buffsOwner	Text	"{0} will be replaced with a buff text such as ""Buffs owner with: +5% attack speed"""	Buffs owner with: {0}	Wzmacnia właściciela za pomocą: {0}	Verleiht dem Besitzer folgenden Buff: {0}
+buffsOwnerTitle	Text		Buffs owner with:	Wzmacnia właściciela za pomocą:	Verleiht dem Besitzer folgenden Buff:
+buildings	Text		Buildings	Budynki	Gebäude
+buy	Text		Buy	Kup	Kaufen
+canBeCooked	Text	Shown as a tag in description of items  that can be cooked.	Can be cooked	Można ugotować 	Kann gekocht werden
+canBeEquippedInOffhand	Text		Can be equipped in off-hand	Może być używany z drugiej ręki	Kann in der Zweithand getragen werden
+canBePainted	Text		Can be painted	Może być malowane	Kann bemalt werden
+cancelDialogue	Text		Cancel	Anuluj	Abbrechen
+cantBanAdmin	Text		You cannot ban admins.	Nie można banować administratorów.	Du kannst keine Admins sperren.
+cantBanYourself	Text		You cannot ban yourself	Nie możesz zbanować siebie	Du kannst dich nicht selbst sperren.
+cantBeReinforced	Text		Cannot be reinforced	Nie można wzmocnić	Kann nicht verstärkt werden
+cantRemoveAdmin	Text		You cannot remove admin privileges from this player.	Nie można odebrać uprawnień administratora temu graczowi.	Du kannst diesem Spieler die Administratorrechte nicht entziehen.
+cantRemoveAdminFromYourself	Text		You cannot remove admin privileges from yourself.	Nie możesz odebrać sobie uprawnień administratora.	Du kannst dir die Administratorrechte nicht selbst entziehen.
+cattle	Text		Cattle	Bydło	Nutztier
+caughtItem	Text	Shown in chat when for example catching an item through fishing where {0} is the name of the item	Caught: {0}	Wyłowiono: {0}	Gefangen: {0}
+changeProfile	Text		Change profile	Zmień profil	Profil wechseln
+character	Text		Character	Postać	Charakter
+characterBackground	Text	As in what type of character such as Miner, Explorer etc.	Background	&	Hintergrund
+cheatDeath	Text		Cheated death!	Oszukana śmierć!	Den Tod betrogen!
+chestSlot	Text	Chest as in the breast armor slot	Chest slot	&	Oberkörper-Slot
+click	Text		Click	Kliknij	Klicken
+clickToActivate	Text		Click to activate.	Kliknij, aby aktywować.	Zum Aktivieren klicken.
+clickToDeactivate	Text		Click to deactivate.	Kliknij, aby dezaktywować.	Zum Deaktivieren klicken.
+components	Text		Components	Komponenty	Komponenten
+confirm	Text		Confirm	Potwierdź	Bestätigen
+connecting	Text		Connecting...	Łączenie...	Verbinden ...
+connectionFailed	Text		Connection failed	Połączenie nie powiodło się	Verbindung fehlgeschlagen
+continue	Text		Continue	Kontynuuj	Fortsetzen
+controls	Text		Controls	Sterowanie	Steuerung
+cooking	Text		Cooking	Gotowanie	Kochen
+copyGameID	Text		Copy game ID	Kopiuj identyfikator gry	Spiel-ID kopieren
+crafting	Text	Shown as title in crafting window	Crafting	Tworzenie	Fertigung
+createCharacter	Text		Create character	Tworzenie postaci	Charakter erstellen
+creativeModeOptions	Text		Creative mode options	Opcje trybu kreatywnego	Kreativmodus-Einstellungen
+crystalSlot	Text	Used as hint when hovering a slot that needs a crystal	Crystal slot	&	Kristall-Slot
+currentlySaving	Text		Saving...	Zapisywanie...	Speichert ...
+damage	Text	"The damage of an item like a trap or a turret shown when hovering it, for example ""19-22 damage"""	{0}-{1} damage	{0}-{1} obrażeń	{0}-{1} Schaden
 dateFormat	Text	"{0} = year (number)
 {1} = day (number)
 {2} = month (word) (please see the ""months"" string)
  
-e.g. for english: May 25, 1991"	{2} {1}, {0}		{2} {1}, {0}
-delete	Text		Delete		Löschen
-deleteCharacter	Text		Delete character		Charakter löschen
-deleteCharactersMenu	Text		Delete characters menu		Menü zum Löschen von Charakteren
-deleteSaveDatasTitle	Text		Delete progress		Fortschritt löschen
-developersGallery	Text		Developers' gallery		Entwickler-Galerie
-disableGodMode	Text		Disable god mode		Gott-Modus deaktivieren
-disableWorldSimulation	Text		Pause world		Welt pausieren
-dodge	Text	This text appears when a character dodges an attack	dodge		ausweichen
-done	Text		Done		Fertig
-dontShowAgain	Text		Don't show again		Nicht wieder anzeigen
-down	Text		Move down		Nach unten
-dresser	Text		Dresser		Kommode
+e.g. for english: May 25, 1991"	{2} {1}, {0}	{1} {2} {0}	{2} {1}, {0}
+delete	Text		Delete	Usuń	Löschen
+deleteCharacter	Text		Delete character	Usuń postać	Charakter löschen
+deleteCharactersMenu	Text		Delete characters menu	Usuń menu postaci	Menü zum Löschen von Charakteren
+deleteSaveDatasTitle	Text		Delete progress	Usuń postęp	Fortschritt löschen
+developersGallery	Text		Developers' gallery	Galeria deweloperów	Entwickler-Galerie
+disableGodMode	Text		Disable god mode	Wyłącz tryb boga	Gott-Modus deaktivieren
+disableWorldSimulation	Text		Pause world	Wstrzymywanie świata	Welt pausieren
+dodge	Text	This text appears when a character dodges an attack	dodge	unik	ausweichen
+done	Text		Done	Zrobione	Fertig
+dontShowAgain	Text		Don't show again	Nie pokazuj ponownie	Nicht wieder anzeigen
+down	Text		Move down	&	Nach unten
+dresser	Text		Dresser	Komoda	Kommode
 dropToWorld	Text		"Drop item:
-{0}"		"Gegenstand ablegen:
+{0}"	"Upuść przedmiot:
+{0}"	"Gegenstand ablegen:
 {0}"
-durability	Text	"For example ""Durability 159/500"""	Durability: {0}/{1}		Haltbarkeit: {0}/{1}
-durabilityLost	Text		Some durability on equipment was lost.		Die Ausrüstung hat ein wenig Haltbarkeit verloren.
+durability	Text	"For example ""Durability 159/500"""	Durability: {0}/{1}	Wytrzymałość: {0}/{1}	Haltbarkeit: {0}/{1}
+durabilityLost	Text		Some durability on equipment was lost.	Wytrzymałość jakiegoś wyposażenia spadła.	Die Ausrüstung hat ein wenig Haltbarkeit verloren.
 durationMin	Text	"Shown at end of buff text with a duration such as ""+2 health every sec for 1 min"" where
 {0} is replaced with  ""+2 health every sec"" and
-{1} is replaced with ""1"""	{0} for {1} min		{0} für {1} Min.
+{1} is replaced with ""1"""	{0} for {1} min	{0} na {1} min	{0} für {1} Min.
 durationMinSec	Text	"Shown at end of buff text with a duration such as ""+2 health every sec for 1 min 15 sec"" where
 {0} is replaced with  ""+2 health every sec"" and
 {1} is replaced with ""1""
-{2} is replaced ""15"""	{0} for {1} min {2} sec		{0} für {1} Min. {2} Sek.
+{2} is replaced ""15"""	{0} for {1} min {2} sec	{0} na {1} min {2} sek	{0} für {1} Min. {2} Sek.
 durationSec	Text	"Shown at end of buff text with a duration such as ""+2 health every sec for 25 sec"" where
 {0} is replaced with  ""+2 health every sec"" and
-{1} is replaced with ""25"""	{0} for {1} sec		{0} für {1} Sek.
-electrictyIconHoverDesc	Text	Shown when hovering over the electricity icon in buildings that require it	This building requires electricity		Dieses Gebäude benötigt Elektrizität
-emptySlot	Text		Empty slot		Leerer Slot
-enableGodMode	Text		Enable god mode		Gott-Modus aktivieren
-enableWorldSimulation	Text		World paused		Welt pausiert
-enterGameId	Text		Enter Game ID		Spiel-ID eingeben
-enterHost	Text		Enter host IP address		Host-IP-Adresse eingeben
-enterLabel	Text		Label...		Label ...
-enterName	Text	Hint shown on text input to enter name	Name...		Name ...
-enterPort	Text		Enter host port		Host-Port eingeben
-equipment	Text		Equipment		Ausrüstung
-equipmentPreset1	Text		Equipment 1		Ausrüstung 1
-equipmentPreset2	Text		Equipment 2		Ausrüstung 2
-equipmentPreset3	Text		Equipment 3		Ausrüstung 3
-exit	Text		Exit		Verlassen
-experience	Text	{0} will be replaced with the current experience and {1} with the total experience requred to level up	Experience: {0}/{1}		Erfahrung: {0}/{1}
-experienceGained	Text	{0} will be replaced with a number indicating the experience gained	+{0} xp		+{0} XP
-explosiveDamage	Text		{0}-{1} explosive damage		{0}-{1} Explosivschaden
-eyeColor	Text	Option to choose color of eyes	Eye color		Augenfarbe
-food	Text		Food		Essen
+{1} is replaced with ""25"""	{0} for {1} sec	{0} na {1} sek	{0} für {1} Sek.
+electrictyIconHoverDesc	Text	Shown when hovering over the electricity icon in buildings that require it	This building requires electricity	Ten budynek wymaga energii elektrycznej	Dieses Gebäude benötigt Elektrizität
+emptySlot	Text		Empty slot	&	Leerer Slot
+enableGodMode	Text		Enable god mode	Włącz tryb boga	Gott-Modus aktivieren
+enableWorldSimulation	Text		World paused	Świat wstrzymany	Welt pausiert
+enterGameId	Text		Enter Game ID	Wprowadź ID gry	Spiel-ID eingeben
+enterHost	Text		Enter host IP address	Wprowadź adres IP hosta	Host-IP-Adresse eingeben
+enterLabel	Text		Label...	Etykieta...	Label ...
+enterName	Text	Hint shown on text input to enter name	Name...	Imię...	Name ...
+enterPort	Text		Enter host port	Wprowadź port hosta	Host-Port eingeben
+equipment	Text		Equipment	Wyposażenie	Ausrüstung
+equipmentPreset1	Text		Equipment 1	Wyposażenie 1	Ausrüstung 1
+equipmentPreset2	Text		Equipment 2	Wyposażenie 2	Ausrüstung 2
+equipmentPreset3	Text		Equipment 3	Wyposażenie 3	Ausrüstung 3
+exit	Text		Exit	Wyjście	Verlassen
+experience	Text	{0} will be replaced with the current experience and {1} with the total experience requred to level up	Experience: {0}/{1}	Doświadczenie: {0}/{1}	Erfahrung: {0}/{1}
+experienceGained	Text	{0} will be replaced with a number indicating the experience gained	+{0} xp	+{0} XP	+{0} XP
+explosiveDamage	Text		{0}-{1} explosive damage	{0}-{1} obrażeń od eksplozji	{0}-{1} Explosivschaden
+eyeColor	Text	Option to choose color of eyes	Eye color	Kolor oczu	Augenfarbe
+food	Text		Food	Jedzenie	Essen
 foodFormat	Text	"{0} = food adjective,
 {1} = food noun,
 {2} = food type
-Turns into for example ""Hearty Mushroom Soup"" when cooking Heart berries with mushrooms in the cooking pot."	{0} {1} {2}		{0} {1}-{2}
-fullness	Text	"For example ""Fullness 159/500"", shown on items like water can"	Fullness: {0}/{1}		Inhalt: {0}/{1}
-gainedItem	Text	Shown in chat when for example gaining a polished version of a ring when crafting where {0} is the name of the item	Gained {0}!		{0} erhalten!
-gainedSoul	Text		Gained soul of {0}!		Seele von {0} erhalten!
-gameMenu	Text	Shown as title when opening the pause menu in game	Game Menu		Spielmenü
-gamepad	Text		Gamepad		Controller
-gear	Text	As in equipment and tools, should be one word	Gear		Zubehör
+Turns into for example ""Hearty Mushroom Soup"" when cooking Heart berries with mushrooms in the cooking pot."	{0} {1} {2}	{0} {1} {2}	{0} {1}-{2}
+fullness	Text	"For example ""Fullness 159/500"", shown on items like water can"	Fullness: {0}/{1}	Wypełnienie: {0}/{1}	Inhalt: {0}/{1}
+gainedItem	Text	Shown in chat when for example gaining a polished version of a ring when crafting where {0} is the name of the item	Gained {0}!	Zdobyto {0}!	{0} erhalten!
+gainedSoul	Text		Gained soul of {0}!	Zdobyto duszę {0}!	Seele von {0} erhalten!
+gameMenu	Text	Shown as title when opening the pause menu in game	Game Menu	Menu Gry	Spielmenü
+gamepad	Text		Gamepad	Kontroler	Controller
+gear	Text	As in equipment and tools, should be one word	Gear	&	Zubehör
 godModeOptionDesc	Text		"God mode features:
 - Player can move through objects
 - Player can destroy objects in one hit
 - Items doesn't drop from destroyed objects
 - Player can place objects faster
-- Objects are not consumed when used"		"Funktionen im Gott-Modus:
+- Objects are not consumed when used"	"Cechy trybu Boga:
+- Gracz może przechodzić przez obiekty
+- Gracz może niszczyć obiekty jednym uderzeniem
+- Przedmioty nie wypadają ze zniszczonych obiektów
+- Gracz może szybciej umieszczać obiekty
+- Obiekty nie są zużywane podczas używania"	"Funktionen im Gott-Modus:
 - Spieler kann sich durch Objekte hindurch bewegen
 - Spieler kann Objekte mit einem Schlag zerstören
 - Gegenstände droppen nicht von zerstörten Objekten
 - Spieler kann Objekte schneller platzieren
 - Objekte werden beim Benutzen nicht verbraucht"
-graphicsAPIOption	Text	{0} will be replaced with the name of the graphics api	Play Core Keeper using {0}		Spiele Core Keeper mit {0}
-hair	Text	Option to choose hair style	Hair		Haar
-hairColor	Text	Option to choose hair color	Hair color		Haarfarbe
-hardcoreDeathMessage	Text		You died. Character has been lost.		Du bist gestorben. Charakter ging verloren.
-helmSlot	Text		Helm slot		Helm-Slot
-hideCreativeUI	Text	"""UI"" should also be called ""UI"" when translated, as the button space it is shown own should be kept small and short."	Hide Creative UI		UI ausblenden
-high	Text		High		Hoch
-holdToSkip	Text	"{0} is replaced with a button/key so for example ""Hold SPACE to skip"". This is used in intro slides of the game."	Hold {0} to skip intro		Halte {0}, um das Intro zu überspringen
-incubator	Text	As in an egg incubator	Incubator		Brutkasten
-infinity	Text		Infinity		Unendlichkeit
-ingredients	Text		Ingredients:		Zutaten:
-instrumentItem	Text	Shown as a tag text in the description of items that are instruments	Instrument		Instrument
-itemDescFormat	Text	"For example ""+3 Torch"""	+{0} {1}		+{0} {1}
-joinTheGame	Text		Join		Beitreten
-keyBackspace	Text		BACKSPACE		RÜCKTASTE
-keyCtrl	Text		CTRL		STRG
-keyE	Text		E		E
-keyEnter	Text		ENTER		EINGABE
-keyEsc	Text		ESC		ESC
-keyItem	Text	Shown on items that are used as a key	Key item		Schlüssel-Gegenstand
-keyM	Text		M		M
-keyRightCtrl	Text		RIGHT CTRL		STRG RECHTS
-keyRightShift	Text		RIGHT SHIFT		UMSCHALTTASTE RECHTS
-keyShift	Text		SHIFT		UMSCHALTTASTE
-keySpace	Text		SPACE		LEERTASTE
-keyStart	Text	Name of the Start button on the gamepad	START		START
-keyTab	Text		Tab		Tab
-keyboard	Text		Keyboard		Tastatur
-lanternSlot	Text		Lantern slot		Laternen-Slot
-leaveTheGame	Text		Leave		Verlassen
-left	Text		Move left		Nach links
-legalBlurb	Text		© 2021. Core Keeper is a trademark or registered trademark of Pugstorm AB. Published by Fireshine Games.		© 2021 Core Keeper ist eine Marke oder eingetragene Marke von Pugstorm AB. Veröffentlicht von Fireshine Games.
-level	Text	{0} will be replaced with the level number	Level: {0}		Stufe: {0}
-loading	Text		Loading...		Laden ...
-low	Text		Low		Niedrig
-makeAdmin	Text		Do you want to give this player admin privileges?		Möchtest du diesem Spieler Administratorrechte gewähren?
-materials	Text	Used as header when showing required materials in crafting for example	Materials:		Materialien:
-maxLevel	Text	{0} will be replaced with the level number	Level: {0} (Max)		Stufe: {0} (Max)
-maximumMapMarkersPlaced	Text		You have already placed the maximum amount of map markers.		Du hast schon die max. Anzahl an Kartenmarkierungen gesetzt.
-medium	Text		Medium		Mittel
-menu	Text		Menu		Menü
-menuButtonActivate	Text		Activate		Aktivieren
-menuButtonBack	Text		Back		Zurück
-menuButtonDeactivate	Text		Deactivate		Deaktivieren
-menuButtonNavigate	Text		Navigate		Navigieren
-menuButtonSelect	Text		Select		Auswählen
-missingScrapParts	Text		Missing scrap parts		Fehlende Schrottteile
+graphicsAPIOption	Text	{0} will be replaced with the name of the graphics api	Play Core Keeper using {0}	Zagraj w Core Keeper używając {0}	Spiele Core Keeper mit {0}
+hair	Text	Option to choose hair style	Hair	Włosy	Haar
+hairColor	Text	Option to choose hair color	Hair color	Kolor włosów	Haarfarbe
+hardcoreDeathMessage	Text		You died. Character has been lost.	Zginąłeś. Postać została utracona.	Du bist gestorben. Charakter ging verloren.
+helmSlot	Text		Helm slot	&	Helm-Slot
+hideCreativeUI	Text	"""UI"" should also be called ""UI"" when translated, as the button space it is shown own should be kept small and short."	Hide Creative UI	Ukryj kreatywne UI	UI ausblenden
+high	Text		High	Wysoki	Hoch
+holdToSkip	Text	"{0} is replaced with a button/key so for example ""Hold SPACE to skip"". This is used in intro slides of the game."	Hold {0} to skip intro	Przytrzymaj {0} aby pominąć intro	Halte {0}, um das Intro zu überspringen
+incubator	Text	As in an egg incubator	Incubator	Inkubator 	Brutkasten
+infinity	Text		Infinity	Nieskończoność	Unendlichkeit
+ingredients	Text		Ingredients:	Składniki:	Zutaten:
+instrumentItem	Text	Shown as a tag text in the description of items that are instruments	Instrument	Instrument	Instrument
+itemDescFormat	Text	"For example ""+3 Torch"""	+{0} {1}	+{0} {1}	+{0} {1}
+joinTheGame	Text		Join	Dołącz	Beitreten
+keyBackspace	Text		BACKSPACE	BACKSPACE	RÜCKTASTE
+keyCtrl	Text		CTRL	CTRL	STRG
+keyE	Text		E	E	E
+keyEnter	Text		ENTER	ENTER	EINGABE
+keyEsc	Text		ESC	ESC	ESC
+keyItem	Text	Shown on items that are used as a key	Key item	Przedmiot klucz &	Schlüssel-Gegenstand
+keyM	Text		M	M	M
+keyRightCtrl	Text		RIGHT CTRL	PRAWY CTRL	STRG RECHTS
+keyRightShift	Text		RIGHT SHIFT	PRAWY SHIFT	UMSCHALTTASTE RECHTS
+keyShift	Text		SHIFT	SHIFT	UMSCHALTTASTE
+keySpace	Text		SPACE	SPACJA	LEERTASTE
+keyStart	Text	Name of the Start button on the gamepad	START	START	START
+keyTab	Text		Tab	Tab	Tab
+keyboard	Text		Keyboard	Klawiatura	Tastatur
+lanternSlot	Text	&	Lantern slot	Slot na latarnię	Laternen-Slot
+leaveTheGame	Text		Leave	Wyjdź	Verlassen
+left	Text	&	Move left	Ruch w lewo	Nach links
+legalBlurb	Text		© 2021. Core Keeper is a trademark or registered trademark of Pugstorm AB. Published by Fireshine Games.	© 2021. Core Keeper jest znakiem towarowym lub zastrzeżonym znakiem towarowym Pugstorm AB. Wydany przez Fireshine Games.	© 2021 Core Keeper ist eine Marke oder eingetragene Marke von Pugstorm AB. Veröffentlicht von Fireshine Games.
+level	Text	{0} will be replaced with the level number	Level: {0}	Poziom: {0}	Stufe: {0}
+loading	Text		Loading...	Ładowanie...	Laden ...
+low	Text		Low	Niski	Niedrig
+makeAdmin	Text		Do you want to give this player admin privileges?	Czy chcesz nadać temu graczowi uprawnienia administratora?	Möchtest du diesem Spieler Administratorrechte gewähren?
+materials	Text	Used as header when showing required materials in crafting for example	Materials:	Materiały:	Materialien:
+maxLevel	Text	{0} will be replaced with the level number	Level: {0} (Max)	Poziom: {0} (Max)	Stufe: {0} (Max)
+maximumMapMarkersPlaced	Text		You have already placed the maximum amount of map markers.	Umieściłeś już maksymalną liczbę znaczników na mapie.	Du hast schon die max. Anzahl an Kartenmarkierungen gesetzt.
+medium	Text		Medium	Średni	Mittel
+menu	Text		Menu	Menu	Menü
+menuButtonActivate	Text		Activate	Aktywuj	Aktivieren
+menuButtonBack	Text		Back	Wstecz	Zurück
+menuButtonDeactivate	Text		Deactivate	Wyłącz	Deaktivieren
+menuButtonNavigate	Text		Navigate	Nawigacja	Navigieren
+menuButtonSelect	Text		Select	Wybierz	Auswählen
+missingScrapParts	Text		Missing scrap parts	Brakujące części złomu	Fehlende Schrottteile
 months	Text	"Please give the short form of a month, for each month, and
 separate each month by an ASCII space.
-The month will be placed into the 'dateFormat' string."	Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec		Jan. Feb. Mrz. Apr. Mai Jun. Jul. Aug. Sep. Okt. Nov. Dez.
-multiplayer	Text		Multiplayer		Mehrspieler
-musicSheetItem	Text		Music sheet		Notenblatt
-nativeLang	Text	"should not translate ""english"" but should show the name of the language itself"	English		Deutsch
-necklaceSlot	Text		Necklace slot		Halsketten-Slot
-newGame	Text		New Game		Neues Spiel
-newItem	Text	"Shown when a new item is picked up, for example: ""New item: Apple"""	New item: {0}		Neuer Gegenstand: {0}
-newTalentPoint	Text	"Will for example say ""New talent point available in Fishing!"" in the chat window when player unlocks a new talent point"	New talent point available in {0}!		Neuer Talentpunkt verfügbar in {0}!
-nextTalentPoint	Text	Shown as part of talent points hover window showing what the next talent point will give	Next rank:		Nächster Rang:
-no	Text		no		Nein
-noControllerWarning	Text		Warning!\Your controller\has disconnected.		HOPPLA!\Dein Controller\wurde getrennt.
-noPermissionToBan	Text		You don't have permission to ban players.		Du hast keine Berechtigung, Spieler zu sperren.
-noPermissionToGiveAdmin	Text		You don't have permission to give players admin privileges.		Du hast keine Berechtigung, Spielern die Administratorrechte zu gewähren.
-noPermissionToRegenerateGameIDPrompt	Text		You don't have permission to regenerate the Game ID.		Du hast keine Berechtigung, die Spiel-ID neu zu generieren.
-noPermissionToRemoveAdmin	Text		You don't have permission to remove players admin privileges.		Du hast keine Berechtigung, Spielern die Administratorrechte zu entziehen.
-noPermissionToUnBan	Text		You don't have permission to unban players.		Du hast keine Berechtigung, Spieler zu entsperren.
-nonLocalizedPlaceholder	Text	No need to be translated, only exists in localization for devs convenience	{0}		{0}
-normal	Text		Normal		Normal
-numpadMinus	Text		NUMPAD -		NUMPAD -
-numpadPlus	Text		NUMPAD +		NUMPAD +
+The month will be placed into the 'dateFormat' string."	Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec	Sty Lut Mar Kwi Maj Cze Lip Sie Wrz Paź Lis Gru	Jan. Feb. Mrz. Apr. Mai Jun. Jul. Aug. Sep. Okt. Nov. Dez.
+multiplayer	Text		Multiplayer	Tryb wieloosobowy	Mehrspieler
+musicSheetItem	Text		Music sheet	Arkusz nutowy	Notenblatt
+nativeLang	Text	"should not translate ""english"" but should show the name of the language itself"	English	Polski	Deutsch
+necklaceSlot	Text		Necklace slot	&	Halsketten-Slot
+newGame	Text		New Game	Nowa Gra	Neues Spiel
+newItem	Text	"Shown when a new item is picked up, for example: ""New item: Apple"""	New item: {0}	Nowy przedmiot: {0}	Neuer Gegenstand: {0}
+newTalentPoint	Text	"Will for example say ""New talent point available in Fishing!"" in the chat window when player unlocks a new talent point"	New talent point available in {0}!	Nowy punkt umiejętności dostępny w {0}!	Neuer Talentpunkt verfügbar in {0}!
+nextTalentPoint	Text	Shown as part of talent points hover window showing what the next talent point will give	Next rank:	Następna ranga:	Nächster Rang:
+no	Text		no	nie	Nein
+noControllerWarning	Text		Warning!\Your controller\has disconnected.	Ostrzeżenie!\Twój kontroler\został odłączony.	HOPPLA!\Dein Controller\wurde getrennt.
+noPermissionToBan	Text		You don't have permission to ban players.	Nie masz uprawnień do banowania graczy.	Du hast keine Berechtigung, Spieler zu sperren.
+noPermissionToGiveAdmin	Text		You don't have permission to give players admin privileges.	Nie masz uprawnień do nadawania graczom uprawnień administratora.	Du hast keine Berechtigung, Spielern die Administratorrechte zu gewähren.
+noPermissionToRegenerateGameIDPrompt	Text		You don't have permission to regenerate the Game ID.	Nie masz uprawnień do regeneracji ID gry.	Du hast keine Berechtigung, die Spiel-ID neu zu generieren.
+noPermissionToRemoveAdmin	Text		You don't have permission to remove players admin privileges.	Nie masz uprawnień do odbierania graczom uprawnień administratora.	Du hast keine Berechtigung, Spielern die Administratorrechte zu entziehen.
+noPermissionToUnBan	Text		You don't have permission to unban players.	Nie masz uprawnień do odbanowania graczy.	Du hast keine Berechtigung, Spieler zu entsperren.
+nonLocalizedPlaceholder	Text	No need to be translated, only exists in localization for devs convenience	{0}	{0}	{0}
+normal	Text		Normal	Normal	Normal
+numpadMinus	Text		NUMPAD -	NUMPAD -	NUMPAD -
+numpadPlus	Text		NUMPAD +	NUMPAD +	NUMPAD +
 off	Text	"On/Off
 If your language doesn't have specific words for on/off, consider yes/no or enabled/disabled.
-This will be used with things like ""gamepad vibration: On/Off"""	Off		Aus
-offHandUse	Text		Off-hand use: {0}		Zweithand-Verwendung: {0}
-offhandSlot	Text		Off-hand slot		Zweithand-Slot
-ok	Text		Ok		Okay
+This will be used with things like ""gamepad vibration: On/Off"""	Off	Wył	Aus
+offHandUse	Text		Off-hand use: {0}	&	Zweithand-Verwendung: {0}
+offhandSlot	Text		Off-hand slot	&	Zweithand-Slot
+ok	Text		Ok	Ok	Okay
 on	Text	"On/Off setting.
 If your language doesn't have specific words for on/off, consider yes/no or enabled/disabled.
-This will be used with things like ""gamepad vibration: On/Off"""	On		An
-oneTimeEffect	Text	Shown after buff texts on food for example that can only occur one time, should be kept short	(only once)		(nur einmal)
-options	Text		Settings		Einstellungen
-oxygen	Text		Oxygen		Sauerstoff
-pants	Text	Option to choose pants style	Pants		Hose
-pantsSlot	Text		Pants slot		Hosen-Slot
-parry	Text		parry		parieren
-pauseWorldOptionDesc	Text		Pausing the world will stop creatures and objects from moving or doing any actions. Water spreading is also paused. This can only be toggled by admins.		Wenn du die Welt pausierst, können sich Kreaturen und Objekte nicht mehr bewegen und keine Aktionen mehr ausführen. Dies kann nur von Admins eingestellt werden.
-paused	Text		Game Paused		Spiel pausiert
-permanentWhenEaten	Text	Shown above list of buffs gained from eating food	Permanent when eaten:		Dauerhaft nach dem Verzehr:
-petCandy	Text		Use: Feed this to your pet to boost its experience by {0}.		Verwenden: Verfüttere dies an dein Haustier, um seine Erfahrung um {0} zu erhöhen.
-petEgg	Text		Hatchable		Ausbrütbar
-petInfo	Text	"Shown as a header for a window showing information about a pet. Try to keep it short and avoid writing ""info"" as ""information"" for example
-"	Pet info		Haustier-Info
+This will be used with things like ""gamepad vibration: On/Off"""	On	Wł	An
+oneTimeEffect	Text	Shown after buff texts on food for example that can only occur one time, should be kept short	(only once)	(tylko raz)	(nur einmal)
+options	Text		Settings	Ustawienia	Einstellungen
+oxygen	Text		Oxygen	Tlen	Sauerstoff
+pants	Text	Option to choose pants style	Pants	Spodnie	Hose
+pantsSlot	Text		Pants slot	&	Hosen-Slot
+parry	Text		parry	parowanie	parieren
+pauseWorldOptionDesc	Text		Pausing the world will stop creatures and objects from moving or doing any actions. Water spreading is also paused. This can only be toggled by admins.	Wstrzymanie świata spowoduje, że stworzenia i obiekty nie będą się poruszać ani wykonywać żadnych czynności. Rozprzestrzenianie się wody jest również wstrzymane. Może to być zmienione tylko przez adminów.	Wenn du die Welt pausierst, können sich Kreaturen und Objekte nicht mehr bewegen und keine Aktionen mehr ausführen. Dies kann nur von Admins eingestellt werden.
+paused	Text		Game Paused	Pauza Gry	Spiel pausiert
+permanentWhenEaten	Text	Shown above list of buffs gained from eating food	Permanent when eaten:	Trwałe po spożyciu:	Dauerhaft nach dem Verzehr:
+petCandy	Text		Use: Feed this to your pet to boost its experience by {0}.	Użycie: Nakarm tym swojego zwierzaka, aby zwiększyć jego doświadczenie o {0}.	Verwenden: Verfüttere dies an dein Haustier, um seine Erfahrung um {0} zu erhöhen.
+petEgg	Text		Hatchable	&	Ausbrütbar
+petInfo	Text	":Shown as a header for a window showing information about a pet. Try to keep it short and avoid writing ""info"" as ""information"" for example
+"	Pet info	Info o zwierzaku	Haustier-Info
 petLeveledUp	Text	"{0} will be replaced with the level number
-"	Pet reached level {0}!		Haustier hat Level {0} erreicht!
-petSlot	Text		Pet slot		Haustier-Slot
+"	Pet reached level {0}!	Zwierzak osiągnął poziom {0}!	Haustier hat Level {0} erreicht!
+petSlot	Text		Pet slot	Slot na zwierzaka	Haustier-Slot
 pickUpHalf	Text		"Pick up half:
-{0}"		"Hälfte aufheben:
+{0}"	"Podnieś pół:
+{0}"	"Hälfte aufheben:
 {0}"
 pickUpOne	Text	{0} will be replaced with the input player needs to use to perform the action, note that the breakline is intended and should be used in the localizations too	"Pick up one:
-{0}"		"Einen aufheben:
+{0}"	"Podnieś jeden:
+{0}"	"Einen aufheben:
 {0}"
-piercingProjectiles	Text	Shown as description on weapons that shoots piercing projectiles	Projectiles pierces through enemies		Projektile durchdringen Feinde
-points	Text		Points: {0}		Punkte: {0}
-press	Text		Press		Drücken
-pressAnyButtonNintendoSwitch	Text		Press any button		Drücke eine Taste
-pressAnyButtonPC	Text		Press any button		Drücke eine Taste
-pressAnyButtonPS4	Text		Press any button		Drücke eine Taste
-pressAnyButtonXbox	Text		Press any button		Drücke eine Taste
-price	Text		Price: {0}		Preis: {0}
-primary	Text	Shown as category for red, yellow, blue and green painting colors	Primary		Primär
+piercingProjectiles	Text	Shown as description on weapons that shoots piercing projectiles	Projectiles pierces through enemies	Pociski przebijają wrogów	Projektile durchdringen Feinde
+points	Text		Points: {0}	Punkty: {0}	Punkte: {0}
+press	Text		Press	Naciśnij	Drücken
+pressAnyButtonNintendoSwitch	Text		Press any button	Naciśnij dowolny przycisk	Drücke eine Taste
+pressAnyButtonPC	Text		Press any button	Naciśnij dowolny przycisk	Drücke eine Taste
+pressAnyButtonPS4	Text		Press any button	Naciśnij dowolny przycisk	Drücke eine Taste
+pressAnyButtonXbox	Text		Press any button	Naciśnij dowolny przycisk	Drücke eine Taste
+price	Text		Price: {0}	Cena: {0}	Preis: {0}
+primary	Text	Shown as category for red, yellow, blue and green painting colors	Primary	Podstawowy	Primär
 quickMove	Text		"Quick stash:
-{0}"		"Schnell-Ablage:
+{0}"	&	"Schnell-Ablage:
 {0}"
-quickStack	Text	Shown when hovering a button that uses the quick stack function	Quick stack		Schnellstapeln
-quickStackDesc	Text		Moves already existing items in the chest from your inventory to the chest.		Verschiebt bereits in der Kiste vorhandene Gegenstände aus deinem Inventar in die Kiste.
-quitToDesktop	Text		Quit		Beenden
+quickStack	Text	Shown when hovering a button that uses the quick stack function	Quick stack	&	Schnellstapeln
+quickStackDesc	Text		Moves already existing items in the chest from your inventory to the chest.	Przenosi przedmioty znajdujące się już w skrzyni z ekwipunku do skrzyni.	Verschiebt bereits in der Kiste vorhandene Gegenstände aus deinem Inventar in die Kiste.
+quitToDesktop	Text		Quit	Wyjdź	Beenden
 rareItemFormat	Text	"Format used for items that has rarity indicator as part of their name such as ""Rare Heartberry"" where
 {0} = rarity
-{1} = item name"	{0} {1}		{0} {1}
-receivedItems	Text	"For example"" Gained 4 Copper Bars!"" where {0} is 4 and {1} is Copper Bars"	Received {0} {1}		{0} {1} erhalten
-reduced	Text		Reduced		Reduziert
-regenerateGameIDPrompt	Text		Do you want to regenerate a new Game ID? This will not affect any progression made.		Möchtest du erneut eine Spiel-ID generieren? Dies wirkt sich nicht auf deinen Fortschritt aus.
-reinforceCost	Text		Reinforce cost:		Verstärkungskosten:
-reinforced	Text		Reinforced: {0}/{1}		Verstärkt: {0}/{1}
-release	Text		Release		Loslassen
-removeAdmin	Text		Do you want to remove the admin privileges of this player?		Möchtest du diesem Spieler die Administratorrechte entziehen?
-removeUserMapMarkersPrompt	Text		Do you want to clear all placed map markers?		Möchtest du alle platzierten Kartenmarkierungen löschen?
-repairCost	Text		Repair cost:		Reparaturkosten:
-replace	Text		Replace		Ersetzen
-requiresItem	Text	{0} will be replaced with an item the player must have such as a key for a lock	Requires: {0}		Erfordert: {0}
-requiresNearbyObject	Text	{0} will be replaced with an object the player must be nearby in the world such as Ancient Forge	Requires {0}		Erfordert {0}
-reset	Text	Shown above button that resets talent points	Reset:		Zurücksetzen:
-resetSaveDataDialogue	Text		Delete progress?		Fortschritt löschen?
-restoredefaults	Text		Reset key bindings to default		Standardeinstellungen wiederherstellen
-resume	Text		Resume game		Zurück zum Spiel
-right	Text		Move right		Nach rechts
-ringSlot	Text		Ring slot		Ring-Slot
-saveAndExit	Text		Save and Exit		Speichern und Beenden
-secondary	Text	Shown as category for white, black, brown and purple painting colors	Secondary		Sekundär
-selectCharacter	Text		Select character		Charakter auswählen
-selectDifficulty	Text		Select difficulty		Schwierigkeitsgrad auswählen
-sell	Text		Sell		Verkaufen
+{1} = item name"	{0} {1}	{0} {1}	{0} {1}
+receivedItems	Text	"For example"" Gained 4 Copper Bars!"" where {0} is 4 and {1} is Copper Bars"	Received {0} {1}	Otrzymano {0} {1}	{0} {1} erhalten
+reduced	Text		Reduced	Zmniejszony	Reduziert
+regenerateGameIDPrompt	Text		Do you want to regenerate a new Game ID? This will not affect any progression made.	Czy chcesz zregenerować nowy numer ID gry? Nie wpłynie to na postępy w grze.	Möchtest du erneut eine Spiel-ID generieren? Dies wirkt sich nicht auf deinen Fortschritt aus.
+reinforceCost	Text		Reinforce cost:	Koszt wzmocnienia:	Verstärkungskosten:
+reinforced	Text		Reinforced: {0}/{1}	Wzmocniony: {0}/{1}	Verstärkt: {0}/{1}
+release	Text		Release	Uwolnij	Loslassen
+removeAdmin	Text		Do you want to remove the admin privileges of this player?	Czy chcesz usunąć uprawnienia administratora temu graczowi?	Möchtest du diesem Spieler die Administratorrechte entziehen?
+removeUserMapMarkersPrompt	Text		Do you want to clear all placed map markers?	Czy chcesz usunąć wszystkie znaczniki na mapie?	Möchtest du alle platzierten Kartenmarkierungen löschen?
+repairCost	Text		Repair cost:	Koszt napraw:	Reparaturkosten:
+replace	Text		Replace	Zastąp	Ersetzen
+requiresItem	Text	{0} will be replaced with an item the player must have such as a key for a lock	Requires: {0}	Wymaga: {0}	Erfordert: {0}
+requiresNearbyObject	Text	{0} will be replaced with an object the player must be nearby in the world such as Ancient Forge	Requires {0}	Wymaga {0}	Erfordert {0}
+reset	Text	Shown above button that resets talent points	Reset:	Zresetuj:	Zurücksetzen:
+resetSaveDataDialogue	Text		Delete progress?	Skasować postęp?	Fortschritt löschen?
+restoredefaults	Text		Reset key bindings to default	Przywróć domyślne powiązania klawiszy	Standardeinstellungen wiederherstellen
+resume	Text		Resume game	Wznów grę	Zurück zum Spiel
+right	Text		Move right	Rusz w prawo	Nach rechts
+ringSlot	Text		Ring slot	Slot na pierścień	Ring-Slot
+saveAndExit	Text		Save and Exit	Zapisz i wyjdź	Speichern und Beenden
+secondary	Text	Shown as category for white, black, brown and purple painting colors	Secondary	Drugorzędne	Sekundär
+selectCharacter	Text		Select character	Wybierz postać	Charakter auswählen
+selectDifficulty	Text		Select difficulty	Wybierz poziom trudności	Schwierigkeitsgrad auswählen
+sell	Text		Sell	Sprzedaj	Verkaufen
 set	Text	"Format to show set bonuses such as ""2 set: +10% damage"" indicating that 2 pieces are needed to fullfill the set bonus where
 {0} = 2
-{1} = +10% damage"	{0} set: {1}		{0}-teiliges Set: {1}
-settingAmbientVol	Text		Ambient SFX		Umgebungssoundeffekte
-settingDisplayGameTime	Text		Show game time		Spielzeit anzeigen
-settingLanguage	Text		Language		Sprache
-settingLimitColors	Text		16 bit colors		16-Bit-Farben
-settingLimitPalette	Text		Limit Palette		Palette einschränken
-settingMusicVol	Text		Music		Musik
+{1} = +10% damage"	{0} set: {1}	{0} części zestawu: {1}	{0}-teiliges Set: {1}
+settingAmbientVol	Text		Ambient SFX	&	Umgebungssoundeffekte
+settingDisplayGameTime	Text		Show game time	Pokaż czas gry	Spielzeit anzeigen
+settingLanguage	Text		Language	Język	Sprache
+settingLimitColors	Text		16 bit colors	16-bitowe kolory	16-Bit-Farben
+settingLimitPalette	Text		Limit Palette	Ograniczona paleta	Palette einschränken
+settingMusicVol	Text		Music	Muzyka	Musik
 settingPlayableInstrument	Text	"name of the setting that allows changing volume of in game instruments that players can play
-"	Playable instrument		Spielbares Instrument
-settingScreenShakes	Text		Screen shakes		Bildschirmrütteln
-settingSfxVol	Text		SFX		Soundeffekte
-settingVSync	Text		V-sync		V-Sync
-settingVibrationNintendoSwitch	Text		Vibration		HD-Vibration
-settingVibrationPC	Text		Vibration		Vibration
-settingVibrationPS4	Text		Vibration		Vibration
-settingVibrationXbox	Text		Vibration		Vibration
-sheets	Text	Refers to Music sheets/notes	Sheets		Notenblätter
-shirt	Text	Option to choose shirt style	Shirt		Hemd
-shortcuts	Text		Shortcuts		Abkürzungen
-showCreativeUI	Text	"""UI"" should also be called ""UI"" when translated, as the button space it is shown own should be kept small and short."	Show Creative UI		UI anzeigen
-signedOutWarning	Text		Warning!\Your profile has\been signed out.		HOPPLA!\Dein Profil\wurde abgemeldet.
-singleplayer	Text		Singleplayer		Einzelspieler
-skillInfo	Text		Click to expand talent tree.		Klicken, um den Talentbaum zu erweitern.
-skills	Text		Skills		Fertigkeiten
-skin	Text	Option to choose skin color	Skin		Hautfarbe
-slot	Text		Slot {0}		Slot {0}
-smelting	Text		Smelting		Schmelzen
-sort	Text	Shown when hovering a button that sorts the inventory	Sort		Sortieren
-sortDesc	Text		Sorts and stacks the items together in the inventory.		Sortiert und stapelt die Gegenstände im Inventar.
-souls	Text		Souls		Seelen
-startingPerks	Text		Starting perks:		Startvorteile:
-starvationDeathMessage	Text		You died from starvation.		Du bist verhungert.
-stats	Text	Title of stats window that shows when hovering character ui in game	Stats		Werte
-stop	Text		Stop		Stopp
-textWithAmount	Text	"Used for any text that has an amount indicated such as ""Mining 48/100"" to show the current and max Mining skill"	{0} {1}/{2}		{0} {1}/{2}
-toggleShortcuts	Text		Press {0} to toggle this window		Drücke {0}, um dieses Fenster umzuschalten
-tools	Text	Shown as title in crafting window	Tools		Werkzeuge
-trading	Text		Trading		Handeln
-unbanPlayerDialogue	Text		Do you want to unban this player?		Möchtest du diesen Spieler entsperren?
-uncapped	Text	Used in the context of setting the FPS to not be limited	Uncapped		Unbegrenzt
-uniqueCraftingComponent	Text	Shown in hover text of items that are unique crafting components	Unique crafting component		Einzigartige Fertigungskomponente
-up	Text		Move up		Nach oben
-upgrade	Text		Upgrade		Aufwerten
-useItemTerm	Text		Use: {0}		Zum Verwenden: {0}
-valuable	Text	Shown as a tag in description of items  that are meant to be sold for coins.	Valuable		Wertvoll
-value	Text	"As in the coin value of an item, for example ""Value: 1484 coins"""	Value: {0}		Wert: {0}
-vanityToggleVisibility	Text		Click to toggle visiblity of equipment		Klicken, um die Sichtbarkeit der Ausrüstung umzuschalten
-versus	Text		Versus		Gegen
-veryHigh	Text		Very high		Sehr hoch
-videoOptions	Text		Video settings		Videoeinstellungen
-weaponMeleeDamage	Text	"The damage of a weapon shown when hovering it, for example ""19-22 melee damage"""	{0}-{1} melee damage		{0}-{1} Nahkampfschaden
-weaponRangeDamage	Text		{0}-{1} range damage		{0}-{1} Fernkampfschaden
-weaponSecondary	Text		Secondary use: {0}		Sekundärzweck: {0}
-weapons	Text		Weapons		Waffen
-whenEaten	Text		When eaten:		Nach dem Verzehr:
-woodCutting	Text	Shown as title in the crafting UI of the buzz saw building	Wood cutting		Holzzuschnitt
-yes	Text		Yes		Ja
-youAreInGuestMode	Text		You are in guest mode		Du bist im Gast-Modus
+"	Playable instrument	Odtwarzany instrument &	Spielbares Instrument
+settingScreenShakes	Text		Screen shakes	Wstrząsy ekranu	Bildschirmrütteln
+settingSfxVol	Text		SFX	Efekty dźwiękowe	Soundeffekte
+settingVSync	Text		V-sync	V-sync	V-Sync
+settingVibrationNintendoSwitch	Text		Vibration	Wibracja	HD-Vibration
+settingVibrationPC	Text		Vibration	Wibracja	Vibration
+settingVibrationPS4	Text		Vibration	Wibracja	Vibration
+settingVibrationXbox	Text		Vibration	Wibracja	Vibration
+sheets	Text	Refers to Music sheets/notes	Sheets	Arkusze	Notenblätter
+shirt	Text	Option to choose shirt style	Shirt	Koszulka	Hemd
+shortcuts	Text		Shortcuts	Skróty klawiszowe	Abkürzungen
+showCreativeUI	Text	"""UI"" should also be called ""UI"" when translated, as the button space it is shown own should be kept small and short."	Show Creative UI	Pokaż kreatywne UI	UI anzeigen
+signedOutWarning	Text		Warning!\Your profile has\been signed out.	Ostrzeżenie!\Twój profil\został wylogowany.	HOPPLA!\Dein Profil\wurde abgemeldet.
+singleplayer	Text		Singleplayer	&	Einzelspieler
+skillInfo	Text		Click to expand talent tree.	Kliknij, aby rozwinąć drzewo talentów.	Klicken, um den Talentbaum zu erweitern.
+skills	Text		Skills	Umiejętności	Fertigkeiten
+skin	Text	Option to choose skin color	Skin	Karnacja	Hautfarbe
+slot	Text		Slot {0}	Slot {0}	Slot {0}
+smelting	Text		Smelting	Przetapianie	Schmelzen
+sort	Text	Shown when hovering a button that sorts the inventory	Sort	Sortuj	Sortieren
+sortDesc	Text		Sorts and stacks the items together in the inventory.	Sortuje i układa przedmioty w ekwipunku.	Sortiert und stapelt die Gegenstände im Inventar.
+souls	Text		Souls	Dusze	Seelen
+startingPerks	Text		Starting perks:	Początkowe profity:	Startvorteile:
+starvationDeathMessage	Text		You died from starvation.	Umarłeś z głodu.	Du bist verhungert.
+stats	Text	Title of stats window that shows when hovering character ui in game	Stats	Statystyki	Werte
+stop	Text		Stop	Stop	Stopp
+textWithAmount	Text	"Used for any text that has an amount indicated such as ""Mining 48/100"" to show the current and max Mining skill"	{0} {1}/{2}	{0} {1}/{2}	{0} {1}/{2}
+toggleShortcuts	Text	&	Press {0} to toggle this window	Naciśnij {0}, aby przełączyć to okno	Drücke {0}, um dieses Fenster umzuschalten
+tools	Text	Shown as title in crafting window	Tools	Narzędzia	Werkzeuge
+trading	Text		Trading	Handel	Handeln
+unbanPlayerDialogue	Text		Do you want to unban this player?	Czy chcesz odbanować tego gracza?	Möchtest du diesen Spieler entsperren?
+uncapped	Text	Used in the context of setting the FPS to not be limited	Uncapped	Bez limitu	Unbegrenzt
+uniqueCraftingComponent	Text	Shown in hover text of items that are unique crafting components	Unique crafting component	Unikalny element rzemieślniczy	Einzigartige Fertigungskomponente
+up	Text		Move up	Do góry	Nach oben
+upgrade	Text		Upgrade	Ulepszenie	Aufwerten
+useItemTerm	Text	&	Use: {0}	Użycie: {0}	Zum Verwenden: {0}
+valuable	Text	Shown as a tag in description of items  that are meant to be sold for coins.	Valuable	Wartościowe	Wertvoll
+value	Text	"As in the coin value of an item, for example ""Value: 1484 coins"""	Value: {0}	Wartość: {0}	Wert: {0}
+vanityToggleVisibility	Text		Click to toggle visiblity of equipment	Kliknij, aby przełączyć widoczność sprzętu	Klicken, um die Sichtbarkeit der Ausrüstung umzuschalten
+versus	Text	&	Versus	Versus	Gegen
+veryHigh	Text		Very high	Bardzo wysoka	Sehr hoch
+videoOptions	Text		Video settings	Ustawienia obrazu	Videoeinstellungen
+weaponMeleeDamage	Text	"The damage of a weapon shown when hovering it, for example ""19-22 melee damage"""	{0}-{1} melee damage	{0}-{1} obrażeń wręcz	{0}-{1} Nahkampfschaden
+weaponRangeDamage	Text		{0}-{1} range damage	{0}-{1} obrażeń zasięgowych	{0}-{1} Fernkampfschaden
+weaponSecondary	Text		Secondary use: {0}	Dodatkowe użycie: {0}	Sekundärzweck: {0}
+weapons	Text		Weapons	Bronie	Waffen
+whenEaten	Text		When eaten:	Po zjedzeniu:	Nach dem Verzehr:
+woodCutting	Text	Shown as title in the crafting UI of the buzz saw building	Wood cutting	Cięcie drewna	Holzzuschnitt
+yes	Text		Yes	Tak	Ja
+youAreInGuestMode	Text		You are in guest mode	Jesteś w trybie gościa	Du bist im Gast-Modus
