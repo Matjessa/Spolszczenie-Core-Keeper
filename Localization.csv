@@ -2977,85 +2977,85 @@ Items/PeasantHelmDesc	Text		Simple leather hat, doesn't look that great but does
 Items/PeasantPantsArmor	Text		Peasant Pants	Chłopskie spodnie	Primitive Hose
 Items/Pedestal	Text		Pedestal	Piedestał	Sockel
 Items/PedestalDesc	Text		Showcase your findings!	Zaprezentuj swoje odkrycia!	Präsentiere deine Fundsachen!
-Items/PepperSoup	Text		Pepper Soup		Pfeffersuppe
-Items/PetBird	Text		Owlux		Eulux
-Items/PetBirdDesc	Text		A swift, beaked ally. While too shy to partake in battle, it still has your back!		Ein flinker, geschnäbelter Begleiter. Obwohl er zu scheu ist, um sich ins Kampfgetümmel zu stürzen, stärkt er dir trotzdem den Rücken!
-Items/PetBirdEgg	Text		Lively Egg		Munteres Ei
-Items/PetBirdEggCracked	Text		Cracked Lively Egg		Angeknackstes munteres Ei
-Items/PetBirdEggCrackedDesc	Text		A mysterious, feathered egg that is about to hatch.		Ein geheimnisvolles Ei mit Federn, das kurz davor ist, auszuschlüpfen.
-Items/PetBirdEggDesc	Text		A mysterious, feathered egg that seems to react to your presence. Is there a way to hatch it?		Ein geheimnisvolles Ei mit Federn, das auf deine Nähe zu reagieren scheint. Gibt es einen Weg, es auszubrüten?
-Items/PetBunny	Text	Name is a combination of Fan + Hare. Translations can be creative as long as hare, bunny, lapin + its long, fan-like ears or poisonous properties are considered.	Fanhare		Federninchen
-Items/PetBunnyDesc	Text		This feather-eared rodent is an able companion, making up for its size by swinging poisonous, sturdy hair into the enemy.		Dieser feder-ohrige Nager ist ein fähiger Begleiter, der seine geringe Größe durch das Abfeuern von spitzen Gifthaaren ausgleicht.
-Items/PetBunnyEgg	Text		Nimble Egg		Flinkes Ei
-Items/PetBunnyEggCracked	Text		Cracked Nimble Egg		Angeknackstes flinkes Ei
-Items/PetBunnyEggCrackedDesc	Text		A mysterious, feather-eared egg that is about to hatch.		Ein geheimnisvolles Ei mit gefederten Ohren, das kurz davor ist, auszuschlüpfen.
-Items/PetBunnyEggDesc	Text		A mysterious, feather-eared egg that seems to react to your presence. Is there a way to hatch it?		Ein geheimnisvolles Ei mit gefiederten Ohren, das auf deine Nähe zu reagieren scheint. Gibt es einen Weg, es auszubrüten?
-Items/PetCandy	Text		Pet Pellet		Schlabber-Snack
-Items/PetCandyDesc	Text		This handful of treats with different meaty flavours is a great addition to your pets' diet.		Diese Handvoll Leckereien mit verschiedenen Fleisch-Aromen ist eine perfekte Ergänzung in der Haustier-Ernährung.
-Items/PetCandyEpic	Text		Beast Booster		Bestien-Booster
-Items/PetCandyEpicDesc	Text		Fully packed with vitamins, flavours and lots of energy, this treat is the pinnacle of how you can spoil your pets.		Vollgepackt mit Vitaminen, Geschmack und einem Haufen Energie, ist diese Leckerei das Nonplusultra, um deine Haustiere zu verwöhnen.
-Items/PetCandyRare	Text		Rare Candy		Sonderbonbon
-Items/PetCandyRareDesc	Text		A nutrient-rich snack that's highly sought after. Your pets will go crazy over this!		Ein nährstoffreicher Snack, der hochbegehrt ist. Deine Haustiere werden verrückt danach sein.
-Items/PetCat	Text	Again, the name should feel whimsical and be a creative combination of cat/breed/cat parts + its fire shooting properties. It's fine if it doesn't exactly match the names in other languages	Embertail		Glutschweif
-Items/PetCatDesc	Text		Spontaneous and impulsive in nature, this pet is as fierce in battle as it is at clawing at furniture. But also incredibly cuddly.		Von Natur aus spontan und impulsiv, ist dieses Haustier im Kampf genauso gnadenlos mit Gegnern wie mit deiner Inneneinrichtung. Aber auch unglaublich verschmust.
-Items/PetCatEgg	Text		Curious Egg		Neugieriges Ei
-Items/PetCatEggCracked	Text		Cracked Curious Egg		Angeknackstes neugieriges Ei
-Items/PetCatEggCrackedDesc	Text		A mysterious, curly-tailed egg that is about to hatch.		Ein geheimnisvolles Ei mit gekrümmtem Schweif, das kurz davor ist, auszuschlüpfen.
-Items/PetCatEggDesc	Text		A mysterious, curly-tailed egg that seems to react to your presence. Is there a way to hatch it?		Ein geheimnisvolles Ei mit gekrümmtem Schweif, das auf deine Nähe zu reagieren scheint. Gibt es einen Weg, es auszubrüten?
-Items/PetDog	Text	Try to find a word mix with dog/breeds + anything related to subterran, cave, den or similar when doing translations.	Subterrier		Subterrier
-Items/PetDogDesc	Text		A canine companion that is out to smite your enemies, endlessly lick his paws and in general just be a good pal.		Ein treuer Gefährte, der darauf aus ist, deine Feinde zu vernichten, endlos seine Pfoten zu lecken und von Grund auf ein guter Junge zu sein.
-Items/PetDogEgg	Text		Loyal Egg		Treues Ei
-Items/PetDogEggCracked	Text		Cracked Loyal Egg		Angeknackstes treues Ei
-Items/PetDogEggCrackedDesc	Text		A mysterious, pointy-eared egg that is about to hatch.		Ein geheimnisvolles Ei mit spitzen Ohren, das kurz davor ist, auszuschlüpfen.
-Items/PetDogEggDesc	Text		A mysterious, pointy-eared egg that seems to react to your presence. Is there a way to hatch it?		Ein geheimnisvolles Ei mit spitzen Ohren, das auf deine Nähe zu reagieren scheint. Gibt es einen Weg, es auszubrüten?
-Items/PetLavaSlimeBlob	Text		Jr. Lava Slime		Junior-Lavaschleim
-Items/PetLavaSlimeBlobDesc	Text		A scorching little friend that is ready for adventures underground.		Ein glühend heißer kleiner Freund, der bereit für Abenteuer im Untergrund ist.
-Items/PetLavaSlimeBlobEgg	Text		Oozy Lava Egg		Glitschiges Lava-Ei
-Items/PetLavaSlimeBlobEggCracked	Text		Cracked Oozy Lava Egg		Angeknackstes glitschiges Lava-Ei
-Items/PetLavaSlimeBlobEggCrackedDesc	Text		A mysterious, transparent egg that is about to hatch.		Ein geheimnisvolles, durchsichtiges Ei, das kurz davor ist, auszuschlüpfen.
-Items/PetLavaSlimeBlobEggDesc	Text		A mysterious, transparent egg that seems to react to your presence. Is there a way to hatch it?		Ein geheimnisvolles, durchsichtiges Ei, das auf deine Nähe zu reagieren scheint. Gibt es einen Weg, es auszubrüten?
-Items/PetPoisonSlimeBlob	Text		Jr. Purple Slime		Junior-Lilaschleim
-Items/PetPoisonSlimeBlobDesc	Text		A poisonous little friend that is ready for adventures underground.		Ein kleiner giftiger Freund, der bereit für Abenteuer im Untergrund ist.
-Items/PetPoisonSlimeBlobEgg	Text		Oozy Poison Egg		Glitschiges Gift-Ei
-Items/PetPoisonSlimeBlobEggCracked	Text		Cracked Oozy Poison Egg		Angeknackstes glitschiges Gift-Ei
-Items/PetPoisonSlimeBlobEggCrackedDesc	Text		A mysterious, transparent egg that is about to hatch.		Ein geheimnisvolles, durchsichtiges Ei, das kurz davor ist, auszuschlüpfen.
-Items/PetPoisonSlimeBlobEggDesc	Text		A mysterious, transparent egg that seems to react to your presence. Is there a way to hatch it?		Ein geheimnisvolles, durchsichtiges Ei, das auf deine Nähe zu reagieren scheint. Gibt es einen Weg, es auszubrüten?
-Items/PetPrinceSlimeBlob	Text		Prince Slime		Prinzenschleim
-Items/PetPrinceSlimeBlobDesc	Text		A royal little friend that is ready for adventures underground.		Ein kleiner königlicher Freund, der bereit für Abenteuer im Untergrund ist.
-Items/PetPrinceSlimeBlobEgg	Text		Oozy Royal Egg		Glitschiges Königs-Ei
-Items/PetPrinceSlimeBlobEggCracked	Text		Cracked Oozy Royal Egg		Angeknackstes glitschiges Königs-Ei
-Items/PetPrinceSlimeBlobEggCrackedDesc	Text		A mysterious, transparent egg that is about to hatch.		Ein geheimnisvolles, durchsichtiges Ei, das kurz davor ist, auszuschlüpfen.
-Items/PetPrinceSlimeBlobEggDesc	Text		A mysterious, transparent egg that seems to react to your presence. Is there a way to hatch it?		Ein geheimnisvolles, durchsichtiges Ei, das auf deine Nähe zu reagieren scheint. Gibt es einen Weg, es auszubrüten?
-Items/PetRock	Text		Pet Rock		Kumpel-Stein
-Items/PetRockDesc	Text		It's Bob the pet rock. Don't drop or throw him, he has feelings too.		Es ist Bob, der Kumpel-Stein. Nicht fallen lassen oder werfen, er hat schließlich auch Gefühle.
-Items/PetSlimeBlob	Text		Jr. Orange Slime		Junior-Orangeschleim
-Items/PetSlimeBlobDesc	Text		An oozy little friend that is ready for adventures underground.		Ein kleiner schleimiger Freund, der bereit für Abenteuer im Untergrund ist.
-Items/PetSlimeBlobEgg	Text		Oozy Egg		Glitschiges Ei
-Items/PetSlimeBlobEggCracked	Text		Cracked Oozy Egg		Angeknackstes glitschiges Ei
-Items/PetSlimeBlobEggCrackedDesc	Text		A mysterious, transparent egg that is about to hatch.		Ein geheimnisvolles, durchsichtiges Ei, das kurz davor ist, auszuschlüpfen.
-Items/PetSlimeBlobEggDesc	Text		A mysterious, transparent egg that seems to react to your presence. Is there a way to hatch it?		Ein geheimnisvolles, durchsichtiges Ei, das auf deine Nähe zu reagieren scheint. Gibt es einen Weg, es auszubrüten?
-Items/PetSlipperySlimeBlob	Text		Jr. Blue Slime		Junior-Blauschleim
-Items/PetSlipperySlimeBlobDesc	Text		A slippery little friend that is ready for adventures underground.		Ein kleiner, glitschiger Freund, der bereit für Abenteuer im Untergrund ist.
-Items/PetSlipperySlimeBlobEgg	Text		Oozy Slippery Egg		Glitschiges Gleit-Ei
-Items/PetSlipperySlimeBlobEggCracked	Text		Cracked Oozy Slippery Egg		Angeknackstes glitschiges Gleit-Ei
-Items/PetSlipperySlimeBlobEggCrackedDesc	Text		A mysterious, transparent egg that is about to hatch.		Ein geheimnisvolles, durchsichtiges Ei, das kurz davor ist, auszuschlüpfen.
-Items/PetSlipperySlimeBlobEggDesc	Text		A mysterious, transparent egg that seems to react to your presence. Is there a way to hatch it?		Ein geheimnisvolles, durchsichtiges Ei, das auf deine Nähe zu reagieren scheint. Gibt es einen Weg, es auszubrüten?
-Items/PetalRing	Text		Petal Ring		Blütenblatt-Ring
-Items/PetalRingDesc	Text		A precious ring that has naturally grown in the yellow blossoms of the jungle caves.		Ein hübscher Ring, der in den gelben Blüten des Untergrund-Dschungels natürlich entstanden ist.
-Items/PetrifiedCoral	Text		Petrified Coral		Versteinerte Koralle
-Items/PetrifiedCoralDesc	Text		Grey and porous piece of a giant eco system. The ocean it belonged to seems long gone.		Graues, poröses Stück eines gigantischen Ökosystems. Der Ozean, dem es angehörte, ist lange verschwunden.
-Items/PetrifiedEgg	Text		Petrified Egg		Versteinertes Ei
-Items/PetrifiedEggDesc	Text		Fossilized egg shell, it feels light and brittle.		Das Fossil einer Eierschale. Es ist leicht und brüchig.
-Items/PetrifiedTrilobite	Text		Petrified Trilobite		Versteinerter Trilobit
-Items/PetrifiedTrilobiteDesc	Text		The fossil of a long gone critter species. They are ancestors of a big variety of lifeforms.		Das Fossil einer längst ausgestorbenen Spezies. Sie waren die Vorfahren einer Vielzahl von Lebensformen.
-Items/Pewpaya	Text		Pewpaya		Pengpaya
-Items/PewpayaDesc	Text		A juicy, sweet fruit that clears your mind and raises focus.		Eine saftig-süße Frucht, die einen klaren Kopf beschert und den Fokus verbessert.
-Items/PewpayaRare	Text		Golden Pewpaya		Goldene Pengpaya
-Items/PewpayaRareDesc	Text		A very rare variant of the common pewpaya.		Eine sehr seltene Variante der Pengpaya.
-Items/PewpayaSeed	Text		Pewpaya Seed		Pengpaya-Samen
-Items/PewpayaSeedDesc	Text		Grows into a juicy fruit when planted in beach sand.		Wächst zu einer saftigen Frucht heran, wenn er in Strandsand eingepflanzt wird.
-Items/PickaxeHead	Text		Pickaxe Head		Spitzhacken-Kopf
-Items/PickaxeHeadDesc	Text		The top part of an iron pickaxe that is partially molten. It must have been broken while working under extreme conditions.		Der obere Teil einer Eisen-Spitzhacke, der teilweise geschmolzen ist. Er muss beim Arbeiten unter extremen Bedingungen abgebrochen sein.
+Items/PepperSoup	Text		Pepper Soup	Zupa paprykowa	Pfeffersuppe
+Items/PetBird	Text		Owlux	Sowux	Eulux
+Items/PetBirdDesc	Text		A swift, beaked ally. While too shy to partake in battle, it still has your back!	Szybki, dziobaty sojusznik. Choć jest zbyt nieśmiały, by wziąć udział w bitwie, nadal cię wspiera!	Ein flinker, geschnäbelter Begleiter. Obwohl er zu scheu ist, um sich ins Kampfgetümmel zu stürzen, stärkt er dir trotzdem den Rücken!
+Items/PetBirdEgg	Text		Lively Egg	Żywe jajko	Munteres Ei
+Items/PetBirdEggCracked	Text		Cracked Lively Egg	Pęknięte żywe jajko	Angeknackstes munteres Ei
+Items/PetBirdEggCrackedDesc	Text		A mysterious, feathered egg that is about to hatch.	Tajemnicze, opierzone jajo, które wkrótce się wykluje.	Ein geheimnisvolles Ei mit Federn, das kurz davor ist, auszuschlüpfen.
+Items/PetBirdEggDesc	Text		A mysterious, feathered egg that seems to react to your presence. Is there a way to hatch it?	Tajemnicze, opierzone jajo, które zdaje się reagować na twoją obecność. Czy istnieje sposób na jego wyklucie?	Ein geheimnisvolles Ei mit Federn, das auf deine Nähe zu reagieren scheint. Gibt es einen Weg, es auszubrüten?
+Items/PetBunny	Text	Name is a combination of Fan + Hare. Translations can be creative as long as hare, bunny, lapin + its long, fan-like ears or poisonous properties are considered.	Fanhare	Wiatrjąc	Federninchen
+Items/PetBunnyDesc	Text		This feather-eared rodent is an able companion, making up for its size by swinging poisonous, sturdy hair into the enemy.	Ten pierzasty gryzoń jest zdolnym towarzyszem, nadrabiając swój rozmiar wymachiwaniem trującą, gęstą sierścią w kierunku wroga.	Dieser feder-ohrige Nager ist ein fähiger Begleiter, der seine geringe Größe durch das Abfeuern von spitzen Gifthaaren ausgleicht.
+Items/PetBunnyEgg	Text		Nimble Egg	Zwinne jajko	Flinkes Ei
+Items/PetBunnyEggCracked	Text		Cracked Nimble Egg	Pęknięte zwinne jajko	Angeknackstes flinkes Ei
+Items/PetBunnyEggCrackedDesc	Text		A mysterious, feather-eared egg that is about to hatch.	Tajemnicze, opierzone jajo, które wkrótce się wykluje.	Ein geheimnisvolles Ei mit gefederten Ohren, das kurz davor ist, auszuschlüpfen.
+Items/PetBunnyEggDesc	Text		A mysterious, feather-eared egg that seems to react to your presence. Is there a way to hatch it?	Tajemnicze, opierzone jajo, które wydaje się reagować na twoją obecność. Czy istnieje sposób na jego wyklucie?	Ein geheimnisvolles Ei mit gefiederten Ohren, das auf deine Nähe zu reagieren scheint. Gibt es einen Weg, es auszubrüten?
+Items/PetCandy	Text		Pet Pellet	Smakołyki dla zwierząt	Schlabber-Snack
+Items/PetCandyDesc	Text		This handful of treats with different meaty flavours is a great addition to your pets' diet.	Ta garść smakołyków o różnych mięsnych smakach jest doskonałym dodatkiem do diety zwierząt domowych.	Diese Handvoll Leckereien mit verschiedenen Fleisch-Aromen ist eine perfekte Ergänzung in der Haustier-Ernährung.
+Items/PetCandyEpic	Text		Beast Booster	Wzmacniacz bestii	Bestien-Booster
+Items/PetCandyEpicDesc	Text		Fully packed with vitamins, flavours and lots of energy, this treat is the pinnacle of how you can spoil your pets.	Pełen witamin, smaków i mnóstwa energii, ten przysmak jest szczytem tego, jak można rozpieszczać swoje zwierzęta.	Vollgepackt mit Vitaminen, Geschmack und einem Haufen Energie, ist diese Leckerei das Nonplusultra, um deine Haustiere zu verwöhnen.
+Items/PetCandyRare	Text		Rare Candy	Rzadki cukierek	Sonderbonbon
+Items/PetCandyRareDesc	Text		A nutrient-rich snack that's highly sought after. Your pets will go crazy over this!	Bogata w składniki odżywcze przekąska, która jest bardzo poszukiwana. Twoje zwierzęta oszaleją na jej punkcie!	Ein nährstoffreicher Snack, der hochbegehrt ist. Deine Haustiere werden verrückt danach sein.
+Items/PetCat	Text	Again, the name should feel whimsical and be a creative combination of cat/breed/cat parts + its fire shooting properties. It's fine if it doesn't exactly match the names in other languages	Embertail	&	Glutschweif
+Items/PetCatDesc	Text		Spontaneous and impulsive in nature, this pet is as fierce in battle as it is at clawing at furniture. But also incredibly cuddly.	Spontaniczny i impulsywny z natury, ten zwierzak jest równie zaciekły w walce, co w drapaniu mebli. Ale także niesamowicie przytulny.	Von Natur aus spontan und impulsiv, ist dieses Haustier im Kampf genauso gnadenlos mit Gegnern wie mit deiner Inneneinrichtung. Aber auch unglaublich verschmust.
+Items/PetCatEgg	Text		Curious Egg	Ciekawskie jajko	Neugieriges Ei
+Items/PetCatEggCracked	Text		Cracked Curious Egg	Pęknięte ciekawskie jajko	Angeknackstes neugieriges Ei
+Items/PetCatEggCrackedDesc	Text		A mysterious, curly-tailed egg that is about to hatch.	Tajemnicze jajo z kręconym ogonem, które wkrótce się wykluje.	Ein geheimnisvolles Ei mit gekrümmtem Schweif, das kurz davor ist, auszuschlüpfen.
+Items/PetCatEggDesc	Text		A mysterious, curly-tailed egg that seems to react to your presence. Is there a way to hatch it?	Tajemnicze jajo z kręconym ogonem, które zdaje się reagować na twoją obecność. Czy istnieje sposób na jego wyklucie?	Ein geheimnisvolles Ei mit gekrümmtem Schweif, das auf deine Nähe zu reagieren scheint. Gibt es einen Weg, es auszubrüten?
+Items/PetDog	Text	Try to find a word mix with dog/breeds + anything related to subterran, cave, den or similar when doing translations.	Subterrier	&	Subterrier
+Items/PetDogDesc	Text		A canine companion that is out to smite your enemies, endlessly lick his paws and in general just be a good pal.	Psi towarzysz, który ma na celu pokonanie wrogów, niekończące się lizanie łap i ogólnie bycie dobrym kumplem.	Ein treuer Gefährte, der darauf aus ist, deine Feinde zu vernichten, endlos seine Pfoten zu lecken und von Grund auf ein guter Junge zu sein.
+Items/PetDogEgg	Text		Loyal Egg	Lojalne jajko	Treues Ei
+Items/PetDogEggCracked	Text		Cracked Loyal Egg	Pęknięte lojalne jajko	Angeknackstes treues Ei
+Items/PetDogEggCrackedDesc	Text		A mysterious, pointy-eared egg that is about to hatch.	Tajemnicze, spiczasto uszne jajo, które wkrótce się wykluje.	Ein geheimnisvolles Ei mit spitzen Ohren, das kurz davor ist, auszuschlüpfen.
+Items/PetDogEggDesc	Text		A mysterious, pointy-eared egg that seems to react to your presence. Is there a way to hatch it?	Tajemnicze, spiczasto uszne jajo, które zdaje się reagować na twoją obecność. Czy istnieje sposób na jego wyklucie?	Ein geheimnisvolles Ei mit spitzen Ohren, das auf deine Nähe zu reagieren scheint. Gibt es einen Weg, es auszubrüten?
+Items/PetLavaSlimeBlob	Text		Jr. Lava Slime	Młody lawowy szlam	Junior-Lavaschleim
+Items/PetLavaSlimeBlobDesc	Text		A scorching little friend that is ready for adventures underground.	Gorący mały przyjaciel, który jest gotowy na przygody pod ziemią.	Ein glühend heißer kleiner Freund, der bereit für Abenteuer im Untergrund ist.
+Items/PetLavaSlimeBlobEgg	Text		Oozy Lava Egg	Śluzowate lawowe jajko	Glitschiges Lava-Ei
+Items/PetLavaSlimeBlobEggCracked	Text		Cracked Oozy Lava Egg	Pęknięte śluzowate lawowe jajko	Angeknackstes glitschiges Lava-Ei
+Items/PetLavaSlimeBlobEggCrackedDesc	Text		A mysterious, transparent egg that is about to hatch.	Tajemnicze, przezroczyste jajo, które wkrótce się wykluje.	Ein geheimnisvolles, durchsichtiges Ei, das kurz davor ist, auszuschlüpfen.
+Items/PetLavaSlimeBlobEggDesc	Text		A mysterious, transparent egg that seems to react to your presence. Is there a way to hatch it?	Tajemnicze, przezroczyste jajo, które zdaje się reagować na twoją obecność. Czy istnieje sposób na jego wyklucie?	Ein geheimnisvolles, durchsichtiges Ei, das auf deine Nähe zu reagieren scheint. Gibt es einen Weg, es auszubrüten?
+Items/PetPoisonSlimeBlob	Text		Jr. Purple Slime	Młody purpurowy szlam	Junior-Lilaschleim
+Items/PetPoisonSlimeBlobDesc	Text		A poisonous little friend that is ready for adventures underground.	Trujący mały przyjaciel, który jest gotowy na przygody pod ziemią.	Ein kleiner giftiger Freund, der bereit für Abenteuer im Untergrund ist.
+Items/PetPoisonSlimeBlobEgg	Text		Oozy Poison Egg	Śluzowate trujące jajko	Glitschiges Gift-Ei
+Items/PetPoisonSlimeBlobEggCracked	Text		Cracked Oozy Poison Egg	Pęknięte śluzowate trujące jajko	Angeknackstes glitschiges Gift-Ei
+Items/PetPoisonSlimeBlobEggCrackedDesc	Text		A mysterious, transparent egg that is about to hatch.	Tajemnicze, przezroczyste jajo, które wkrótce się wykluje.	Ein geheimnisvolles, durchsichtiges Ei, das kurz davor ist, auszuschlüpfen.
+Items/PetPoisonSlimeBlobEggDesc	Text		A mysterious, transparent egg that seems to react to your presence. Is there a way to hatch it?	Tajemnicze, przezroczyste jajo, które zdaje się reagować na twoją obecność. Czy istnieje sposób na jego wyklucie?	Ein geheimnisvolles, durchsichtiges Ei, das auf deine Nähe zu reagieren scheint. Gibt es einen Weg, es auszubrüten?
+Items/PetPrinceSlimeBlob	Text		Prince Slime	Książę szlamu	Prinzenschleim
+Items/PetPrinceSlimeBlobDesc	Text		A royal little friend that is ready for adventures underground.	Królewski mały przyjaciel, który jest gotowy na przygody pod ziemią.	Ein kleiner königlicher Freund, der bereit für Abenteuer im Untergrund ist.
+Items/PetPrinceSlimeBlobEgg	Text		Oozy Royal Egg	Śluzowate królewskie jajko	Glitschiges Königs-Ei
+Items/PetPrinceSlimeBlobEggCracked	Text		Cracked Oozy Royal Egg	Pęknięte śluzowate królewskie jajko	Angeknackstes glitschiges Königs-Ei
+Items/PetPrinceSlimeBlobEggCrackedDesc	Text		A mysterious, transparent egg that is about to hatch.	Tajemnicze, przezroczyste jajo, które wkrótce się wykluje.	Ein geheimnisvolles, durchsichtiges Ei, das kurz davor ist, auszuschlüpfen.
+Items/PetPrinceSlimeBlobEggDesc	Text		A mysterious, transparent egg that seems to react to your presence. Is there a way to hatch it?	Tajemnicze, przezroczyste jajo, które zdaje się reagować na twoją obecność. Czy istnieje sposób na jego wyklucie?	Ein geheimnisvolles, durchsichtiges Ei, das auf deine Nähe zu reagieren scheint. Gibt es einen Weg, es auszubrüten?
+Items/PetRock	Text		Pet Rock	Przyjazny kamień	Kumpel-Stein
+Items/PetRockDesc	Text		It's Bob the pet rock. Don't drop or throw him, he has feelings too.	To jest Bob, przyjazny kamień. Nie upuść go ani nie rzucaj nim, on też ma uczucia.	Es ist Bob, der Kumpel-Stein. Nicht fallen lassen oder werfen, er hat schließlich auch Gefühle.
+Items/PetSlimeBlob	Text		Jr. Orange Slime	Młody pomarańczowy szlam	Junior-Orangeschleim
+Items/PetSlimeBlobDesc	Text		An oozy little friend that is ready for adventures underground.	Śluzowy mały przyjaciel, który jest gotowy na przygody pod ziemią.	Ein kleiner schleimiger Freund, der bereit für Abenteuer im Untergrund ist.
+Items/PetSlimeBlobEgg	Text		Oozy Egg	Śluzowate jajko	Glitschiges Ei
+Items/PetSlimeBlobEggCracked	Text		Cracked Oozy Egg	Pęknięte śluzowate jajko	Angeknackstes glitschiges Ei
+Items/PetSlimeBlobEggCrackedDesc	Text		A mysterious, transparent egg that is about to hatch.	Tajemnicze, przezroczyste jajo, które wkrótce się wykluje.	Ein geheimnisvolles, durchsichtiges Ei, das kurz davor ist, auszuschlüpfen.
+Items/PetSlimeBlobEggDesc	Text		A mysterious, transparent egg that seems to react to your presence. Is there a way to hatch it?	Tajemnicze, przezroczyste jajo, które zdaje się reagować na twoją obecność. Czy istnieje sposób na jego wyklucie?	Ein geheimnisvolles, durchsichtiges Ei, das auf deine Nähe zu reagieren scheint. Gibt es einen Weg, es auszubrüten?
+Items/PetSlipperySlimeBlob	Text		Jr. Blue Slime	Młody niebieski szlam	Junior-Blauschleim
+Items/PetSlipperySlimeBlobDesc	Text		A slippery little friend that is ready for adventures underground.	Mały śliski przyjaciel, który jest gotowy na przygody pod ziemią.	Ein kleiner, glitschiger Freund, der bereit für Abenteuer im Untergrund ist.
+Items/PetSlipperySlimeBlobEgg	Text		Oozy Slippery Egg	Śluzowate śliskie jajko	Glitschiges Gleit-Ei
+Items/PetSlipperySlimeBlobEggCracked	Text		Cracked Oozy Slippery Egg	Pęknięte śluzowate śliskie jajko	Angeknackstes glitschiges Gleit-Ei
+Items/PetSlipperySlimeBlobEggCrackedDesc	Text		A mysterious, transparent egg that is about to hatch.	Tajemnicze, przezroczyste jajo, które wkrótce się wykluje.	Ein geheimnisvolles, durchsichtiges Ei, das kurz davor ist, auszuschlüpfen.
+Items/PetSlipperySlimeBlobEggDesc	Text		A mysterious, transparent egg that seems to react to your presence. Is there a way to hatch it?	Tajemnicze, przezroczyste jajo, które zdaje się reagować na twoją obecność. Czy istnieje sposób na jego wyklucie?	Ein geheimnisvolles, durchsichtiges Ei, das auf deine Nähe zu reagieren scheint. Gibt es einen Weg, es auszubrüten?
+Items/PetalRing	Text		Petal Ring	Kwiecisty pierścień	Blütenblatt-Ring
+Items/PetalRingDesc	Text		A precious ring that has naturally grown in the yellow blossoms of the jungle caves.	Cenny pierścień, który naturalnie wyrósł w żółtych kwiatach dżunglowych jaskiń.	Ein hübscher Ring, der in den gelben Blüten des Untergrund-Dschungels natürlich entstanden ist.
+Items/PetrifiedCoral	Text		Petrified Coral	Skamieniały koralowiec	Versteinerte Koralle
+Items/PetrifiedCoralDesc	Text		Grey and porous piece of a giant eco system. The ocean it belonged to seems long gone.	Szary i porowaty kawałek gigantycznego ekosystemu. Ocean, do którego należał, wydaje się już dawno nie istnieć.	Graues, poröses Stück eines gigantischen Ökosystems. Der Ozean, dem es angehörte, ist lange verschwunden.
+Items/PetrifiedEgg	Text		Petrified Egg	Skamieniałe jajko	Versteinertes Ei
+Items/PetrifiedEggDesc	Text		Fossilized egg shell, it feels light and brittle.	Skamieniała skorupka jajka, jest lekka i krucha.	Das Fossil einer Eierschale. Es ist leicht und brüchig.
+Items/PetrifiedTrilobite	Text		Petrified Trilobite	Skamieniały trylobit	Versteinerter Trilobit
+Items/PetrifiedTrilobiteDesc	Text		The fossil of a long gone critter species. They are ancestors of a big variety of lifeforms.	Skamielina dawno wymarłego gatunku stworzenia. Są przodkami wielu różnych form życia.	Das Fossil einer längst ausgestorbenen Spezies. Sie waren die Vorfahren einer Vielzahl von Lebensformen.
+Items/Pewpaya	Text		Pewpaya	&	Pengpaya
+Items/PewpayaDesc	Text		A juicy, sweet fruit that clears your mind and raises focus.	Soczysty, słodki owoc, który oczyszcza umysł i poprawia koncentrację.	Eine saftig-süße Frucht, die einen klaren Kopf beschert und den Fokus verbessert.
+Items/PewpayaRare	Text		Golden Pewpaya	&	Goldene Pengpaya
+Items/PewpayaRareDesc	Text		A very rare variant of the common pewpaya.	&	Eine sehr seltene Variante der Pengpaya.
+Items/PewpayaSeed	Text		Pewpaya Seed	&	Pengpaya-Samen
+Items/PewpayaSeedDesc	Text		Grows into a juicy fruit when planted in beach sand.	Po posadzeniu w piasku plażowym wyrasta na soczysty owoc.	Wächst zu einer saftigen Frucht heran, wenn er in Strandsand eingepflanzt wird.
+Items/PickaxeHead	Text		Pickaxe Head	Głowica kilofa	Spitzhacken-Kopf
+Items/PickaxeHeadDesc	Text		The top part of an iron pickaxe that is partially molten. It must have been broken while working under extreme conditions.	Górna część żelaznego kilofa, która jest częściowo stopiona. Musiał zostać złamany podczas pracy w ekstremalnych warunkach.	Der obere Teil einer Eisen-Spitzhacke, der teilweise geschmolzen ist. Er muss beim Arbeiten unter extremen Bedingungen abgebrochen sein.
 Items/PileOfChum	Text		Pile of chum		Köderhaufen
 Items/PileOfChumDesc	Text		Undigested remains of prey that could double down as food for fish. Place it in a habitable room and a character interested in fishing may move in.		Unverdaute Überreste von Beutetieren, die als Grundköder verwendet werden können. Platziere sie in einem bewohnbaren Raum und ein im Angeln bewandter Charakter könnte einziehen.
 Items/Pinegrapple	Text		Pinegrapple		Anfassnas
