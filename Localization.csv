@@ -1689,7 +1689,7 @@ Items/CopperBreastArmorDesc	Text		Got no sixpack? Just craft one!	Nie masz sześ
 Items/CopperChest	Text		Copper Chest	Miedziana skrzynia	Kupfer-Kiste
 Items/CopperChestDesc	Text		An crude chest made from copper. It is not locked anymore.	Prosta skrzynia wykonana z miedzi. Nie jest już zamknięta.	Eine einfache Kiste aus Kupfer. Sie ist nicht mehr verschlossen.
 Items/CopperCrossNecklace	Text		Copper Cross Necklace	Naszyjnik z miedzianym krzyżem	Kupferkreuz-Halskette
-Items/CopperCrossNecklaceDesc	Text		This pendant sharpens the focus, allowing for more precise hits.	Ta zawieszka wyostrza ostrość, umożliwiając bardziej precyzyjne trafienia.	Dieser Anhänger schärft die Sinne und ermöglicht genauere Angriffe.
+Items/CopperCrossNecklaceDesc	Text		This pendant sharpens the focus, allowing for more precise hits.	Ten wisiorek wyostrza skupienie, pozwalając na bardziej precyzyjne uderzenia.	Dieser Anhänger schärft die Sinne und ermöglicht genauere Angriffe.
 Items/CopperHelm	Text		Copper Helm	Miedziany hełm	Kupfer-Helm
 Items/CopperHelmDesc	Text		Resembles more of a bucket but repels strong blows to the head.	Przypomina bardziej wiadro, ale odpiera silne ciosy w głowę.	Sieht eher aus wie ein Eimer, wehrt aber starke Hiebe gegen den Kopf ab.
 Items/CopperHoe	Text		Copper Hoe	Miedziana motyka	Kupfer-Hacke
@@ -3056,87 +3056,87 @@ Items/PewpayaSeed	Text		Pewpaya Seed	&	Pengpaya-Samen
 Items/PewpayaSeedDesc	Text		Grows into a juicy fruit when planted in beach sand.	Po posadzeniu w piasku plażowym wyrasta na soczysty owoc.	Wächst zu einer saftigen Frucht heran, wenn er in Strandsand eingepflanzt wird.
 Items/PickaxeHead	Text		Pickaxe Head	Głowica kilofa	Spitzhacken-Kopf
 Items/PickaxeHeadDesc	Text		The top part of an iron pickaxe that is partially molten. It must have been broken while working under extreme conditions.	Górna część żelaznego kilofa, która jest częściowo stopiona. Musiał zostać złamany podczas pracy w ekstremalnych warunkach.	Der obere Teil einer Eisen-Spitzhacke, der teilweise geschmolzen ist. Er muss beim Arbeiten unter extremen Bedingungen abgebrochen sein.
-Items/PileOfChum	Text		Pile of chum		Köderhaufen
-Items/PileOfChumDesc	Text		Undigested remains of prey that could double down as food for fish. Place it in a habitable room and a character interested in fishing may move in.		Unverdaute Überreste von Beutetieren, die als Grundköder verwendet werden können. Platziere sie in einem bewohnbaren Raum und ein im Angeln bewandter Charakter könnte einziehen.
-Items/Pinegrapple	Text		Pinegrapple		Anfassnas
-Items/PinegrappleDesc	Text		An intensely tasty fruit that has you clench your weapons tightly.		Eine unglaublich leckere Frucht, die dich deine Waffen fest umklammern lässt.
-Items/PinegrappleRare	Text		Golden Pinegrapple		Goldene Anfassnas
-Items/PinegrappleRareDesc	Text		A very rare variant of the common pinegrapple.		Eine sehr seltene Variante der Anfassnas.
-Items/PinegrappleSeed	Text		Pinegrapple Seed		Anfassnas-Samen
-Items/PinegrappleSeedDesc	Text		Grows into a refreshing sour and sweet fruit when planted in beach sand.		Wächst zu einer erfrischend süß-sauren Frucht heran, wenn er in Strandsand eingepflanzt wird.
-Items/PinkCherryFlower	Text		Pink Cherry Blossom		Pinkfarbene Kirschblüte
-Items/PinkCherryFlowerDesc	Text		A vibrant pink blossom that fell from a „weeping“ tree. Its short-lived blooming period reminds one of the transcience of life.		Eine leuchtend pinkfarbene Blüte, die von einem „weinenden“ Baum fiel. Ihre kurzlebige Blütezeit erinnert einen an die Vergänglichkeit des Lebens.
-Items/PinkCherryTree	Text		Pink Cherry Tree		Pinkfabener Kirschbaum
-Items/PinkCherryTreeDesc	Text		This „weeping“ tree holds its branches low, letting the blossoms droop towards the ground. It is said that brave warriors took depictions of those trees with them into their final battle.		Dieser „weinende“ Baum hat tief herabhängende Zweige, deren Blüten in Richtung Boden weisen. Man sagt, dass mutige Krieger Abbilder dieses Baums im letzten Kampf mit sich geführt haben.
-Items/PinkCoralotl	Text		Pink Coralotl		Pinker Korallotl
-Items/PinkCoralotlDesc	Text		A small pink amphibian with outward-protruding gills that look like corals. It also uses them to draw nutrients out of the waters of the Sunken Sea.		Eine kleine, pinkfarbene Amphibie mit äußeren, korallenähnlichen Kiemen. Sie werden auch genutzt, um Nährstoffe aus dem Wasser des Versunkenen Meeres zu ziehen.
-Items/PinkPalaceFish	Text		Pink Palace Fish		Pinker Palastfisch
-Items/PinkPalaceFishDesc	Text		A pink, odd-looking fish with weirdly shaped fins.		Ein pinker, merkwürdig aussehender Fisch mit seltsam geformten Flossen.
-Items/PinkRoseBouquet	Text		Pink Rose Bouquet		Pinker Rosenstrauß
-Items/PinkRoseBouquetDesc	Text		This beautiful bouquet made from pink roses will elevate the look of every room. Give it to someone you like dearly.		Dieser wunderschöne Strauß aus pinken Rosen wird das Ambiente eines jeden Raumes bereichern. Gib ihn jemandem, der dir sehr wichtig ist.
-Items/PlagueDoctorHelm	Text		Plague Mask		Pestmaske
-Items/PlagueDoctorHelmDesc	Text		An eerie beaked mask. Its inside reeks of rancid death, yet lets you live to smell it.		Eine unheimliche Maske mit Schnabel. Die Innenseite stinkt nach Verderben, lässt dich jedoch am Leben, um dich damit zu peinigen.
-Items/Plank	Text		Plank		Holzbrett
-Items/PlankDesc	Text		Wooden slate made for more precise carpentry work.		Eine Planke, gemacht für präzisere Schreinerarbeiten.
-Items/PlanterBox	Text		Planter Box		Pflanzkasten
-Items/PlanterBoxDesc	Text		This wide, stone-hewn box holds up three plants for decoration.		Dieser lange, aus Stein geschlagene Kasten bietet bis zu drei Pflanzen zur Dekoration Platz.
-Items/PlayerGrave	Text		Tombstone		Grabstein
-Items/PlayerGraveDesc	Text		Now that the worst is over, use it to decorate!		Jetzt, wo das Schlimmste überstanden ist, kannst du ihn zum Dekorieren verwenden!
-Items/PlayingDice	Text		Playing Dice		Spielwürfel
-Items/PlayingDiceDesc	Text		A playing dice with unique symbols on each face. It's probably been used in sets and for multiple different games.		Ein Spielwürfel mit verschiedenen Symbolen auf jeder Seite. Er wurde vermutlich mit weiteren Würfeln und für verschiedene Spiele verwendet.
-Items/PlumeBall	Text		Plume Ball		Flaumball
-Items/PlumeBallDesc	Text		A bundle of leaves that grows on plume trees.		Ein Bündel Blätter, das an Federbäumen wächst.
-Items/PlumeTree	Text		Plume Tree		Federbaum
-Items/PlumeTreeDesc	Text		This tree has rock-hard bark and deep roots to gain and hold water from the desert grounds. Its leaves grow in puffy bundles.		Dieser Baum besitzt eine steinharte Rinde und tiefreichende Wurzeln, um Wasser aus dem Wüstenboden aufzunehmen. Seine Blätter wachsen in weichen Bündeln.
-Items/PoisonAidPotion	Text		Poison Aid Potion		Gift-Heiltrank
-Items/PoisonAidPotionDesc	Text		A purple, mucky liquid that tastes horrible but cures any poison.		Eine violette, schlammige Flüssigkeit, die widerlich schmeckt, aber jegliches Gift aus dem Körper entfernt.
-Items/PoisonSlime	Text		Poison Slime		Giftschleim
-Items/PoisonSlimeBlob	Text		Purple Slime		Lilaschleim
-Items/PoisonSlimeBossScanner	Text		Ivy the Poisonous Mass Scanner		Ivy-Scanner
-Items/PoisonSlimeBossScannerDesc	Text		Scans the world for Ivy the Poisonous Mass. Consumed on successful scan.		Scannt die Welt nach Ivy, der Giftigen Masse. Wird bei erfolgreichem Scan verbraucht.
-Items/PoisonSlimeDesc	Text		A purple blob of toxic slime. Can be further processed.		Ein violetter Klumpen giftiger Schleim. Kann weiterverarbeitet werden.
-Items/PoisonSlimeDestructLarge	Text		Large Poison Slime Vessel		Großes Giftschleim-Gefäß
-Items/PoisonSlimeDestructMedium	Text		Medium Poison Slime Vessel		Mittelgroßes Giftschleim-Gefäß
-Items/PoisonSlimeDestructSmall	Text		Small Poison Slime Vessel		Kleines Giftschleim-Gefäß
-Items/PoisonTrap	Text		Poison Spike Trap		Gift-Stachelfalle
-Items/PoisonTrapDesc	Text		A mechanical spike trap that reacts to anyone stepping on it and additionally applies poison when inflicting damage.		Eine mechanische Stachelfalle, die auf jeden reagiert, der darauf tritt und zusätzlich Giftschaden verursacht, wenn Schaden zugefügt wird.
-Items/PoisonousShield	Text		Toxic Defender		Toxischer Verteidiger
-Items/PoisonousShieldDesc	Text		A shield covered in toxic grime. Has a chance to poison enemies when blocking attacks.		Ein Schild, bedeckt mit giftigem Schleim. Kann beim Abwehren die Feinde vergiften.
-Items/PoisonousSickle	Text		Poisonous Sickle		Giftige Sichel
-Items/PoisonousSickleDesc	Text		Farming tool that turned into a weapon when a great threat had to be slain.		Ein Bauernwerkzeug, das als Waffe verwendet wurde, als eine große Bedrohung vernichtet werden musste.
-Items/PolishedCopperCrossNecklace	Text		Polished Copper Cross Necklace		Polierte Kupferkreuz-Halskette
-Items/PolishedCopperCrossNecklaceDesc	Text		This pendant sharpens the focus, allowing for more precise hits.		Dieser Anhänger schärft die Sinne und ermöglicht genauere Angriffe.
-Items/PolishedCoralAmulet	Text		Polished Coral Amulet		Poliertes Korallen-Amulett
-Items/PolishedCoralAmuletDesc	Text		A necklace made with a pretty coral badge and white pebbles.		Eine Halskette aus einer hübschen Korallen-Plakette und weißen Kieselchen.
-Items/PolishedGlowTulipRing	Text		Polished Glow Tulip Ring		Polierter Leuchttulpen-Ring
-Items/PolishedGlowTulipRingDesc	Text		A luminous ring that holds the essence of glow tulips.		Ein fluoreszierender Ring, der die Essenz einer Leuchttulpe in sich trägt.
-Items/PolishedGoldCrystalNecklace	Text		Polished Gold Crystal Necklace		Polierte Gold-Kristallhalskette
-Items/PolishedGoldCrystalNecklaceDesc	Text		A shiny trinket combining the most valuable of materials.		Ein glitzerndes Schmuckstück, das die wertvollsten aller Materialien vereint.
-Items/PolishedGoldCrystalRing	Text		Polished Gold Crystal Ring		Polierter Gold-Kristallring
-Items/PolishedGoldCrystalRingDesc	Text		A precious ring featuring an ancient gemstone.		Ein wertvoller Ring, der mit einem Antiken Edelstein besetzt ist.
-Items/PolishedGoldenSpikeRing	Text		Polished Golden Spike Ring		Polierter Goldspitz-Ring
-Items/PolishedGoldenSpikeRingDesc	Text		This golden ring is very uncomfortable to wear but it looks really cool.		Dieser goldene Ring ist sehr unangenehm zu tragen, sieht aber verdammt cool aus.
-Items/PolishedIronChunkNecklace	Text		Polished Iron Chunk Necklace		Polierte Eisenklotz-Halskette
-Items/PolishedIronChunkNecklaceDesc	Text		A heavy piece of jewelry that increases defence.		Ein schweres Schmuckstück, das die Abwehr verstärkt.
-Items/PolishedMagneticRing	Text		Polished Magnetic Ring		Polierter Magnetring
-Items/PolishedMagneticRingDesc	Text		A strange ring that pulls in loot around you in a higher radius. Magnets, how do they work?		Ein merkwürdiger Ring, der Schätze aus einem größeren Radius zu dir heranzieht. Magnete, wie funktionieren sie?
-Items/PolishedOctarineNecklace	Text		Polished Octarine Necklace		Polierte Oktarin-Halskette
-Items/PolishedOctarineNecklaceDesc	Text		A necklace made from pure octarine filled with magic energy.		Eine Halskette aus purem Oktarin, gefüllt mit magischer Energie.
-Items/PolishedOctarineRing	Text		Polished Octarine Ring		Polierter Oktarin-Ring
-Items/PolishedOctarineRingDesc	Text		A ring made from pure octarine enhanced with magic properties.		Ein Ring aus purem Oktarin, der magische Eigenschaften hat.
-Items/PolishedScarletChunkNecklace	Text		Polished Scarlet Chunk Necklace		Polierte Skarlitklotz-Halskette
-Items/PolishedScarletChunkNecklaceDesc	Text		The scarlet variant of an iron chunk necklace. It raises your defense even more and gives additional benefits.		Die Skarlit-Variante einer Eisenklotz-Halskette. Sie verstärkt deine Abwehr noch mehr und verleiht zusätzliche Unterstützung.
-Items/PolishedShell	Text		Polished Shell		Polierte Muschel
-Items/PolishedShellDesc	Text		A mirror-like smooth shell that was ground down by currents and swirling sand from the sea ground.		Eine spiegelähnliche, glatte Muschel, die von der Strömung und aufgewirbeltem Sand blankpoliert wurde.
-Items/PolishedSwiftRing	Text		Polished Swift Ring		Polierter Flink-Ring
-Items/PolishedSwiftRingDesc	Text		Wearing this winged ring creates a slight wind that pushes you forward.		Wird dieser Ring getragen, entsteht ein leichter Rückenwind, der dich vorwärtstreibt.
-Items/Portal	Text		Portal		Portal
-Items/PortalDesc	Text		Allows teleporting to other portals that have been placed out. The portal takes 20 minutes to charge up before it can be used once it has been placed.		Erlaubt das Teleportieren zu anderen platzierten Portalen. Ein Portal benötigt 20 Minuten, um aufzuladen, bevor es nach dem Platzieren verwendet werden kann.
-Items/PotBreastArmor	Text		Pot Tub		Krug
-Items/PotBreastArmorDesc	Text		This brittle clay container is just your size and usually filled with caveling supplies.		Dieses brüchige Tongefäß hat genau deine Größe und ist normalerweise mit Grottling-Vorräten gefüllt.
-Items/PotHelm	Text		Pot Lid		Krug-Deckel
-Items/PotHelmDesc	Text		A heavy clay cover that has partially cracked and doubles down as a funny hat.		Eine schwere Abdeckung aus Ton, die etwas angeknackst ist, sich aber als lustige Kopfbedeckung eignet.
-Items/PottedAlienFlower	Text		Potted Alien Flower		Eingetopfte Alien-Blume
+Items/PileOfChum	Text		Pile of chum	Stos przynęt	Köderhaufen
+Items/PileOfChumDesc	Text		Undigested remains of prey that could double down as food for fish. Place it in a habitable room and a character interested in fishing may move in.	Niestrawione resztki zwierzyny, które mogą służyć jako pokarm dla ryb. Umieść go w pomieszczeniu mieszkalnym, a postać zainteresowana łowieniem ryb może się do niego wprowadzić.	Unverdaute Überreste von Beutetieren, die als Grundköder verwendet werden können. Platziere sie in einem bewohnbaren Raum und ein im Angeln bewandter Charakter könnte einziehen.
+Items/Pinegrapple	Text		Pinegrapple	Winanas	Anfassnas
+Items/PinegrappleDesc	Text		An intensely tasty fruit that has you clench your weapons tightly.	Intensywnie smaczny owoc, który sprawia, że mocno zaciskasz broń w ręku.	Eine unglaublich leckere Frucht, die dich deine Waffen fest umklammern lässt.
+Items/PinegrappleRare	Text		Golden Pinegrapple	Złoty winanas	Goldene Anfassnas
+Items/PinegrappleRareDesc	Text		A very rare variant of the common pinegrapple.	Bardzo rzadki wariant zwykłego winanasa.	Eine sehr seltene Variante der Anfassnas.
+Items/PinegrappleSeed	Text		Pinegrapple Seed	Nasiono winanasa	Anfassnas-Samen
+Items/PinegrappleSeedDesc	Text		Grows into a refreshing sour and sweet fruit when planted in beach sand.	Po posadzeniu w piasku plażowym wyrasta na orzeźwiający kwaśno-słodki owoc.	Wächst zu einer erfrischend süß-sauren Frucht heran, wenn er in Strandsand eingepflanzt wird.
+Items/PinkCherryFlower	Text		Pink Cherry Blossom	Różowy kwiat wiśni	Pinkfarbene Kirschblüte
+Items/PinkCherryFlowerDesc	Text		A vibrant pink blossom that fell from a „weeping“ tree. Its short-lived blooming period reminds one of the transcience of life.	Intensywnie różowy kwiat, który spadł z „płaczącego” drzewa. Jego krótkotrwały okres kwitnienia przypomina o ulotności życia.	Eine leuchtend pinkfarbene Blüte, die von einem „weinenden“ Baum fiel. Ihre kurzlebige Blütezeit erinnert einen an die Vergänglichkeit des Lebens.
+Items/PinkCherryTree	Text		Pink Cherry Tree	Drzewo wiśni różowej	Pinkfabener Kirschbaum
+Items/PinkCherryTreeDesc	Text		This „weeping“ tree holds its branches low, letting the blossoms droop towards the ground. It is said that brave warriors took depictions of those trees with them into their final battle.	To „płaczące” drzewo utrzymuje swoje gałęzie nisko, pozwalając kwiatom opadać w kierunku ziemi. Mówi się, że dzielni wojownicy zabierali ze sobą podobizny tych drzew na ostatnią bitwę.	Dieser „weinende“ Baum hat tief herabhängende Zweige, deren Blüten in Richtung Boden weisen. Man sagt, dass mutige Krieger Abbilder dieses Baums im letzten Kampf mit sich geführt haben.
+Items/PinkCoralotl	Text		Pink Coralotl	Różowy koralotl	Pinker Korallotl
+Items/PinkCoralotlDesc	Text		A small pink amphibian with outward-protruding gills that look like corals. It also uses them to draw nutrients out of the waters of the Sunken Sea.	Mały różowy płaz z wystającymi na zewnątrz skrzelami, które wyglądają jak koralowce. Używa ich również do pobierania składników odżywczych z wód Głębin Morza.	Eine kleine, pinkfarbene Amphibie mit äußeren, korallenähnlichen Kiemen. Sie werden auch genutzt, um Nährstoffe aus dem Wasser des Versunkenen Meeres zu ziehen.
+Items/PinkPalaceFish	Text		Pink Palace Fish	Różowa ryba pałacowa	Pinker Palastfisch
+Items/PinkPalaceFishDesc	Text		A pink, odd-looking fish with weirdly shaped fins.	Różowa, nietypowo wyglądająca ryba z dziwnie ukształtowanymi płetwami.	Ein pinker, merkwürdig aussehender Fisch mit seltsam geformten Flossen.
+Items/PinkRoseBouquet	Text		Pink Rose Bouquet	Bukiet różowych róż	Pinker Rosenstrauß
+Items/PinkRoseBouquetDesc	Text		This beautiful bouquet made from pink roses will elevate the look of every room. Give it to someone you like dearly.	Ten piękny bukiet wykonany z różowych róż podkreśli wygląd każdego pomieszczenia. Podaruj go komuś, kogo bardzo lubisz.	Dieser wunderschöne Strauß aus pinken Rosen wird das Ambiente eines jeden Raumes bereichern. Gib ihn jemandem, der dir sehr wichtig ist.
+Items/PlagueDoctorHelm	Text		Plague Mask	Maska plagi	Pestmaske
+Items/PlagueDoctorHelmDesc	Text		An eerie beaked mask. Its inside reeks of rancid death, yet lets you live to smell it.	Upiorna maska z dziobem. Jej wnętrze cuchnie zjełczałą śmiercią, ale mimo to pozwala przeżyć, by ją powąchać.	Eine unheimliche Maske mit Schnabel. Die Innenseite stinkt nach Verderben, lässt dich jedoch am Leben, um dich damit zu peinigen.
+Items/Plank	Text		Plank	Deska	Holzbrett
+Items/PlankDesc	Text		Wooden slate made for more precise carpentry work.	Drewniane płyty wykonane do bardziej precyzyjnych prac stolarskich.	Eine Planke, gemacht für präzisere Schreinerarbeiten.
+Items/PlanterBox	Text		Planter Box	Długa donica	Pflanzkasten
+Items/PlanterBoxDesc	Text		This wide, stone-hewn box holds up three plants for decoration.	Ta szeroka, kamienna skrzynka pomieści trzy rośliny do dekoracji.	Dieser lange, aus Stein geschlagene Kasten bietet bis zu drei Pflanzen zur Dekoration Platz.
+Items/PlayerGrave	Text		Tombstone	Nagrobek	Grabstein
+Items/PlayerGraveDesc	Text		Now that the worst is over, use it to decorate!	Teraz, gdy najgorsze już za tobą, użyj go do dekoracji!	Jetzt, wo das Schlimmste überstanden ist, kannst du ihn zum Dekorieren verwenden!
+Items/PlayingDice	Text		Playing Dice	Kostka do gry	Spielwürfel
+Items/PlayingDiceDesc	Text		A playing dice with unique symbols on each face. It's probably been used in sets and for multiple different games.	Kość do gry z unikalnymi symbolami na każdej stronie. Prawdopodobnie była używana w wielu zestawach i różnych grach.	Ein Spielwürfel mit verschiedenen Symbolen auf jeder Seite. Er wurde vermutlich mit weiteren Würfeln und für verschiedene Spiele verwendet.
+Items/PlumeBall	Text		Plume Ball	Kula pióropuszowa	Flaumball
+Items/PlumeBallDesc	Text		A bundle of leaves that grows on plume trees.	Pęczek liści rosnący na drzewach pióropuszowych.	Ein Bündel Blätter, das an Federbäumen wächst.
+Items/PlumeTree	Text		Plume Tree	Drzewo pióropuszowe	Federbaum
+Items/PlumeTreeDesc	Text		This tree has rock-hard bark and deep roots to gain and hold water from the desert grounds. Its leaves grow in puffy bundles.	Drzewo to ma twardą jak skała korę i głębokie korzenie, które pozyskują i zatrzymują wodę z pustynnych terenów. Jego liście rosną w puszystych pęczkach.	Dieser Baum besitzt eine steinharte Rinde und tiefreichende Wurzeln, um Wasser aus dem Wüstenboden aufzunehmen. Seine Blätter wachsen in weichen Bündeln.
+Items/PoisonAidPotion	Text		Poison Aid Potion	Mikstura przeciw truciźnie	Gift-Heiltrank
+Items/PoisonAidPotionDesc	Text		A purple, mucky liquid that tastes horrible but cures any poison.	Fioletowy, mulisty płyn, który smakuje okropnie, ale leczy każdą truciznę.	Eine violette, schlammige Flüssigkeit, die widerlich schmeckt, aber jegliches Gift aus dem Körper entfernt.
+Items/PoisonSlime	Text		Poison Slime	Trujący szlam	Giftschleim
+Items/PoisonSlimeBlob	Text		Purple Slime	Fioletowy szlam	Lilaschleim
+Items/PoisonSlimeBossScanner	Text		Ivy the Poisonous Mass Scanner	Skaner trującej masy Ivy &	Ivy-Scanner
+Items/PoisonSlimeBossScannerDesc	Text		Scans the world for Ivy the Poisonous Mass. Consumed on successful scan.	Skanuje świat w poszukiwaniu Trującej Masy Ivy. Zużywa się po udanym skanowaniu. &	Scannt die Welt nach Ivy, der Giftigen Masse. Wird bei erfolgreichem Scan verbraucht.
+Items/PoisonSlimeDesc	Text		A purple blob of toxic slime. Can be further processed.	Fioletowy zlepek toksycznego śluzu. Może być dalej przetwarzany.	Ein violetter Klumpen giftiger Schleim. Kann weiterverarbeitet werden.
+Items/PoisonSlimeDestructLarge	Text		Large Poison Slime Vessel	Duży zbiornik trującego szlamu	Großes Giftschleim-Gefäß
+Items/PoisonSlimeDestructMedium	Text		Medium Poison Slime Vessel	Średni zbiornik trującego szlamu	Mittelgroßes Giftschleim-Gefäß
+Items/PoisonSlimeDestructSmall	Text		Small Poison Slime Vessel	Mały zbiornik trującego szlamu	Kleines Giftschleim-Gefäß
+Items/PoisonTrap	Text		Poison Spike Trap	Pułapka z trującymi kolcami	Gift-Stachelfalle
+Items/PoisonTrapDesc	Text		A mechanical spike trap that reacts to anyone stepping on it and additionally applies poison when inflicting damage.	Mechaniczna pułapka z kolcami, która reaguje na każdego, kto na nią nadepnie, a dodatkowo nakłada truciznę podczas zadawania obrażeń.	Eine mechanische Stachelfalle, die auf jeden reagiert, der darauf tritt und zusätzlich Giftschaden verursacht, wenn Schaden zugefügt wird.
+Items/PoisonousShield	Text		Toxic Defender	Toksyczny obrońca	Toxischer Verteidiger
+Items/PoisonousShieldDesc	Text		A shield covered in toxic grime. Has a chance to poison enemies when blocking attacks.	Tarcza pokryta toksycznym osadem. Ma szansę zatruć wrogów podczas blokowania ataków.	Ein Schild, bedeckt mit giftigem Schleim. Kann beim Abwehren die Feinde vergiften.
+Items/PoisonousSickle	Text		Poisonous Sickle	Trujący sierp	Giftige Sichel
+Items/PoisonousSickleDesc	Text		Farming tool that turned into a weapon when a great threat had to be slain.	Narzędzie rolnicze, które przemieniło się w broń, gdy trzeba było zabić wielkie zagrożenie.	Ein Bauernwerkzeug, das als Waffe verwendet wurde, als eine große Bedrohung vernichtet werden musste.
+Items/PolishedCopperCrossNecklace	Text		Polished Copper Cross Necklace	Wypolerowany naszyjnik z miedzianym krzyżem	Polierte Kupferkreuz-Halskette
+Items/PolishedCopperCrossNecklaceDesc	Text		This pendant sharpens the focus, allowing for more precise hits.	Ten wisiorek wyostrza skupienie, pozwalając na bardziej precyzyjne uderzenia.	Dieser Anhänger schärft die Sinne und ermöglicht genauere Angriffe.
+Items/PolishedCoralAmulet	Text		Polished Coral Amulet	Wypolerowany koralowy amulet	Poliertes Korallen-Amulett
+Items/PolishedCoralAmuletDesc	Text		A necklace made with a pretty coral badge and white pebbles.	Naszyjnik wykonany z pięknego koralowca i białych kamyków.	Eine Halskette aus einer hübschen Korallen-Plakette und weißen Kieselchen.
+Items/PolishedGlowTulipRing	Text		Polished Glow Tulip Ring	Wypolerowany pierścień z świecącego tulipana	Polierter Leuchttulpen-Ring
+Items/PolishedGlowTulipRingDesc	Text		A luminous ring that holds the essence of glow tulips.	Świetlisty pierścień, który zawiera esencję  świecących tulipanów.	Ein fluoreszierender Ring, der die Essenz einer Leuchttulpe in sich trägt.
+Items/PolishedGoldCrystalNecklace	Text		Polished Gold Crystal Necklace	Wypolerowany złoty naszyjnik z kryształem	Polierte Gold-Kristallhalskette
+Items/PolishedGoldCrystalNecklaceDesc	Text		A shiny trinket combining the most valuable of materials.	Błyszczący drobiazg łączący w sobie najcenniejsze materiały.	Ein glitzerndes Schmuckstück, das die wertvollsten aller Materialien vereint.
+Items/PolishedGoldCrystalRing	Text		Polished Gold Crystal Ring	Wypolerowany złoty pierścień z kryształem	Polierter Gold-Kristallring
+Items/PolishedGoldCrystalRingDesc	Text		A precious ring featuring an ancient gemstone.	Cenny pierścień z antycznymi kamieniami szlachetnymi.	Ein wertvoller Ring, der mit einem Antiken Edelstein besetzt ist.
+Items/PolishedGoldenSpikeRing	Text		Polished Golden Spike Ring	Wypolerowany złoty pierścień z kolcem	Polierter Goldspitz-Ring
+Items/PolishedGoldenSpikeRingDesc	Text		This golden ring is very uncomfortable to wear but it looks really cool.	Ten złoty pierścień jest bardzo niewygodny w noszeniu, ale wygląda naprawdę fajnie.	Dieser goldene Ring ist sehr unangenehm zu tragen, sieht aber verdammt cool aus.
+Items/PolishedIronChunkNecklace	Text		Polished Iron Chunk Necklace	Wypolerowany naszyjnik z żelaznych odłamków	Polierte Eisenklotz-Halskette
+Items/PolishedIronChunkNecklaceDesc	Text		A heavy piece of jewelry that increases defence.	Ciężka biżuteria zwiększająca obronę.	Ein schweres Schmuckstück, das die Abwehr verstärkt.
+Items/PolishedMagneticRing	Text		Polished Magnetic Ring	Wypolerowany pierścień magnetyczny	Polierter Magnetring
+Items/PolishedMagneticRingDesc	Text		A strange ring that pulls in loot around you in a higher radius. Magnets, how do they work?	Dziwny pierścień, który przyciąga przedmioty w większym zasięgu. Magnesy, jak one działają?	Ein merkwürdiger Ring, der Schätze aus einem größeren Radius zu dir heranzieht. Magnete, wie funktionieren sie?
+Items/PolishedOctarineNecklace	Text		Polished Octarine Necklace	Wypolerowany oktarynowy naszyjnik	Polierte Oktarin-Halskette
+Items/PolishedOctarineNecklaceDesc	Text		A necklace made from pure octarine filled with magic energy.	Naszyjnik wykonany z czystego oktarynu wypełnionego magiczną energią.	Eine Halskette aus purem Oktarin, gefüllt mit magischer Energie.
+Items/PolishedOctarineRing	Text		Polished Octarine Ring	Wypolerowany oktarynowy pierścień	Polierter Oktarin-Ring
+Items/PolishedOctarineRingDesc	Text		A ring made from pure octarine enhanced with magic properties.	Pierścień wykonany z czystego oktarynu wzmocnionego magicznymi właściwościami.	Ein Ring aus purem Oktarin, der magische Eigenschaften hat.
+Items/PolishedScarletChunkNecklace	Text		Polished Scarlet Chunk Necklace	Wypolerowany naszyjnik z szkarłatnych odłamków	Polierte Skarlitklotz-Halskette
+Items/PolishedScarletChunkNecklaceDesc	Text		The scarlet variant of an iron chunk necklace. It raises your defense even more and gives additional benefits.	Szkarłatny wariant żelaznego naszyjnika. Jeszcze bardziej zwiększa obronę i zapewnia dodatkowe korzyści.	Die Skarlit-Variante einer Eisenklotz-Halskette. Sie verstärkt deine Abwehr noch mehr und verleiht zusätzliche Unterstützung.
+Items/PolishedShell	Text		Polished Shell	Wypolerowana skorupa	Polierte Muschel
+Items/PolishedShellDesc	Text		A mirror-like smooth shell that was ground down by currents and swirling sand from the sea ground.	Gładka jak lustro skorupa, która została zeszlifowana przez prądy i wirujący piasek z morskiego dna.	Eine spiegelähnliche, glatte Muschel, die von der Strömung und aufgewirbeltem Sand blankpoliert wurde.
+Items/PolishedSwiftRing	Text		Polished Swift Ring	Wypolerowany pierścień szybkości	Polierter Flink-Ring
+Items/PolishedSwiftRingDesc	Text		Wearing this winged ring creates a slight wind that pushes you forward.	Noszenie tego uskrzydlonego pierścienia tworzy lekki wiatr, który popycha cię do przodu.	Wird dieser Ring getragen, entsteht ein leichter Rückenwind, der dich vorwärtstreibt.
+Items/Portal	Text		Portal	Portal	Portal
+Items/PortalDesc	Text		Allows teleporting to other portals that have been placed out. The portal takes 20 minutes to charge up before it can be used once it has been placed.	Umożliwia teleportację do innych portali, które zostały umieszczone na zewnątrz. Portal ładuje się przez 20 minut, zanim będzie można go użyć po umieszczeniu.	Erlaubt das Teleportieren zu anderen platzierten Portalen. Ein Portal benötigt 20 Minuten, um aufzuladen, bevor es nach dem Platzieren verwendet werden kann.
+Items/PotBreastArmor	Text		Pot Tub	Garnek	Krug
+Items/PotBreastArmorDesc	Text		This brittle clay container is just your size and usually filled with caveling supplies.	&	Dieses brüchige Tongefäß hat genau deine Größe und ist normalerweise mit Grottling-Vorräten gefüllt.
+Items/PotHelm	Text		Pot Lid	Pokrywka garnka	Krug-Deckel
+Items/PotHelmDesc	Text		A heavy clay cover that has partially cracked and doubles down as a funny hat.	Ciężka gliniana pokrywa, która częściowo pękła i służy jako zabawny kapelusz.	Eine schwere Abdeckung aus Ton, die etwas angeknackst ist, sich aber als lustige Kopfbedeckung eignet.
+Items/PottedAlienFlower	Text		Potted Alien Flower	Kwiat obcych w doniczce	Eingetopfte Alien-Blume
 Items/PottedAlienFlowerDesc	Text		It is not an actual flower but a hologram of one. Is it proof of a dying world where nothing grew anymore?		Keine richtige Blume, sondern nur ein holografisches Abbild. Zeugt es von einer sterbenden Welt, in der nichts mehr wachsen konnte?
 Items/PottedCherryTree	Text		Potted Cherry Tree		Eingetopfter Kirschbaum
 Items/PottedCherryTreeDesc	Text		A bonsai-sized offshoot of the common cherry tree, planted in a decorative vase.		Ein bonsai-großer Ableger des normalen Kirschbaums, eingepflanzt in einem dekorativen Topf.
@@ -3352,8 +3352,8 @@ Items/ScarletBridge	Text		Scarlet Bridge		Skarlit-Brücke
 Items/ScarletBridgeDesc	Text		Used to cross chasms and water but also makes for a nice floor.		Wird genutzt, um Abgründe und Gewässer zu überqueren, macht sich aber auch gut als Boden.
 Items/ScarletChest	Text		Scarlet Chest		Skarlit-Kiste
 Items/ScarletChestDesc	Text		A sturdy chest made from scarlet. It is not locked anymore.		Eine widerstandsfähige Kiste aus Skarlit. Sie ist nicht mehr verschlossen.
-Items/ScarletChunkNecklace	Text		Scarlet Chunk Necklace		Skarlitklotz-Halskette
-Items/ScarletChunkNecklaceDesc	Text		The scarlet variant of an iron chunk necklace. It raises your defense even more and gives additional benefits.		Die Skarlit-Variante einer Eisenklotz-Halskette. Sie verstärkt deine Abwehr noch mehr und verleiht zusätzliche Unterstützung.
+Items/ScarletChunkNecklace	Text		Scarlet Chunk Necklace	Naszyjnik z szkarłatnych odłamków	Skarlitklotz-Halskette
+Items/ScarletChunkNecklaceDesc	Text		The scarlet variant of an iron chunk necklace. It raises your defense even more and gives additional benefits.	Szkarłatny wariant żelaznego naszyjnika. Jeszcze bardziej zwiększa obronę i zapewnia dodatkowe korzyści.	Die Skarlit-Variante einer Eisenklotz-Halskette. Sie verstärkt deine Abwehr noch mehr und verleiht zusätzliche Unterstützung.
 Items/ScarletCrossbow	Text		Scarlet Crossbow		Skarlit-Armbrust
 Items/ScarletCrossbowDesc	Text		A heavy metallic crossbow that shoots potent bolts.		Eine schwere metallene Armbrust, die wirksame Pfeile verschießt.
 Items/ScarletDagger	Text		Scarlet Dagger		Skarlit-Klinge
@@ -3622,8 +3622,8 @@ Items/SuspendedButterfly	Text		Suspended Butterfly		Erstarrter Schmetterling
 Items/SuspendedButterflyDesc	Text		A fragile butterfly that has been completely corrupted by crystals.		Ein zerbrechlicher Schmetterling, dessen Körper komplett von Kristallen durchzogen ist.
 Items/SwiftFeather	Text		Swift Feather		Flink-Feder
 Items/SwiftFeatherDesc	Text		A mysterious feather that allows you to dash out of danger.		Eine mysteriöse Feder, die es dir erlaubt, aus gefährlichen Situationen zu preschen.
-Items/SwiftRing	Text		Swift Ring		Flink-Ring
-Items/SwiftRingDesc	Text		Wearing this winged ring creates a slight wind that pushes you forward.		Wird dieser Ring getragen, entsteht ein leichter Rückenwind, der dich vorwärtstreibt.
+Items/SwiftRing	Text		Swift Ring	Pierścień szybkości	Flink-Ring
+Items/SwiftRingDesc	Text		Wearing this winged ring creates a slight wind that pushes you forward.	Noszenie tego uskrzydlonego pierścienia tworzy lekki wiatr, który popycha cię do przodu.	Wird dieser Ring getragen, entsteht ein leichter Rückenwind, der dich vorwärtstreibt.
 Items/SwimingPantsArmorBlue	Text		Blue Board Shorts		Blaue Boardshorts
 Items/SwimingPantsArmorBlueDesc	Text		Wearing those chill blue shorts tempts you to constantly form the shaka sign with your hand.		Wenn du diese entspannten, blauen Shorts trägst, willst du permanent das Shaka-Symbol mit deiner Hand machen.
 Items/SwimingPantsArmorGreen	Text		Green Board Shorts		Grüne Boardshorts
