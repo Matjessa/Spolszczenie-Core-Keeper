@@ -43,17 +43,17 @@ Achievements/StormSong	Text		A Strange Song	Dziwna pieśń	Ein seltsames Lied
 Achievements/TalkToBigLarva	Text		Gossip Group	Grupa plotkarska	Kaffeekränzchen
 AchievementsLockedDescription/CatchStarlightNautilus	Text		Catch a Starlight Nautilus	Złap Gwiezdnego Nautilusa	Sternlicht-Nautilus fangen
 AchievementsLockedDescription/DefeatAtlanteanWorm	Text		Defeat an Atlantean Worm	Pokonaj Atlantydzkiego Robaka	Bezwinge einen Atlantischen Wurm
-AchievementsLockedDescription/DefeatAzeos	Text		Defeat Azeos the Sky Titan	Pokonaj Podniebnego Tytana Azeosa	Azeos den Himmelstitanen bezwingen
+AchievementsLockedDescription/DefeatAzeos	Text		Defeat Azeos the Sky Titan	Pokonaj Azeosa Podniebnego Tytana	Azeos den Himmelstitanen bezwingen
 AchievementsLockedDescription/DefeatGhorm	Text		Defeat Ghorm the Devourer	Pokonaj Ghorma Pożeracza	Ghorm den Verschlinger bezwingen
-AchievementsLockedDescription/DefeatGlurch	Text		Defeat Glurch the Abominous Mass	Pokonaj Glurcha Obrzydliwego	Glurch die Abscheuliche Masse bezwingen
+AchievementsLockedDescription/DefeatGlurch	Text		Defeat Glurch the Abominous Mass	Pokonaj Glurcha Obrzydliwą Masę	Glurch die Abscheuliche Masse bezwingen
 AchievementsLockedDescription/DefeatHivemother	Text		Defeat the Hive Mother	Pokonaj Matkę Ula	Die Nestmutter bezwingen
-AchievementsLockedDescription/DefeatIgneous	Text		Defeat Igneous the Molten Mass	Pokonaj Igneousa Stopionego	Igneous die Geschmolzene Masse bezwingen
-AchievementsLockedDescription/DefeatIvy	Text		Defeat Ivy the Poisonous Mass	Pokonaj Ivy Trującego	Ivy die Giftige Masse bezwingen
+AchievementsLockedDescription/DefeatIgneous	Text		Defeat Igneous the Molten Mass	Pokonaj Igneousa Stopioną Masę	Igneous die Geschmolzene Masse bezwingen
+AchievementsLockedDescription/DefeatIvy	Text		Defeat Ivy the Poisonous Mass	Pokonaj Ivy Trującą Masę	Ivy die Giftige Masse bezwingen
 AchievementsLockedDescription/DefeatKingSlime	Text		Defeat King Slime	Pokonaj Króla Szlamu	Schleimkönig bezwingen
 AchievementsLockedDescription/DefeatMalugaz	Text		Defeat Malugaz the Corrupted	Pokonaj Malugaza Skażonego	Malugaz den Korrupten bezwingen
-AchievementsLockedDescription/DefeatMorpha	Text		Defeat Morpha the Aquatic Mass	Pokonaj Morpha Wodnego	Morpha die Aquatische Masse bezwingen
-AchievementsLockedDescription/DefeatOmoroth	Text		Defeat Omoroth the Sea Titan	Pokonaj Morskiego Tytana Omorotha	Omoroth den Meerestitanen bezwingen
-AchievementsLockedDescription/DefeatRaAkar	Text		Defeat Ra-Akar the Sand Titan	Pokonaj Piaskowego Tytana Ra-Akara	Ra-Akar den Sandtitanen bezwingen
+AchievementsLockedDescription/DefeatMorpha	Text		Defeat Morpha the Aquatic Mass	Pokonaj Morpha Wodą Masę	Morpha die Aquatische Masse bezwingen
+AchievementsLockedDescription/DefeatOmoroth	Text		Defeat Omoroth the Sea Titan	Pokonaj Omorotha Morskiego Tytana	Omoroth den Meerestitanen bezwingen
+AchievementsLockedDescription/DefeatRaAkar	Text		Defeat Ra-Akar the Sand Titan	Pokonaj Ra-Akara Piaskowego Tytana	Ra-Akar den Sandtitanen bezwingen
 AchievementsLockedDescription/Discover100CookBookRecipes	Text		Discover 100 recipes in the cook book	Odkryj 100 przepisów w książce kucharskiej	100 Rezepte im Kochbuch entdecken
 AchievementsLockedDescription/EquipRingOfRockAndStone	Text		Equip the Ring of Rock and Ring of Stone	Wyposaż Pierścień Skały i Pierścień Kamienia	Ring der Felsen und Ring der Steine ausrüsten
 AchievementsLockedDescription/FeedCattle	Text		Feed cattle	Nakarm bydło	Füttere ein Nutztier
@@ -82,17 +82,17 @@ AchievementsLockedDescription/StormSong	Text	"Please make sure to find a word fo
 AchievementsLockedDescription/TalkToBigLarva	Text		Talk to a Big Larva	Porozmawiaj z dużą larwą	Mit großer Larve sprechen
 AchievementsUnlockedDescription/CatchStarlightNautilus	Text		Caught a Starlight Nautilus	Złapano Gwiezdnego Nautilusa	Sternlicht-Nautilus gefangen
 AchievementsUnlockedDescription/DefeatAtlanteanWorm	Text		Defeated an Atlantean Worm	Pokonano Atlantydzkiego Robaka	Einen Atlantischen Wurm bezwungen
-AchievementsUnlockedDescription/DefeatAzeos	Text		Defeated Azeos the Sky Titan	Pokonano Podniebnego Tytana Azeosa	Azeos der Himmelstitan, besiegt
+AchievementsUnlockedDescription/DefeatAzeos	Text		Defeated Azeos the Sky Titan	Pokonano Azeosa Podniebnego Tytana	Azeos der Himmelstitan, besiegt
 AchievementsUnlockedDescription/DefeatGhorm	Text		Defeated Ghorm the Devourer	Pokonano Ghorma Pożeracza	Ghorm den Verschlinger, besiegt
-AchievementsUnlockedDescription/DefeatGlurch	Text		Defeated Glurch the Abominous Mass	Pokonano Glurcha Obrzydliwego	Glurch die Abscheuliche Masse, besiegt
+AchievementsUnlockedDescription/DefeatGlurch	Text		Defeated Glurch the Abominous Mass	Pokonano Glurcha Obrzydliwą Masę	Glurch die Abscheuliche Masse, besiegt
 AchievementsUnlockedDescription/DefeatHivemother	Text		Defeated The Hive Mother	Pokonano Matkę Ula	Nestmutter, besiegt
-AchievementsUnlockedDescription/DefeatIgneous	Text		Defeated Igneous the Molten Mass	Pokonano Igneosa Stopionego	Igneous die Geschmolzene Masse, besiegt
-AchievementsUnlockedDescription/DefeatIvy	Text		Defeated Ivy the Poisonous Mass	Pokonano Ivy Trującego	Ivy die Giftige Masse, besiegt
+AchievementsUnlockedDescription/DefeatIgneous	Text		Defeated Igneous the Molten Mass	Pokonano Igneosa Stopioną Masę	Igneous die Geschmolzene Masse, besiegt
+AchievementsUnlockedDescription/DefeatIvy	Text		Defeated Ivy the Poisonous Mass	Pokonano Ivy Trującą Masę	Ivy die Giftige Masse, besiegt
 AchievementsUnlockedDescription/DefeatKingSlime	Text		Defeated King Slime	Pokonano Króla Szlamu	Schleimkönig, besiegt
 AchievementsUnlockedDescription/DefeatMalugaz	Text		Defeated Malugaz the Corrupted	Pokonano Malugaza Skażonego	Malugaz der Korrupte, besiegt
-AchievementsUnlockedDescription/DefeatMorpha	Text		Defeated Morpha the Aquatic Mass	Pokonano Morpha Wodnego	Morpha die Aquatische Masse, besiegt
-AchievementsUnlockedDescription/DefeatOmoroth	Text		Defeated Omoroth the Sea Titan	Pokonano Morskiego Tytana Omorotha	Omoroth der Meerestitan, besiegt
-AchievementsUnlockedDescription/DefeatRaAkar	Text		Defeated Ra-Akar the Sand Titan	Pokonano Piaskowego Tytana Ra-Akara	Ra-Akar der Sandtitan, besiegt
+AchievementsUnlockedDescription/DefeatMorpha	Text		Defeated Morpha the Aquatic Mass	Pokonano Morpha Wodą Masę	Morpha die Aquatische Masse, besiegt
+AchievementsUnlockedDescription/DefeatOmoroth	Text		Defeated Omoroth the Sea Titan	Pokonano Omorotha Morskiego Tytana	Omoroth der Meerestitan, besiegt
+AchievementsUnlockedDescription/DefeatRaAkar	Text		Defeated Ra-Akar the Sand Titan	Pokonano Ra-Akara Piaskowego Tytana	Ra-Akar der Sandtitan, besiegt
 AchievementsUnlockedDescription/Discover100CookBookRecipes	Text		Discovered 100 recipes in the cook book	Odkryto 100 przepisów w książce kucharskiej	100 Rezepte wurden im Kochbuch entdeckt
 AchievementsUnlockedDescription/EquipRingOfRockAndStone	Text		Equipped the Ring of Rock and Ring of Stone	Wyposażono Pierścień Skały i Pierścień Kamienia	Ring der Felsen und Ring der Steine ausgerüstet
 AchievementsUnlockedDescription/FeedCattle	Text		Fed cattle	Nakarmiono bydło	Ein Nutztier gefüttert
@@ -3137,195 +3137,195 @@ Items/PotBreastArmorDesc	Text		This brittle clay container is just your size and
 Items/PotHelm	Text		Pot Lid	Pokrywka garnka	Krug-Deckel
 Items/PotHelmDesc	Text		A heavy clay cover that has partially cracked and doubles down as a funny hat.	Ciężka gliniana pokrywa, która częściowo pękła i służy jako zabawny kapelusz.	Eine schwere Abdeckung aus Ton, die etwas angeknackst ist, sich aber als lustige Kopfbedeckung eignet.
 Items/PottedAlienFlower	Text		Potted Alien Flower	Kwiat obcych w doniczce	Eingetopfte Alien-Blume
-Items/PottedAlienFlowerDesc	Text		It is not an actual flower but a hologram of one. Is it proof of a dying world where nothing grew anymore?		Keine richtige Blume, sondern nur ein holografisches Abbild. Zeugt es von einer sterbenden Welt, in der nichts mehr wachsen konnte?
-Items/PottedCherryTree	Text		Potted Cherry Tree		Eingetopfter Kirschbaum
-Items/PottedCherryTreeDesc	Text		A bonsai-sized offshoot of the common cherry tree, planted in a decorative vase.		Ein bonsai-großer Ableger des normalen Kirschbaums, eingepflanzt in einem dekorativen Topf.
-Items/PottedFlowerTree	Text		Potted Bloom Tree		Eingetopfter Blütenbaum
-Items/PottedFlowerTreeDesc	Text		A potted shrub on which beautiful flowers grow. It seems to only exist in this form.		Ein eingetopfter Strauch, an dem wunderschöne Blüten wachsen. Er scheint nur noch in dieser Form zu existieren.
-Items/PottedGlowberryTree	Text		Potted Moonbell Tree		Eingetopfter Mondglocken-Baum
-Items/PottedGlowberryTreeDesc	Text		A potted shrub on which glowing flowers grow. It seems to only exist in this form.		Ein eingetopfter Strauch, an dem leuchtende Blüten wachsen. Er scheint nur noch in dieser Form zu existieren.
-Items/PottedGoldenOrbBush	Text		Potted Meadow Tree		Eingetopfter Wiesenbaum
-Items/PottedGoldenOrbBushDesc	Text		A bonsai-sized offshoot of the common meadow tree, planted in a wooden pot.		Ein bonsai-großer Ableger des normalen Wiesenbaums, eingepflanzt in einem hölzernen Topf.
-Items/PottedLandKelp	Text		Potted Land Algae		Eingetopfte Land-Alge
-Items/PottedLandKelpDesc	Text		A decorative version of the common Land Algae, planted in a driftwood pot.		Eine dekorative Version der normalen Land-Alge, gepflanzt in einem Treibholz-Topf.
-Items/PottedLucentTree	Text		Potted Lucent Oak		Eingetopfte Schiller-Eiche
-Items/PottedLucentTreeDesc	Text		A shrub of the magnificient Lucent Oak, growing from a naturally formed crystal pot.		Ein Spross der prächtigen Schiller-Eiche, der in einem natürlich entstandenen Kristalltopf wächst.
-Items/PottedLushBush	Text		Potted Abyss Tree		Eingetopfter Abgrund-Baum
-Items/PottedLushBushDesc	Text		A tree that grows in the chasms of Azeos Wilderness, planted in a clay pot.		Ein Baum, der nur in den Abgründen von Azeos' Wildnis wächst und in einen Lehmtopf eingepflanzt wurde.
-Items/PottedLushTree	Text		Potted Lush Tree		Eingetopfter Üppiger Baum
-Items/PottedLushTreeDesc	Text		A shrub of the common Lush Tree, planted in a makeshift stone pot.		Ein Spross des normalen Üppigen Baumes, eingepflanzt in einem behelfsmäßigen Steintopf.
-Items/PottedMagmaTulip	Text		Potted Magma Tulip		Eingetopfter Magmatulpe
-Items/PottedMagmaTulipDesc	Text		A rare, decorative strain of a Glow Tulip, that can withstand tremendous heat.		Ein seltene Zuchtvariante einer Leuchttulpe, die enormer Hitze standhalten kann.
-Items/PottedPlumeTree	Text		Potted Plume Tree		Eingetopfter Federbaum
-Items/PottedPlumeTreeDesc	Text		A bonsai-sized offshoot of the common plume tree, planted in an ancient pot.		Ein bonsai-großer Ableger des normalen Federbaums, eingepflanzt in einem uralten Topf.
-Items/PottedPuffSticks	Text		Potted Mold Pompom		Eingetopfter Schimmel-Pompom
-Items/PottedPuffSticksDesc	Text		An oversized, puffy flower that has been infested with mold.		Eine übergroße bauschige Blume, die von einem Schimmelpilz befallen wurde.
-Items/PreciousUrn	Text		Precious Urn		Wertvolle Urne
-Items/PreciousUrnDesc	Text		A pretty decorative without any cracks and blemishes but its original contents are long gone.		Eine hübsche Dekoration ohne Risse oder Makel. Leider ist ihr Inhalt vor langer Zeit entfernt worden.
-Items/PressurePlate	Text		Pressure Plate		Druckplatte
-Items/PressurePlateDesc	Text		Generates a low amount of electricity when stepped on by the player.		Generiert eine kleine Menge Elektrizität, wenn man sich daraufstellt.
-Items/PrimitiveGoKart	Text		Primitive Go-kart		Primitives Go-Kart
-Items/PrimitiveGoKartDesc	Text		An ancient vehicle built by the lost civilization, seemingly for pure fun. It provides only a fraction of the speed it once was capable of.		Ein uraltes Gefährt, welches anscheinend von einer verlorenen Zivilisation rein zum Spaß konstruiert wurde. Es erreicht nur einen Bruchteil seiner einstigen Geschwindigkeit.
-Items/ProcessorChip	Text		Processor Chip		Prozessor-Chip
-Items/ProcessorChipDesc	Text		This intricate, golden chip seems technically very advanced and must have computed complex calculations.		Dieser detaillierte, goldene Chip erscheint technologisch sehr fortschrittlich und muss komplexe Berechnungen durchgeführt haben.
-Items/ProtocolSlate	Text		Empty Crystal		Leerer Kristall
-Items/ProtocolSlateDesc	Text		A rhombus-shaped crystal made from glass that has complex circuits embedded. It seems powered down, maybe it could be fed data to activate it again?		Ein rautenförmiger Kristall aus Glas, in dem komplexe Schaltkreise verbaut sind. Er scheint energielos zu sein. Kann man ihn vielleicht mit eingespeisten Daten reaktivieren?
-Items/ProtocolSlateKey	Text		Admin Key		Admin-Schlüssel
-Items/ProtocolSlateKeyDesc	Text		A reactivated key belonging to a wise leader. It may open the door to something very valuable.		Ein reaktivierter Schlüssel, der einst einem weisen Anführer gehörte. Er könnte den Eingang zu etwas sehr Wertvollem öffnen.
-Items/Puffungi	Text		Puffungi		Puffungus
-Items/PuffungiDesc	Text		A moldy fungus fit for gourmets.		Ein Schimmelpilz, wie gemacht für Feinschmecker.
-Items/PuffungiRare	Text		Golden Puffungi		Goldener Puffungus
-Items/PuffungiRareDesc	Text		A very rare variant of the common puffungi.		Eine sehr seltene Variante des Puffungus.
-Items/PuffungiSeed	Text		Puffungi Seed		Puffungus-Samen
-Items/PuffungiSeedDesc	Text		A seed that only grows in mold.		Ein Samen, der nur in Schimmelböden wächst.
-Items/PulseCircuit	Text		Pulse Circuit		Puls-Schaltkreis
-Items/PulseCircuitDesc	Text		Electricity moves through in intervals of 1 second.		Elektrizität fließt in 1-Sekunden-Abständen hindurch.
-Items/PumpkinCoin	Text		Pumpkin Coin		Kürbis-Münze
-Items/PumpkinCoinDesc	Text		A mischievous-looking coin that can be traded for various, eerie goods.		Eine boshaft anmutende Münze, die gegen verschiedene unheimliche Güter eingetauscht werden kann.
-Items/PumpkinHeadCavelingShamanTrophy	Text		Pumpking Caveling Figurine		Kürbiskönig-Grottling-Figur
-Items/PumpkinHeadCavelingShamanTrophyDesc	Text		A lifelike representation of a Pumpking Caveling.		Eine lebensechte Nachbildung eines Kürbiskönig-Grottlings.
-Items/PumpkinHelm	Text		Pumpkin Head		Kürbiskopf
-Items/PumpkinHelmDesc	Text		A vegetable head with a carved-in face. For how disgusting it feels from the inside, it looks pretty cool on the outside.		Ein hohler Gemüsekopf mit eingeschnitztem Gesicht. Das ekelhafte Innere wird mit einem ziemlich coolen Äußeren wettgemacht.
-Items/PumpkinLantern	Text		Pumpkin Lantern		Kürbis-Laterne
-Items/PumpkinLanternDesc	Text		A scary, yet cozy lantern carved from a vegetable. Don't smash it, it brings bad luck.		Eine gruselige, aber irgendwie heimelige Laterne, die aus Gemüse geschnitzt wurde. Schlag sie nicht kaputt, das bringt Unglück.
-Items/PurpleSlimeTrophy	Text		Purple Slime Figurine		Lilaschleim-Figur
-Items/PurpleSlimeTrophyDesc	Text		A lifelike representation of a poisonous Purple Slime.		Eine lebensechte Nachbildung eines giftigen Lilaschleims.
-Items/RaAkarAutomaton	Text		Ra-Akar Automaton		Ra-Akar-Automaton
-Items/RaAkarAutomatonDesc	Text		A complex wind-up machine created in honor of Ra-Akar that seems to have a mind of its own. A gift worthy of a young prince.		Ein komplexer Aufziehmechanismus, der zu Ehren von Ra-Akar gefertigt wurde. Scheint fast einen eigenen Willen zu besitzen. Ein Geschenk, das eines jungen Prinzen würdig ist.
-Items/RaAkarNecklace	Text		Ra-Akar's Necklace		Ra-Akars Halskette
-Items/RaAkarNecklaceDesc	Text		A necklace of the desert with a strong resemblance of the sand titan. Wearing it grants you additional protection and extra damage.		Ein Schmuckstück der Wüste, das stark an den Sandtitanen erinnert. Wenn es getragen wird, verleiht es zusätzlichen Schutz und bewirkt zusätzlichen Schaden.
-Items/RaAkarTrophy	Text		Ra-Akar Figurine		Ra-Akar-Figur
-Items/RaAkarTrophyDesc	Text		A lifelike representation of Ra-Akar, the Sand Titan.		Eine lebensechte Nachbildung von Ra-Akar, dem Sandtitanen.
-Items/RadiationBreastArmor	Text		Hazmat Suit Jacket		Gefahrenschutz-Jacke
-Items/RadiationBreastArmorDesc	Text		Whatever the problem is, encountering it behind a protective suit makes it a little less stressful.		Was auch immer das Problem ist, wenn man ihm in Schutzkleidung entgegentritt, geht es einem gleich viel besser.
-Items/RadiationCrystal	Text		Radiation Crystal		Strahlungskristall
-Items/RadiationCrystalDesc	Text		A culmination of radioactive elements that resulted in a glass-like structure.		Eine Ansammlung radioaktiver Elemente, die sich zu einer glasähnlichen Struktur verbunden haben.
-Items/RadiationHelm	Text		Hazmat Helm		Gefahrenschutz-Helm
-Items/RadiationHelmDesc	Text		Need to handle strange materials that emit even stranger radiation? Ask no more!		Du musst seltsame Materialien handhaben, die noch seltsamere Strahlung freisetzen? Kein Problem!
-Items/RadiationPantsArmor	Text		Hazmat Suit Pants		Gefahrenschutz-Hose
-Items/RadiationPantsArmorDesc	Text		A protective suit is not complete without some boots that save the feet.		Schützende Kleidung wär' nicht komplett, wenn sie keine Stiefel hätt'.
-Items/RadicalRabbitEars	Text		Radical Rabbit Ears		Radical-Rabbit-Ohren
-Items/RadicalRabbitEarsDesc	Text		A cute hood featuring white rabbit ears. You feel quite cheeky and swift wearing it.		Eine süße Kapuze mit weißen Hasenohren. Du fühlst dich ziemlich flink und frech, wenn du sie trägst.
-Items/RadicalRabbitEarsDiadem	Text		Radical Rabbit Headband		Radical-Rabbit-Haarreif
-Items/RadicalRabbitEarsDiademDesc	Text		A cute headband featuring white rabbit ears. You feel quite cheeky and swift wearing it.		Ein süßer Haarreif mit weißen Hasenohren. Du fühlst dich ziemlich flink und frech, wenn du ihn trägst.
-Items/Rail	Text		Rail		Gleis
-Items/RailDesc	Text		Traverse the underground world much faster.		Reise viel schneller durch die Untergrundwelt.
-Items/RailwayForge	Text		Railway Forge		Gleis-Schmiede
-Items/RailwayForgeDesc	Text		Advanced forge to create underground rail systems.		Eine fortgeschrittene Schmiede, um Schienennetze im Untergrund zu bauen.
-Items/RailywayForge	Text		Railway Forge		Gleis-Schmiede
-Items/RainBreastArmor	Text		Rain Coat		Regenmantel
-Items/RainBreastArmorDesc	Text		Sticky things slide right off from this glossy elastic coat. The bright yellow is just a nice touch.		Klebrige Dinge rutschen von diesem glatten, elastischen Mantel ab. Das grelle Gelb ist ein netter Bonus.
-Items/RainPantsArmor	Text		Rubber Boots		Gummistiefel
-Items/RainPantsArmorDesc	Text		Smooth slime-proof boots that keep your feet dry and agile. Also great for jumping into puddles.		Glatte, schleimdichte Stiefel, die deine Füße trocken und agil halten. Machen sich auch gut, um in Pfützen herumzuhüpfen.
-Items/RainbowKelp	Text		Rainbow Kelp		Regenbogen-Seetang
-Items/RainbowKelpDesc	Text		A super rare mutation of common kelp, showing off a variety of colors.		Eine unglaublich seltene Mutation des normalen Seetangs, die sich in schillernden Farben präsentiert.
-Items/RamboBreastArmor	Text		Mercenary Tank Top		Söldner-Muskelshirt
-Items/RamboBreastArmorDesc	Text		Green and full of sweat this piece of clothing is perfect for emerging from the shadows guns blazing.		Grün und voller Schweiß macht sich dieses Kleidungsstück perfekt, um mit gezückten Knarren aus den Schatten aufzutauchen.
-Items/RamboHelm	Text		Mercenary Headband		Söldner-Stirnband
-Items/RamboHelmDesc	Text		The only thing you need to put on when you want to rush through the jungle as a one-man-army…wait, that was something else.		Das einzige Kleidungsstück, das du brauchst, wenn du als Ein-Mann-Armee durch den Dschungel stürmen willst … Moment, das war etwas anderes.
-Items/RamboPantsArmor	Text		Mercenary Pants		Söldner-Hose
-Items/RamboPantsArmorDesc	Text		Camouflaged leggings that keep you on your toes around heavily-guarded areas.		Beinbekleidung mit Tarnmuster, die dich in schwer bewachten Gebieten auf Zack hält.
-Items/RangerBreastArmor	Text		Ranger Tunic		Waldläufer-Tunika
-Items/RangerBreastArmorDesc	Text		A light tunic with a quiver allowing for swift archery.		Eine leichte Tunika mit einem Köcher, der schnelles Bogenschießen ermöglicht.
-Items/RangerHelm	Text		Ranger Hood		Waldläufer-Kapuze
-Items/RangerHelmDesc	Text		A dark hood of old cloth. Hardly anything but eyes set on your target peep through.		Eine dunkle Kapuze aus altem Stoff. Nur deine fest auf das Ziel gerichteten Augen sind zu erkennen.
-Items/RangerPantsArmor	Text		Ranger Pants		Waldläufer-Hose
-Items/RangerPantsArmorDesc	Text	"Changed ""boots"" to ""pants"" in the description"	These sturdy leather pants tighten your stance and grant you steady aim for your target.		Diese feste Lederhose gewährt sicheren Stand und erlaubt das genaue Anvisieren deines Zieles.
-Items/RazorFlake	Text		Ricochet Shuriken		Durchschlag-Schuriken
-Items/RazorFlakeDesc	Text		A four-bladed throwing weapon that bounces back and forth across the room. Slicing any enemy in its path.		Eine Wurfwaffe mit vier Klingen. Sie verursacht Schaden an mehreren Zielen, während sie den Raum durchkreuzt.
-Items/RecallIdol	Text		Recall Idol		Rückruf-Statue
-Items/RecallIdolDesc	Text		Teleports you back to the core, consumed in the process.		Teleportiert dich zurück zum Kern, wird aber beim Benutzen verbraucht.
-Items/RedEnvelope	Text		Red Envelope		Roter Umschlag
-Items/RedEnvelopeDesc	Text		A gift to symbolize good wishes and luck for the year ahead. Someone left it for you to open.		Ein Geschenk, das gute Wünsche und Glück fürs kommende Jahr symbolisiert. Jemand hat es dir zum Öffnen hinterlassen.
-Items/RedFireFly	Text		Red Glowbug		Roter Glimmkäfer
-Items/RedFireFlyDesc	Text		This flying bug always appears in swarms which appear as dancing lights. Its red glow is biome-specific.		Dieser fliegende Käfer taucht immer in Schwärmen auf, die wie tanzende Lichter wirken. Sein roter Schein ist biomspezifisch.
-Items/RedKelp	Text		Red Kelp		Roter Seetang
-Items/RedKelpDesc	Text		A red lump of marine plants.		Ein roter Klumpen Meerespflanzen.
-Items/RedSlimeTrophy	Text		Red Slime Figurine		Rotschleim-Figur
-Items/RedSlimeTrophyDesc	Text		A lifelike representation of an aggressive Red Slime.		Eine lebensechte Nachbildung eines aggressiven Rotschleims.
-Items/RemedaisyNecklace	Text		Remedaisy Necklace		Besserblümchen-Halskette
-Items/RemedaisyNecklaceDesc	Text		Jewelry made from a rare plant that repels poison.		Schmuck, gefertigt aus einer seltenen Pflanze, die Gift heilt.
-Items/RenegadeGoKart	Text		Renegade Go-kart		Abtrünnigen-Go-Kart
-Items/RenegadeGoKartDesc	Text		An off-road vehicle that provides quick acceleration but lower top-speed. It looks slightly busted but lets you take curves in a more stable manner.		Ein Offroad-Wagen, das eine schnelle Beschleunigung, jedoch auch eine geringere Höchstgeschwindigkeit bietet. Sieht leicht ramponiert aus, legt sich aber geschmeidig in die Kurven.
-Items/RingOfRock	Text		Ring of Rock		Ring der Felsen
-Items/RingOfRockDesc	Text		Simple ring found in the deepest of rocks.		Einfacher Ring, gefunden in den tiefsten der Felsen.
-Items/RingOfSand	Text		Ring of Sand		Ring des Sandes
-Items/RingOfSandDesc	Text		A strange ring made from sand that is held together by the currents of time.		Ein außergewöhnlicher Ring aus Sand, der durch die Ströme der Zeit seine Form beibehält.
-Items/RingOfStone	Text		Ring of Stone		Ring der Steine
-Items/RingOfStoneDesc	Text		Simple ring carved out of stone.		Einfacher, aus Stein gemeißelter Ring.
-Items/RitualDagger	Text		Ritual Dagger		Ritualdolch
-Items/RitualDaggerDesc	Text		This unusual dagger is made from a big gemstone shard. There are dark red spots on the handle.		Dieser ungewöhnliche Dolch wurde aus der Scherbe eines Antiken Edelsteins gefertigt. Da sind dunkelrote Flecken auf dem Griff.
-Items/RitualGoblet	Text		Ritual Goblet		Ritualkelch
-Items/RitualGobletDesc	Text		An ancient chalice made from stone and gems. Its insides are layered with dark red residue.		Ein uralter Kelch aus Stein, besetzt mit Edelsteinen. Seine Innenseite ist klebrig mit dunkelroten Rückständen.
-Items/RobotArm	Text		Robot Arm		Roboter-Arm
-Items/RobotArmDesc	Text		Mechanical helping hand, grabs things and puts them elsewhere when powered with electricity.		Eine mechanische, helfende Hand. Greift Dinge und platziert sie woanders, wenn er mit Elektrizität versorgt wird.
-Items/RockJaw	Text		Rock Jaw		Steinkiefer
-Items/RockJawDesc	Text		A small shark that can break almost every material with one bite.		Ein kleiner Hai, der fast jedes Material mit einem Biss zerstören kann.
-Items/RolyPoly	Text		Strolly Poly		Bummelkugler
-Items/RolyPolyBaby	Text		Strolly Poly Nymph		Bummelkugler-Nymphe
-Items/RolyPolyBabyDesc	Text		The young version of a Strolly Poly. Unlike its grown up parents, this one is in constant danger of being stepped on or being mistaken for a larva by careless explorers.		Die junge Form eines Bummelkuglers. Anders als seine ausgewachsenen Eltern läuft es stets Gefahr, zertreten oder von unerfahrenen Forschern mit einer Larve verwechselt zu werden.
-Items/RolyPolyDesc	Text		Content with everything going on around it, this gentle giant waddles through the darkness, always in search of a skittering, crunchy snack. Did you know that it is not even an insect?		Zufrieden mit allem, was um ihn herum geschieht, watschelt dieser sanfte Riese durch die Dunkelheit, stets auf der Suche nach einem kriechenden, knusprigen Snack. Wusstest du, dass er kein Insekt ist?
-Items/RolyPolyPlate	Text	Item received from a big roly poly animal. Translations of said animal should refer to something correlating to a roly poly + slowness/wandering/strolling	Strolly Poly Plate		Bummelkugler-Platte
-Items/RolyPolyPlateDesc	Text		A cast-off plate that makes up the hard armor of a Strolly Poly. Very sturdy and great for crafting.		Eine abgeworfene Platte, aus der der harte Panzer eines Bummelkuglers besteht. Sehr beständig und großartig zum Weiterverarbeiten.
-Items/RoofingTool	Text		Roofing Gadget		Gewölbe-Apparat
-Items/RoofingToolDesc	Text		This strange gauntlet can create a roof light on a tile you're facing; or remove it. It is not able to let you escape, though.		Dieser merkwürdige Handschuh macht es möglich, Deckenlicht an einem Punkt vor dir zu erzeugen; oder es wieder zu entfernen. Leider kann er dir nicht zur Flucht verhelfen.
-Items/RootSeed	Text		Root Seed		Wurzel-Samen
-Items/RootSeedDesc	Text		Once planted it spreads roots in every direction.		Wurzeln breiten sich in jede Richtung aus, wenn er gepflanzt wird.
-Items/RoseWater	Text		Rose Water		Rosenwasser
-Items/RoseWaterDesc	Text		A vial containing water and rose extract, said to make ones skin silky smooth and hair shiny.		Ein Fläschchen, das Wasser und Rosenextrakt enthält. Es heißt, dass es die Haut seidenweich macht und das Haar zum Glänzen bringt.
-Items/RotFish	Text		Rot Fish		Fäulnis-Fisch
-Items/RotFishDesc	Text		Half of its body is missing but somehow it's still alive. Creepy.		Die Hälfte seines Körpers fehlt, aber irgendwie ist er trotzdem noch am Leben. Gruselig.
-Items/RoyalGel	Text		Royal Gel		Königlicher Glibber
-Items/RoyalGelDesc	Text		A blob of slime with a tiny crown in its center. With the right headpiece you can reign over all slimes.		Ein Klumpen Schleim mit einer winzigen Krone im Inneren. Mit dem richtigen Kopfstück dazu herrschst du über alle Schleime.
-Items/RoyalSlimeBlob	Text		Royal Slime		Adelsschleim
-Items/Rug	Text		Rug		Teppich
-Items/RugDesc	Text		Cover up the cold ground and make your base cozy.		Bedecke den kalten Boden damit und mach dir deine Basis heimelig.
-Items/RuinsCavelingPillar	Text		Caveling Pillar		Grottling-Säule
-Items/RuinsCavelingPillarDesc	Text		A broad stone pillar, depicting an abstract caveling.		Eine breite Steinsäule, die einen abstrakten Grottling darstellt.
-Items/RuinsCoreRelief	Text		Core Relief Tile		Kernrelief-Fliese
-Items/RuinsCoreReliefDesc	Text		A giant, gold-rimmed stone tile, depicting a rendition of the core.		Eine riesige, goldgeränderte Steinfliese, die eine Abbildung des Kerns zeigt.
-Items/RuinsFireplace	Text		Caveling Fireplace		Grottling-Kamin
-Items/RuinsFireplaceDesc	Text		A solid fireplace with heavy mantle. It burns with a strange fire that exits from a gemstone in it's bottom.		Ein solider Kamin mit einem schweren Sims. In ihm lodert ein seltsames Feuer, das aus einem Antiken Edelstein im Boden entweicht.
-Items/RuinsGate	Text		Metropolis Gate		Tor der Metropole
-Items/RuinsGateDesc	Text		An intact stone gate found at the forlorn metropolis. In stands tall and must have dazzled visitors with the giant ancient gemstone in its center.		Ein intaktes Steintor aus der verlorenen Metropole. Es steht unbeweglich und muss Besucher mit seinem riesigen, zentralen Antiken Edelstein verblüfft haben.
-Items/RuinsPedestal	Text		Blue Glass Pedestal		Blauglas-Sockel
-Items/RuinsPedestalDesc	Text		A stone pedestal with embedded gold and glass, an elegant way to showcase your treasures.		Ein steinerner Sockel, in den Gold und Glas eingebettet sind. Eine elegante Art, deine Schätze zu präsentieren.
-Items/RuinsPiece1	Text		Ruins Arc		Ruinenbogen
-Items/RuinsPiece1Desc	Text		A giant stone slate that seemingly was once part of the ceiling. Tremors must have brought it down.		Eine riesige Steinplatte, die wohl einst Teil der Höhlendecke war. Bestimmt haben Erschütterungen sie zum Einsturz gebracht.
-Items/RuinsPiece2	Text		Ruins Gate		Ruinentor
-Items/RuinsPiece2Desc	Text		A toppled entrance made from carved stone and ancient gemstones. It seems to have been part of a sprawling city.		Ein eingestürzter Eingang aus behauenem Stein und Antiken Edelsteinen. Offenbar gehörte er einst zu einer weitläufigen Stadt.
-Items/RuinsPiece3	Text		Ruins Tile		Ruinen-Steinplatte
-Items/RuinsPiece3Desc	Text		This thick stone tile features a pattern that looks like the core. It has been dislodged from the ground.		Diese dicke Steinplatte weist ein Muster auf, das wie der Kern aussieht. Sie wurde aus dem Boden gerissen.
-Items/RuinsPiece4	Text		Ruins Pillars		Ruinensäulen
-Items/RuinsPiece4Desc	Text		Toppled over stone pillars that once supported a very high ceiling. When they fell, they must have caused a lot of destruction.		Umgestürzte Steinsäulen, die einst eine hohe Decke stützten. Als sie fielen, haben sie sicher eine ziemliche Zerstörung verursacht.
-Items/RuinsShelfLarge	Text		Large Stone Shelf		Großes Steinregal
-Items/RuinsShelfLargeDesc	Text		A large solid shelf with lots of space for books and scrolls. The ones left in it are written in a language you don't speak.		Ein großes, solides Regal mit viel Platz für Bücher und Schriftrollen. Die, die noch enthalten sind, sind in einer dir unverständlichen Sprache geschrieben.
-Items/RuinsShelfSmall	Text		Stone Shelf		Steinregal
-Items/RuinsShelfSmallDesc	Text		A solid shelf with lots of space for books and scrolls. The ones left in it are unintelligible.		Ein solides Regal mit viel Platz für Bücher und Schriftrollen. Die, die noch enthalten sind, sind unlesbar.
-Items/RuinsStool	Text		Caveling Stool		Grottling-Hocker
-Items/RuinsStoolDesc	Text		This stool is made from solid stone but has a comfortable cushion embedded.		Dieser Hocker ist aus solidem Stein gemacht, hat aber ein eingebettetes, komfortables Kissen.
-Items/RuinsTable	Text		Big Gold-edged Table		Großer, goldgeränderter Tisch
-Items/RuinsTableDesc	Text		A big sturdy table hewn from a giant stone slab. There is a lot of space for many people.		Ein großer, stabiler Tisch, der aus einem einzigen Steinblock gemeißelt wurde. Er bietet Platz für viele Leute.
-Items/RuinsTableSmall	Text		Gold-edged Table		Goldgeränderter Tisch
-Items/RuinsTableSmallDesc	Text		A sturdy table hewn from a giant stone slab. There is a lot of space for many people.		Ein stabiler Tisch, der aus einem einzigen Steinblock gemeißelt wurde. Er bietet Platz für viele Leute.
-Items/RustedNecklace	Text		Rusted Necklace		Rostige Halskette
-Items/RustedNecklaceDesc	Text		This pendant used to look pretty but now it's rusted to the core.		Dieser Anhänger muss einst sehr schön gewesen sein, doch jetzt ist er bis zum Innersten verrostet.
-Items/RustedRing	Text		Rusted Ring		Rostiger Ring
-Items/RustedRingDesc	Text		A ring from the depths that someone must have lost long time ago.		Ein Ring aus den Tiefen, den jemand vor sehr langer Zeit verloren haben muss.
-Items/RustyDagger	Text		Rusty Dagger		Rostiger Dolch
-Items/RustyDaggerDesc	Text		A blade so corroded it only vaguely resembles copper. It’s deceptively sharp.		Eine Klinge, die so korrodiert kaum noch als Kupfer zu erkennen ist. Sie ist jedoch überraschend scharf.
-Items/RustyFishingHook	Text		Rusty Fishing Hook		Rostiger Angelhaken
-Items/RustyFishingHookDesc	Text		Rusted to the core and unusable. That fish was too big to handle, pal.		Bis auf den Kern verrostet und unbrauchbar. Dieser Fisch war wohl zu groß für dich, Kumpel.
-Items/RustySpoon	Text		Rusty Spoon		Rostiger Löffel
-Items/RustySpoonDesc	Text		An old, corroded eating utensil. Almost every culture has invented it.		Ein altes, korrodiertes Besteckteil. Fast jede Kultur hat so etwas erfunden.
-Items/SalvageAndRepairStation	Text		Salvage and Repair Station		Abwrack- & Reparatur-Station
-Items/SalvageAndRepairStationDesc	Text		Scraps tools and equipment you don't need or refurbishes broken ones.		Verschrotte Ausrüstung und Werkzeuge, die du nicht brauchst oder erneuere alte.
-Items/SamhainCurseRing	Text		Samhain Curse Ring		Samhain-Fluchring
-Items/SamhainCurseRingDesc	Text		A cursed ring that was used to welcome the cold season into the lands. It represents decay and darkness.		Ein verfluchter Ring, um das Land mit den kalten Jahreszeiten zu plagen. Er steht für Verfall und Dunkelheit.
-Items/SamhainOfferingNecklace	Text		Samhain Offering Necklace		Samhain-Opferhalskette
-Items/SamhainOfferingNecklaceDesc	Text		A blessed necklace offered as a gift to farewell the warm season. It represents the harvest and the evening sun.		Eine gesegnete Halskette, die zum Abschied der warmen Jahreszeiten als Gabe dargebracht wurde. Sie steht für die Ernte und die Abendsonne.
-Items/SandySpikeback	Text		Sandy Spikeback		Sand-Stachelrücken
-Items/SandySpikebackDesc	Text		A very defensive fish with sandstone skin and jagged spikes protruding out.		Ein sehr defensiver Fisch mit Haut aus Sandstein und hervorstehenden schartigen Stacheln.
+Items/PottedAlienFlowerDesc	Text		It is not an actual flower but a hologram of one. Is it proof of a dying world where nothing grew anymore?	Nie jest to prawdziwy kwiat, ale jego hologram. Czy jest to dowód umierającego świata, w którym nic już nie rośnie?	Keine richtige Blume, sondern nur ein holografisches Abbild. Zeugt es von einer sterbenden Welt, in der nichts mehr wachsen konnte?
+Items/PottedCherryTree	Text		Potted Cherry Tree	Drzewo wiśni w doniczce	Eingetopfter Kirschbaum
+Items/PottedCherryTreeDesc	Text		A bonsai-sized offshoot of the common cherry tree, planted in a decorative vase.	Odmiana drzewa wiśni wielkości drzewka bonsai, posadzona w ozdobnym wazonie.	Ein bonsai-großer Ableger des normalen Kirschbaums, eingepflanzt in einem dekorativen Topf.
+Items/PottedFlowerTree	Text		Potted Bloom Tree	Kwitnące drzewo w doniczce	Eingetopfter Blütenbaum
+Items/PottedFlowerTreeDesc	Text		A potted shrub on which beautiful flowers grow. It seems to only exist in this form.	Krzew doniczkowy, na którym rosną piękne kwiaty. Wydaje się, że istnieje tylko w tej formie.	Ein eingetopfter Strauch, an dem wunderschöne Blüten wachsen. Er scheint nur noch in dieser Form zu existieren.
+Items/PottedGlowberryTree	Text		Potted Moonbell Tree	Drzewko księżycowe w doniczce	Eingetopfter Mondglocken-Baum
+Items/PottedGlowberryTreeDesc	Text		A potted shrub on which glowing flowers grow. It seems to only exist in this form.	Krzew doniczkowy, na którym rosną świecące kwiaty. Wydaje się istnieć tylko w tej formie.	Ein eingetopfter Strauch, an dem leuchtende Blüten wachsen. Er scheint nur noch in dieser Form zu existieren.
+Items/PottedGoldenOrbBush	Text		Potted Meadow Tree	Drzewo łąkowe w doniczce	Eingetopfter Wiesenbaum
+Items/PottedGoldenOrbBushDesc	Text		A bonsai-sized offshoot of the common meadow tree, planted in a wooden pot.	Odmiana drzewa łąkowego wielkości drzewka bonsai, posadzona w drewnianej doniczce.	Ein bonsai-großer Ableger des normalen Wiesenbaums, eingepflanzt in einem hölzernen Topf.
+Items/PottedLandKelp	Text		Potted Land Algae	Glony lądowe w doniczce	Eingetopfte Land-Alge
+Items/PottedLandKelpDesc	Text		A decorative version of the common Land Algae, planted in a driftwood pot.	Dekoracyjna wersja glonu lądowego, posadzona w doniczce z dryfującego drewna.	Eine dekorative Version der normalen Land-Alge, gepflanzt in einem Treibholz-Topf.
+Items/PottedLucentTree	Text		Potted Lucent Oak	Błyszczący dąb w doniczce	Eingetopfte Schiller-Eiche
+Items/PottedLucentTreeDesc	Text		A shrub of the magnificient Lucent Oak, growing from a naturally formed crystal pot.	Krzew wspaniałego błyszczącego dębu, rosnący w naturalnie uformowanej kryształowej doniczce.	Ein Spross der prächtigen Schiller-Eiche, der in einem natürlich entstandenen Kristalltopf wächst.
+Items/PottedLushBush	Text		Potted Abyss Tree	Drzewo otchłani w doniczce	Eingetopfter Abgrund-Baum
+Items/PottedLushBushDesc	Text		A tree that grows in the chasms of Azeos Wilderness, planted in a clay pot.	Drzewo rosnące w rozpadlinach Dziczy Azeosa, zasadzone w glinianej doniczce.	Ein Baum, der nur in den Abgründen von Azeos' Wildnis wächst und in einen Lehmtopf eingepflanzt wurde.
+Items/PottedLushTree	Text		Potted Lush Tree	Bujne drzewo w doniczce	Eingetopfter Üppiger Baum
+Items/PottedLushTreeDesc	Text		A shrub of the common Lush Tree, planted in a makeshift stone pot.	Krzew bujnego drzewa, posadzony w prowizorycznej kamiennej donicy.	Ein Spross des normalen Üppigen Baumes, eingepflanzt in einem behelfsmäßigen Steintopf.
+Items/PottedMagmaTulip	Text		Potted Magma Tulip	Magmowy tulipan w doniczce	Eingetopfter Magmatulpe
+Items/PottedMagmaTulipDesc	Text		A rare, decorative strain of a Glow Tulip, that can withstand tremendous heat.	Rzadka, dekoracyjna odmiana świecącego tulipana, która może wytrzymać ogromne upały.	Ein seltene Zuchtvariante einer Leuchttulpe, die enormer Hitze standhalten kann.
+Items/PottedPlumeTree	Text		Potted Plume Tree	Drzewo pióropuszowe w doniczce	Eingetopfter Federbaum
+Items/PottedPlumeTreeDesc	Text		A bonsai-sized offshoot of the common plume tree, planted in an ancient pot.	Odmiana pióropusznika w rozmiarze drzewka bonsai, posadzona w starej doniczce.	Ein bonsai-großer Ableger des normalen Federbaums, eingepflanzt in einem uralten Topf.
+Items/PottedPuffSticks	Text		Potted Mold Pompom	Pompony pleśniowe w doniczce	Eingetopfter Schimmel-Pompom
+Items/PottedPuffSticksDesc	Text		An oversized, puffy flower that has been infested with mold.	Przerośnięty, puchaty kwiat, który został zaatakowany przez pleśń.	Eine übergroße bauschige Blume, die von einem Schimmelpilz befallen wurde.
+Items/PreciousUrn	Text		Precious Urn	Drogocenna urna	Wertvolle Urne
+Items/PreciousUrnDesc	Text		A pretty decorative without any cracks and blemishes but its original contents are long gone.	Ładny przedmiot ozdobny bez pęknięć i skaz, ale jego oryginalna zawartość już dawno zniknęła.	Eine hübsche Dekoration ohne Risse oder Makel. Leider ist ihr Inhalt vor langer Zeit entfernt worden.
+Items/PressurePlate	Text		Pressure Plate	Płyta naciskowa	Druckplatte
+Items/PressurePlateDesc	Text		Generates a low amount of electricity when stepped on by the player.	Generuje niewielką ilość energii elektrycznej, gdy gracz na nią nadepnie.	Generiert eine kleine Menge Elektrizität, wenn man sich daraufstellt.
+Items/PrimitiveGoKart	Text		Primitive Go-kart	Prymitywny gokart	Primitives Go-Kart
+Items/PrimitiveGoKartDesc	Text		An ancient vehicle built by the lost civilization, seemingly for pure fun. It provides only a fraction of the speed it once was capable of.	Starożytny pojazd zbudowany przez zaginioną cywilizację, pozornie dla czystej zabawy. Zapewnia tylko ułamek prędkości, do której był kiedyś zdolny.	Ein uraltes Gefährt, welches anscheinend von einer verlorenen Zivilisation rein zum Spaß konstruiert wurde. Es erreicht nur einen Bruchteil seiner einstigen Geschwindigkeit.
+Items/ProcessorChip	Text		Processor Chip	Chip procesora	Prozessor-Chip
+Items/ProcessorChipDesc	Text		This intricate, golden chip seems technically very advanced and must have computed complex calculations.	Ten skomplikowany, złoty chip wydaje się bardzo zaawansowany technicznie i musiał wykonywać skomplikowane obliczenia.	Dieser detaillierte, goldene Chip erscheint technologisch sehr fortschrittlich und muss komplexe Berechnungen durchgeführt haben.
+Items/ProtocolSlate	Text		Empty Crystal	Pusty kryształ	Leerer Kristall
+Items/ProtocolSlateDesc	Text		A rhombus-shaped crystal made from glass that has complex circuits embedded. It seems powered down, maybe it could be fed data to activate it again?	Szklany kryształ w kształcie rombu z wbudowanymi złożonymi obwodami. Wygląda na wyłączony, być może można by go ponownie aktywować za pomocą odpowiednich danych?	Ein rautenförmiger Kristall aus Glas, in dem komplexe Schaltkreise verbaut sind. Er scheint energielos zu sein. Kann man ihn vielleicht mit eingespeisten Daten reaktivieren?
+Items/ProtocolSlateKey	Text		Admin Key	Klucz administratora	Admin-Schlüssel
+Items/ProtocolSlateKeyDesc	Text		A reactivated key belonging to a wise leader. It may open the door to something very valuable.	Reaktywowany klucz należący do mądrego przywódcy. Może otworzyć drzwi do czegoś bardzo cennego.	Ein reaktivierter Schlüssel, der einst einem weisen Anführer gehörte. Er könnte den Eingang zu etwas sehr Wertvollem öffnen.
+Items/Puffungi	Text		Puffungi	Puchawki	Puffungus
+Items/PuffungiDesc	Text		A moldy fungus fit for gourmets.	Spleśniały grzyb odpowiedni dla smakoszy.	Ein Schimmelpilz, wie gemacht für Feinschmecker.
+Items/PuffungiRare	Text		Golden Puffungi	Złote Puchawki	Goldener Puffungus
+Items/PuffungiRareDesc	Text		A very rare variant of the common puffungi.	Bardzo rzadka odmiana pospolitych puchawek.	Eine sehr seltene Variante des Puffungus.
+Items/PuffungiSeed	Text		Puffungi Seed	Nasiono puchawki	Puffungus-Samen
+Items/PuffungiSeedDesc	Text		A seed that only grows in mold.	Nasiono, które rośnie tylko w pleśni.	Ein Samen, der nur in Schimmelböden wächst.
+Items/PulseCircuit	Text		Pulse Circuit	Obwód impulsowy	Puls-Schaltkreis
+Items/PulseCircuitDesc	Text		Electricity moves through in intervals of 1 second.	Prąd elektryczny przepływa w odstępach 1 sekundy.	Elektrizität fließt in 1-Sekunden-Abständen hindurch.
+Items/PumpkinCoin	Text		Pumpkin Coin	Dyniowa moneta	Kürbis-Münze
+Items/PumpkinCoinDesc	Text		A mischievous-looking coin that can be traded for various, eerie goods.	Złośliwie wyglądająca moneta, którą można wymienić na różne upiorne towary.	Eine boshaft anmutende Münze, die gegen verschiedene unheimliche Güter eingetauscht werden kann.
+Items/PumpkinHeadCavelingShamanTrophy	Text		Pumpking Caveling Figurine	Figurka dyniowego jaskiniowca	Kürbiskönig-Grottling-Figur
+Items/PumpkinHeadCavelingShamanTrophyDesc	Text		A lifelike representation of a Pumpking Caveling.	Realistycznie odwzorowany dyniowy jaskiniowiec.	Eine lebensechte Nachbildung eines Kürbiskönig-Grottlings.
+Items/PumpkinHelm	Text		Pumpkin Head	Dyniowa głowa	Kürbiskopf
+Items/PumpkinHelmDesc	Text		A vegetable head with a carved-in face. For how disgusting it feels from the inside, it looks pretty cool on the outside.	Roślinna głowa z wyrzeźbioną twarzą. Jak na to, jak obrzydliwa jest od środka, z zewnątrz wygląda całkiem fajnie.	Ein hohler Gemüsekopf mit eingeschnitztem Gesicht. Das ekelhafte Innere wird mit einem ziemlich coolen Äußeren wettgemacht.
+Items/PumpkinLantern	Text		Pumpkin Lantern	Latarnia z dyni	Kürbis-Laterne
+Items/PumpkinLanternDesc	Text		A scary, yet cozy lantern carved from a vegetable. Don't smash it, it brings bad luck.	Przerażająca, ale przytulna latarnia wyrzeźbiona z warzywa. Nie rozbijaj jej, bo to przynosi pecha.	Eine gruselige, aber irgendwie heimelige Laterne, die aus Gemüse geschnitzt wurde. Schlag sie nicht kaputt, das bringt Unglück.
+Items/PurpleSlimeTrophy	Text		Purple Slime Figurine	Figurka fioletowego szlamu	Lilaschleim-Figur
+Items/PurpleSlimeTrophyDesc	Text		A lifelike representation of a poisonous Purple Slime.	Realistyczne przedstawienie trującego fioletowego szlamu.	Eine lebensechte Nachbildung eines giftigen Lilaschleims.
+Items/RaAkarAutomaton	Text		Ra-Akar Automaton	Automat Ra-Akara	Ra-Akar-Automaton
+Items/RaAkarAutomatonDesc	Text		A complex wind-up machine created in honor of Ra-Akar that seems to have a mind of its own. A gift worthy of a young prince.	Złożona, zwijana maszyna stworzona na cześć Ra-Akara, która wydaje się mieć własny umysł. Prezent godny młodego księcia.	Ein komplexer Aufziehmechanismus, der zu Ehren von Ra-Akar gefertigt wurde. Scheint fast einen eigenen Willen zu besitzen. Ein Geschenk, das eines jungen Prinzen würdig ist.
+Items/RaAkarNecklace	Text		Ra-Akar's Necklace	Naszyjnik Ra-Akara	Ra-Akars Halskette
+Items/RaAkarNecklaceDesc	Text		A necklace of the desert with a strong resemblance of the sand titan. Wearing it grants you additional protection and extra damage.	Naszyjnik pustyni z silnym podobieństwem do piaskowego tytana. Jego noszenie zapewnia dodatkową ochronę i dodatkowe obrażenia.	Ein Schmuckstück der Wüste, das stark an den Sandtitanen erinnert. Wenn es getragen wird, verleiht es zusätzlichen Schutz und bewirkt zusätzlichen Schaden.
+Items/RaAkarTrophy	Text		Ra-Akar Figurine	Figurka Ra-Akara	Ra-Akar-Figur
+Items/RaAkarTrophyDesc	Text		A lifelike representation of Ra-Akar, the Sand Titan.	Realistycznie odwzorowany Ra-Akar, Piaskowy Tytan.	Eine lebensechte Nachbildung von Ra-Akar, dem Sandtitanen.
+Items/RadiationBreastArmor	Text		Hazmat Suit Jacket	Kombinezon ochronny	Gefahrenschutz-Jacke
+Items/RadiationBreastArmorDesc	Text		Whatever the problem is, encountering it behind a protective suit makes it a little less stressful.	Niezależnie od tego, na czym polega problem, napotkanie go za kombinezonem ochronnym sprawia, że jest on nieco mniej stresujący.	Was auch immer das Problem ist, wenn man ihm in Schutzkleidung entgegentritt, geht es einem gleich viel besser.
+Items/RadiationCrystal	Text		Radiation Crystal	Promieniujący kryształ	Strahlungskristall
+Items/RadiationCrystalDesc	Text		A culmination of radioactive elements that resulted in a glass-like structure.	Kulminacja pierwiastków radioaktywnych, która doprowadziła do powstania struktury przypominającej szkło.	Eine Ansammlung radioaktiver Elemente, die sich zu einer glasähnlichen Struktur verbunden haben.
+Items/RadiationHelm	Text		Hazmat Helm	Hełm ochronny	Gefahrenschutz-Helm
+Items/RadiationHelmDesc	Text		Need to handle strange materials that emit even stranger radiation? Ask no more!	Musisz uporać się z dziwnymi materiałami, które emitują jeszcze dziwniejsze promieniowanie? Nie pytaj więcej!	Du musst seltsame Materialien handhaben, die noch seltsamere Strahlung freisetzen? Kein Problem!
+Items/RadiationPantsArmor	Text		Hazmat Suit Pants	Spodnie ochronne	Gefahrenschutz-Hose
+Items/RadiationPantsArmorDesc	Text		A protective suit is not complete without some boots that save the feet.	Kombinezon ochronny nie jest kompletny bez butów, które chronią stopy.	Schützende Kleidung wär' nicht komplett, wenn sie keine Stiefel hätt'.
+Items/RadicalRabbitEars	Text		Radical Rabbit Ears	Uszy odlotowego królika	Radical-Rabbit-Ohren
+Items/RadicalRabbitEarsDesc	Text		A cute hood featuring white rabbit ears. You feel quite cheeky and swift wearing it.	Uroczy kaptur z białymi uszami królika. Nosząc go czujesz się dość zuchwale i śmiało.	Eine süße Kapuze mit weißen Hasenohren. Du fühlst dich ziemlich flink und frech, wenn du sie trägst.
+Items/RadicalRabbitEarsDiadem	Text		Radical Rabbit Headband	Opaska odlotowego królika	Radical-Rabbit-Haarreif
+Items/RadicalRabbitEarsDiademDesc	Text		A cute headband featuring white rabbit ears. You feel quite cheeky and swift wearing it.	Urocza opaska na głowę z białymi uszami królika. Nosząc ją, czujesz się dość zuchwale i śmiało.	Ein süßer Haarreif mit weißen Hasenohren. Du fühlst dich ziemlich flink und frech, wenn du ihn trägst.
+Items/Rail	Text		Rail	Tory	Gleis
+Items/RailDesc	Text		Traverse the underground world much faster.	Przemierzaj podziemny świat znacznie szybciej.	Reise viel schneller durch die Untergrundwelt.
+Items/RailwayForge	Text		Railway Forge	Kuźnia kolejowa	Gleis-Schmiede
+Items/RailwayForgeDesc	Text		Advanced forge to create underground rail systems.	Zaawansowana kuźnia do tworzenia podziemnych systemów kolejowych.	Eine fortgeschrittene Schmiede, um Schienennetze im Untergrund zu bauen.
+Items/RailywayForge	Text		Railway Forge	Kuźnia kolejowa	Gleis-Schmiede
+Items/RainBreastArmor	Text		Rain Coat	Płaszcz przeciwdeszczowy	Regenmantel
+Items/RainBreastArmorDesc	Text		Sticky things slide right off from this glossy elastic coat. The bright yellow is just a nice touch.	Lepkie rzeczy ześlizgują się z tego błyszczącego, elastycznego płaszcza. Jaskrawożółty kolor stanowi miły akcent.	Klebrige Dinge rutschen von diesem glatten, elastischen Mantel ab. Das grelle Gelb ist ein netter Bonus.
+Items/RainPantsArmor	Text		Rubber Boots	Gumowe buty	Gummistiefel
+Items/RainPantsArmorDesc	Text		Smooth slime-proof boots that keep your feet dry and agile. Also great for jumping into puddles.	Gładkie, odporne na śluz buty, które utrzymują stopy suche i zwinne. Świetne także do skakania w kałużach.	Glatte, schleimdichte Stiefel, die deine Füße trocken und agil halten. Machen sich auch gut, um in Pfützen herumzuhüpfen.
+Items/RainbowKelp	Text		Rainbow Kelp	Tęczowy wodorost	Regenbogen-Seetang
+Items/RainbowKelpDesc	Text		A super rare mutation of common kelp, showing off a variety of colors.	Bardzo rzadka mutacja zwykłego wodorostu, prezentująca różnorodne kolory.	Eine unglaublich seltene Mutation des normalen Seetangs, die sich in schillernden Farben präsentiert.
+Items/RamboBreastArmor	Text		Mercenary Tank Top	Tank top najemnika	Söldner-Muskelshirt
+Items/RamboBreastArmorDesc	Text		Green and full of sweat this piece of clothing is perfect for emerging from the shadows guns blazing.	Zielony i przepocony, ten element garderoby jest idealny do wychodzenia z cienia z bronią w ręku.	Grün und voller Schweiß macht sich dieses Kleidungsstück perfekt, um mit gezückten Knarren aus den Schatten aufzutauchen.
+Items/RamboHelm	Text		Mercenary Headband	Opaska najemnika	Söldner-Stirnband
+Items/RamboHelmDesc	Text		The only thing you need to put on when you want to rush through the jungle as a one-man-army…wait, that was something else.	Jedyna rzecz, którą musisz założyć, gdy chcesz pędzić przez dżunglę jako jednoosobowa armia...czekaj, to było coś innego.	Das einzige Kleidungsstück, das du brauchst, wenn du als Ein-Mann-Armee durch den Dschungel stürmen willst … Moment, das war etwas anderes.
+Items/RamboPantsArmor	Text		Mercenary Pants	Spodnie najemnika	Söldner-Hose
+Items/RamboPantsArmorDesc	Text		Camouflaged leggings that keep you on your toes around heavily-guarded areas.	Kamuflujące legginsy, które pozwolą ci pozostać czujnym w pilnie strzeżonych miejscach.	Beinbekleidung mit Tarnmuster, die dich in schwer bewachten Gebieten auf Zack hält.
+Items/RangerBreastArmor	Text		Ranger Tunic	Tunika łucznika	Waldläufer-Tunika
+Items/RangerBreastArmorDesc	Text		A light tunic with a quiver allowing for swift archery.	Lekka tunika z kołczanem umożliwiającym szybkie strzelanie z łuku.	Eine leichte Tunika mit einem Köcher, der schnelles Bogenschießen ermöglicht.
+Items/RangerHelm	Text		Ranger Hood	Kaptur łucznika	Waldläufer-Kapuze
+Items/RangerHelmDesc	Text		A dark hood of old cloth. Hardly anything but eyes set on your target peep through.	Ciemny kaptur ze starego materiału. Nie przepuszcza prawie niczego poza oczami nastawionymi na cel.	Eine dunkle Kapuze aus altem Stoff. Nur deine fest auf das Ziel gerichteten Augen sind zu erkennen.
+Items/RangerPantsArmor	Text		Ranger Pants	Spodnie łucznika	Waldläufer-Hose
+Items/RangerPantsArmorDesc	Text	"Changed ""boots"" to ""pants"" in the description"	These sturdy leather pants tighten your stance and grant you steady aim for your target.	Te wytrzymałe skórzane spodnie zacieśniają postawę i zapewniają stabilny cel.	Diese feste Lederhose gewährt sicheren Stand und erlaubt das genaue Anvisieren deines Zieles.
+Items/RazorFlake	Text		Ricochet Shuriken	Rykoszetujący shuriken	Durchschlag-Schuriken
+Items/RazorFlakeDesc	Text		A four-bladed throwing weapon that bounces back and forth across the room. Slicing any enemy in its path.	Broń miotana z czterema ostrzami, która odbija się po całym pomieszczeniu. Tnie każdego wroga na swojej drodze.	Eine Wurfwaffe mit vier Klingen. Sie verursacht Schaden an mehreren Zielen, während sie den Raum durchkreuzt.
+Items/RecallIdol	Text		Recall Idol	Bożek powrotu	Rückruf-Statue
+Items/RecallIdolDesc	Text		Teleports you back to the core, consumed in the process.	Teleportuje cię z powrotem do rdzenia, zużywając się przy tym.	Teleportiert dich zurück zum Kern, wird aber beim Benutzen verbraucht.
+Items/RedEnvelope	Text		Red Envelope	Czerwona koperta	Roter Umschlag
+Items/RedEnvelopeDesc	Text		A gift to symbolize good wishes and luck for the year ahead. Someone left it for you to open.	Prezent symbolizujący dobre życzenia i szczęście w nadchodzącym roku. Ktoś zostawił ci ją do otwarcia.	Ein Geschenk, das gute Wünsche und Glück fürs kommende Jahr symbolisiert. Jemand hat es dir zum Öffnen hinterlassen.
+Items/RedFireFly	Text		Red Glowbug	Czerwony świetlik	Roter Glimmkäfer
+Items/RedFireFlyDesc	Text		This flying bug always appears in swarms which appear as dancing lights. Its red glow is biome-specific.	Ten latający robak zawsze pojawia się w rojach, które wyglądają jak tańczące światła. Jego czerwona poświata jest specyficzna dla biomu.	Dieser fliegende Käfer taucht immer in Schwärmen auf, die wie tanzende Lichter wirken. Sein roter Schein ist biomspezifisch.
+Items/RedKelp	Text		Red Kelp	Czerwony wodorost	Roter Seetang
+Items/RedKelpDesc	Text		A red lump of marine plants.	Czerwona kępa roślin morskich.	Ein roter Klumpen Meerespflanzen.
+Items/RedSlimeTrophy	Text		Red Slime Figurine	Figurka czerwonego szlamu	Rotschleim-Figur
+Items/RedSlimeTrophyDesc	Text		A lifelike representation of an aggressive Red Slime.	Realistycznie przedstawiony agresywny czerwony szlam.	Eine lebensechte Nachbildung eines aggressiven Rotschleims.
+Items/RemedaisyNecklace	Text		Remedaisy Necklace	Naszyjnik Remedaisy	Besserblümchen-Halskette
+Items/RemedaisyNecklaceDesc	Text		Jewelry made from a rare plant that repels poison.	Biżuteria wykonana z rzadkiej rośliny, która zapobiega truciznom.	Schmuck, gefertigt aus einer seltenen Pflanze, die Gift heilt.
+Items/RenegadeGoKart	Text		Renegade Go-kart	Gokart renegata	Abtrünnigen-Go-Kart
+Items/RenegadeGoKartDesc	Text		An off-road vehicle that provides quick acceleration but lower top-speed. It looks slightly busted but lets you take curves in a more stable manner.	Pojazd terenowy zapewniający szybkie przyspieszenie, ale niższą prędkość maksymalną. Wygląda na nieco zdezelowany, ale pozwala pokonywać zakręty w bardziej stabilny sposób.	Ein Offroad-Wagen, das eine schnelle Beschleunigung, jedoch auch eine geringere Höchstgeschwindigkeit bietet. Sieht leicht ramponiert aus, legt sich aber geschmeidig in die Kurven.
+Items/RingOfRock	Text		Ring of Rock	Pierścień skały	Ring der Felsen
+Items/RingOfRockDesc	Text		Simple ring found in the deepest of rocks.	Prosty pierścień znajdujący się w najgłębszych skałach.	Einfacher Ring, gefunden in den tiefsten der Felsen.
+Items/RingOfSand	Text		Ring of Sand	Pierścień piasku	Ring des Sandes
+Items/RingOfSandDesc	Text		A strange ring made from sand that is held together by the currents of time.	Dziwny pierścień wykonany z piasku, który jest utrzymywany razem przez prądy czasu.	Ein außergewöhnlicher Ring aus Sand, der durch die Ströme der Zeit seine Form beibehält.
+Items/RingOfStone	Text		Ring of Stone	Pierścień kamienia	Ring der Steine
+Items/RingOfStoneDesc	Text		Simple ring carved out of stone.	Prosty pierścień wyrzeźbiony z kamienia.	Einfacher, aus Stein gemeißelter Ring.
+Items/RitualDagger	Text		Ritual Dagger	Rytualny sztylet	Ritualdolch
+Items/RitualDaggerDesc	Text		This unusual dagger is made from a big gemstone shard. There are dark red spots on the handle.	Ten niezwykły sztylet wykonany jest z dużego odłamka kamienia szlachetnego. Na rękojeści znajdują się ciemnoczerwone plamy.	Dieser ungewöhnliche Dolch wurde aus der Scherbe eines Antiken Edelsteins gefertigt. Da sind dunkelrote Flecken auf dem Griff.
+Items/RitualGoblet	Text		Ritual Goblet	Rytualny kielich	Ritualkelch
+Items/RitualGobletDesc	Text		An ancient chalice made from stone and gems. Its insides are layered with dark red residue.	Starożytny kielich wykonany z kamienia i klejnotów. Jego wnętrze pokryte jest ciemnoczerwonym osadem.	Ein uralter Kelch aus Stein, besetzt mit Edelsteinen. Seine Innenseite ist klebrig mit dunkelroten Rückständen.
+Items/RobotArm	Text		Robot Arm	Ramię robota	Roboter-Arm
+Items/RobotArmDesc	Text		Mechanical helping hand, grabs things and puts them elsewhere when powered with electricity.	Mechaniczna pomocna dłoń, która chwyta przedmioty i odkłada je w inne miejsce, gdy jest zasilana energią elektryczną.	Eine mechanische, helfende Hand. Greift Dinge und platziert sie woanders, wenn er mit Elektrizität versorgt wird.
+Items/RockJaw	Text		Rock Jaw	Skalna szczęka	Steinkiefer
+Items/RockJawDesc	Text		A small shark that can break almost every material with one bite.	Mały rekin, który jednym ugryzieniem może rozerwać niemal każdy materiał.	Ein kleiner Hai, der fast jedes Material mit einem Biss zerstören kann.
+Items/RolyPoly	Text		Strolly Poly	Wolanka	Bummelkugler
+Items/RolyPolyBaby	Text		Strolly Poly Nymph	Nimfa wolanki	Bummelkugler-Nymphe
+Items/RolyPolyBabyDesc	Text		The young version of a Strolly Poly. Unlike its grown up parents, this one is in constant danger of being stepped on or being mistaken for a larva by careless explorers.	Młoda wersja wolanki. W przeciwieństwie do swoich dorosłych rodziców, ten jest stale zagrożony byciem nadepniętym lub pomylonym z larwą przez nieostrożnych odkrywców.	Die junge Form eines Bummelkuglers. Anders als seine ausgewachsenen Eltern läuft es stets Gefahr, zertreten oder von unerfahrenen Forschern mit einer Larve verwechselt zu werden.
+Items/RolyPolyDesc	Text		Content with everything going on around it, this gentle giant waddles through the darkness, always in search of a skittering, crunchy snack. Did you know that it is not even an insect?	Zadowolony ze wszystkiego, co dzieje się wokół niego, ten łagodny olbrzym kroczy przez ciemność, zawsze w poszukiwaniu skrzeczącej, chrupiącej przekąski. Czy wiesz, że nie jest to nawet owad?	Zufrieden mit allem, was um ihn herum geschieht, watschelt dieser sanfte Riese durch die Dunkelheit, stets auf der Suche nach einem kriechenden, knusprigen Snack. Wusstest du, dass er kein Insekt ist?
+Items/RolyPolyPlate	Text	Item received from a big roly poly animal. Translations of said animal should refer to something correlating to a roly poly + slowness/wandering/strolling	Strolly Poly Plate	Płytka wolanki	Bummelkugler-Platte
+Items/RolyPolyPlateDesc	Text		A cast-off plate that makes up the hard armor of a Strolly Poly. Very sturdy and great for crafting.	Odrzucona płytka, która tworzy twardy korpus Strolly Poly. Jest bardzo wytrzymała i świetnie nadaje się do obróbki.	Eine abgeworfene Platte, aus der der harte Panzer eines Bummelkuglers besteht. Sehr beständig und großartig zum Weiterverarbeiten.
+Items/RoofingTool	Text		Roofing Gadget	Gadżet dachowy	Gewölbe-Apparat
+Items/RoofingToolDesc	Text		This strange gauntlet can create a roof light on a tile you're facing; or remove it. It is not able to let you escape, though.	Ta dziwna rękawica może stworzyć światło dachowe na płytce, przed którą stoisz; lub je usunąć. Nie jest jednak w stanie pozwolić ci uciec z tego miejsca.	Dieser merkwürdige Handschuh macht es möglich, Deckenlicht an einem Punkt vor dir zu erzeugen; oder es wieder zu entfernen. Leider kann er dir nicht zur Flucht verhelfen.
+Items/RootSeed	Text		Root Seed	Nasiono korzenia	Wurzel-Samen
+Items/RootSeedDesc	Text		Once planted it spreads roots in every direction.	Po zasadzeniu rozprzestrzenia korzenie w każdym kierunku.	Wurzeln breiten sich in jede Richtung aus, wenn er gepflanzt wird.
+Items/RoseWater	Text		Rose Water	Woda różana	Rosenwasser
+Items/RoseWaterDesc	Text		A vial containing water and rose extract, said to make ones skin silky smooth and hair shiny.	Fiolka zawierająca wodę i ekstrakt z róży, która sprawia, że skóra staje się jedwabiście gładka, a włosy lśniące.	Ein Fläschchen, das Wasser und Rosenextrakt enthält. Es heißt, dass es die Haut seidenweich macht und das Haar zum Glänzen bringt.
+Items/RotFish	Text		Rot Fish	Gnijąca ryba	Fäulnis-Fisch
+Items/RotFishDesc	Text		Half of its body is missing but somehow it's still alive. Creepy.	Brakuje jej połowy ciała, ale jakimś cudem wciąż żyje. Przerażające.	Die Hälfte seines Körpers fehlt, aber irgendwie ist er trotzdem noch am Leben. Gruselig.
+Items/RoyalGel	Text		Royal Gel	Królewski żel	Königlicher Glibber
+Items/RoyalGelDesc	Text		A blob of slime with a tiny crown in its center. With the right headpiece you can reign over all slimes.	Kula szlamu z malutką koroną w środku. Z odpowiednim nakryciem głowy możesz panować nad wszystkimi szlamami.	Ein Klumpen Schleim mit einer winzigen Krone im Inneren. Mit dem richtigen Kopfstück dazu herrschst du über alle Schleime.
+Items/RoyalSlimeBlob	Text		Royal Slime	Królewski szlam	Adelsschleim
+Items/Rug	Text		Rug	Dywan	Teppich
+Items/RugDesc	Text		Cover up the cold ground and make your base cozy.	Przykryj zimną ziemię i spraw, by twoja baza była przytulna.	Bedecke den kalten Boden damit und mach dir deine Basis heimelig.
+Items/RuinsCavelingPillar	Text		Caveling Pillar	Filar jaskiniowca	Grottling-Säule
+Items/RuinsCavelingPillarDesc	Text		A broad stone pillar, depicting an abstract caveling.	Szeroki kamienny filar przedstawiający abstrakcyjnego jaskiniowca.	Eine breite Steinsäule, die einen abstrakten Grottling darstellt.
+Items/RuinsCoreRelief	Text		Core Relief Tile	Płytka reliefowa rdzenia	Kernrelief-Fliese
+Items/RuinsCoreReliefDesc	Text		A giant, gold-rimmed stone tile, depicting a rendition of the core.	Olbrzymia, kamienna płytka ze złotą obwódką, przedstawiająca odwzorowanie rdzenia.	Eine riesige, goldgeränderte Steinfliese, die eine Abbildung des Kerns zeigt.
+Items/RuinsFireplace	Text		Caveling Fireplace	Kominek jaskiniowców	Grottling-Kamin
+Items/RuinsFireplaceDesc	Text		A solid fireplace with heavy mantle. It burns with a strange fire that exits from a gemstone in it's bottom.	Masywny kominek z ciężkim obramieniem. Płonie dziwnym ogniem, który wydobywa się z kamienia szlachetnego w jego dnie.	Ein solider Kamin mit einem schweren Sims. In ihm lodert ein seltsames Feuer, das aus einem Antiken Edelstein im Boden entweicht.
+Items/RuinsGate	Text		Metropolis Gate	Brama metropolii	Tor der Metropole
+Items/RuinsGateDesc	Text		An intact stone gate found at the forlorn metropolis. In stands tall and must have dazzled visitors with the giant ancient gemstone in its center.	Nienaruszona kamienna brama znaleziona w opuszczonej metropolii. Stoi wysoko i musiała olśniewać odwiedzających gigantycznym starożytnym klejnotem znajdującym się w jej centrum.	Ein intaktes Steintor aus der verlorenen Metropole. Es steht unbeweglich und muss Besucher mit seinem riesigen, zentralen Antiken Edelstein verblüfft haben.
+Items/RuinsPedestal	Text		Blue Glass Pedestal	Piedestał z niebieskiego szkła	Blauglas-Sockel
+Items/RuinsPedestalDesc	Text		A stone pedestal with embedded gold and glass, an elegant way to showcase your treasures.	Kamienny piedestał z wbudowanym złotem i szkłem, elegancki sposób na wyeksponowanie skarbów.	Ein steinerner Sockel, in den Gold und Glas eingebettet sind. Eine elegante Art, deine Schätze zu präsentieren.
+Items/RuinsPiece1	Text		Ruins Arc	Łuk ruin	Ruinenbogen
+Items/RuinsPiece1Desc	Text		A giant stone slate that seemingly was once part of the ceiling. Tremors must have brought it down.	Gigantyczny kamienny odłamek, który najwyraźniej był kiedyś częścią sufitu. Wstrząsy musiały go strącić.	Eine riesige Steinplatte, die wohl einst Teil der Höhlendecke war. Bestimmt haben Erschütterungen sie zum Einsturz gebracht.
+Items/RuinsPiece2	Text		Ruins Gate	Brama ruin	Ruinentor
+Items/RuinsPiece2Desc	Text		A toppled entrance made from carved stone and ancient gemstones. It seems to have been part of a sprawling city.	Obalone wejście wykonane z rzeźbionego kamienia i starożytnych klejnotów. Wygląda na to, że była częścią rozległego miasta.	Ein eingestürzter Eingang aus behauenem Stein und Antiken Edelsteinen. Offenbar gehörte er einst zu einer weitläufigen Stadt.
+Items/RuinsPiece3	Text		Ruins Tile	Płyta z ruin	Ruinen-Steinplatte
+Items/RuinsPiece3Desc	Text		This thick stone tile features a pattern that looks like the core. It has been dislodged from the ground.	Ta gruba kamienna płyta ma wzór, który wygląda jak rdzeń. Została oderwana od ziemi.	Diese dicke Steinplatte weist ein Muster auf, das wie der Kern aussieht. Sie wurde aus dem Boden gerissen.
+Items/RuinsPiece4	Text		Ruins Pillars	Filary ruin	Ruinensäulen
+Items/RuinsPiece4Desc	Text		Toppled over stone pillars that once supported a very high ceiling. When they fell, they must have caused a lot of destruction.	Przewrócone kamienne filary, które niegdyś podtrzymywały bardzo wysoki sufit. Kiedy upadły, musiały spowodować wiele zniszczeń.	Umgestürzte Steinsäulen, die einst eine hohe Decke stützten. Als sie fielen, haben sie sicher eine ziemliche Zerstörung verursacht.
+Items/RuinsShelfLarge	Text		Large Stone Shelf	Duża kamienna półka	Großes Steinregal
+Items/RuinsShelfLargeDesc	Text		A large solid shelf with lots of space for books and scrolls. The ones left in it are written in a language you don't speak.	Duża, solidna półka z mnóstwem miejsca na książki i zwoje. Te, które na niej pozostały, są napisane w języku, którego nie znasz.	Ein großes, solides Regal mit viel Platz für Bücher und Schriftrollen. Die, die noch enthalten sind, sind in einer dir unverständlichen Sprache geschrieben.
+Items/RuinsShelfSmall	Text		Stone Shelf	Kamienna półka	Steinregal
+Items/RuinsShelfSmallDesc	Text		A solid shelf with lots of space for books and scrolls. The ones left in it are unintelligible.	Solidna półka z dużą ilością miejsca na książki i zwoje. Pozostawione na niej zapisy są niezrozumiałe.	Ein solides Regal mit viel Platz für Bücher und Schriftrollen. Die, die noch enthalten sind, sind unlesbar.
+Items/RuinsStool	Text		Caveling Stool	Stołek jaskiniowca	Grottling-Hocker
+Items/RuinsStoolDesc	Text		This stool is made from solid stone but has a comfortable cushion embedded.	Ten stołek jest wykonany z litego kamienia, ale ma wbudowaną wygodną poduszkę.	Dieser Hocker ist aus solidem Stein gemacht, hat aber ein eingebettetes, komfortables Kissen.
+Items/RuinsTable	Text		Big Gold-edged Table	Duży pozłacany stół	Großer, goldgeränderter Tisch
+Items/RuinsTableDesc	Text		A big sturdy table hewn from a giant stone slab. There is a lot of space for many people.	Duży, solidny stół wykuty z ogromnej kamiennej płyty. Jest tu dużo miejsca dla wielu osób.	Ein großer, stabiler Tisch, der aus einem einzigen Steinblock gemeißelt wurde. Er bietet Platz für viele Leute.
+Items/RuinsTableSmall	Text		Gold-edged Table	Pozłacany stół	Goldgeränderter Tisch
+Items/RuinsTableSmallDesc	Text		A sturdy table hewn from a giant stone slab. There is a lot of space for many people.	Solidny stół wykuty z ogromnej kamiennej płyty. Jest tu dużo miejsca dla wielu osób.	Ein stabiler Tisch, der aus einem einzigen Steinblock gemeißelt wurde. Er bietet Platz für viele Leute.
+Items/RustedNecklace	Text		Rusted Necklace	Zardzewiały naszyjnik	Rostige Halskette
+Items/RustedNecklaceDesc	Text		This pendant used to look pretty but now it's rusted to the core.	Ten wisiorek wyglądał ładnie, ale teraz jest zardzewiały do samego środka.	Dieser Anhänger muss einst sehr schön gewesen sein, doch jetzt ist er bis zum Innersten verrostet.
+Items/RustedRing	Text		Rusted Ring	Zardzewiały pierścień	Rostiger Ring
+Items/RustedRingDesc	Text		A ring from the depths that someone must have lost long time ago.	Pierścień z głębin, który ktoś musiał zgubić dawno temu.	Ein Ring aus den Tiefen, den jemand vor sehr langer Zeit verloren haben muss.
+Items/RustyDagger	Text		Rusty Dagger	Zardzewiały sztylet	Rostiger Dolch
+Items/RustyDaggerDesc	Text		A blade so corroded it only vaguely resembles copper. It’s deceptively sharp.	Ostrze tak skorodowane, że tylko minimalnie przypomina miedź. Jest zwodniczo ostry.	Eine Klinge, die so korrodiert kaum noch als Kupfer zu erkennen ist. Sie ist jedoch überraschend scharf.
+Items/RustyFishingHook	Text		Rusty Fishing Hook	Zardzewiały haczyk wędkarski	Rostiger Angelhaken
+Items/RustyFishingHookDesc	Text		Rusted to the core and unusable. That fish was too big to handle, pal.	Zardzewiały do cna i bezużyteczny. Ta ryba była za duża, żeby sobie z nią poradzić kolego.	Bis auf den Kern verrostet und unbrauchbar. Dieser Fisch war wohl zu groß für dich, Kumpel.
+Items/RustySpoon	Text		Rusty Spoon	Zardzewiała łyżka	Rostiger Löffel
+Items/RustySpoonDesc	Text		An old, corroded eating utensil. Almost every culture has invented it.	Stara, skorodowana łyżka do jedzenia. Prawie każda kultura ją wynalazła.	Ein altes, korrodiertes Besteckteil. Fast jede Kultur hat so etwas erfunden.
+Items/SalvageAndRepairStation	Text		Salvage and Repair Station	Stacja odzysku i naprawy	Abwrack- & Reparatur-Station
+Items/SalvageAndRepairStationDesc	Text		Scraps tools and equipment you don't need or refurbishes broken ones.	Rozbiera niepotrzebne narzędzia i sprzęt bądź naprawia zepsute.	Verschrotte Ausrüstung und Werkzeuge, die du nicht brauchst oder erneuere alte.
+Items/SamhainCurseRing	Text		Samhain Curse Ring	Pierścień klątwy Samhain	Samhain-Fluchring
+Items/SamhainCurseRingDesc	Text		A cursed ring that was used to welcome the cold season into the lands. It represents decay and darkness.	Przeklęty pierścień, który był używany do powitania zimnej pory roku. Symbolizuje rozkład i ciemność.	Ein verfluchter Ring, um das Land mit den kalten Jahreszeiten zu plagen. Er steht für Verfall und Dunkelheit.
+Items/SamhainOfferingNecklace	Text		Samhain Offering Necklace	Naszyjnik ofiarny Samhain	Samhain-Opferhalskette
+Items/SamhainOfferingNecklaceDesc	Text		A blessed necklace offered as a gift to farewell the warm season. It represents the harvest and the evening sun.	Błogosławiony naszyjnik ofiarowany jako prezent na pożegnanie ciepłej pory roku. Symbolizuje żniwa i wieczorne słońce.	Eine gesegnete Halskette, die zum Abschied der warmen Jahreszeiten als Gabe dargebracht wurde. Sie steht für die Ernte und die Abendsonne.
+Items/SandySpikeback	Text		Sandy Spikeback	Piaskowy kolczownik	Sand-Stachelrücken
+Items/SandySpikebackDesc	Text		A very defensive fish with sandstone skin and jagged spikes protruding out.	Bardzo defensywna ryba ze skórą z piaskowca i wystającymi, postrzępionymi kolcami.	Ein sehr defensiver Fisch mit Haut aus Sandstein und hervorstehenden schartigen Stacheln.
 Items/SantaHelm	Text		Festive Hat		Festliche Mütze
 Items/SantaHelmDesc	Text		A warm, soft hat to keep ones ears warm in the cold season. You can't get around wearing one of those in winter.		Eine warme, weiche Mütze, um die Ohren in der kalten Jahreszeit warm zu halten. Man kommt zur Winterzeit einfach nicht ohne so eine Mütze aus.
 Items/SantasLittleHelper	Text		Little Helperling		Kleines Helferlein
