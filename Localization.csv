@@ -1546,9 +1546,9 @@ Items/CavelingShamanTrophy	Text		Caveling Shaman Figurine	Figurka jaskiniowego s
 Items/CavelingShamanTrophyDesc	Text		A lifelike representation of a Caveling Shaman.	Realistyczne odwzorowanie jaskiniowego szamana.	Eine lebensechte Nachbildung eines Grottling-Schamanen.
 Items/CavelingSkinTome	Text		Blue Leather Tome	Niebieski skórzany tom	Blauleder-Buch
 Items/CavelingSkinTomeDesc	Text		An ancient book with stitched blue covers. Is that skin?	Starożytna księga z niebieskimi okładkami. Czy to skóra?	Eine uralte Schrift, in zusammengenähtem, blauem Leder eingeschlagen. Ist das Haut?
-Items/CavelingSkirmisher	Text		Caveling Skirmisher	Jaskiniowy potyczkowiec	Grottling-Scharmützler
-Items/CavelingSkirmisherTrophy	Text		Caveling Skirmisher Figurine	Figurka jaskiniowy potyczkowca	Grottling-Scharmützler-Figur
-Items/CavelingSkirmisherTrophyDesc	Text		A lifelike representation of a Caveling Skirmisher.	Realistycznie odwzorowany jaskiniowy potyczkowiec.	Eine lebensechte Nachbildung eines Grottling-Scharmützlers.
+Items/CavelingSkirmisher	Text		Caveling Skirmisher	Jaskiniowy wojownik	Grottling-Scharmützler
+Items/CavelingSkirmisherTrophy	Text		Caveling Skirmisher Figurine	Figurka jaskiniowego wojownika	Grottling-Scharmützler-Figur
+Items/CavelingSkirmisherTrophyDesc	Text		A lifelike representation of a Caveling Skirmisher.	Realistycznie odwzorowany jaskiniowy wojownik.	Eine lebensechte Nachbildung eines Grottling-Scharmützlers.
 Items/CavelingSkull	Text		Caveling Skull	Czaszka jaskiniowca	Grottling-Schädel
 Items/CavelingSkullDesc	Text		Remains of what was once a proud civilization.	Pozostałości po niegdyś dumnej cywilizacji.	Überbleibsel einer einst stolzen Zivilisation.
 Items/CavelingSpearman	Text		Caveling Spearman	Jaskiniowy włócznik	Grottling-Speerkämpfer
@@ -3326,180 +3326,180 @@ Items/SamhainOfferingNecklace	Text		Samhain Offering Necklace	Naszyjnik ofiarny 
 Items/SamhainOfferingNecklaceDesc	Text		A blessed necklace offered as a gift to farewell the warm season. It represents the harvest and the evening sun.	Błogosławiony naszyjnik ofiarowany jako prezent na pożegnanie ciepłej pory roku. Symbolizuje żniwa i wieczorne słońce.	Eine gesegnete Halskette, die zum Abschied der warmen Jahreszeiten als Gabe dargebracht wurde. Sie steht für die Ernte und die Abendsonne.
 Items/SandySpikeback	Text		Sandy Spikeback	Piaskowy kolczownik	Sand-Stachelrücken
 Items/SandySpikebackDesc	Text		A very defensive fish with sandstone skin and jagged spikes protruding out.	Bardzo defensywna ryba ze skórą z piaskowca i wystającymi, postrzępionymi kolcami.	Ein sehr defensiver Fisch mit Haut aus Sandstein und hervorstehenden schartigen Stacheln.
-Items/SantaHelm	Text		Festive Hat		Festliche Mütze
-Items/SantaHelmDesc	Text		A warm, soft hat to keep ones ears warm in the cold season. You can't get around wearing one of those in winter.		Eine warme, weiche Mütze, um die Ohren in der kalten Jahreszeit warm zu halten. Man kommt zur Winterzeit einfach nicht ohne so eine Mütze aus.
-Items/SantasLittleHelper	Text		Little Helperling		Kleines Helferlein
-Items/SantasLittleHelperDesc	Text		A fellow caveling that fits in your backpack but wants to be placed down soon because it's eager to work. It will craft presents in exchange for cooked food, give it rare cooked food for higher quality!		Ein freundlicher Grottling, der in deinen Rucksack passt, aber abgesetzt werden will, um alsbald mit der Arbeit zu beginnen. Im Tausch für eine Mahlzeit produziert er Geschenke; die Qualität der Geschenke steigt, wenn man ihm seltenes Essen anbietet!
-Items/ScarabBossScanner	Text		Ra-Akar the Sand Titan Scanner		Ra-Akar-Scanner
-Items/ScarabBossScannerDesc	Text		Scans the world for Ra-Akar the Sand Titan. Consumed on successful scan.		Scannt die Welt nach Ra-Akar, dem Sandtitanen. Wird bei erfolgreichem Scan verbraucht.
-Items/ScarabBreastArmor	Text		Scarab Harness		Skarabäus-Harnisch
-Items/ScarabBreastArmorDesc	Text		A masterfully crafted upper body armor to endure the dangers of the desert.		Eine meisterhaft geschmiedete Oberkörper-Rüstung, um den Gefahren der Wüste zu begegnen.
-Items/ScarabHelm	Text		Scarab Visor		Skarabäus-Visier
-Items/ScarabHelmDesc	Text		A helm made in the design of Ra-Akar, casting its central eye on your enemies.		Ein Helm im Design von Ra-Akar, der sein zentrales Auge auf deine Feinde richtet.
-Items/ScarabMortar	Text		Bomb Scarab Mortar		Bomben-Skarabäus-Mörser
-Items/ScarabMortarDesc	Text		A powerful weapon launching explosive projectiles that resemble the center eye of a bomb scarab.		Eine leistungsstarke Waffe, die explosive Projektile abfeuert, die dem zentralen Auge eines Bomben-Skarabäus ähneln.
-Items/ScarabPantsArmor	Text		Scarab Legs		Skarabäus-Beinzeug
-Items/ScarabPantsArmorDesc	Text		A lower body armor mimicking the properties of desert critters.		Eine Beinrüstung, die die Eigenschaften von Wüsten-Lebewesen nachahmt.
-Items/ScarabWingcover	Text		Scarab Wingcover		Skarabäus-Flügelpanzer
-Items/ScarabWingcoverDesc	Text		The wing carapace of a Bomb Scarab resembling half a skull.		Die Flügelhülle eines Bomben-Skarabäus, sie sieht wie die Hälfte eines Totenschädels aus.
-Items/ScarletAnvil	Text		Scarlet Anvil		Skarlit-Amboss
-Items/ScarletAnvilDesc	Text		A very advanced anvil for creating supreme equipment.		Ein sehr fortschrittlicher Amboss um bemerkenswerte Ausrüstung herzustellen.
-Items/ScarletBar	Text		Scarlet Bar		Skarlit-Barren
-Items/ScarletBarDesc	Text		A valuable ingot for high-tier blacksmithing.		Ein wertvoller Barren für hochrangiges Schmieden.
-Items/ScarletBreastArmor	Text		Scarlet Breastplate		Skarlit-Brustpanzer
-Items/ScarletBreastArmorDesc	Text		Fierce upper body armor for true warriors.		Furchteinflößende Oberkörper-Rüstung für wahre Krieger.
-Items/ScarletBridge	Text		Scarlet Bridge		Skarlit-Brücke
-Items/ScarletBridgeDesc	Text		Used to cross chasms and water but also makes for a nice floor.		Wird genutzt, um Abgründe und Gewässer zu überqueren, macht sich aber auch gut als Boden.
-Items/ScarletChest	Text		Scarlet Chest		Skarlit-Kiste
-Items/ScarletChestDesc	Text		A sturdy chest made from scarlet. It is not locked anymore.		Eine widerstandsfähige Kiste aus Skarlit. Sie ist nicht mehr verschlossen.
+Items/SantaHelm	Text		Festive Hat	Świąteczna czapka	Festliche Mütze
+Items/SantaHelmDesc	Text		A warm, soft hat to keep ones ears warm in the cold season. You can't get around wearing one of those in winter.	Ciepła, miękka czapka, która ogrzeje uszy w zimnej porze roku. W zimie nie da się ich nie nosić.	Eine warme, weiche Mütze, um die Ohren in der kalten Jahreszeit warm zu halten. Man kommt zur Winterzeit einfach nicht ohne so eine Mütze aus.
+Items/SantasLittleHelper	Text		Little Helperling	Mały pomagier	Kleines Helferlein
+Items/SantasLittleHelperDesc	Text		A fellow caveling that fits in your backpack but wants to be placed down soon because it's eager to work. It will craft presents in exchange for cooked food, give it rare cooked food for higher quality!	Towarzysz jaskiniowiec, który mieści się w twoim plecaku, lecz chce być umieszczony na ziemi, ponieważ jest chętny do pracy. Będzie wytwarzać prezenty w zamian za gotowane jedzenie, daj mu rzadkie gotowane jedzenie, aby uzyskać wyższą jakość!	Ein freundlicher Grottling, der in deinen Rucksack passt, aber abgesetzt werden will, um alsbald mit der Arbeit zu beginnen. Im Tausch für eine Mahlzeit produziert er Geschenke; die Qualität der Geschenke steigt, wenn man ihm seltenes Essen anbietet!
+Items/ScarabBossScanner	Text		Ra-Akar the Sand Titan Scanner	Skaner Ra-Akara Piaskowego Tytana	Ra-Akar-Scanner
+Items/ScarabBossScannerDesc	Text		Scans the world for Ra-Akar the Sand Titan. Consumed on successful scan.	Skanuje świat w poszukiwaniu Ra-Akara, Piaskowego Tytana. Zużywany po udanym skanowaniu.	Scannt die Welt nach Ra-Akar, dem Sandtitanen. Wird bei erfolgreichem Scan verbraucht.
+Items/ScarabBreastArmor	Text		Scarab Harness	Uprząż skarabeusza	Skarabäus-Harnisch
+Items/ScarabBreastArmorDesc	Text		A masterfully crafted upper body armor to endure the dangers of the desert.	Mistrzowsko wykonany pancerz na górną część ciała, pozwalający przetrwać niebezpieczeństwa pustyni.	Eine meisterhaft geschmiedete Oberkörper-Rüstung, um den Gefahren der Wüste zu begegnen.
+Items/ScarabHelm	Text		Scarab Visor	Przyłbica skarabeusza	Skarabäus-Visier
+Items/ScarabHelmDesc	Text		A helm made in the design of Ra-Akar, casting its central eye on your enemies.	Hełm wykonany na wzór Ra-Akara, zwracający centralne oko na wrogów.	Ein Helm im Design von Ra-Akar, der sein zentrales Auge auf deine Feinde richtet.
+Items/ScarabMortar	Text		Bomb Scarab Mortar	Bombowy moździerz skarabeusza	Bomben-Skarabäus-Mörser
+Items/ScarabMortarDesc	Text		A powerful weapon launching explosive projectiles that resemble the center eye of a bomb scarab.	Potężna broń wystrzeliwująca wybuchowe pociski przypominające centralne oko bombowego skarabeusza.	Eine leistungsstarke Waffe, die explosive Projektile abfeuert, die dem zentralen Auge eines Bomben-Skarabäus ähneln.
+Items/ScarabPantsArmor	Text		Scarab Legs	Nogi skarabeusza	Skarabäus-Beinzeug
+Items/ScarabPantsArmorDesc	Text		A lower body armor mimicking the properties of desert critters.	Pancerz dolnej części ciała naśladujący właściwości pustynnych stworzeń.	Eine Beinrüstung, die die Eigenschaften von Wüsten-Lebewesen nachahmt.
+Items/ScarabWingcover	Text		Scarab Wingcover	Osłonka skrzydeł skarabeusza	Skarabäus-Flügelpanzer
+Items/ScarabWingcoverDesc	Text		The wing carapace of a Bomb Scarab resembling half a skull.	Pancerz skrzydłowy skarabeusza przypominający połowę czaszki.	Die Flügelhülle eines Bomben-Skarabäus, sie sieht wie die Hälfte eines Totenschädels aus.
+Items/ScarletAnvil	Text		Scarlet Anvil	Szkarłatne kowadło	Skarlit-Amboss
+Items/ScarletAnvilDesc	Text		A very advanced anvil for creating supreme equipment.	Bardzo zaawansowane kowadło do tworzenia doskonałego wyposażenia.	Ein sehr fortschrittlicher Amboss um bemerkenswerte Ausrüstung herzustellen.
+Items/ScarletBar	Text		Scarlet Bar	Sztabka szkarłatu	Skarlit-Barren
+Items/ScarletBarDesc	Text		A valuable ingot for high-tier blacksmithing.	Cenna sztabka do kowalstwa wysokiego poziomu.	Ein wertvoller Barren für hochrangiges Schmieden.
+Items/ScarletBreastArmor	Text		Scarlet Breastplate	Szkarłatny napierśnik	Skarlit-Brustpanzer
+Items/ScarletBreastArmorDesc	Text		Fierce upper body armor for true warriors.	Zaciekła zbroja dla prawdziwych wojowników.	Furchteinflößende Oberkörper-Rüstung für wahre Krieger.
+Items/ScarletBridge	Text		Scarlet Bridge	Szkarłatny most	Skarlit-Brücke
+Items/ScarletBridgeDesc	Text		Used to cross chasms and water but also makes for a nice floor.	Używany do przekraczania przepaści i wody, ale także jako ładna podłoga.	Wird genutzt, um Abgründe und Gewässer zu überqueren, macht sich aber auch gut als Boden.
+Items/ScarletChest	Text		Scarlet Chest	Szkarłatna skrzynia	Skarlit-Kiste
+Items/ScarletChestDesc	Text		A sturdy chest made from scarlet. It is not locked anymore.	Wytrzymała skrzynia wykonana ze szkarłatu. Nie jest już zamknięta.	Eine widerstandsfähige Kiste aus Skarlit. Sie ist nicht mehr verschlossen.
 Items/ScarletChunkNecklace	Text		Scarlet Chunk Necklace	Naszyjnik z szkarłatnych odłamków	Skarlitklotz-Halskette
 Items/ScarletChunkNecklaceDesc	Text		The scarlet variant of an iron chunk necklace. It raises your defense even more and gives additional benefits.	Szkarłatny wariant żelaznego naszyjnika. Jeszcze bardziej zwiększa obronę i zapewnia dodatkowe korzyści.	Die Skarlit-Variante einer Eisenklotz-Halskette. Sie verstärkt deine Abwehr noch mehr und verleiht zusätzliche Unterstützung.
-Items/ScarletCrossbow	Text		Scarlet Crossbow		Skarlit-Armbrust
-Items/ScarletCrossbowDesc	Text		A heavy metallic crossbow that shoots potent bolts.		Eine schwere metallene Armbrust, die wirksame Pfeile verschießt.
-Items/ScarletDagger	Text		Scarlet Dagger		Skarlit-Klinge
-Items/ScarletDaggerDesc	Text		This wavy, crimson dagger pierces through most materials.		Dieser geschwungene, blutrote Dolch durchsticht die meisten Materialien.
-Items/ScarletDoor	Text		Scarlet Door		Skarlit-Tür
-Items/ScarletDoorDesc	Text		A reinforced door to shut out anyone uninvited.		Eine verstärkte Tür, um ungebetene Gäste auszuschließen.
-Items/ScarletFence	Text		Scarlet Fence		Skarlit-Zaun
-Items/ScarletFenceDesc	Text		A reinforced metal fence to protect what's rightfully yours.		Ein verstärkter Metallzaun, um zu schützen, was rechtens dir gehört.
-Items/ScarletFenceGate	Text		Scarlet Fence Gate		Skarlit-Zauntor
-Items/ScarletFenceGateDesc	Text		A tough metal gate for the scarlet fence.		Ein festes Metalltor für den Skarlit-Zaun.
-Items/ScarletFishingRod	Text		Scarlet Fishing Rod		Skarlit-Angel
-Items/ScarletFishingRodDesc	Text		A great tool for pulling up very resistant fish.		Ein großartiges Werkzeug, um sehr widerstrebende Fische an Land zu ziehen.
-Items/ScarletFloor	Text		Scarlet Floor		Skarlit-Boden
-Items/ScarletFloorDesc	Text		A reinforced metal floor tile with a nice crimson alloy.		Eine verstärkte Metall-Bodenfliese mit einer hochroten Legierung.
-Items/ScarletHelm	Text		Scarlet Helm		Skarlit-Helm
-Items/ScarletHelmDesc	Text		Menacing-looking horned helm, fits perfectly with the rest of the set.		Bedrohlich wirkender, gehörnter Helm, passt perfekt zum Rest des Sets.
-Items/ScarletHoe	Text		Scarlet Hoe		Skarlit-Hacke
-Items/ScarletHoeDesc	Text		An excellent tool to prepare ground for farming. Each hit covers an area of 5x5 tiles.		Ein exzellentes Werkzeug, um Böden für den Anbau vorzubereiten. Hat einen 5x5-Flächenradius.
-Items/ScarletKey	Text		Scarlet Key		Skarlit-Schlüssel
-Items/ScarletKeyDesc	Text		A sturdy key cast in scarlet. There should be a lock somewhere that it fits into.		Ein widerstandsfähiger, in Skarlit gegossener Schlüssel. Es muss irgendwo ein Schloss geben, in das er passt.
-Items/ScarletMiningPick	Text		Scarlet Pickaxe		Skarlit-Spitzhacke
-Items/ScarletMiningPickDesc	Text		A great tool for breaking down extremely hard walls.		Ein großartiges Werkzeug, um extrem harte Wände zu zerstören.
-Items/ScarletOre	Text		Scarlet Ore		Skarliterz
-Items/ScarletOreBoulder	Text		Scarlet Ore Boulder		Skarlit-Erzblock
-Items/ScarletOreDesc	Text		Scarlet ore commonly found in grass walls.		Blutrotes Erz, das häufig in Gras-Wänden gefunden wird.
-Items/ScarletPantsArmor	Text		Scarlet Pants		Skarlit-Beinrüstung
-Items/ScarletPantsArmorDesc	Text		March through your enemies and don't look back.		Marschiere durch deine Feinde und blicke nicht zurück.
-Items/ScarletShellBackpack	Text		Scarlet Shell Backpack		Skarlit-Panzerrucksack
-Items/ScarletShellBackpackDesc	Text		A hard-case backpack with lots of space and additional protection.		Ein Hartschalen-Rucksack mit viel Platz und zusätzlichem Schutz.
-Items/ScarletShovel	Text		Scarlet Shovel		Skarlit-Schaufel
-Items/ScarletShovelDesc	Text		A very robust shovel, exceptional at digging up ground.		Eine sehr robuste Schaufel. Eignet sich überragend gut, um Böden zu entfernen.
-Items/ScarletSledge	Text		Scarlet Sledge Hammer		Skarlit-Hammer
-Items/ScarletSledgeDesc	Text		A great weapon for smashing foes and walls.		Eine großartige Waffe, um Widersacher zu erschlagen und Wände zu zertrümmern.
-Items/ScarletSword	Text		Scarlet Sword		Skarlit-Schwert
-Items/ScarletSwordDesc	Text		A great weapon for slaying foes.		Eine großartige Waffe, um Widersacher niederzustrecken.
-Items/ScarletWorkBench	Text		Scarlet Workbench		Skarlit-Werkbank
-Items/ScarletWorkBenchDesc	Text		Greater workbench to be prepared for the outer cave systems.		Eine bessere Werkbank, um sich auf die äußeren Höhlensysteme vorzubereiten.
-Items/ScholarArmor	Text		Scholar's Cloak		Gelehrten-Mantel
-Items/ScholarArmorDesc	Text		A magically-imbued piece of cloth, worn by caveling scholars. Wearing it you feel in tune with the ancients.		Ein magisch aufgeladenes Stück Stoff, getragen von Grottling-Gelehrten. Wenn du es trägst, fühlst du dich im Einklang mit den Alten.
-Items/ScholarHelm	Text		Scholar's Hood		Gelehrten-Kapuze
-Items/ScholarHelmDesc	Text		A strange hood made from white linen and gold, in its shade you feel more intelligent than usual.		Eine merkwürdige Kapuze aus weißem Leinenstoff und Gold. In seinem Schatten fühlst du dich intelligenter als üblich.
-Items/ScholarStaff	Text		Scholar's Staff		Gelehrten-Stab
-Items/ScholarStaffDesc	Text		A magical staff wielded by caveling scholars that utilizes an ancient gemstone to produce powerful bolts of energy.		Ein magischer Stab, der von Grottling-Gelehrten geführt wird. Er enthält einen Antiken Edelstein, der mächtige Energie-Projektile erzeugt.
-Items/ScholarTrophy	Text		Caveling Scholar Figurine		Grottling-Gelehrter-Figur
-Items/ScholarTrophyDesc	Text		A lifelike representation of a caveling scholar.		Eine lebensechte Nachbildung eines Grottling-Gelehrten.
-Items/ScrapPart	Text	Should be in plural as the ingame icon shows several parts	Scrap Parts		Schrottteile
-Items/ScrapPartDesc	Text		Different materials salvaged from junk. Used to repair items at the salvage and repair station.		Verschiedene Materialien, die aus Schrott gewonnen wurden. Werden an der Abwrack- & Reparatur-Station verwendet, um Gegenstände zu reparieren.
-Items/ScreenDevice	Text		Screen Device		Bildschirm-Gerät
-Items/ScreenDeviceDesc	Text		A small device made from blue glass, perfectly fitting into your hand. It's touch sensitive and scrolls through images and glyphs.		Ein kleines Gerät aus blauem Glas, das perfekt in deine Hand passt. Es reagiert auf Berührungen und man kann durch seltsame Bilder und Glyphen scrollen.
-Items/SeaBiomeChest	Text		Seashell Chest		Seemuschel-Kiste
-Items/SeaFoamRing	Text		Sea Foam Ring		Seeschaum-Ring
-Items/SeaFoamRingDesc	Text		A translucent ring that looks like a wave frozen in time.		Ein durchscheinender Ring, der an eine in der Zeit erstarrte Welle erinnert.
-Items/SeaGemstone	Text		Ocean Sapphire		Ozean-Saphir
-Items/SeaGemstoneDesc	Text		An azure gemstone rarely found in aquatic regions. Its special properties allow it to be used for higher quality crafting.		Ein azurfarbener Edelstein, der manchmal in aquatischen Gebieten gefunden werden kann. Seine besonderen Eigenheiten lassen ihn bei der Herstellung hochwertiger Produkte zum Einsatz kommen.
-Items/SeaShell	Text		Sea Shell		Muschel
-Items/SeaShellDesc	Text		A strange shell with a silky-smooth surface.		Eine seltsame Muschel mit einer seidenglatten Oberfläche.
-Items/SeaWoodenDestructible	Text		Driftwood Wooden Crate		Treibholzkiste
-Items/SeaWoodenDestructibleDesc	Text		This box has been created from driftwood and is bleached by light from above.		Dieser Behälter aus Treibholz ist durch stetes Licht von oben ausgeblichen.
-Items/SealedBeverage	Text		Sealed Beverage		Versiegeltes Getränk
-Items/SealedBeverageDesc	Text		An unknown liquid slushes inside when shaken. Is there an ancient corkscrew around?		Eine unbekannte Flüssigkeit plätschert im Inneren. Gibt es hier irgendwo einen antiken Korkenzieher?
-Items/SeasonalMerchant	Text		Seasonal Merchant		Saisonaler Händler
-Items/SeismicClock	Text		Seismic Clock		Seismische Uhr
-Items/SeismicClockDesc	Text		This broken device looks like it was able to predict earthquakes.		Ein kaputtes Gerät, das anscheinend Erdbeben vorhersagen konnte.
-Items/SentryNutcracker	Text		Sentry Nutcracker		Nussknacker-Wache
-Items/SentryNutcrackerDesc	Text		A little nutcracker shaped after a core sentry in festive garment. Sadly there are no nuts around to be cracked.		Ein kleiner Nussknacker, der wie eine Kernwache in festlichem Gewand aussieht. Leider gibt es hier keine Nüsse, die geknackt werden können.
-Items/SeptumRing	Text		Septum Ring		Septum-Ring
-Items/SeptumRingDesc	Text		A golden piece of jewelry that's not put onto the finger but rather on the nose.		Ein goldenes Schmuckstück, das nicht am Finger, sondern in der Nase getragen wird.
-Items/ShamanBossCrystalShard	Text		Crystal Skull Shard		Kristallschädel-Splitter
-Items/ShamanBossCrystalShardDesc	Text		An ancient crystal shard that is only the fraction of something bigger.		Ein antiker Kristallsplitter, der nur ein Bruchteil von etwas Größerem ist.
-Items/ShamanBossSummoningItem	Text		Skull of the Corrupted Shaman		Schädel des Korrupten Schamanen
-Items/ShamanBossSummoningItemDesc	Text		A reforged crystal skull that whispers ancient chants. It urges you to place it on the throne room sigil.		Ein wiederhergestellter Kristallschädel, der uralte Gesänge flüstert. Er drängt dich dazu, ihn auf der Thronraum-Rune zu platzieren.
-Items/ShamanHelm	Text		Shaman Skull		Schamanenschädel
-Items/ShamanHelmDesc	Text		A skull covered in ritualistic markings. Its burning eye sockets ignite a fiery fury in you.		Ein Schädel mit rituellen Markierungen. Seine flammenden Augenhöhlen lassen eine feurige Wut in dir aufkeimen.
-Items/ShardClub	Text		Crystal Shard Club		Kristallsplitter-Keule
-Items/ShardClubDesc	Text		This bludgeoning weapon is made from fragile crystal, that can send out splinters when swung.		Diese Knüppelwaffe ist aus zerbrechlichem Kristall, der beim Schwingen Splitter fliegen lässt.
-Items/SharkTooth	Text		Shark Tooth		Haizahn
-Items/SharkToothDesc	Text		It's as big as the palm of a hand, meeting with a row of those will end up fatal.		Er ist so groß wie deine Handfläche. Einer ganzen Reihe von diesen zu begegnen wäre ein sicheres Todesurteil.
-Items/SignArrow	Text		Arrow Sign		Richtungsschild
-Items/SignArrowDesc	Text		Don’t know where to go? Just look at it!		Keine Ahnung wo’s lang geht? Einfach draufschauen!
-Items/SignBrute	Text		Brute Sign		Schläger-Schild
+Items/ScarletCrossbow	Text		Scarlet Crossbow	Szkarłatna kusza	Skarlit-Armbrust
+Items/ScarletCrossbowDesc	Text		A heavy metallic crossbow that shoots potent bolts.	Ciężka metalowa kusza strzelająca potężnymi strzałami.	Eine schwere metallene Armbrust, die wirksame Pfeile verschießt.
+Items/ScarletDagger	Text		Scarlet Dagger	Szkarłatny sztylet	Skarlit-Klinge
+Items/ScarletDaggerDesc	Text		This wavy, crimson dagger pierces through most materials.	Ten szkarłatny sztylet przebija się przez większość materiałów.	Dieser geschwungene, blutrote Dolch durchsticht die meisten Materialien.
+Items/ScarletDoor	Text		Scarlet Door	Szkarłatne drzwi	Skarlit-Tür
+Items/ScarletDoorDesc	Text		A reinforced door to shut out anyone uninvited.	Wzmocnione drzwi chroniące przed nieproszonymi gośćmi.	Eine verstärkte Tür, um ungebetene Gäste auszuschließen.
+Items/ScarletFence	Text		Scarlet Fence	Szkarłatne ogrodzenie	Skarlit-Zaun
+Items/ScarletFenceDesc	Text		A reinforced metal fence to protect what's rightfully yours.	Wzmocnione metalowe ogrodzenie chroniące to, co należy do ciebie.	Ein verstärkter Metallzaun, um zu schützen, was rechtens dir gehört.
+Items/ScarletFenceGate	Text		Scarlet Fence Gate	Szkarłatna furtka	Skarlit-Zauntor
+Items/ScarletFenceGateDesc	Text		A tough metal gate for the scarlet fence.	Wytrzymała metalowa brama przeznaczona do szkarłatnego ogrodzenia.	Ein festes Metalltor für den Skarlit-Zaun.
+Items/ScarletFishingRod	Text		Scarlet Fishing Rod	Szkarłatna wędka	Skarlit-Angel
+Items/ScarletFishingRodDesc	Text		A great tool for pulling up very resistant fish.	Świetne narzędzie do wyławiania bardzo opornych ryb.	Ein großartiges Werkzeug, um sehr widerstrebende Fische an Land zu ziehen.
+Items/ScarletFloor	Text		Scarlet Floor	Szkarłatna podłoga	Skarlit-Boden
+Items/ScarletFloorDesc	Text		A reinforced metal floor tile with a nice crimson alloy.	Wzmocniona metalowa płytka podłogowa z ładnym karmazynowym stopem.	Eine verstärkte Metall-Bodenfliese mit einer hochroten Legierung.
+Items/ScarletHelm	Text		Scarlet Helm	Szkarłatny hełm	Skarlit-Helm
+Items/ScarletHelmDesc	Text		Menacing-looking horned helm, fits perfectly with the rest of the set.	Groźnie wyglądający hełm z rogami, idealnie pasujący do reszty zestawu.	Bedrohlich wirkender, gehörnter Helm, passt perfekt zum Rest des Sets.
+Items/ScarletHoe	Text		Scarlet Hoe	Szkarłatna motyka	Skarlit-Hacke
+Items/ScarletHoeDesc	Text		An excellent tool to prepare ground for farming. Each hit covers an area of 5x5 tiles.	Doskonałe narzędzie do przygotowania ziemi pod uprawę. Każde uderzenie pokrywa obszar 5x5 pól.	Ein exzellentes Werkzeug, um Böden für den Anbau vorzubereiten. Hat einen 5x5-Flächenradius.
+Items/ScarletKey	Text		Scarlet Key	Szkarłatny klucz	Skarlit-Schlüssel
+Items/ScarletKeyDesc	Text		A sturdy key cast in scarlet. There should be a lock somewhere that it fits into.	Solidny klucz odlany ze szkarłatu. Powinien być gdzieś zamek, do którego pasuje.	Ein widerstandsfähiger, in Skarlit gegossener Schlüssel. Es muss irgendwo ein Schloss geben, in das er passt.
+Items/ScarletMiningPick	Text		Scarlet Pickaxe	Szkarłatny kilof	Skarlit-Spitzhacke
+Items/ScarletMiningPickDesc	Text		A great tool for breaking down extremely hard walls.	Świetne narzędzie do kruszenia bardzo twardych ścian.	Ein großartiges Werkzeug, um extrem harte Wände zu zerstören.
+Items/ScarletOre	Text		Scarlet Ore	Ruda szkarłatu	Skarliterz
+Items/ScarletOreBoulder	Text		Scarlet Ore Boulder	Głaz rudy szkarłatu	Skarlit-Erzblock
+Items/ScarletOreDesc	Text		Scarlet ore commonly found in grass walls.	Ruda szkarłatu często znajdowana w ścianach trawy.	Blutrotes Erz, das häufig in Gras-Wänden gefunden wird.
+Items/ScarletPantsArmor	Text		Scarlet Pants	Szkarłatne spodnie	Skarlit-Beinrüstung
+Items/ScarletPantsArmorDesc	Text		March through your enemies and don't look back.	Maszeruj przez wrogów i nie oglądaj się za siebie.	Marschiere durch deine Feinde und blicke nicht zurück.
+Items/ScarletShellBackpack	Text		Scarlet Shell Backpack	Szkarłatny plecak	Skarlit-Panzerrucksack
+Items/ScarletShellBackpackDesc	Text		A hard-case backpack with lots of space and additional protection.	Wytrzymały plecak z dużą ilością miejsca i dodatkową ochroną.	Ein Hartschalen-Rucksack mit viel Platz und zusätzlichem Schutz.
+Items/ScarletShovel	Text		Scarlet Shovel	Szkarłatna łopata	Skarlit-Schaufel
+Items/ScarletShovelDesc	Text		A very robust shovel, exceptional at digging up ground.	Bardzo solidna łopata, doskonała do kopania ziemi.	Eine sehr robuste Schaufel. Eignet sich überragend gut, um Böden zu entfernen.
+Items/ScarletSledge	Text		Scarlet Sledge Hammer	Szkarłatny młot	Skarlit-Hammer
+Items/ScarletSledgeDesc	Text		A great weapon for smashing foes and walls.	Świetna broń do rozbijania wrogów i ścian.	Eine großartige Waffe, um Widersacher zu erschlagen und Wände zu zertrümmern.
+Items/ScarletSword	Text		Scarlet Sword	Szkarłatny miecz	Skarlit-Schwert
+Items/ScarletSwordDesc	Text		A great weapon for slaying foes.	Świetna broń do zabijania wrogów.	Eine großartige Waffe, um Widersacher niederzustrecken.
+Items/ScarletWorkBench	Text		Scarlet Workbench	Szkarłatny stół warsztatowy	Skarlit-Werkbank
+Items/ScarletWorkBenchDesc	Text		Greater workbench to be prepared for the outer cave systems.	Wspaniały stół warsztatowy przygotowujący do pracy w zewnętrznych systemach jaskiń.	Eine bessere Werkbank, um sich auf die äußeren Höhlensysteme vorzubereiten.
+Items/ScholarArmor	Text		Scholar's Cloak	Płaszcz uczonego	Gelehrten-Mantel
+Items/ScholarArmorDesc	Text		A magically-imbued piece of cloth, worn by caveling scholars. Wearing it you feel in tune with the ancients.	Magicznie nasycony kawałek materiału, noszony przez uczonych jaskiniowców. Nosząc go, czujesz się w zgodzie ze starożytnymi.	Ein magisch aufgeladenes Stück Stoff, getragen von Grottling-Gelehrten. Wenn du es trägst, fühlst du dich im Einklang mit den Alten.
+Items/ScholarHelm	Text		Scholar's Hood	Kaptur uczonego	Gelehrten-Kapuze
+Items/ScholarHelmDesc	Text		A strange hood made from white linen and gold, in its shade you feel more intelligent than usual.	Dziwny kaptur wykonany z białego lnu i złota. W jego cieniu czujesz się bardziej inteligentny niż zwykle.	Eine merkwürdige Kapuze aus weißem Leinenstoff und Gold. In seinem Schatten fühlst du dich intelligenter als üblich.
+Items/ScholarStaff	Text		Scholar's Staff	Laska uczonego	Gelehrten-Stab
+Items/ScholarStaffDesc	Text		A magical staff wielded by caveling scholars that utilizes an ancient gemstone to produce powerful bolts of energy.	Magiczna laska używana przez uczonych jaskiniowców, która wykorzystuje starożytny kamień szlachetny do wytwarzania potężnych pocisków energii.	Ein magischer Stab, der von Grottling-Gelehrten geführt wird. Er enthält einen Antiken Edelstein, der mächtige Energie-Projektile erzeugt.
+Items/ScholarTrophy	Text		Caveling Scholar Figurine	Figurka uczonego jaskiniowca	Grottling-Gelehrter-Figur
+Items/ScholarTrophyDesc	Text		A lifelike representation of a caveling scholar.	Realistycznie odwzorowany uczony jaskiniowiec.	Eine lebensechte Nachbildung eines Grottling-Gelehrten.
+Items/ScrapPart	Text	Should be in plural as the ingame icon shows several parts	Scrap Parts	Części złomu	Schrottteile
+Items/ScrapPartDesc	Text		Different materials salvaged from junk. Used to repair items at the salvage and repair station.	Różne materiały uzyskane ze złomu. Są używane w stacji odzysku i naprawy do naprawy przedmiotów.	Verschiedene Materialien, die aus Schrott gewonnen wurden. Werden an der Abwrack- & Reparatur-Station verwendet, um Gegenstände zu reparieren.
+Items/ScreenDevice	Text		Screen Device	Urządzenia z ekranem	Bildschirm-Gerät
+Items/ScreenDeviceDesc	Text		A small device made from blue glass, perfectly fitting into your hand. It's touch sensitive and scrolls through images and glyphs.	Małe urządzenie wykonane z niebieskiego szkła, idealnie pasujące do dłoni. Jest czułe na dotyk i umożliwia przewijanie przez obrazy i glify.	Ein kleines Gerät aus blauem Glas, das perfekt in deine Hand passt. Es reagiert auf Berührungen und man kann durch seltsame Bilder und Glyphen scrollen.
+Items/SeaBiomeChest	Text		Seashell Chest	Muszelkowa skrzynia	Seemuschel-Kiste
+Items/SeaFoamRing	Text		Sea Foam Ring	Pierścień morskiej piany	Seeschaum-Ring
+Items/SeaFoamRingDesc	Text		A translucent ring that looks like a wave frozen in time.	Półprzezroczysty pierścień, który wygląda jak fala zamrożona w czasie.	Ein durchscheinender Ring, der an eine in der Zeit erstarrte Welle erinnert.
+Items/SeaGemstone	Text		Ocean Sapphire	Oceaniczny szafir	Ozean-Saphir
+Items/SeaGemstoneDesc	Text		An azure gemstone rarely found in aquatic regions. Its special properties allow it to be used for higher quality crafting.	Lazurowy kamień szlachetny rzadko spotykany w regionach wodnych. Jego specjalne właściwości pozwalają na wykorzystanie go w rzemiośle wyższej jakości.	Ein azurfarbener Edelstein, der manchmal in aquatischen Gebieten gefunden werden kann. Seine besonderen Eigenheiten lassen ihn bei der Herstellung hochwertiger Produkte zum Einsatz kommen.
+Items/SeaShell	Text		Sea Shell	Muszla morska	Muschel
+Items/SeaShellDesc	Text		A strange shell with a silky-smooth surface.	Dziwna muszla o jedwabiście gładkiej powierzchni.	Eine seltsame Muschel mit einer seidenglatten Oberfläche.
+Items/SeaWoodenDestructible	Text		Driftwood Wooden Crate	Pudło z dryfującego drewna	Treibholzkiste
+Items/SeaWoodenDestructibleDesc	Text		This box has been created from driftwood and is bleached by light from above.	Te pudło wykonano z dryfującego drewna i jest wybielane przez światło padające z góry.	Dieser Behälter aus Treibholz ist durch stetes Licht von oben ausgeblichen.
+Items/SealedBeverage	Text		Sealed Beverage	Zapieczętowany trunek	Versiegeltes Getränk
+Items/SealedBeverageDesc	Text		An unknown liquid slushes inside when shaken. Is there an ancient corkscrew around?	Nieznany płyn wylewa się z wnętrza po wstrząśnięciu. Czy w pobliżu znajduje się starożytny korkociąg?	Eine unbekannte Flüssigkeit plätschert im Inneren. Gibt es hier irgendwo einen antiken Korkenzieher?
+Items/SeasonalMerchant	Text		Seasonal Merchant	Handlarz sezonowy	Saisonaler Händler
+Items/SeismicClock	Text		Seismic Clock	Zegar sejsmiczny	Seismische Uhr
+Items/SeismicClockDesc	Text		This broken device looks like it was able to predict earthquakes.	To zepsute urządzenie wygląda, jakby było w stanie przewidywać trzęsienia ziemi.	Ein kaputtes Gerät, das anscheinend Erdbeben vorhersagen konnte.
+Items/SentryNutcracker	Text		Sentry Nutcracker	Strażnik do orzechów	Nussknacker-Wache
+Items/SentryNutcrackerDesc	Text		A little nutcracker shaped after a core sentry in festive garment. Sadly there are no nuts around to be cracked.	Mały dziadek do orzechów w kształcie strażnika rdzenia w świątecznej szacie. Niestety w pobliżu nie ma żadnych orzechów do rozbicia.	Ein kleiner Nussknacker, der wie eine Kernwache in festlichem Gewand aussieht. Leider gibt es hier keine Nüsse, die geknackt werden können.
+Items/SeptumRing	Text		Septum Ring	Pierścień nosowy	Septum-Ring
+Items/SeptumRingDesc	Text		A golden piece of jewelry that's not put onto the finger but rather on the nose.	Złota biżuteria, której nie zakłada się na palec, lecz na nos.	Ein goldenes Schmuckstück, das nicht am Finger, sondern in der Nase getragen wird.
+Items/ShamanBossCrystalShard	Text		Crystal Skull Shard	Odłamek kryształowej czaszki	Kristallschädel-Splitter
+Items/ShamanBossCrystalShardDesc	Text		An ancient crystal shard that is only the fraction of something bigger.	Starożytny odłamek kryształu, który jest tylko częścią czegoś większego.	Ein antiker Kristallsplitter, der nur ein Bruchteil von etwas Größerem ist.
+Items/ShamanBossSummoningItem	Text		Skull of the Corrupted Shaman	Czaszka skażonego szamana	Schädel des Korrupten Schamanen
+Items/ShamanBossSummoningItemDesc	Text		A reforged crystal skull that whispers ancient chants. It urges you to place it on the throne room sigil.	Poddana rekonstrukcji kryształowa czaszka, która szepcze starożytne pieśni. Zachęca do umieszczenia jej na symbolu sali tronowej.	Ein wiederhergestellter Kristallschädel, der uralte Gesänge flüstert. Er drängt dich dazu, ihn auf der Thronraum-Rune zu platzieren.
+Items/ShamanHelm	Text		Shaman Skull	Czaszka Szamana	Schamanenschädel
+Items/ShamanHelmDesc	Text		A skull covered in ritualistic markings. Its burning eye sockets ignite a fiery fury in you.	Czaszka pokryta rytualnymi znakami. Jej płonące oczodoły rozpalają w tobie ognistą furię.	Ein Schädel mit rituellen Markierungen. Seine flammenden Augenhöhlen lassen eine feurige Wut in dir aufkeimen.
+Items/ShardClub	Text		Crystal Shard Club	Maczuga kryształowych odłamków	Kristallsplitter-Keule
+Items/ShardClubDesc	Text		This bludgeoning weapon is made from fragile crystal, that can send out splinters when swung.	Ta broń obuchowa jest wykonana z kruchego kryształu, który może rozsyłać odłamki podczas zamachu.	Diese Knüppelwaffe ist aus zerbrechlichem Kristall, der beim Schwingen Splitter fliegen lässt.
+Items/SharkTooth	Text		Shark Tooth	Ząb rekina	Haizahn
+Items/SharkToothDesc	Text		It's as big as the palm of a hand, meeting with a row of those will end up fatal.	Jest tak duży jak dłoń, spotkanie z jednym z nich zakończy się śmiercią.	Er ist so groß wie deine Handfläche. Einer ganzen Reihe von diesen zu begegnen wäre ein sicheres Todesurteil.
+Items/SignArrow	Text		Arrow Sign	Znak strzałki	Richtungsschild
+Items/SignArrowDesc	Text		Don’t know where to go? Just look at it!	Nie wiesz, gdzie iść? Wystarczy na niego spojrzeć!	Keine Ahnung wo’s lang geht? Einfach draufschauen!
+Items/SignBrute	Text		Brute Sign	Znak brutala	Schläger-Schild
 Items/SignBruteDesc	Text		"Someone put all their artistic efforts into painting this sign and left it as a warning.
-Caveling Brutes or worse ahead."		"Jemand hat all sein künstlerisches Talent in die Gestaltung dieses Schildes gesteckt und es als Warnung hinterlassen.
+Caveling Brutes or worse ahead."	Ktoś włożył cały swój artystyczny wysiłek w namalowanie tego znaku i zostawił go jako ostrzeżenie. Przed jaskiniowymi brutalami lub czymś gorszym.	"Jemand hat all sein künstlerisches Talent in die Gestaltung dieses Schildes gesteckt und es als Warnung hinterlassen.
 Grottling-Schläger oder Schlimmeres voraus."
-Items/SignSkull	Text		Skull Effigy		Schädel-Schild
-Items/SignSkullDesc	Text		There is no clearer warning than a skull on a stake. Better keep out.		Es gibt keine deutlichere Warnung als ein Schädel auf einem Pfahl. Lieber nicht betreten.
-Items/SignText	Text		Sign		Schild
-Items/SignTextDesc	Text		The best way to leave messages for everyone to see.		Die beste Möglichkeit, um Nachrichten für jedermann zu hinterlassen.
-Items/SignTextMetropolis	Text		Metropolis Sign		Metropolis-Schild
-Items/SignTextMetropolisDesc	Text		A modern message sign that can be programmed to display information.		Ein modernes Nachrichten-Schild, das darauf programmiert werden kann, Informationen anzuzeigen.
-Items/SilverTorrentDart	Text		Silver Dart		Silberpfeil
-Items/SilverTorrentDartDesc	Text		This elusive fish appears in swarms as a spectacle of blinking silver to confuse predators.		Ein scheuer Fisch, der nur in Schwärmen auftaucht. Dadurch entsteht ein Wirbel aus blinkendem Silber, der Feinde verwirrt.
-Items/SingingCrystal	Text		Singing Crystal		Singender Kristall
-Items/SingingCrystalDesc	Text		Due to its shape, this naturally formed crystal rings with a harmonic frequency when struck.		Aufgrund seiner Form erzeugt dieser natürlich entstandene Kristall beim Anschlagen eine harmonische Frequenz.
-Items/SkeletonPedestal	Text		Deceased Explorer		Verstorbener Entdecker
-Items/SkeletonPedestal2	Text		Skeleton Decor		Skelett-Dekoration
-Items/SkeletonPedestal2Desc	Text		"A spooky scary skeleton made from cheap plastic. Perfect to ""liven"" up any room."		Ein gespenstisch gruseliges Skelett aus billigem Plastik. Perfekt, um das Raumambiente „aufleben“ zu lassen.
-Items/SkeletonPedestalDesc	Text		The remains of a fellow explorer who wasn't as lucky as you. Funnily enough he can still fit hats onto his pale skull, that's at least something.		Die Überreste eines Entdeckers, der nicht so viel Glück hatte wie du. Lustigerweise kann man ihm trotzdem noch Hüte auf den bleichen Schädel setzen – das ist doch auch was.
-Items/SkirmisherHelm	Text		Skirmisher Cap		Scharmützler-Kappe
-Items/SkirmisherHelmDesc	Text		A headpiece worn by caveling skirmishers which has been cobbled together with larvaskin, leaves and dirty cloth.		Ein Kopfstück, welches von Grottling-Scharmützlern getragen und aus Larvenhaut, Blättern und dreckigen Stofffetzen zusammengeschustert wird.
-Items/SkullNecklace	Text		Skull Necklace		Schädel-Halskette
-Items/SkullNecklaceDesc	Text		A morbid necklace made from tiny caveling skulls. They're too small to have been children.		Eine morbide Halskette, gemacht aus winzigen Grottling-Schädeln. Sie sind zu klein, um von Kindern zu stammen.
-Items/SkullRing	Text		Skull Ring		Schädel-Ring
-Items/SkullRingDesc	Text		A grotesque blood-red ring, crested with a tiny caveling skull.		Ein grotesker, blutroter Ring, gekrönt mit einem winzigen Grottling-Schädel.
-Items/SkyRing	Text		Sky Ring		Himmelsring
-Items/SkyRingDesc	Text		This ring reminds you of the wide open sky.		Dieser Ring erinnert dich an den großen, weiten Himmel.
-Items/Slime	Text		Slime		Schleim
-Items/SlimeBlob	Text		Orange Slime		Orangeschleim
-Items/SlimeBossCrystal	Text		Glurch Eye		Glurchs Auge
-Items/SlimeBossCrystalDesc	Text		A bulbous gemstone that fused many slimes together into a giant one.		Ein knolliger Antiker Edelstein, der viele kleine Schleime zu einem Großen vereinte.
-Items/SlimeBossSummoningItem	Text		Giant Slime Summoning Idol		Großschleim-Beschwörungsstein
-Items/SlimeBossSummoningItemDesc	Text		Crystal idol to reawaken a Giant Slime. Consumed upon placing it on any Giant Slime summoning rune.		Ein Kristall-Abbild, um einen Großschleim neu zu erwecken. Wird beim Platzieren auf einer Großschleim-Beschwörungsrune verbraucht.
-Items/SlimeBreastArmor	Text		Slime Armor		Schleimrüstung
-Items/SlimeBreastArmorDesc	Text		A gelatinous upper body armor that looks like someone dumped a bucket of goo onto you.		Eine glibberige Oberkörper-Rüstung, die so aussieht, als hätte jemand einen Eimer Schleim über dir ausgekippt.
-Items/SlimeDesc	Text		An orange blob of slime. Can be further processed.		Ein orangefarbener Klumpen Schleim. Kann weiterverarbeitet werden.
-Items/SlimeDestructLarge	Text		Large Slime Vessel		Großes Schleimgefäß
-Items/SlimeDestructMedium	Text		Medium Slime Vessel		Mittelgroßes Schleimgefäß
-Items/SlimeDestructSmall	Text		Small Slime Vessel		Kleines Schleimgefäß
-Items/SlimeHelm	Text		Slime Helm		Schleimhelm
-Items/SlimeHelmDesc	Text		A gooey, constantly dripping helm that covers half of your face.		Ein glitschiger, stetig tropfender Helm, der die Hälfte deines Gesichts bedeckt.
-Items/SlimeMerchant	Text		Bearded Merchant		Bärtiger Händler
-Items/SlimeOil	Text		Slime Oil		Schleim-Öl
-Items/SlimeOilDesc	Text		A jar filled with slime essence, used for beard care. Place it in a habitable room and a bearded character may move in.		Ein Topf gefüllt mit Schleimessenz, die für die Bartpflege verwendet wird. Platziere ihn in einem bewohnbaren Raum und ein bärtiger Charakter könnte einziehen.
-Items/SlimeStaff	Text		Sticky Stick		Klebriger Stock
-Items/SlimeStaffDesc	Text		This staff is drenched in slime that never seems to end no matter how much is flung away.		Dieser Stab ist überzogen mit Schleim, der nie zu enden scheint, egal wie viel davon weggeschleudert wird.
-Items/SlimeSword	Text		Slime Sword		Schleim-Schwert
-Items/SlimeSwordDesc	Text		A strange weapon, good for damaging enemies and slowing them down.		Eine merkwürdige Waffe. Sie eignet sich hervorragend, um Feinden zu schaden und sie zu verlangsamen.
-Items/SlimeTrophy	Text		Slime Figurine		Schleim-Figur
-Items/SlimeTrophyDesc	Text		A lifelike representation of a common Orange Slime.		Eine lebensechte Nachbildung eines Orangeschleims.
-Items/Slingshot	Text		Slingshot		Schleuder
-Items/SlingshotDesc	Text		Simple ranged weapon to fire away at enemies.		Eine einfache Fernkampfwaffe, um auf Feinde zu schießen.
-Items/SlipperySlime	Text		Slippery Slime		Gleitschleim
-Items/SlipperySlimeBlob	Text		Blue Slime		Blauschleim
-Items/SlipperySlimeBossScanner	Text		Morpha the Aquatic Mass Scanner		Morpha-Scanner
-Items/SlipperySlimeBossScannerDesc	Text		Scans the world for Morpha the Aquatic Mass. Consumed on successful scan.		Scannt die Welt nach Morpha, der Aquatischen Masse. Wird bei erfolgreichem Scan verbraucht.
-Items/SlipperySlimeDesc	Text		A blue slime blob almost too slick to hold onto. Can be further processed.		Ein blauer Schleimklumpen, der fast zu glitschig ist, um ihn festzuhalten. Kann weiterverarbeitet werden.
-Items/SlipperySlimeSword	Text		Slippery Slime Sword		Gleitschleim-Schwert
-Items/SlipperySlimeSwordDesc	Text		A blue variant of the slime sword. It sometimes spreads slime onto your enemies that makes them slide around.		Eine blaue Variante des Schleim-Schwerts. Es verteilt manchmal Schleim auf deinen Feinden, der sie herumrutschen lässt.
-Items/SmallBomb	Text		Crude Bomb		Primitive Bombe
-Items/SmallBombDesc	Text		A small explosive to blast walls and enemies.		Ein kleiner Sprengkörper, um Wände und Feinde zu vernichten.
-Items/SmallCavelingSkull	Text		Small Caveling Skull		Kleiner Grottling-Schädel
-Items/SmallCavelingSkullDesc	Text		A caveling skull, smaller than usual. It hints at a tragic story.		Ein Grottling-Schädel, kleiner als gewöhnlich. Er ist Zeuge einer tragischen Geschichte.
-Items/SmallCrystalGrass	Text		Crystal Grass		Kristallgras
-Items/SmallCrystalGrassDesc	Text		A strange growth that consists of broad, transparent leaves.		Ein merkwürdiges Gewächs, das aus breiten, transparenten Blättern besteht.
-Items/SmallLantern	Text		Small Lantern		Kleine Laterne
-Items/SmallLanternDesc	Text		A weak light to attach to your belt.		Ein schwaches Licht für den Gürtel.
-Items/SmallTempleRug	Text		Temple Decor Rug		Tempel-Dekorteppich
+Items/SignSkull	Text		Skull Effigy	Czaszka na kiju	Schädel-Schild
+Items/SignSkullDesc	Text		There is no clearer warning than a skull on a stake. Better keep out.	Nie ma wyraźniejszego ostrzeżenia niż czaszka na palu. Lepiej trzymać się z daleka.	Es gibt keine deutlichere Warnung als ein Schädel auf einem Pfahl. Lieber nicht betreten.
+Items/SignText	Text		Sign	Znak	Schild
+Items/SignTextDesc	Text		The best way to leave messages for everyone to see.	Najlepszy sposób na pozostawienie wiadomości dla innych.	Die beste Möglichkeit, um Nachrichten für jedermann zu hinterlassen.
+Items/SignTextMetropolis	Text		Metropolis Sign	Znak metropolii	Metropolis-Schild
+Items/SignTextMetropolisDesc	Text		A modern message sign that can be programmed to display information.	Nowoczesny znak, który można zaprogramować do wyświetlania informacji.	Ein modernes Nachrichten-Schild, das darauf programmiert werden kann, Informationen anzuzeigen.
+Items/SilverTorrentDart	Text		Silver Dart	Srebrna strzałka	Silberpfeil
+Items/SilverTorrentDartDesc	Text		This elusive fish appears in swarms as a spectacle of blinking silver to confuse predators.	Ta nieuchwytna ryba pojawia się w rojach jako spektakl migającego srebra, aby zmylić drapieżniki.	Ein scheuer Fisch, der nur in Schwärmen auftaucht. Dadurch entsteht ein Wirbel aus blinkendem Silber, der Feinde verwirrt.
+Items/SingingCrystal	Text		Singing Crystal	Śpiewający kryształ	Singender Kristall
+Items/SingingCrystalDesc	Text		Due to its shape, this naturally formed crystal rings with a harmonic frequency when struck.	Ze względu na swój kształt, ten naturalnie uformowany kryształ dzwoni z harmoniczną częstotliwością po uderzeniu.	Aufgrund seiner Form erzeugt dieser natürlich entstandene Kristall beim Anschlagen eine harmonische Frequenz.
+Items/SkeletonPedestal	Text		Deceased Explorer	Martwy odkrywca	Verstorbener Entdecker
+Items/SkeletonPedestal2	Text		Skeleton Decor	Szkielet dekoracyjny	Skelett-Dekoration
+Items/SkeletonPedestal2Desc	Text		"A spooky scary skeleton made from cheap plastic. Perfect to ""liven"" up any room."	Przerażający szkielet wykonany z taniego plastiku. Idealny do „ożywienia” każdego pomieszczenia.	Ein gespenstisch gruseliges Skelett aus billigem Plastik. Perfekt, um das Raumambiente „aufleben“ zu lassen.
+Items/SkeletonPedestalDesc	Text		The remains of a fellow explorer who wasn't as lucky as you. Funnily enough he can still fit hats onto his pale skull, that's at least something.	Szczątki innego odkrywcy, który nie miał tyle szczęścia co ty. Co zabawne, wciąż może założyć czapkę na swoją bladą czaszkę, to przynajmniej coś.	Die Überreste eines Entdeckers, der nicht so viel Glück hatte wie du. Lustigerweise kann man ihm trotzdem noch Hüte auf den bleichen Schädel setzen – das ist doch auch was.
+Items/SkirmisherHelm	Text		Skirmisher Cap	Nakrycie wojownik	Scharmützler-Kappe
+Items/SkirmisherHelmDesc	Text		A headpiece worn by caveling skirmishers which has been cobbled together with larvaskin, leaves and dirty cloth.	Nakrycie głowy noszone przez jaskiniowców, które zostało sklecone z larw, liści i brudnej tkaniny.	Ein Kopfstück, welches von Grottling-Scharmützlern getragen und aus Larvenhaut, Blättern und dreckigen Stofffetzen zusammengeschustert wird.
+Items/SkullNecklace	Text		Skull Necklace	Naszyjnik z czaszek	Schädel-Halskette
+Items/SkullNecklaceDesc	Text		A morbid necklace made from tiny caveling skulls. They're too small to have been children.	Koszmarny naszyjnik wykonany z maleńkich czaszek jaskiniowców. Są zbyt małe, by mogły być dziecięce.	Eine morbide Halskette, gemacht aus winzigen Grottling-Schädeln. Sie sind zu klein, um von Kindern zu stammen.
+Items/SkullRing	Text		Skull Ring	Pierścień z czaszką	Schädel-Ring
+Items/SkullRingDesc	Text		A grotesque blood-red ring, crested with a tiny caveling skull.	Groteskowy krwistoczerwony pierścień zwieńczony maleńką czaszką jaskiniowca.	Ein grotesker, blutroter Ring, gekrönt mit einem winzigen Grottling-Schädel.
+Items/SkyRing	Text		Sky Ring	Niebiański pierścień	Himmelsring
+Items/SkyRingDesc	Text		This ring reminds you of the wide open sky.	Ten pierścień przywodzi na myśl otwarte niebo.	Dieser Ring erinnert dich an den großen, weiten Himmel.
+Items/Slime	Text		Slime	Szlam	Schleim
+Items/SlimeBlob	Text		Orange Slime	Pomarańczowy szlam	Orangeschleim
+Items/SlimeBossCrystal	Text		Glurch Eye	Oko Glurcha	Glurchs Auge
+Items/SlimeBossCrystalDesc	Text		A bulbous gemstone that fused many slimes together into a giant one.	Bańkowaty kamień szlachetny, który połączył wiele szlamów w jeden gigantyczny.	Ein knolliger Antiker Edelstein, der viele kleine Schleime zu einem Großen vereinte.
+Items/SlimeBossSummoningItem	Text		Giant Slime Summoning Idol	Bożek przywołania gigantycznego szlamu	Großschleim-Beschwörungsstein
+Items/SlimeBossSummoningItemDesc	Text		Crystal idol to reawaken a Giant Slime. Consumed upon placing it on any Giant Slime summoning rune.	Kryształowy bożek pozwalający przebudzić gigantyczny szlam. Zużywany po umieszczeniu go na dowolnej runie przywołania gigantycznego szlamu.	Ein Kristall-Abbild, um einen Großschleim neu zu erwecken. Wird beim Platzieren auf einer Großschleim-Beschwörungsrune verbraucht.
+Items/SlimeBreastArmor	Text		Slime Armor	Szlamowa Zbroja	Schleimrüstung
+Items/SlimeBreastArmorDesc	Text		A gelatinous upper body armor that looks like someone dumped a bucket of goo onto you.	Galaretowaty pancerz na górną część ciała, który wygląda, jakby ktoś wylał na ciebie wiadro śluzu.	Eine glibberige Oberkörper-Rüstung, die so aussieht, als hätte jemand einen Eimer Schleim über dir ausgekippt.
+Items/SlimeDesc	Text		An orange blob of slime. Can be further processed.	Pomarańczowa kulka szlamu. Może być dalej przetwarzana.	Ein orangefarbener Klumpen Schleim. Kann weiterverarbeitet werden.
+Items/SlimeDestructLarge	Text		Large Slime Vessel	Duży szlam	Großes Schleimgefäß
+Items/SlimeDestructMedium	Text		Medium Slime Vessel	Średni szlam	Mittelgroßes Schleimgefäß
+Items/SlimeDestructSmall	Text		Small Slime Vessel	Mały szlam	Kleines Schleimgefäß
+Items/SlimeHelm	Text		Slime Helm	Szlamowy hełm	Schleimhelm
+Items/SlimeHelmDesc	Text		A gooey, constantly dripping helm that covers half of your face.	Śluzowaty, nieustannie ociekający hełm, który zakrywa połowę twarzy.	Ein glitschiger, stetig tropfender Helm, der die Hälfte deines Gesichts bedeckt.
+Items/SlimeMerchant	Text		Bearded Merchant	Brodaty handlarz	Bärtiger Händler
+Items/SlimeOil	Text		Slime Oil	Szlamowy olej	Schleim-Öl
+Items/SlimeOilDesc	Text		A jar filled with slime essence, used for beard care. Place it in a habitable room and a bearded character may move in.	Słoik wypełniony esencją szlamu, używany do pielęgnacji brody. Umieść go w pomieszczeniu nadającym się do zamieszkania, a brodata postać może się do niego wprowadzić.	Ein Topf gefüllt mit Schleimessenz, die für die Bartpflege verwendet wird. Platziere ihn in einem bewohnbaren Raum und ein bärtiger Charakter könnte einziehen.
+Items/SlimeStaff	Text		Sticky Stick	Lepki kij	Klebriger Stock
+Items/SlimeStaffDesc	Text		This staff is drenched in slime that never seems to end no matter how much is flung away.	Ta laska jest przesiąknięta szlamem, który zdaje się nigdy nie kończyć, bez względu na to, ile się go wyrzuci.	Dieser Stab ist überzogen mit Schleim, der nie zu enden scheint, egal wie viel davon weggeschleudert wird.
+Items/SlimeSword	Text		Slime Sword	Szlamowy miecz	Schleim-Schwert
+Items/SlimeSwordDesc	Text		A strange weapon, good for damaging enemies and slowing them down.	Dziwna broń, dobra do zadawania obrażeń wrogom i spowalniania ich.	Eine merkwürdige Waffe. Sie eignet sich hervorragend, um Feinden zu schaden und sie zu verlangsamen.
+Items/SlimeTrophy	Text		Slime Figurine	Figurka szlamu	Schleim-Figur
+Items/SlimeTrophyDesc	Text		A lifelike representation of a common Orange Slime.	Realistyczne odwzorowanie zwykłego pomarańczowego szlamu.	Eine lebensechte Nachbildung eines Orangeschleims.
+Items/Slingshot	Text		Slingshot	Proca	Schleuder
+Items/SlingshotDesc	Text		Simple ranged weapon to fire away at enemies.	Prosta broń dystansowa do ostrzeliwania wrogów.	Eine einfache Fernkampfwaffe, um auf Feinde zu schießen.
+Items/SlipperySlime	Text		Slippery Slime	Śliski szlam	Gleitschleim
+Items/SlipperySlimeBlob	Text		Blue Slime	Niebieski szlam	Blauschleim
+Items/SlipperySlimeBossScanner	Text		Morpha the Aquatic Mass Scanner	Skaner Morpha Wodnej Masy	Morpha-Scanner
+Items/SlipperySlimeBossScannerDesc	Text		Scans the world for Morpha the Aquatic Mass. Consumed on successful scan.	Skanuje świat w poszukiwaniu Morpha Wodnej Masy. Zużywa się po udanym skanowaniu.	Scannt die Welt nach Morpha, der Aquatischen Masse. Wird bei erfolgreichem Scan verbraucht.
+Items/SlipperySlimeDesc	Text		A blue slime blob almost too slick to hold onto. Can be further processed.	Niebieska kulka szlamu, która jest prawie zbyt śliska, by ją utrzymać. Może być dalej przetwarzana.	Ein blauer Schleimklumpen, der fast zu glitschig ist, um ihn festzuhalten. Kann weiterverarbeitet werden.
+Items/SlipperySlimeSword	Text		Slippery Slime Sword	Śliski szlamowy miecz	Gleitschleim-Schwert
+Items/SlipperySlimeSwordDesc	Text		A blue variant of the slime sword. It sometimes spreads slime onto your enemies that makes them slide around.	Niebieski wariant szlamowego miecza. Czasami rozprowadza na wrogach śluz, który sprawia, że się ślizgają.	Eine blaue Variante des Schleim-Schwerts. Es verteilt manchmal Schleim auf deinen Feinden, der sie herumrutschen lässt.
+Items/SmallBomb	Text		Crude Bomb	Prymitywna bomba	Primitive Bombe
+Items/SmallBombDesc	Text		A small explosive to blast walls and enemies.	Mały ładunek wybuchowy do wysadzania ścian i wrogów.	Ein kleiner Sprengkörper, um Wände und Feinde zu vernichten.
+Items/SmallCavelingSkull	Text		Small Caveling Skull	Mała czaszka jaskiniowca	Kleiner Grottling-Schädel
+Items/SmallCavelingSkullDesc	Text		A caveling skull, smaller than usual. It hints at a tragic story.	Czaszka jaskiniowca, mniejsza niż zwykle. Wskazuje na tragiczną historię.	Ein Grottling-Schädel, kleiner als gewöhnlich. Er ist Zeuge einer tragischen Geschichte.
+Items/SmallCrystalGrass	Text		Crystal Grass	Kryształowa trawa	Kristallgras
+Items/SmallCrystalGrassDesc	Text		A strange growth that consists of broad, transparent leaves.	Dziwna roślinka składająca się z szerokich, przezroczystych liści.	Ein merkwürdiges Gewächs, das aus breiten, transparenten Blättern besteht.
+Items/SmallLantern	Text		Small Lantern	Mała latarnia	Kleine Laterne
+Items/SmallLanternDesc	Text		A weak light to attach to your belt.	Słabe źródło światła, które można przypiąć do paska.	Ein schwaches Licht für den Gürtel.
+Items/SmallTempleRug	Text		Temple Decor Rug	Świątynny dywanik dekoracyjny	Tempel-Dekorteppich
 Items/SmallTempleRugDesc	Text		A small, ancient rug caked with the dust of thousands of years. The design on it shows a trinity of eyes.		Ein kleiner, uralter Teppich, der mit dem Staub der Jahrtausende bedeckt ist. Das Muster darauf zeigt eine Dreifaltigkeit von Augen.
 Items/SmallTentacle	Text		Tentacle		Tentakel
 Items/SmelterKiln	Text		Smelter Kiln		Schmelztiegel
