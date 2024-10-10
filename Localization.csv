@@ -3324,7 +3324,7 @@ Items/SamhainCurseRing	Text		Samhain Curse Ring	Pierścień klątwy Samhain	Samh
 Items/SamhainCurseRingDesc	Text		A cursed ring that was used to welcome the cold season into the lands. It represents decay and darkness.	Przeklęty pierścień, który był używany do powitania zimnej pory roku. Symbolizuje rozkład i ciemność.	Ein verfluchter Ring, um das Land mit den kalten Jahreszeiten zu plagen. Er steht für Verfall und Dunkelheit.
 Items/SamhainOfferingNecklace	Text		Samhain Offering Necklace	Naszyjnik ofiarny Samhain	Samhain-Opferhalskette
 Items/SamhainOfferingNecklaceDesc	Text		A blessed necklace offered as a gift to farewell the warm season. It represents the harvest and the evening sun.	Błogosławiony naszyjnik ofiarowany jako prezent na pożegnanie ciepłej pory roku. Symbolizuje żniwa i wieczorne słońce.	Eine gesegnete Halskette, die zum Abschied der warmen Jahreszeiten als Gabe dargebracht wurde. Sie steht für die Ernte und die Abendsonne.
-Items/SandySpikeback	Text		Sandy Spikeback	Piaskowy kolczownik	Sand-Stachelrücken
+Items/SandySpikeback	Text		Sandy Spikeback	Piaskowy kolcogrzbiet	Sand-Stachelrücken
 Items/SandySpikebackDesc	Text		A very defensive fish with sandstone skin and jagged spikes protruding out.	Bardzo defensywna ryba ze skórą z piaskowca i wystającymi, postrzępionymi kolcami.	Ein sehr defensiver Fisch mit Haut aus Sandstein und hervorstehenden schartigen Stacheln.
 Items/SantaHelm	Text		Festive Hat	Świąteczna czapka	Festliche Mütze
 Items/SantaHelmDesc	Text		A warm, soft hat to keep ones ears warm in the cold season. You can't get around wearing one of those in winter.	Ciepła, miękka czapka, która ogrzeje uszy w zimnej porze roku. W zimie nie da się ich nie nosić.	Eine warme, weiche Mütze, um die Ohren in der kalten Jahreszeit warm zu halten. Man kommt zur Winterzeit einfach nicht ohne so eine Mütze aus.
@@ -3500,406 +3500,406 @@ Items/SmallCrystalGrassDesc	Text		A strange growth that consists of broad, trans
 Items/SmallLantern	Text		Small Lantern	Mała latarnia	Kleine Laterne
 Items/SmallLanternDesc	Text		A weak light to attach to your belt.	Słabe źródło światła, które można przypiąć do paska.	Ein schwaches Licht für den Gürtel.
 Items/SmallTempleRug	Text		Temple Decor Rug	Świątynny dywanik dekoracyjny	Tempel-Dekorteppich
-Items/SmallTempleRugDesc	Text		A small, ancient rug caked with the dust of thousands of years. The design on it shows a trinity of eyes.		Ein kleiner, uralter Teppich, der mit dem Staub der Jahrtausende bedeckt ist. Das Muster darauf zeigt eine Dreifaltigkeit von Augen.
-Items/SmallTentacle	Text		Tentacle		Tentakel
-Items/SmelterKiln	Text		Smelter Kiln		Schmelztiegel
-Items/SmelterKilnDesc	Text		A kiln that can melt valuable ores.		Ein Tiegel, der wertvollere und härtere Erze schmelzen kann.
-Items/SmithingBellow	Text		Old Smithing Bellow		Alter Schmiedeblasebalg
-Items/SmithingBellowDesc	Text		An old device used to circulate air into a forge to create extreme temperatures. The lever for its mechanism is rusted in place.		Ein altes Gerät, mit dem Luft in eine Schmiede geleitet wurde, um extreme Temperaturen zu erzeugen. Der Hebel für den Mechanismus ist festgerostet.
-Items/SmithingGlove	Text		Smithing Glove		Schmiede-Handschuh
-Items/SmithingGloveDesc	Text		Reinforced with several rare materials, this glove can withstand great heat and is a must have for every experienced blacksmith.		Dieser mit seltenen Materialien verstärkte Handschuh kann großer Hitze wiederstehen. Ein wahres Muss für jeden erfahrenen Schmied.
-Items/SnakeBossScanner	Text		Atlantean Worm Scanner		Atlantischer Wurm-Scanner
-Items/SnakeBossScannerDesc	Text		Scans the world for the Atlantean Worm. Consumed on successful scan.		Scannt die Welt nach dem Atlantischen Wurm. Wird bei erfolgreichem Scan verbraucht.
-Items/SnarePlant	Text		Snare Plant		Schlingpflanze
-Items/SnarePlantTrophy	Text		Snare Plant Figurine		Schlingpflanzen-Figur
-Items/SnarePlantTrophyDesc	Text		A lifelike representation of a Snare Plant.		Eine lebensechte Nachbildung einer Schlingpflanze.
-Items/SnowGlobe	Text		Snow Globe		Schneekugel
-Items/SnowGlobeDesc	Text		This little globe has the core as its center and starts a snowfall when shaken.		Im Zentrum dieser kleinen Schneekugel findet man den Kern; wenn sie geschüttelt wird, beginnt es zu schneien.
-Items/Snowball	Text		Snowball		Schneeball
-Items/SnowballDesc	Text		A handy projectile to start some fights with the neighbours' children. Can also be collected and further processed.		Ein handliches Wurfgeschoss, um eine Schlacht mit den Nachbarskindern zu beginnen. Kann auch gesammelt und weiterverarbeitet werden.
-Items/SnowballPyramid	Text		Snowball Pyramid		Schneeball-Pyramide
-Items/SnowballPyramidDesc	Text		A traditional festive contruct built with snowballs and a light source in the middle.		Ein traditionelles, festliches Gebilde aus Schneebällen und einer Lichtquelle im Inneren.
-Items/SnowmanHelm	Text		Snowman Hat		Schneemann-Mütze
-Items/SnowmanHelmDesc	Text		Whatever one is feeling at the moment, this hat covers it all up with a happy expression made from coal and carrots.		Was auch immer man gerade empfinden mag: Diese Mütze verbirgt alles hinter einem fröhlichen Lächeln aus Kohlestückchen und Karotten.
-Items/SoftSponge	Text		Soft Sponge		Weicher Schwamm
-Items/SoftSpongeDesc	Text		A soft, squishy sponge. Time to take a bath!		Ein weicher, geschmeidiger Schwamm. Zeit für ein Bad!
-Items/SolariteAnvil	Text		Solarite Anvil		Solarit-Amboss
-Items/SolariteAnvilDesc	Text		A superior anvil for creating magnificent equipment.		Ein überragender Amboss zur Herstellung prachtvoller Ausrüstung.
-Items/SolariteBar	Text		Solarite Bar		Solarit-Barren
-Items/SolariteBarDesc	Text		A magnificent ingot for masterful blacksmithing.		Ein prachtvoller Barren für meisterhaftes Schmieden.
-Items/SolariteChest	Text		Solarite Chest		Solarit-Kiste
-Items/SolariteChestDesc	Text		A shimmering chest made from solarite. It is not locked anymore.		Eine schimmernde Kiste aus Solarit. Sie ist nicht mehr verschlossen.
-Items/SolariteCrossbow	Text		Solarite Crossbow		Solarit-Armbrust
-Items/SolariteCrossbowDesc	Text		A grand glimmering crossbow that shoots mighty bolts.		Eine große schimmernde Armbrust, die mächtige Pfeile verschießt.
-Items/SolariteFishingRod	Text		Solarite Fishing Rod		Solarit-Angel
-Items/SolariteFishingRodDesc	Text		A superior tool for pulling up elusive fish.		Ein überragendes Werkzeug, um Fische an Land zu ziehen, die besonders schwer zu erwischen sind.
-Items/SolariteKey	Text		Solarite Key		Solarit-Schlüssel
-Items/SolariteKeyDesc	Text		A shimmering key cast in solarite. There should be a lock somewhere that it fits into.		Ein schimmernder, in Solarit gegossener Schlüssel. Es muss irgendwo ein Schloss geben, in das er passt.
-Items/SolariteMiningPick	Text		Solarite Pickaxe		Solarit-Spitzhacke
-Items/SolariteMiningPickDesc	Text		A superior tool for breaking down perplexingly hard walls.		Ein überragendes Werkzeug, um überraschend hartnäckige Wände einzureißen.
-Items/SolariteOre	Text		Solarite Ore		Solariterz
-Items/SolariteOreBoulder	Text		Solarite Ore Boulder		Solarit-Erzblock
-Items/SolariteOreDesc	Text		An ore that fused with Ancient Gemstones. It can sometimes be found in crystalline walls.		Ein Erz, das mit Antiken Edelsteinen verschmolzen ist. Es kann manchmal in kristallinen Wänden gefunden werden.
-Items/SolariteSword	Text		Solarite Sword		Solarit-Schwert
-Items/SolariteSwordDesc	Text		A superior weapon for obliterating foes.		Eine überragende Waffe, um deine Feinde zu vernichten.
-Items/SolariteWorkbench	Text		Solarite Workbench		Solarit-Werkbank
-Items/SolariteWorkbenchDesc	Text		A superior workbench to be prepared for dire trials.		Eine überragende Werkbank, um sich auf schwierige Abenteuer vorzubereiten.
-Items/SolidSpikeback	Text		Solid Spikeback		Stein-Stachelrücken
-Items/SolidSpikebackDesc	Text		A very defensive fish with rock-hard skin and sharp spikes protruding out.		Ein sehr defensiver Fisch mit steinharter Haut und hervorstehenden spitzen Stacheln.
-Items/SparkleOpal	Text		Sparkle Opal		Funkel-Opal
-Items/SparkleOpalDesc	Text		A magnificent gemstone that glitters in pastel rainbow colors.		Ein herrlicher Edelstein, der in pastelligen Regenbogenfarben glitzert.
-Items/SpearRack	Text		Spear Rack		Speer-Ständer
-Items/SpearRackDesc	Text		A crudely-made rack that is used by cavelings to have their spears at the ready.		Ein primitives Gestell, das die Grottlinge benutzen, um ihre Speere griffbereit zu haben.
-Items/SpeederBoat	Text		Speeder		Flitzer
-Items/SpeederBoatDesc	Text		Allows travelling over water much faster.		Erlaubt das schnelle Reisen über Gewässer.
-Items/SpeederGoKart	Text		Speeder Go-kart		Flitzer-Go-Kart
-Items/SpeederGoKartDesc	Text		A racing kart with a nice red finish, able to outrace other vehicles after a longer acceleration time. Tends to drift a lot when driving too fast.		Ein Rennwagen mit einer schönen roten Lackierung. Ist in der Lage, andere Gefährte nach einer längeren Beschleunigunsgzeit abzuhängen, kommt aber leicht ins Schleudern, wenn er zu schnell gefahren wird.
-Items/SpikeTrap	Text		Spike Trap		Stachelfalle
-Items/SpikeTrapDesc	Text		A mechanical spike trap that only reacts to enemies.		Eine mechanische Stachelfalle, die nur auf Feinde reagiert.
-Items/SpineRing	Text		Spine Ring		Wirbelring
-Items/SpineRingDesc	Text		A ring found at the skeleton of a giant ocean creature. It's made from tiny cervical vertebrae.		Ein Ring, der neben dem Skelett einer riesigen Ozeankreatur gefunden wurde. Er besteht aus winzigen Rückenwirbeln.
-Items/SpiritVeil	Text		Spirit Veil		Geist-Schleier
-Items/SpiritVeilDesc	Text		A ghastly fish that floats in the air like it's still underwater.		Ein gespenstischer Fisch, der in der Luft schwebt, als wäre er noch immer unter Wasser.
-Items/SpookyPopCandy	Text		Spooky Pop Candy		Schlabberspuk-Lolli
-Items/SpookyPopCandyDesc	Text		It looks almost too scary to remove its wrapper. What tasty horrors might await behind?		Er sieht fast zu gruselig zum Auspacken aus. Welche schmackhaften Schrecken mögen sich dahinter verbergen?
-Items/Sprinkler	Text		Sprinkler		Sprinkler
-Items/SprinklerDesc	Text		A useful gadget that waters tilled ground in a small radius.		Ein nützliches Gerät, das bearbeiteten Boden in einem kleinen Radius bewässert.
-Items/Stalagmite	Text		Stalagmite		Stalagmit
-Items/StalagmiteDesc	Text		A stone pillar grown over thousands of years through dripping water.		Eine Steinsäule, die über tausende von Jahren durch herabtropfendes Wasser entstanden ist.
-Items/StarlightNautilus	Text		Starlight Nautilus		Sternlicht-Nautilus
-Items/StarlightNautilusDesc	Text		A mysterious living fossil that seems to have fused with precious metals and gemstones to ascend to a higher state of being.		Ein mysteriöses lebendes Fossil, das scheinbar mit wertvollen Metallen und Edelsteinen verschmolzen ist, um eine höhere Bewusstseinsebene zu erlangen.
-Items/StarlightShards	Text		Starlight Shards		Sternlicht-Fragmente
-Items/StarlightShardsDesc	Text		A collection of sparkling colorful crystals. If they grew natural or not remains a mystery.		Eine Handvoll glitzernder, bunter Kristalle. Ob sie natürlich entstanden sind, bleibt ein Rätsel.
-Items/StoneBridge	Text		Stone Bridge		Stein-Brücke
-Items/StoneBridgeDesc	Text		Used to cross chasms and water but also makes for a nice floor.		Wird genutzt, um Abgründe und Gewässer zu überqueren, macht sich aber auch gut als Boden.
-Items/StoneCap	Text		Stone Cap		Stein-Kappe
-Items/StoneCapDesc	Text		Rock-hard mushrooms attached to a stone slate. They look edible but are actually fossilized.		Steinharte Pilze, die mit Felsboden verwachsen sind. Sie sehen essbar aus, sind aber fossilisiert.
-Items/StoneCavelingMoss	Text		Stone Moss		Stein-Moos
-Items/StoneCavelingMossDesc	Text		Ground plants found in the Forgotten Ruins. They grow tiny berries that attract cavelings of the corresponding area.		Bodenpflanzen, die in den Vergessenen Ruinen gefunden werden. Auf ihnen wachsen winzige Beeren, die Grottlinge aus dem jeweiligen Areal anlocken.
-Items/StoneDoor	Text		Stone Door		Steintür
-Items/StoneDoorDesc	Text		A sturdier door to block out unwanted creatures.		Eine widerstandfähigere Tür, um ungewünschte Kreaturen auszusperren.
-Items/StoneFence	Text		Stone Fence		Steinzaun
-Items/StoneFenceDesc	Text		A more reinforced fence to protect what's rightfully yours.		Ein verstärkter Zaun, um zu schützen, was rechtens dir gehört.
-Items/StoneFenceGate	Text		Stone Fence Gate		Steinzaun-Tor
-Items/StoneFenceGateDesc	Text		A simple gate for the stone fence.		Ein einfaches Tor für den Steinzaun.
-Items/StoneFloor	Text		Stone Floor		Steinboden
-Items/StoneFloorDesc	Text		Simple rock tiles for decorating your base.		Einfache Steinbodenfliese, um deine Basis zu verschönern.
-Items/StonePedestal	Text		Stone Pedestal		Steinsockel
-Items/StonePedestalDesc	Text		Showcase your findings!		Präsentiere deine Fundsachen!
-Items/StoneStalagmite	Text		Stone Stalagmite		Fels-Stalagmit
-Items/StoneStalagmiteDesc	Text		A stone pillar slowly raised over thousands of years through tectonic pressure.		Eine Steinsäule, die sich über tausende von Jahren durch tektonischen Druck erhoben hat.
-Items/StoneskinPotion	Text		Stoneskin Potion		Steinhaut-Trank
-Items/StoneskinPotionDesc	Text		A salty elixir that hardens your skin and makes you more resilient.		Ein salziges Elixier, das deine Haut verhärtet und dich widerstandsfähiger macht.
-Items/SuitBreastArmor	Text		Suit Jacket		Anzugjacke
-Items/SuitBreastArmorDesc	Text		The elegant jacket has a stuck-on rose and is perfect for a romantic dinner. Remember to show up on time.		Diese elegante Jacke mit Ansteck-Rose ist perfekt für ein romantisches Abendessen. Denk daran, pünktlich zu erscheinen.
-Items/SuitHelm	Text		Top Hat		Zylinder
-Items/SuitHelmDesc	Text		This hat is worn by everyone who considers themself an admirable adventurer equipped with a captivating charisma.		Dieser Hut ist das Markenzeichen eines jeden bewundernswerten Abenteurers und seines hinreißenden Charismas.
-Items/SuitPantsArmor	Text		Suit Pants		Anzughose
-Items/SuitPantsArmorDesc	Text		These pants are made from black, silky farbic and hint at sophistication and confidence.		Diese Hose ist aus schwarzem, seidigem Stoff geschneidert und zeugt von Kultiviertheit und Selbstvertrauen.
-Items/SunglassesHelm	Text		Sunglasses		Sonnenbrille
-Items/SunglassesHelmDesc	Text		Nothing is more important than sporting cool sunglasses, even when it's dark.		Nichts ist wichtiger als eine coole Sonnenbrille zu tragen, selbst im Dunkeln.
-Items/Sunrice	Text		Sunrice		Sonnreis
-Items/SunriceDesc	Text		A vibrant crop that braces you for tough encounters.		Ein kräftiges Getreide, das dich auf schwere Auseinandersetzungen vorbereitet.
-Items/SunriceRare	Text		Golden Sunrice		Goldener Sonnreis
-Items/SunriceRareDesc	Text		A very rare variant of the common sunrice.		Eine sehr seltene Variante des Sonnreises.
-Items/SunriceSeed	Text		Sunrice Seed		Sonnreis-Samen
-Items/SunriceSeedDesc	Text		Grows into a bracing crop when planted. Only grows in crystal ground.		Wächst zu einem stärkenden Getreide heran, wenn er eingepflanzt wird. Wächst nur in Kristallboden.
-Items/SurfaceCoral1Large	Text		Large Bicolor Coral		Große Zweifarb-Koralle
-Items/SurfaceCoral1LargeDesc	Text		A large group of two coral species that grow together to form a symbiosis.		Eine große Ansammlung zweier Korallenarten, die zusammenwachsen, um eine Symbiose einzugehen.
-Items/SurfaceCoral1Medium	Text		Bicolor Coral		Zweifarb-Koralle
-Items/SurfaceCoral1MediumDesc	Text		A group of two coral species that grow together to form a symbiosis.		Eine Ansammlung zweier Korallenarten, die zusammenwachsen, um eine Symbiose einzugehen.
-Items/SurfaceCoral1Small	Text		Small Bicolor Coral		Kleine Zweifarb-Koralle
-Items/SurfaceCoral1SmallDesc	Text		A small group of two coral species that grow together to form a symbiosis.		Eine kleine Ansammlung zweier Korallenarten, die zusammenwachsen, um eine Symbiose einzugehen.
-Items/SurfaceCoral2Large	Text		Large Crimson Coral		Große Purpur-Koralle
-Items/SurfaceCoral2LargeDesc	Text		A large branchy coral that provides protection and food for small sea critters.		Eine große, verzweigte Koralle, die Schutz und Nahrung für kleine Meerestiere bietet.
-Items/SurfaceCoral2Small	Text		Crimson Coral		Purpur-Koralle
-Items/SurfaceCoral2SmallDesc	Text		A small branchy coral that provides protection and food for small sea critters.		Eine kleine, verzweigte Koralle, die Schutz und Nahrung für kleine Meerestiere bietet.
-Items/SurfaceCoral3Large	Text		Large Dish Coral		Große Teller-Koralle
-Items/SurfaceCoral3LargeDesc	Text		A large coral that develops a wide brim above the water surface, providing a safe island for small organisms.		Eine große Koralle, die einen weiten Schirm über der Wasseroberfläche ausbildet und so eine Insel der Sicherheit für kleine Organismen bietet.
-Items/SurfaceCoral3Small	Text		Dish Coral		Teller-Koralle
-Items/SurfaceCoral3SmallDesc	Text		A small coral that develops a wide brim above the water surface, providing a safe island for small organisms.		Eine kleine Koralle, die einen weiten Schirm über der Wasseroberfläche ausbildet und so eine Insel der Sicherheit für kleine Organismen bietet.
-Items/SuspendedButterfly	Text		Suspended Butterfly		Erstarrter Schmetterling
-Items/SuspendedButterflyDesc	Text		A fragile butterfly that has been completely corrupted by crystals.		Ein zerbrechlicher Schmetterling, dessen Körper komplett von Kristallen durchzogen ist.
-Items/SwiftFeather	Text		Swift Feather		Flink-Feder
-Items/SwiftFeatherDesc	Text		A mysterious feather that allows you to dash out of danger.		Eine mysteriöse Feder, die es dir erlaubt, aus gefährlichen Situationen zu preschen.
+Items/SmallTempleRugDesc	Text		A small, ancient rug caked with the dust of thousands of years. The design on it shows a trinity of eyes.	Mały, starożytny dywan pokryty kurzem tysięcy lat. Wzór na nim przedstawia trójcę oczu.	Ein kleiner, uralter Teppich, der mit dem Staub der Jahrtausende bedeckt ist. Das Muster darauf zeigt eine Dreifaltigkeit von Augen.
+Items/SmallTentacle	Text		Tentacle	Macka	Tentakel
+Items/SmelterKiln	Text		Smelter Kiln	Piec do wytapiania	Schmelztiegel
+Items/SmelterKilnDesc	Text		A kiln that can melt valuable ores.	Piec, który może przetapiać cenne rudy.	Ein Tiegel, der wertvollere und härtere Erze schmelzen kann.
+Items/SmithingBellow	Text		Old Smithing Bellow	Stary miech kowalski	Alter Schmiedeblasebalg
+Items/SmithingBellowDesc	Text		An old device used to circulate air into a forge to create extreme temperatures. The lever for its mechanism is rusted in place.	Stare urządzenie używane do cyrkulacji powietrza w kuźni w celu wytworzenia ekstremalnych temperatur. Dźwignia mechanizmu jest zardzewiała.	Ein altes Gerät, mit dem Luft in eine Schmiede geleitet wurde, um extreme Temperaturen zu erzeugen. Der Hebel für den Mechanismus ist festgerostet.
+Items/SmithingGlove	Text		Smithing Glove	Rękawica kowalska	Schmiede-Handschuh
+Items/SmithingGloveDesc	Text		Reinforced with several rare materials, this glove can withstand great heat and is a must have for every experienced blacksmith.	Wzmocniona kilkoma rzadkimi materiałami rękawica wytrzymuje wysokie temperatury i jest niezbędna dla każdego doświadczonego kowala.	Dieser mit seltenen Materialien verstärkte Handschuh kann großer Hitze wiederstehen. Ein wahres Muss für jeden erfahrenen Schmied.
+Items/SnakeBossScanner	Text		Atlantean Worm Scanner	Skaner Atlantydzkiego Robaka	Atlantischer Wurm-Scanner
+Items/SnakeBossScannerDesc	Text		Scans the world for the Atlantean Worm. Consumed on successful scan.	Skanuje świat w poszukiwaniu Atlantydzkiego Robaka. Zużywa się po udanym skanowaniu.	Scannt die Welt nach dem Atlantischen Wurm. Wird bei erfolgreichem Scan verbraucht.
+Items/SnarePlant	Text		Snare Plant	Roślina sidłowa	Schlingpflanze
+Items/SnarePlantTrophy	Text		Snare Plant Figurine	Figurka rośliny sidłowej	Schlingpflanzen-Figur
+Items/SnarePlantTrophyDesc	Text		A lifelike representation of a Snare Plant.	Realistycznie odwzorowana roślina sidłowa.	Eine lebensechte Nachbildung einer Schlingpflanze.
+Items/SnowGlobe	Text		Snow Globe	Kula śnieżna	Schneekugel
+Items/SnowGlobeDesc	Text		This little globe has the core as its center and starts a snowfall when shaken.	Ten mały glob ma rdzeń jako środek i po potrząśnięciu zaczyna padać śnieg.	Im Zentrum dieser kleinen Schneekugel findet man den Kern; wenn sie geschüttelt wird, beginnt es zu schneien.
+Items/Snowball	Text		Snowball	Śnieżka	Schneeball
+Items/SnowballDesc	Text		A handy projectile to start some fights with the neighbours' children. Can also be collected and further processed.	Poręczny pocisk do wszczynania bójek z dziećmi sąsiadów. Można go również zbierać i przetwarzać.	Ein handliches Wurfgeschoss, um eine Schlacht mit den Nachbarskindern zu beginnen. Kann auch gesammelt und weiterverarbeitet werden.
+Items/SnowballPyramid	Text		Snowball Pyramid	Piramida śnieżna	Schneeball-Pyramide
+Items/SnowballPyramidDesc	Text		A traditional festive contruct built with snowballs and a light source in the middle.	Tradycyjna świąteczna konstrukcja zbudowana ze śnieżnych kul i źródła światła w środku.	Ein traditionelles, festliches Gebilde aus Schneebällen und einer Lichtquelle im Inneren.
+Items/SnowmanHelm	Text		Snowman Hat	Czapka bałwana	Schneemann-Mütze
+Items/SnowmanHelmDesc	Text		Whatever one is feeling at the moment, this hat covers it all up with a happy expression made from coal and carrots.	Niezależnie od tego, co się w danej chwili czuje, ten kapelusz przykrywa wszystko radosnym wyrazem twarzy wykonanym z węgla i marchewki.	Was auch immer man gerade empfinden mag: Diese Mütze verbirgt alles hinter einem fröhlichen Lächeln aus Kohlestückchen und Karotten.
+Items/SoftSponge	Text		Soft Sponge	Miękka gąbka	Weicher Schwamm
+Items/SoftSpongeDesc	Text		A soft, squishy sponge. Time to take a bath!	Miękka, gąbczasta gąbka. Czas na kąpiel!	Ein weicher, geschmeidiger Schwamm. Zeit für ein Bad!
+Items/SolariteAnvil	Text		Solarite Anvil	Solarytowe kowadło	Solarit-Amboss
+Items/SolariteAnvilDesc	Text		A superior anvil for creating magnificent equipment.	Doskonałe kowadło do tworzenia wspaniałego sprzętu.	Ein überragender Amboss zur Herstellung prachtvoller Ausrüstung.
+Items/SolariteBar	Text		Solarite Bar	Sztabka solarytu	Solarit-Barren
+Items/SolariteBarDesc	Text		A magnificent ingot for masterful blacksmithing.	Wspaniała sztabka do mistrzowskiego kowalstwa.	Ein prachtvoller Barren für meisterhaftes Schmieden.
+Items/SolariteChest	Text		Solarite Chest	Solarytowa skrzynia	Solarit-Kiste
+Items/SolariteChestDesc	Text		A shimmering chest made from solarite. It is not locked anymore.	Lśniąca skrzynia wykonana z solarytu. Nie jest już zamknięta.	Eine schimmernde Kiste aus Solarit. Sie ist nicht mehr verschlossen.
+Items/SolariteCrossbow	Text		Solarite Crossbow	Solarytowa kusza	Solarit-Armbrust
+Items/SolariteCrossbowDesc	Text		A grand glimmering crossbow that shoots mighty bolts.	Wspaniała, połyskująca kusza strzelająca potężnymi pociskami.	Eine große schimmernde Armbrust, die mächtige Pfeile verschießt.
+Items/SolariteFishingRod	Text		Solarite Fishing Rod	Solarytowa wędka	Solarit-Angel
+Items/SolariteFishingRodDesc	Text		A superior tool for pulling up elusive fish.	Doskonałe narzędzie do wyławiania nieuchwytnych ryb.	Ein überragendes Werkzeug, um Fische an Land zu ziehen, die besonders schwer zu erwischen sind.
+Items/SolariteKey	Text		Solarite Key	Solarytowy klucz	Solarit-Schlüssel
+Items/SolariteKeyDesc	Text		A shimmering key cast in solarite. There should be a lock somewhere that it fits into.	Lśniący klucz odlany z solarytu. Gdzieś powinien być zamek, do którego pasuje.	Ein schimmernder, in Solarit gegossener Schlüssel. Es muss irgendwo ein Schloss geben, in das er passt.
+Items/SolariteMiningPick	Text		Solarite Pickaxe	Solarytowy kilof	Solarit-Spitzhacke
+Items/SolariteMiningPickDesc	Text		A superior tool for breaking down perplexingly hard walls.	Doskonałe narzędzie do rozbijania niezwykle twardych ścian.	Ein überragendes Werkzeug, um überraschend hartnäckige Wände einzureißen.
+Items/SolariteOre	Text		Solarite Ore	Ruda solarytu	Solariterz
+Items/SolariteOreBoulder	Text		Solarite Ore Boulder	Głaz rudy solarytu	Solarit-Erzblock
+Items/SolariteOreDesc	Text		An ore that fused with Ancient Gemstones. It can sometimes be found in crystalline walls.	Ruda, która zespoliła się ze starożytnymi kamieniami szlachetnymi. Czasami można ją znaleźć w krystalicznych ścianach.	Ein Erz, das mit Antiken Edelsteinen verschmolzen ist. Es kann manchmal in kristallinen Wänden gefunden werden.
+Items/SolariteSword	Text		Solarite Sword	Solarytowy miecz	Solarit-Schwert
+Items/SolariteSwordDesc	Text		A superior weapon for obliterating foes.	Doskonała broń do eliminowania wrogów.	Eine überragende Waffe, um deine Feinde zu vernichten.
+Items/SolariteWorkbench	Text		Solarite Workbench	Solarytowy stół warsztatowy	Solarit-Werkbank
+Items/SolariteWorkbenchDesc	Text		A superior workbench to be prepared for dire trials.	Doskonały stół warsztatowy do przygotowania się na ciężkie próby.	Eine überragende Werkbank, um sich auf schwierige Abenteuer vorzubereiten.
+Items/SolidSpikeback	Text		Solid Spikeback	Solidny kolcogrzbiet	Stein-Stachelrücken
+Items/SolidSpikebackDesc	Text		A very defensive fish with rock-hard skin and sharp spikes protruding out.	Bardzo odporna ryba z twardą jak skała skórą i wystającymi ostrymi kolcami.	Ein sehr defensiver Fisch mit steinharter Haut und hervorstehenden spitzen Stacheln.
+Items/SparkleOpal	Text		Sparkle Opal	Błyszczący opal	Funkel-Opal
+Items/SparkleOpalDesc	Text		A magnificent gemstone that glitters in pastel rainbow colors.	Wspaniały kamień szlachetny, który mieni się pastelowymi kolorami tęczy.	Ein herrlicher Edelstein, der in pastelligen Regenbogenfarben glitzert.
+Items/SpearRack	Text		Spear Rack	Stojak na włócznię	Speer-Ständer
+Items/SpearRackDesc	Text		A crudely-made rack that is used by cavelings to have their spears at the ready.	Prymitywnie wykonany stojak używany przez jaskiniowców do trzymania włóczni w pogotowiu.	Ein primitives Gestell, das die Grottlinge benutzen, um ihre Speere griffbereit zu haben.
+Items/SpeederBoat	Text		Speeder	Motorówka	Flitzer
+Items/SpeederBoatDesc	Text		Allows travelling over water much faster.	Umożliwia szybsze podróżowanie po wodzie.	Erlaubt das schnelle Reisen über Gewässer.
+Items/SpeederGoKart	Text		Speeder Go-kart	Szybki gokart	Flitzer-Go-Kart
+Items/SpeederGoKartDesc	Text		A racing kart with a nice red finish, able to outrace other vehicles after a longer acceleration time. Tends to drift a lot when driving too fast.	Wyścigowy gokart z ładnym czerwonym wykończeniem, zdolny do wyprzedzania innych pojazdów po dłuższym czasie przyspieszania. Ma tendencję do driftu przy zbyt szybkiej jeździe.	Ein Rennwagen mit einer schönen roten Lackierung. Ist in der Lage, andere Gefährte nach einer längeren Beschleunigunsgzeit abzuhängen, kommt aber leicht ins Schleudern, wenn er zu schnell gefahren wird.
+Items/SpikeTrap	Text		Spike Trap	Pułapka z kolcami	Stachelfalle
+Items/SpikeTrapDesc	Text		A mechanical spike trap that only reacts to enemies.	Mechaniczna pułapka z kolcami, która reaguje tylko na wrogów.	Eine mechanische Stachelfalle, die nur auf Feinde reagiert.
+Items/SpineRing	Text		Spine Ring	Pierścień kręgowy	Wirbelring
+Items/SpineRingDesc	Text		A ring found at the skeleton of a giant ocean creature. It's made from tiny cervical vertebrae.	Pierścień znaleziony przy szkielecie gigantycznego stworzenia oceanicznego. Wykonany jest z małego kręgu szyjnego.	Ein Ring, der neben dem Skelett einer riesigen Ozeankreatur gefunden wurde. Er besteht aus winzigen Rückenwirbeln.
+Items/SpiritVeil	Text		Spirit Veil	Duchowy płaszczyk	Geist-Schleier
+Items/SpiritVeilDesc	Text		A ghastly fish that floats in the air like it's still underwater.	Upiorna ryba, która unosi się w powietrzu, jakby wciąż znajdowała się pod wodą.	Ein gespenstischer Fisch, der in der Luft schwebt, als wäre er noch immer unter Wasser.
+Items/SpookyPopCandy	Text		Spooky Pop Candy	Upiorny wyskokowy cukierek	Schlabberspuk-Lolli
+Items/SpookyPopCandyDesc	Text		It looks almost too scary to remove its wrapper. What tasty horrors might await behind?	Wygląda prawie zbyt przerażająco, by zdjąć opakowanie. Jakie smakowite okropności mogą się za nim kryć?	Er sieht fast zu gruselig zum Auspacken aus. Welche schmackhaften Schrecken mögen sich dahinter verbergen?
+Items/Sprinkler	Text		Sprinkler	Zraszacz	Sprinkler
+Items/SprinklerDesc	Text		A useful gadget that waters tilled ground in a small radius.	Przydatny gadżet, który podlewa uprawianą ziemię w niewielkim promieniu.	Ein nützliches Gerät, das bearbeiteten Boden in einem kleinen Radius bewässert.
+Items/Stalagmite	Text		Stalagmite	Stalagmit	Stalagmit
+Items/StalagmiteDesc	Text		A stone pillar grown over thousands of years through dripping water.	Kamienny filar wyrastający przez tysiące lat dzięki kapiącej wodzie.	Eine Steinsäule, die über tausende von Jahren durch herabtropfendes Wasser entstanden ist.
+Items/StarlightNautilus	Text		Starlight Nautilus	Gwiezdny Nautilus	Sternlicht-Nautilus
+Items/StarlightNautilusDesc	Text		A mysterious living fossil that seems to have fused with precious metals and gemstones to ascend to a higher state of being.	Tajemnicza żywa skamielina, która najwyraźniej połączyła się z metalami szlachetnymi i klejnotami, aby wznieść się do wyższego stanu istnienia.	Ein mysteriöses lebendes Fossil, das scheinbar mit wertvollen Metallen und Edelsteinen verschmolzen ist, um eine höhere Bewusstseinsebene zu erlangen.
+Items/StarlightShards	Text		Starlight Shards	Gwiezdne odłamki	Sternlicht-Fragmente
+Items/StarlightShardsDesc	Text		A collection of sparkling colorful crystals. If they grew natural or not remains a mystery.	Kolekcja mieniących się kolorowych kryształów. To, czy powstały naturalnie, czy nie, pozostaje tajemnicą.	Eine Handvoll glitzernder, bunter Kristalle. Ob sie natürlich entstanden sind, bleibt ein Rätsel.
+Items/StoneBridge	Text		Stone Bridge	Kamienny most	Stein-Brücke
+Items/StoneBridgeDesc	Text		Used to cross chasms and water but also makes for a nice floor.	Służy do przekraczania przepaści i wody, ale stanowi też ładną podłogę.	Wird genutzt, um Abgründe und Gewässer zu überqueren, macht sich aber auch gut als Boden.
+Items/StoneCap	Text		Stone Cap	Kamienne grzyby	Stein-Kappe
+Items/StoneCapDesc	Text		Rock-hard mushrooms attached to a stone slate. They look edible but are actually fossilized.	Twarde jak skała grzyby przyczepione do kamiennego łupka. Wyglądają na jadalne, ale w rzeczywistości są skamieniałe.	Steinharte Pilze, die mit Felsboden verwachsen sind. Sie sehen essbar aus, sind aber fossilisiert.
+Items/StoneCavelingMoss	Text		Stone Moss	Kamienny mech	Stein-Moos
+Items/StoneCavelingMossDesc	Text		Ground plants found in the Forgotten Ruins. They grow tiny berries that attract cavelings of the corresponding area.	Rośliny naziemne występujące w Zapomnianych Ruinach. Rosną na nich małe jagody, które przyciągają jaskiniowców z danego obszaru.	Bodenpflanzen, die in den Vergessenen Ruinen gefunden werden. Auf ihnen wachsen winzige Beeren, die Grottlinge aus dem jeweiligen Areal anlocken.
+Items/StoneDoor	Text		Stone Door	Kamienne drzwi	Steintür
+Items/StoneDoorDesc	Text		A sturdier door to block out unwanted creatures.	Mocniejsze drzwi blokujące dostęp niechcianym stworzeniom.	Eine widerstandfähigere Tür, um ungewünschte Kreaturen auszusperren.
+Items/StoneFence	Text		Stone Fence	Kamienne ogrodzenie	Steinzaun
+Items/StoneFenceDesc	Text		A more reinforced fence to protect what's rightfully yours.	Bardziej wzmocnione ogrodzenie chroniące to, co należy do ciebie.	Ein verstärkter Zaun, um zu schützen, was rechtens dir gehört.
+Items/StoneFenceGate	Text		Stone Fence Gate	Kamienna brama	Steinzaun-Tor
+Items/StoneFenceGateDesc	Text		A simple gate for the stone fence.	Prosta brama do kamiennego ogrodzenia.	Ein einfaches Tor für den Steinzaun.
+Items/StoneFloor	Text		Stone Floor	Kamienna podłoga	Steinboden
+Items/StoneFloorDesc	Text		Simple rock tiles for decorating your base.	Proste płytki skalne do dekoracji bazy.	Einfache Steinbodenfliese, um deine Basis zu verschönern.
+Items/StonePedestal	Text		Stone Pedestal	Kamienny piedestał	Steinsockel
+Items/StonePedestalDesc	Text		Showcase your findings!	Wyeksponuj swoje znaleziska!	Präsentiere deine Fundsachen!
+Items/StoneStalagmite	Text		Stone Stalagmite	Kamienny stalagmit	Fels-Stalagmit
+Items/StoneStalagmiteDesc	Text		A stone pillar slowly raised over thousands of years through tectonic pressure.	Kamienny filar powoli wznoszący się przez tysiące lat dzięki ciśnieniu tektonicznemu.	Eine Steinsäule, die sich über tausende von Jahren durch tektonischen Druck erhoben hat.
+Items/StoneskinPotion	Text		Stoneskin Potion	Mikstura kamiennej skóry	Steinhaut-Trank
+Items/StoneskinPotionDesc	Text		A salty elixir that hardens your skin and makes you more resilient.	Słony eliksir, który utwardza skórę i zwiększa jej wytrzymałość.	Ein salziges Elixier, das deine Haut verhärtet und dich widerstandsfähiger macht.
+Items/SuitBreastArmor	Text		Suit Jacket	Marynarka	Anzugjacke
+Items/SuitBreastArmorDesc	Text		The elegant jacket has a stuck-on rose and is perfect for a romantic dinner. Remember to show up on time.	Elegancka marynarka z przyklejoną różą, idealna na romantyczną kolację. Pamiętaj, aby pojawić się na czas.	Diese elegante Jacke mit Ansteck-Rose ist perfekt für ein romantisches Abendessen. Denk daran, pünktlich zu erscheinen.
+Items/SuitHelm	Text		Top Hat	Kapelusz	Zylinder
+Items/SuitHelmDesc	Text		This hat is worn by everyone who considers themself an admirable adventurer equipped with a captivating charisma.	Ten kapelusz nosi każdy, kto uważa się za godnego podziwu poszukiwacza przygód wyposażonego w zniewalającą charyzmę.	Dieser Hut ist das Markenzeichen eines jeden bewundernswerten Abenteurers und seines hinreißenden Charismas.
+Items/SuitPantsArmor	Text		Suit Pants	Spodnie garniturowe	Anzughose
+Items/SuitPantsArmorDesc	Text		These pants are made from black, silky farbic and hint at sophistication and confidence.	Te spodnie są wykonane z czarnej, jedwabistej tkaniny i podkreślają wyrafinowanie i pewność siebie.	Diese Hose ist aus schwarzem, seidigem Stoff geschneidert und zeugt von Kultiviertheit und Selbstvertrauen.
+Items/SunglassesHelm	Text		Sunglasses	Okulary przeciwsłoneczne	Sonnenbrille
+Items/SunglassesHelmDesc	Text		Nothing is more important than sporting cool sunglasses, even when it's dark.	Nie ma nic ważniejszego niż fajne okulary przeciwsłoneczne, nawet gdy jest ciemno.	Nichts ist wichtiger als eine coole Sonnenbrille zu tragen, selbst im Dunkeln.
+Items/Sunrice	Text		Sunrice	Słoneczne żyto	Sonnreis
+Items/SunriceDesc	Text		A vibrant crop that braces you for tough encounters.	Żywa roślina, która przygotuje cię na trudne spotkania.	Ein kräftiges Getreide, das dich auf schwere Auseinandersetzungen vorbereitet.
+Items/SunriceRare	Text		Golden Sunrice	Złote słoneczne żyto	Goldener Sonnreis
+Items/SunriceRareDesc	Text		A very rare variant of the common sunrice.	Bardzo rzadka odmiana zwykłego słonecznego żyta	Eine sehr seltene Variante des Sonnreises.
+Items/SunriceSeed	Text		Sunrice Seed	Nasiona słonecznego żyta	Sonnreis-Samen
+Items/SunriceSeedDesc	Text		Grows into a bracing crop when planted. Only grows in crystal ground.	Po zasadzeniu wyrasta na wzmacniającą roślinę. Rośnie tylko w krystalicznej ziemi.	Wächst zu einem stärkenden Getreide heran, wenn er eingepflanzt wird. Wächst nur in Kristallboden.
+Items/SurfaceCoral1Large	Text		Large Bicolor Coral	Duży koral dwubarwny	Große Zweifarb-Koralle
+Items/SurfaceCoral1LargeDesc	Text		A large group of two coral species that grow together to form a symbiosis.	Duża grupa dwóch gatunków koralowców, które rosną razem, tworząc symbiozę.	Eine große Ansammlung zweier Korallenarten, die zusammenwachsen, um eine Symbiose einzugehen.
+Items/SurfaceCoral1Medium	Text		Bicolor Coral	Koral dwubarwny	Zweifarb-Koralle
+Items/SurfaceCoral1MediumDesc	Text		A group of two coral species that grow together to form a symbiosis.	Grupa dwóch gatunków koralowców, które rosną razem, tworząc symbiozę.	Eine Ansammlung zweier Korallenarten, die zusammenwachsen, um eine Symbiose einzugehen.
+Items/SurfaceCoral1Small	Text		Small Bicolor Coral	Mały koral dwubarwny	Kleine Zweifarb-Koralle
+Items/SurfaceCoral1SmallDesc	Text		A small group of two coral species that grow together to form a symbiosis.	Mała grupa dwóch gatunków koralowców, które rosną razem, tworząc symbiozę.	Eine kleine Ansammlung zweier Korallenarten, die zusammenwachsen, um eine Symbiose einzugehen.
+Items/SurfaceCoral2Large	Text		Large Crimson Coral	Duży koral karmazynowy	Große Purpur-Koralle
+Items/SurfaceCoral2LargeDesc	Text		A large branchy coral that provides protection and food for small sea critters.	Duży, rozgałęziony koralowiec, który zapewnia ochronę i pożywienie dla małych organizmów morskich.	Eine große, verzweigte Koralle, die Schutz und Nahrung für kleine Meerestiere bietet.
+Items/SurfaceCoral2Small	Text		Crimson Coral	Karmazynowy koral	Purpur-Koralle
+Items/SurfaceCoral2SmallDesc	Text		A small branchy coral that provides protection and food for small sea critters.	Mały, rozgałęziony koralowiec, który zapewnia ochronę i pożywienie dla małych stworzeń morskich.	Eine kleine, verzweigte Koralle, die Schutz und Nahrung für kleine Meerestiere bietet.
+Items/SurfaceCoral3Large	Text		Large Dish Coral	Duży koral talerzowy	Große Teller-Koralle
+Items/SurfaceCoral3LargeDesc	Text		A large coral that develops a wide brim above the water surface, providing a safe island for small organisms.	Duży koralowiec, który rozwija szeroką obręcz nad powierzchnią wody, zapewniając bezpieczną wyspę dla małych organizmów.	Eine große Koralle, die einen weiten Schirm über der Wasseroberfläche ausbildet und so eine Insel der Sicherheit für kleine Organismen bietet.
+Items/SurfaceCoral3Small	Text		Dish Coral	Koral talerzowy	Teller-Koralle
+Items/SurfaceCoral3SmallDesc	Text		A small coral that develops a wide brim above the water surface, providing a safe island for small organisms.	Mały koralowiec, który rozwija szeroką obręcz nad powierzchnią wody, zapewniając bezpieczną wyspę dla małych organizmów.	Eine kleine Koralle, die einen weiten Schirm über der Wasseroberfläche ausbildet und so eine Insel der Sicherheit für kleine Organismen bietet.
+Items/SuspendedButterfly	Text		Suspended Butterfly	Zawieszony motyl	Erstarrter Schmetterling
+Items/SuspendedButterflyDesc	Text		A fragile butterfly that has been completely corrupted by crystals.	Kruchy motyl, który został całkowicie zniekształcony przez kryształy.	Ein zerbrechlicher Schmetterling, dessen Körper komplett von Kristallen durchzogen ist.
+Items/SwiftFeather	Text		Swift Feather	Pióro zwinności	Flink-Feder
+Items/SwiftFeatherDesc	Text		A mysterious feather that allows you to dash out of danger.	Tajemnicze pióro, które pozwala uskoczyć przed niebezpieczeństwem.	Eine mysteriöse Feder, die es dir erlaubt, aus gefährlichen Situationen zu preschen.
 Items/SwiftRing	Text		Swift Ring	Pierścień szybkości	Flink-Ring
 Items/SwiftRingDesc	Text		Wearing this winged ring creates a slight wind that pushes you forward.	Noszenie tego uskrzydlonego pierścienia tworzy lekki wiatr, który popycha cię do przodu.	Wird dieser Ring getragen, entsteht ein leichter Rückenwind, der dich vorwärtstreibt.
-Items/SwimingPantsArmorBlue	Text		Blue Board Shorts		Blaue Boardshorts
-Items/SwimingPantsArmorBlueDesc	Text		Wearing those chill blue shorts tempts you to constantly form the shaka sign with your hand.		Wenn du diese entspannten, blauen Shorts trägst, willst du permanent das Shaka-Symbol mit deiner Hand machen.
-Items/SwimingPantsArmorGreen	Text		Green Board Shorts		Grüne Boardshorts
-Items/SwimingPantsArmorGreenDesc	Text		Wearing those chill green shorts tempts you to constantly form the shaka sign with your hand.		Wenn du diese entspannten, grünen Shorts trägst, willst du permanent das Shaka-Symbol mit deiner Hand machen.
-Items/SwimingPantsArmorRed	Text		Red Board Shorts		Rote Boardshorts
-Items/SwimingPantsArmorRedDesc	Text		Wearing those chill red shorts tempts you to constantly form the shaka sign with your hand.		Wenn du diese entspannten, roten Shorts trägst, willst du permanent das Shaka-Symbol mit deiner Hand machen.
-Items/TableSaw	Text		Table Saw		Tischsäge
-Items/TableSawDesc	Text		A simple saw to cut materials into slates. Requires electricity.		Eine einfache Säge, um Materialien in Scheiben zu schneiden. Benötigt Elektrizität.
-Items/TallCrystalGrass	Text		Tall Crystal Grass		Hohes Kristallgras
-Items/TallCrystalGrassDesc	Text		A tall, strange growth that consists of broad, transparent leaves.		Ein hohes, merkwürdiges Gewächs, das aus breiten, transparenten Blättern besteht.
-Items/TallGrass	Text		Tall Grass		Hohes Gras
-Items/TallGrassDesc	Text		A large patch of tall grass to use as a decorative.		Ein großes Büschel hohes Gras, kann zum Dekorieren verwendet werden.
-Items/TallLandKelp	Text		Tall Land Algae		Große Land-Alge
-Items/TallLandKelpDesc	Text		A large type of algae that can grow outside of water.		Eine große Algenart, die außerhalb von Gewässern wachsen kann.
-Items/TamerBreastArmor	Text		Wildwarden Pauldrons		Wildwächter-Schulterstücke
-Items/TamerBreastArmorDesc	Text		This wooden chest-piece is wrapped in a bundle of mysteriously unwithering leaves.		Dieser hölzerne Schulterpanzer ist ein Bündel aus mysteriösen, ewig währenden Blättern gehüllt.
-Items/TamerHelm	Text		Wildwarden Mask		Wildwächter-Maske
-Items/TamerHelmDesc	Text		A wooden mask with decorative leaves and horns attuned to the wildlife.		Eine hölzerne Maske mit dekorativen Blättern und Hörnern, die auf die Tierwelt eingestimmt ist.
-Items/TamerNecklace	Text		Wildwarden Necklace		Wildwächter-Halskette
-Items/TamerNecklaceDesc	Text		An animalistic emblem decorated with golden trinkets that ring out to the wild.		Ein animalistisches Emblem, dekoriert mit goldenen Schmuckstücken, deren Klimpern in die Wildnis hinaus hallt.
-Items/TamerPantsArmor	Text		Wildwarden Pants		Wildwächter-Hose
-Items/TamerPantsArmorDesc	Text		Leafy legwear made from ancient wooden roots that seem to connect with the earth whenever one stands still.		Blättrige Beinkleidung aus uralten Wurzeln, die sich mit der Erde zu verbinden scheinen, sobald man still steht.
-Items/TamerRing	Text		Wildwarden Ring		Wildwächter-Ring
-Items/TamerRingDesc	Text		A wooden ring with two smaller rings around it. One symbolises the warden and the other the bonded beast.		Ein Holzring mit zwei kleineren Ringen daran. Einer symbolisiert den Wächter und der andere das ihm anvertraute Tier.
-Items/TealPalaceFish	Text		Teal Palace Fish		Türkiser Palastfisch
-Items/TealPalaceFishDesc	Text		A greenish-blue, odd-looking fish with weirdly shaped fins.		Ein grün-blauer, merkwürdig aussehender Fisch mit seltsam geformten Flossen.
-Items/TempleAzeosUrn	Text		Azeos Urn		Azeos-Urne
-Items/TempleAzeosUrnDesc	Text		This decorative vase has been made in honor of Azeos, the Sky Titan.		Diese dekorative Vase wurde zu Ehren von Azeos, dem Himmelstitanen hergestellt.
-Items/TempleGlyphBlock	Text		Glyph Stele		Glyphenstele
-Items/TempleGlyphBlockBroken	Text		Broken Glyph Stele		Zerstörte Glyphenstele
-Items/TempleGlyphBlockBrokenDesc	Text		A block made from hazy blue glass with golden etchings. The information written on it is lost forever as it has been smashed on purpose.		Ein Block aus trübem blauem Glas mit goldenen Ätzungen. Die darauf enthaltenen Informationen sind für immer verloren, da er absichtlich zertrümmert wurde.
-Items/TempleGlyphBlockDesc	Text		A block made from hazy blue glass with golden etchings. It seems like these were used as memorials or to mark places of importance.		Ein Block aus trübem, blauen Glas mit goldenen Eingravierungen. Es sieht so aus, als ob sie als Denkmäler oder zur Markierung wichtiger Orte verwendet wurden.
-Items/TempleGlyphWall1	Text		Angled Glyph Wall		Gewinkelte Glyphenwand
-Items/TempleGlyphWall1Desc	Text		An ancient sandstone wall with an angled top and covered in indecipherable glyphs. What stories do they tell?		Eine uralte Sandsteinwand mit einer angewinkelten Oberkante, bedeckt mit unentzifferbaren Glyphen. Welche Geschichten erzählen sie?
-Items/TempleGlyphWall2	Text		Glyph Wall		Glyphenwand
-Items/TempleGlyphWall2Desc	Text		An ancient sandstone wall covered in indecipherable glyphs. What stories do they tell?		Eine alte Sandsteinwand, bedeckt mit Glyphen, die nicht zu entziffern sind. Welche Geschichten erzählen sie?
-Items/TempleGuardianStatue	Text		Temple Guardian Statue		Tempelwächter-Statue
-Items/TempleGuardianStatueDesc	Text		This intimidating statue depicts an ancient guardian in exotic garment. Its kneeling pose hints at being in service of a king.		Diese furchteinflößende Statue stellt einen antiken Wächter in einem exotischen Gewand dar. Seine kniende Haltung deutet darauf hin, dass er im Dienste eines Königs stand.
-Items/TempleGuardianStatueRaided	Text		Raided Temple Guardian Statue		Beschädigte Tempelwächter-Statue
-Items/TempleGuardianStatueRaidedDesc	Text		A statue wilfully destroyed by grave thiefs. It has been partially relieved of the green daggers in its stony clasp.		Eine Statue, die mutwillig von Grabräubern zerstört wurde. Sie wurde teilweise von den grünen Dolchen in ihrem steinernen Griff erleichtert.
-Items/TempleOmorothUrn	Text		Omoroth Urn		Omoroth-Urne
-Items/TempleOmorothUrnDesc	Text		This decorative vase has been made in honor of Omoroth, the Sea Titan.		Diese dekorative Vase wurde zu Ehren von Omoroth, dem Meerestitanen hergestellt.
-Items/TemplePedestal	Text		Temple Pedestal		Tempelsockel
-Items/TemplePedestalDesc	Text		An ancient golden stand that seems to have held royal belongings once.		Ein uralter goldener Sockel, auf dem anscheinend einst königliche Besitztümer aufbewahrt wurden.
-Items/TemplePillar	Text		Temple Pillar		Tempelsäule
-Items/TemplePillarDesc	Text		A very beautiful, decorative pillar only found in ancient desert temples.		Eine sehr schöne, dekorative Säule, die man nur in uralten Wüstentempeln findet.
-Items/TemplePitPillar	Text		Temple Pit Pillar		Tempel-Abgrundsäule
-Items/TemplePitPillarDesc	Text		A load-bearing pillar which holds up the foundation of the ancient desert temples.		Eine tragende Säule, die das Fundament der uralten Wüstentempel bildet.
-Items/TempleRaAkarUrn	Text		Ra-Akar Urn		Ra-Akar-Urne
-Items/TempleRaAkarUrnDesc	Text		This decorative vase has been made in honor of Ra-Akar, the Sand Titan.		Diese dekorative Vase wurde zu Ehren von Ra-Akar, dem Sand-Titanen hergestellt.
-Items/TempleThrone	Text		Temple Throne		Tempel-Thron
-Items/TempleThroneDesc	Text		A golden throne reserved only for the buttocks of ancient royalty.		Ein goldener Thron, der nur den Gesäßen uralten Adels vorbehalten ist.
-Items/TempleTurret	Text		Stone Turret		Stein-Geschützturm
-Items/TempleTurretDesc	Text		This ancient trap shoots projectiles at anyone walking into its line of sight. Its inner workings are concealed by a caveling grimace.		Diese uralte Falle schießt auf alles, was sich in ihre Sichtlinie bewegt. Ihr innerer Mechanismus ist hinter einer Grottling-Grimasse versteckt.
-Items/TentacleJerky	Text		Tentacle Jerky		Trockententakel
-Items/TentacleJerkyDesc	Text		A dried piece of tentacle. It's quite tough and keeps your teeth busy.		Ein gepökeltes Stück eines Tentakels. Es ist ziemlich zäh und beschäftigt deine Zähne für eine Weile.
-Items/TentacleTrophy	Text		Tentacle Figurine		Tentakel-Figur
-Items/TentacleTrophyDesc	Text		A lifelike representation of a Tentacle.		Eine lebensechte Nachbildung eines Tentakels.
-Items/TentacleWhip	Text		Tentacle Whip		Tentakel-Peitsche
-Items/TentacleWhipDesc	Text		An elastic tentacle that lashes out at enemies from afar. It's still alive and wiggling in your hand.		Ein elastischer Tentakel, der nach weit entfernten Feinden ausschlägt. Er ist immer noch lebendig und zappelt in deiner Hand.
-Items/ThinWallGlass	Text		Thin Glass Wall		Dünne Glaswand
-Items/ThinWallGlassDesc	Text		A thin wall made from glass, perfect to create enclosures.		Eine dünne Wand aus Glas, die sich perfekt für ein Gehege macht.
-Items/ThornWood	Text		Thorn Wood		Dornholz
-Items/ThornWoodDesc	Text		A brambly variant of the common root wood.		Eine dornige Variante des herkömmlichen Wurzelholzes.
-Items/ThrowingDaggers	Text		Throwing Daggers		Wurfdolche
-Items/ThrowingDaggersDesc	Text		A set of curved blades. They're evenly balanced so that throwing them is as easy as pointing a finger.		Ein Set geschwungener Klingen. Sie sind perfekt ausbalanciert, sie zu werfen ist so einfach wie auf jemanden mit dem Finger zu zeigen.
-Items/Thumper	Text		Thumper		Erschütterer
-Items/ThumperDesc	Text		A strange apparatus that sends shockwaves deep into the ground. Using it at the right spot may awaken something from its slumber. Is consumed on successful use.		Eine merkwürdige Apparatur, die Schockwellen tief ins Bodeninnere sendet. Am richtigen Ort verwendet, könnte man damit etwas aus einem tiefen Schlummer erwecken. Wird bei erfolgreicher Nutzung verbraucht.
-Items/TiltedGrave	Text		Tilted Grave		Verschobenes Grab
-Items/TiltedGraveDesc	Text		An empty grave that has been moved out of its alignment in search for valuables.		Ein leeres Grab, das auf der Suche nach Wertgegenständen aus seiner Position gerissen wurde.
-Items/TimelessHourglass	Text		Timeless Hourglass		Zeitlose Sanduhr
-Items/TimelessHourglassDesc	Text		An intact hourglass, filled with blue sand. It is not clear what period of time it measures, as the sand seems to fall incredibly slowly.		Eine intakte Sanduhr, gefüllt mit blauem Sand. Es ist nicht klar, welche Zeitabstände sie misst, da der Sand wie in Zeitlupe fällt.
-Items/TinAnvil	Text		Tin Anvil		Zinn-Amboss
-Items/TinAnvilDesc	Text		A better anvil for creating gear and weapons more suited for survival.		Ein besserer Amboss, um Ausrüstung und Waffen fürs Überleben herzustellen.
-Items/TinAxe	Text		Tin Axe		Zinn-Axt
-Items/TinAxeDesc	Text		A slower but more damaging weapon against multiple enemies.		Eine langsamere, aber stärkere Waffe gegen viele Feinde.
-Items/TinBar	Text		Tin Bar		Zinn-Barren
-Items/TinBarDesc	Text		A tough metal ingot for blacksmithing.		Ein harter Metallbarren für das Schmieden.
-Items/TinBreastArmor	Text		Tin Breastplate		Zinn-Brustplatte
-Items/TinBreastArmorDesc	Text		A good armor to survive battles more easily.		Eine gute Rüstung, die das Überleben in Kämpfen einfacher macht.
-Items/TinDagger	Text		Tin Dagger		Zinn-Dolch
-Items/TinDaggerDesc	Text		A small blade that allows for quick stabs.		Eine kleine Klinge, die schnelle Stiche ermöglicht.
-Items/TinFishingRod	Text		Tin Fishing Rod		Zinn-Angel
-Items/TinFishingRodDesc	Text		A durable tool for pulling up bigger fish.		Ein haltbares Werkzeug, um größere Fische an Land zu ziehen.
-Items/TinHelm	Text		Tin Helm		Zinn-Helm
-Items/TinHelmDesc	Text		This helm repels slight blows to the head.		Dieser Helm wehrt leichte Schläge gegen den Kopf ab.
-Items/TinHoe	Text		Tin Hoe		Zinn-Hacke
-Items/TinHoeDesc	Text		A durable tool to prepare ground for farming. Covers an area of 3x3 tiles.		Ein haltbares Werkzeug, um Böden für den Anbau vorzubereiten. Deckt eine Fläche von 3x3 Fliesen ab.
-Items/TinMiningPick	Text		Tin Pickaxe		Zinn-Spitzhacke
-Items/TinMiningPickDesc	Text		A durable tool, good for breaking down walls more easily.		Ein haltbares Werkzeug. Es eignet sich hervorragend, um Wände einfacher zerstören zu können.
-Items/TinOre	Text		Tin Ore		Zinnerz
-Items/TinOreBoulder	Text		Tin Ore Boulder		Zinn-Erzblock
-Items/TinOreDesc	Text		Commonly found in clay walls.		Wird häufig in Lehmwänden gefunden.
-Items/TinPantsArmor	Text		Tin Pants		Zinn-Beinrüstung
-Items/TinPantsArmorDesc	Text		Some tin for the shin.		Zinn am Bein muss sein.
-Items/TinShovel	Text		Tin Shovel		Zinn-Schaufel
-Items/TinShovelDesc	Text		A durable shovel, well-suited for digging up ground.		Eine haltbare Schaufel. Sie eignet sich hervorragend, um Böden zu entfernen.
-Items/TinSledge	Text		Tin Sledge Hammer		Zinn-Hammer
-Items/TinSledgeDesc	Text		A bulky weapon for smashing foes and walls.		Eine klotzige Waffe, um Widersacher zu erschlagen und Wände zu zertrümmern.
-Items/TinSword	Text		Tin Sword		Zinn-Schwert
-Items/TinSwordDesc	Text		A sharp weapon for slaying foes.		Eine scharfe Waffe, um Widersacher zu erschlagen.
-Items/TinWorkbench	Text		Tin Workbench		Zinn-Werkbank
-Items/TinWorkbenchDesc	Text		A better workbench to prepare you for the underground world.		Eine bessere Werkbank, um sich aufs Überleben im Untergrund vorzubereiten.
-Items/TopazRing	Text		Topaz Ring		Topaz-Ring
-Items/TopazRingDesc	Text		A precious little ring with a yellow gemstone on top.		Ein wertvoller, kleiner Ring mit einem gelben Edelstein als Hauptstück.
-Items/TorcNecklace	Text		Torc Necklace		Torques-Halsreif
-Items/TorcNecklaceDesc	Text		A piece of jewelry for the neck that's merely a hoop with a gap. Worn by many different cultures throughout world history.		Ein Schmuckstück für den Hals, das lediglich ein Reif mit einer Lücke ist. Wurde von vielen verschiedenen Kulturen in der Weltgeschichte getragen.
-Items/Torch	Text		Torch		Fackel
-Items/TorchDesc	Text		Light up your surroundings. Can also be placed on the ground and attached to walls.		Erhellt deine Umgebung. Kann auf dem Boden platziert und an Wänden angebracht werden.
-Items/TorchPlural	Text		Torches		Fackeln
-Items/TornisKingfish	Text		Tornis Kingfish		Tornis-Königsfisch
-Items/TornisKingfishDesc	Text		An extremely rare enigma of sea life that seems to unify all other fish beneath it.		Eine extrem seltene Erscheinung der Meereswelt, die alle anderen Fische unter sich zu vereinen scheint.
-Items/TowelBreastArmor	Text		Towel		Handtuch
-Items/TowelBreastArmorDesc	Text		A towel is about the most massively useful thing an underground miner can have.		Ein Handtuch, heißt es, ist so ungefähr das nützlichste, was der Untergrund-Bergmann besitzen kann.
-Items/TowerShellNecklace	Text		Tower Shell Necklace		Turmschnecken-Halskette
-Items/TowerShellNecklaceDesc	Text		A necklace featuring a coiling shell. Its ever turning spiral structure is captivating.		Eine Halskette mit einer geringelten Muschel. Ihre stets kreisende Spiralstruktur zieht dich in ihren Bann.
-Items/TrenchcoatBreastArmor	Text		Trenchcoat		Langer Mantel
-Items/TrenchcoatBreastArmorDesc	Text		A coat with deep pockets fit for a hoggish, dodgy fancier.		Ein Mantel mit tiefen Taschen für gierige, zwielichtige Gesellen.
-Items/TriangleTrinket	Text		Triangle Trinket		Dreiecks-Schmuckstück
-Items/TriangleTrinketDesc	Text		A strange gold piece vibrating with energy.		Ein merkwürdiges Goldstück, das vor Energie vibriert.
-Items/TriopsFossil	Text		Triops Fossil		Triopsfossil
-Items/TriopsFossilDesc	Text		The petrified remains of a species that still exists to this day, even after 220 million years.		Die versteinerten Überreste einer Spezies, die selbst heute noch, nach 220 Millionen Jahren, existiert.
-Items/Turtle	Text		Kelple		Tangrücken
-Items/TurtleBaby	Text		Kelple Hatchling		Tangrücken-Schlüpfling
-Items/TurtleBabyDesc	Text		A young that comes up from the ground once it had enough time to slumber in the dark. Its shell is still blank but in time it will be populated by the kelp that it feeds on.		Ein Jungtier, das aus der Erde hervorkommt, wenn es genug Zeit mit Schlafen verbracht hat. Sein Panzer ist noch blank, wird sich aber schnell mit Algen anreichern, die es vorher gefressen hat.
-Items/TurtleDesc	Text		A marine reptile and natural gardener, that chews down on kelp when it grows too plenty. It doesn’t need many nutrients, so whatever it eats comes out again in a condensed ball shape that is free for the taking.		Ein Meeresreptil und natürlicher Gärtner, der sich an Seetang labt, wenn zu viel davon wächst. Es braucht nicht viele Nährstoffe, daher kommt alles, was es frisst, wieder als komprimierte Kugel heraus, die eingesammelt werden kann.
-Items/TurtleShell	Text		Turtle Shell		Schildkröten-Panzer
-Items/TurtleShellDesc	Text		A hard shell that once belonged to a graceful sea creature. You feel much more protected when holding it.		Ein harter Panzer, der einst einer grazilen Meereskreatur gehörte. Du fühlst dich geschützt, wenn du ihn bei dir trägst.
-Items/TwistedAgate	Text		Twisted Agate		Verdrehter Achat
-Items/TwistedAgateDesc	Text		A green gem shaped like a spiral.		Ein spiralförmiger, grüner Edelstein.
-Items/UnlockedKingChest	Text		Desert King Chest		Wüstenkönig-Kiste
-Items/UnlockedKingChestDesc	Text		An intricate, unique chest with a purple gemstone locked in its center.		Eine filigrane, einzigartige Kiste, in deren Mitte ein violetter Edelstein eingefasst ist.
-Items/UnlockedPrinceChest	Text		Desert Prince Chest		Wüstenprinz-Kiste
-Items/UnlockedPrinceChestDesc	Text		An intricate, unique chest with an orange gemstone locked in its center.		Eine filigrane, einzigartige Kiste, in deren Mitte ein oranger Edelstein eingefasst ist.
-Items/UnlockedQueenChest	Text		Desert Queen Chest		Wüstenkönigin-Kiste
-Items/UnlockedQueenChestDesc	Text		An intricate, unique chest with a green gemstone locked in its center.		Eine filigrane, einzigartige Kiste, in deren Mitte ein grüner Edelstein eingefasst ist.
-Items/UnusualPotion	Text		Unusual Potion		Ungewöhnlicher Trank
-Items/UnusualPotionDesc	Text		A two-component potion that is risky to drink.		Ein Zweikomponenten-Trank, dessen Genuss ein Risiko mit sich bringt.
-Items/UpgradeForge	Text		Upgrade Station		Nachrüst-Station
-Items/UpgradeForgeDesc	Text		A high-tech workbench to upgrade tools and weapons, making them stronger and more effective.		Eine Hightech-Werkbank zum Aufwerten von Werkzeugen und Waffen, um ihre Stärke und Effektivität zu verbessern.
-Items/ValentineCandles	Text		Valentine's Candles		Valentins-Kerzen
-Items/ValentineCandlesDesc	Text		A handful of small, pink candles that fill the air with a whiff of vanille.		Eine Handvoll kleiner, pinker Kerzen, die die Luft mit einem sanften Vanilleduft füllen.
-Items/ValentineChest	Text		Valentine's Chest		Valentins-Kiste
-Items/ValentineChestDesc	Text		This heart-themed chest is great to tuck away little trinkets of love.		Diese Kiste mit Herzmotiv eignet sich perfekt, um kleine Liebesbotschaften aufzubewahren.
-Items/ValentineFloorPetals	Text		Rose Petal Flooring		Rosenblatt-Bodenbelag
-Items/ValentineFloorPetalsDesc	Text		This little paper bag contains enough rose petals to cover a 1x1 floor tile with them. Great to lay out a path of love.		Diese kleine Papiertüte enthält genügend Rosenblätter, um einen 1x1 Bodenbereich damit zu bedecken. Eignet sich großartig für einen Pfad der Liebe.
-Items/ValentineLetter	Text		Love Letter		Liebesbrief
-Items/ValentineLetterDesc	Text		A scented letter that contains words of love and appreciation. Give it to someone in dire need of affection.		Ein parfümierter Brief, der Worte der Liebe und Anerkennung enthält. Gib ihn jemandem, der Zuneigung dringend nötig hat.
-Items/ValentineNecklace	Text		Valentine Necklace		Valentins-Halskette
-Items/ValentineNecklaceDesc	Text		A golden necklace featuring a big, shiny heart. You feel something you can't describe, when wearing it so close to your own.		Eine goldene Halskette mit einem großen, glänzenden Herzen als Anhänger. Du fühlst etwas Unbeschreibliches, wenn du es so nah an deinem eigenen trägst.
-Items/ValentinePainting	Text		Heart Painting		Herz-Gemälde
-Items/ValentinePaintingDesc	Text		A simple painting showing nothing more than a heart. Sometimes this is all one needs in these dark times.		Ein einfaches Gemälde, das ein kleines Herz zeigt. Manchmal ist das alles, was man in diesen dunklen Zeiten braucht.
-Items/ValentinePlushie	Text		Caveling Brute Plushie		Grottling-Schläger-Plüschtier
-Items/ValentinePlushieDesc	Text		A big plushie, resembling a caveling brute holding a heart. Even those need a little bit of love sometimes.		Ein großes Plüschtier, das einen Grottling-Schläger mit einem Herzen darstellt. Selbst sie brauchen manchmal ein kleines bisschen Liebe.
-Items/ValentinePresent	Text		Valentine's Gift		Valentins-Geschenk
-Items/ValentinePresentDesc	Text		This rose and silver-colored gift is packed with a variety of different charming items.		Dieses rosa- und silberfarbene Geschenk ist vollgepackt mit einer Auswahl an verschiedenen, bezaubernden Gegenständen.
-Items/ValentineRing	Text		Valentine Ring		Valentins-Ring
-Items/ValentineRingDesc	Text		A golden ring featuring a candy-colored heart. The perfect gift to give to someone you like.		Ein goldener Ring, auf dem ein bonbonfarbenes Herz trohnt. Das perfekte Geschenk für jemanden, der dir am Herzen liegt.
-Items/ValentineRug	Text		Heart-shaped Rug		Herzförmiger Teppich
-Items/ValentineRugDesc	Text		"Nothing speaks ""love"" like a big fuzzy heart on the floor. It smells like wool and lavender."		Nichts repräsentiert Liebe so gut wie ein riesiges, wuscheliges Herz auf dem Boden. Es duftet nach Wolle und Lavendel.
-Items/ValentineWallHearts	Text		Wall Hearts		Wandherzen
-Items/ValentineWallHeartsDesc	Text		An assortment of hearts cut from paper, they look great on walls and make a base just a little bit more lovely.		Eine Auswahl von Herzen aus Papier, sie sehen wunderbar an Wänden aus und machen die Basis ein kleines bisschen lieblicher.
-Items/ValentineWorkbench	Text		Valentine Crafting Table		Valentins-Basteltisch
-Items/ValentineWorkbenchDesc	Text		A workbench containing tools and blueprints to create some beautiful decorative items.		Eine Werkbank, die Werkzeuge und Blaupausen enthält, um damit wunderschöne dekorative Gegenstände zu fertigen.
-Items/VampireCapeBreastArmor	Text		Dracularva Cape		Dracularven-Umhang
-Items/VampireCapeBreastArmorDesc	Text		A black satin cape fit for a vampire. The crimson flip-up collar adds to the evil look.		Ein schwarzer Seidenumhang, würdig eines Vampirs. Der purpurrote Klappkragen macht ihn noch furchterregender.
-Items/VampireEel	Text		Vampire Eel		Vampir-Aal
-Items/VampireEelDesc	Text		A bloodsucking fish latching onto everything that has a pulse.		Ein blutsaugender Fisch, der sich an alles anheftet, das einen Puls hat.
-Items/VendingMachine	Text		Vending Machine		Automat
-Items/VendingMachineBroken	Text		Broken Vending Machine		Kaputter Automat
-Items/VendingMachineBrokenDesc	Text		A broken automaton that once contained snacks and other goods. It looks like it was forced open.		Ein zerstörter Automat, der einst Snacks und andere Güter enthielt. Es sieht aus, als wäre er absichtlich aufgebrochen worden.
-Items/VendingMachineDesc	Text		An old, still functioning automaton that is proof of advanced technology and a sophisticated society.		Ein alter, intakter Automat, der Zeuge fortschrittlicher Technologie und einer hoch entwickelten Gesellschaft ist.
-Items/VerdantDragonfish	Text		Verdant Dragonfish		Grüner Drachenfisch
-Items/VerdantDragonfishDesc	Text		This draconic fish has green scales that can withstand remarkably high temperatures.		Dieser drakonische Fisch besitzt grüne Schuppen, die bemerkenswert hohen Temperaturen widerstehen können.
-Items/WallAlienBlock	Text		Alien Tech Block		Alientechnologie-Block
-Items/WallAlienBlockDesc	Text		A mysterious intricate piece of architecture.		Ein mysteriöses und komplexes architektonisches Werk.
-Items/WallCityBlock	Text		Metropolis Block		Metropolis-Block
-Items/WallCityBlockDesc	Text		A sturdy piece of city architecture, decorated with glass and gold.		Ein robustes Werk der Stadt-Architektur, dekoriert mit Glas und Gold.
-Items/WallClayBlock	Text		Clay Block		Lehm-Block
-Items/WallClayBlockDesc	Text		A red, wet piece of clay.		Ein rötlicher Block feuchten Lehms.
-Items/WallCoralBlock	Text		Coral Wall		Korallen-Wand
-Items/WallCoralBlockDesc	Text		A pinkish tiled wall section.		Ein pinkfarbenes, gefliestes Stück Wand.
-Items/WallCrystalBlock	Text		Crystal Block		Kristall-Block
-Items/WallCrystalBlockDesc	Text		A blue, glistening piece of crystal.		Ein blaues, glänzendes Stück Kristall.
-Items/WallDarkStoneBlock	Text		Dark Stone Block		Dunkler Stein-Block
-Items/WallDarkStoneBlockDesc	Text		A sturdy dark piece of stone.		Ein robustes, dunkles Stück Stein.
-Items/WallDesertBlock	Text		Desert Block		Wüsten-Block
-Items/WallDesertBlockDesc	Text		A sandy piece of desert stone.		Ein sandiger Block Wüstengestein.
-Items/WallDesertTempleBlock	Text		Desert Temple Block		Wüstentempel-Block
-Items/WallDesertTempleBlock2	Text		Maze Block		Labyrinth-Block
-Items/WallDesertTempleBlock2Desc	Text		An extremely durable block used to build ancient mazes.		Ein extrem widerstandsfähiger Block, der für den Bau uralter Labyrinthe genutzt wurde.
-Items/WallDesertTempleBlockDesc	Text		A sturdy piece of ancient architecture, decorated with tiles and gold.		Ein uraltes und robustes Architekturwerk, dekoriert mit Fliesen und Gold.
-Items/WallDirtBlock	Text		Dirt Block		Erd-Block
-Items/WallDirtBlockDesc	Text		A brown solid piece of dirt.		Ein brauner, massiver Klumpen Erde.
-Items/WallEerieBlock	Text		Eerie Wall		Unheimliche Wand
-Items/WallEerieBlockDesc	Text		A ghostly wooden wall section.		Ein gespenstisches, hölzernes Stück Wand.
-Items/WallExplosiveBlock	Text		Explosives Deposit		Sprengstoff-Depot
-Items/WallExplosiveBlockDesc	Text		A highly dangerous box of explosives that can be placed like a wall. Don't hit it or it will blow up right in your face.		Eine hochgefährliche Kiste voller Sprengstoff, die wie eine Wand platziert werden kann. Nicht draufschlagen, sonst fliegt sie dir um die Ohren.
-Items/WallGalaxiteBlock	Text		Galaxite Wall		Galaxit-Wand
-Items/WallGalaxiteBlockDesc	Text		An otherwordly wall speckled with glittering stars.		Eine außerweltliche Wand, die mit glitzernden Sternchen überzogen ist.
-Items/WallGlassBlock	Text		Glass Wall		Glaswand
-Items/WallGlassBlockDesc	Text		A solid wall made from glass. Works well for building a base or enclosures.		Eine solide Wand aus Glas. Macht sich wunderbar zum Anlegen einer Basis oder eines Geheges.
-Items/WallGleamWoodBlock	Text		Gleam Wood Wall		Glimmerholz-Wand
-Items/WallGleamWoodBlockDesc	Text		An enigmatic wall reinforced with glimmering plates.		Eine rätselhafte Wand, die mit schimmernden Platten verstärkt ist.
-Items/WallGrassBlock	Text		Grass Block		Gras-Block
-Items/WallGrassBlockDesc	Text		A lush piece of vertical plants.		Ein üppiges Stück aufrechter Pflanzen.
-Items/WallHiveBlock	Text		Larva Hive Block		Larvenbau-Block
-Items/WallHiveBlockDesc	Text		A lumpy… living piece of hive material.		Ein klumpiges ... lebendiges Stück Larvenbau-Material.
-Items/WallLavaBlock	Text		Lava Rock Block		Lavagestein-Block
-Items/WallLavaBlockDesc	Text		A piece of molten rock.		Ein Stück geschmolzenes Gestein.
-Items/WallLimestoneBlock	Text		Beach Block		Strand-Block
-Items/WallLimestoneBlockDesc	Text		A sandy piece of the coastal stone.		Ein sandiger Block Küstengestein.
-Items/WallMeadowBlock	Text		Meadow Block		Wiesen-Block
-Items/WallMeadowBlockDesc	Text		A mellow piece of earth with little summer flowers growing on it.		Ein weicher Brocken Erde, auf dem kleine Sommerblümchen wachsen.
-Items/WallMoldBlock	Text		Mold Block		Schimmel-Block
-Items/WallMoldBlockDesc	Text		A pungent piece of mold.		Ein fauliger Klumpen Schimmel.
-Items/WallNaturalExplosiveBlock	Text		Thermite Wall		Thermit-Wand
-Items/WallNaturalExplosiveBlockDesc	Text		An unstable, explosive piece of wall.		Ein instabiles, explosives Stück Wand.
-Items/WallObsidianBlock	Text		Obsidian Block		Obsidian-Block
-Items/WallObsidianBlockDesc	Text		An indestructible piece of obsidian. You’re not supposed to have this…		Ein unzerstörbarer Obsidian-Block. Du solltest das eigentlich nicht haben ...
-Items/WallPaintableBlock	Text		Paintable Wall		Bemalbare Wand
-Items/WallPaintableBlockDesc	Text		A bleak stone wall ready to be turned lively with colors.		Eine bemalbare, blanke Steinwand, um deine Basis farbenfroher zu machen.
-Items/WallSandBlock	Text		Sand Block		Sand-Block
-Items/WallSandBlockDesc	Text		A yellow fragile piece of sand.		Ein gelber, zerbrechlicher Klumpen Sand.
-Items/WallScarletBlock	Text		Scarlet Wall		Skarlit-Wand
-Items/WallScarletBlockDesc	Text		A reinforced metal wall to set up your base for tough encounters.		Eine verstärkte Metallwand, um deine Basis auf gefährliche Begegnungen vorzubereiten.
-Items/WallSnowBlock	Text		Snow Block		Schnee-Block
-Items/WallSnowBlockDesc	Text		A white cold piece of snow.		Ein kalter, weißer Klumpen Schnee.
-Items/WallStoneBlock	Text		Stone Block		Stein-Block
-Items/WallStoneBlockDesc	Text		A sturdy piece of stone.		Ein robuster Block Stein.
-Items/WallStoneBricksBlock	Text		Stone Bricks Wall		Steinziegel-Wand
-Items/WallStoneBricksBlockDesc	Text		A solid wall made with interlocking blocks.		Eine solide Wand aus ineinandergreifenden Blöcken.
-Items/WallStrawBlock	Text		Straw-bale Wall		Strohballen-Wand
-Items/WallStrawBlockDesc	Text		A reinforced straw wall to set up a cozy farm.		Eine verstärkte Strohwand, um eine gemütliche Farm anzulegen.
-Items/WallTurfBlock	Text		Turf Block		Torf-Block
-Items/WallTurfBlockDesc	Text		A soft mossy piece of turf.		Ein weiches, bemoostes Stück Torf.
-Items/WallWoodBlock	Text		Wood Wall		Holzwand
-Items/WallWoodBlockDesc	Text		A solid wall made from wood. Works well for building a base.		Eine solide Wand aus Holz. Macht sich gut, um daraus eine Basis zu bauen.
-Items/WashBasin	Text		Wash Basin		Becken
-Items/WashBasinDesc	Text		A container used to store water and filling up watering cans.		Ein Behälter, in dem Wasser aufbewahrt und Gießkannen aufgefüllt werden können.
-Items/WaterCan	Text		Watering Can		Gießkanne
-Items/WaterCanDesc	Text		Used to water seeds and soil.		Wird genutzt, um Böden und Samen zu bewässern.
-Items/WaterKelp	Text		Sun Kelp		Sonnentang
-Items/WaterKelpDesc	Text		A large seaweed that lives off of the light cast down into the wilderness.		Eine große Seepflanze, die durch das Licht gedeiht, welches in der Wildnis herabscheint.
-Items/WaterLily	Text		Azeos Lily		Azeos-Lilie
-Items/WaterLilyDesc	Text		A floating plant that is part of a rich ecosystem in the wilderness waters.		Eine schwimmende Pflanze, die einen Teil des reichen Ökosystems in den Gewässern der Wildnis bildet.
-Items/WaterWell	Text		Water Well		Brunnen
-Items/WaterWellDesc	Text		An ancient stone well to take water from.		Ein antiker Steinbrunnen, aus dem du Wasser schöpfen kannst.
-Items/WeddingDressArmor	Text		Wedding Dress		Hochzeitskleid
-Items/WeddingDressArmorDesc	Text		A simple, white dress elevating the beauty of its wearer. There are many occasions to wear it but the most important one is being a bride.		Ein einfaches weißes Kleid, das die Schönheit seines Trägers hervorhebt. Es gibt viele Anlässe, es zu tragen, aber der wichtigste ist, eine Braut zu sein.
-Items/WeddingHelm	Text		Flower Crown		Blumenkrone
-Items/WeddingHelmDesc	Text		A beautiful crown made from leaves and pink roses. It resembles a love that feels like eternal spring.		Eine wunderschöne Krone, gefertigt aus Blättern und pinken Rosen. Sie erinnert an eine Liebe, die sich wie ein ewig währender Frühling anfühlt.
-Items/Wheelbarrow	Text		Old Wheelbarrow		Alte Schubkarre
-Items/WheelbarrowDesc	Text		A broken wheelbarrow stuck in its own molten contents. It seems like it couldn't withstand the extreme heat.		Eine kaputte Schubkarre, die in ihrem eigenen geschmolzenen Inhalt feststeckt. Offenbar hat sie der extremen Hitze nicht standgehalten.
-Items/WhiteCherryFlower	Text		White Cherry Blossom		Weiße Kirschblüte
-Items/WhiteCherryFlowerDesc	Text		A silky white blossom that fell from a beautiful tree. In full bloom it has a faint almond fragrance and reminds one of the joys of life.		Eine seidig weiße Blüte, die von einem wunderschönen Baum gefallen ist. In voller Pracht verströmt sie ein leichtes Mandelaroma und erinnert einen an die Freuden des Lebens.
-Items/WhiteCherryTree	Text		White Cherry Tree		Weißer Kirschbaum
-Items/WhiteCherryTreeDesc	Text		This beautiful white tree is a traditional symbol of the joys of life. It is said that in spring a fairy maiden descends to awake the sleeping cherry trees with her breath.		Dieser wunderschöne Baum ist ein traditionelles Symbol aller Lebensfreuden. Der Legende nach steigt eine Fee jeden Frühling vom Himmel herab, um die schlafenden Kirschbäume mit ihrem Atem zu wecken.
-Items/WhiteCoralotl	Text		White Coralotl		Weißer Korallotl
-Items/WhiteCoralotlDesc	Text		A small white amphibian with outward-protruding gills that look like corals. It also uses them to draw nutrients out of the waters of the Sunken Sea.		Eine kleine, weiße Amphibie mit äußeren, korallenähnlichen Kiemen. Sie werden auch genutzt, um Nährstoffe aus dem Wasser des Versunkenen Meeres zu ziehen.
-Items/WhiteGlassRing	Text		White Glass Ring		Weißglas-Ring
-Items/WhiteGlassRingDesc	Text		This ring is made from a milky, translucent material. The light it reflects makes it harder for enemies to hit you.		Dieser Ring besteht aus einem milchigen, halbdurchsichtigen Material. Das Licht, das er reflektiert, erschwert es den Feinden, dich zu treffen.
-Items/WhiteRoseBouquet	Text		White Rose Bouquet		Weißer Rosenstrauß
-Items/WhiteRoseBouquetDesc	Text		This beautiful bouquet made from white roses will elevate the look of every room. Give it to someone you like dearly.		Dieser wunderschöne Strauß aus weißen Rosen wird das Ambiente eines jeden Raumes bereichern. Gib ihn jemandem, der dir sehr wichtig ist.
-Items/WhiteWhistle	Text		White Whistle		Weißpfeife
-Items/WhiteWhistleDesc	Text		A rare artifact made from precious, white stone. It doesn't produce a sound when you try to use it.		Ein seltenes Artefakt aus kostbarem weißem Gestein. Es erklingt kein Ton, wenn du hineinbläst.
-Items/WinterBell	Text		Winter Bell		Winterglöckchen
-Items/WinterBellDesc	Text		This golden and white bell produces a fine ringing sound, it's faint and reminds one of falling snow.		Dieses golden-weiße Glöckchen lässt einen feinen Ton erklingen, er ist sehr leise und erinnert an fallenden Schnee.
-Items/WinterCookies	Text		Winter Cookies		Winter-Plätzchen
-Items/WinterCookiesDesc	Text		Nicely decorated this handful of cookies will put one in a seasonal mood. There's even a little core-shaped one in there.		Mit diesen liebevoll dekorierten Plätzchen kommt eine wahrhaft festliche Stimmung auf. Eins davon ist sogar wie der Kern selbst geformt.
-Items/WinterDinner	Text		Winter Dinner		Winter-Festessen
-Items/WinterDinnerDesc	Text		A full meal to warm your belly in the cold season. Prepared with a roasted larva, hot heartberry sauce, dumplings and some greens.		Eine vollwertige Mahlzeit, genau richtig, um dich zur kalten Jahreszeit aufzuwärmen. Zubereitet wurde sie mit einem Larvenbraten, heißer Herzbeeren-Sauce, Knödeln und etwas Grünzeug.
-Items/WonkyMinecart	Text		Wonky Minecart		Wackeliger Minenwagen
-Items/WonkyMinecartDesc	Text		Allows riding the railways.		Erlaubt das Reisen auf Gleisen.
-Items/Wood	Text		Wood		Holz
-Items/WoodBow	Text		Wood Bow		Holz-Bogen
+Items/SwimingPantsArmorBlue	Text		Blue Board Shorts	Niebieskie szorty	Blaue Boardshorts
+Items/SwimingPantsArmorBlueDesc	Text		Wearing those chill blue shorts tempts you to constantly form the shaka sign with your hand.	Noszenie tych niebieskich szortów kusi do ciągłego formowania ręką znaku shaka.	Wenn du diese entspannten, blauen Shorts trägst, willst du permanent das Shaka-Symbol mit deiner Hand machen.
+Items/SwimingPantsArmorGreen	Text		Green Board Shorts	Zielone szorty	Grüne Boardshorts
+Items/SwimingPantsArmorGreenDesc	Text		Wearing those chill green shorts tempts you to constantly form the shaka sign with your hand.	Noszenie tych zielonych szortów kusi do ciągłego formowania dłonią znaku shaka.	Wenn du diese entspannten, grünen Shorts trägst, willst du permanent das Shaka-Symbol mit deiner Hand machen.
+Items/SwimingPantsArmorRed	Text		Red Board Shorts	Czerwone 	Rote Boardshorts
+Items/SwimingPantsArmorRedDesc	Text		Wearing those chill red shorts tempts you to constantly form the shaka sign with your hand.	Noszenie tych czerwonych szortów kusi do ciągłego formowania ręką znaku shaka.	Wenn du diese entspannten, roten Shorts trägst, willst du permanent das Shaka-Symbol mit deiner Hand machen.
+Items/TableSaw	Text		Table Saw	Piła stołowa	Tischsäge
+Items/TableSawDesc	Text		A simple saw to cut materials into slates. Requires electricity.	Prosta piła do cięcia materiałów na deski. Wymaga elektryczności.	Eine einfache Säge, um Materialien in Scheiben zu schneiden. Benötigt Elektrizität.
+Items/TallCrystalGrass	Text		Tall Crystal Grass	Wysoka kryształowa trawa	Hohes Kristallgras
+Items/TallCrystalGrassDesc	Text		A tall, strange growth that consists of broad, transparent leaves.	Wysoka, dziwna roślina składająca się z szerokich, przezroczystych liści.	Ein hohes, merkwürdiges Gewächs, das aus breiten, transparenten Blättern besteht.
+Items/TallGrass	Text		Tall Grass	Wysoka trawa	Hohes Gras
+Items/TallGrassDesc	Text		A large patch of tall grass to use as a decorative.	Duży płat wysokiej trawy do wykorzystania jako dekoracja.	Ein großes Büschel hohes Gras, kann zum Dekorieren verwendet werden.
+Items/TallLandKelp	Text		Tall Land Algae	Wysokie glony lądowe	Große Land-Alge
+Items/TallLandKelpDesc	Text		A large type of algae that can grow outside of water.	Duży rodzaj glonów, które mogą rosnąć poza wodą.	Eine große Algenart, die außerhalb von Gewässern wachsen kann.
+Items/TamerBreastArmor	Text		Wildwarden Pauldrons	Naramiennik dzikiego strażnika	Wildwächter-Schulterstücke
+Items/TamerBreastArmorDesc	Text		This wooden chest-piece is wrapped in a bundle of mysteriously unwithering leaves.	Ten drewniany napierśnik jest owinięty w wiązkę tajemniczo nieusychających liści.	Dieser hölzerne Schulterpanzer ist ein Bündel aus mysteriösen, ewig währenden Blättern gehüllt.
+Items/TamerHelm	Text		Wildwarden Mask	Maska dzikiego strażnika	Wildwächter-Maske
+Items/TamerHelmDesc	Text		A wooden mask with decorative leaves and horns attuned to the wildlife.	Drewniana maska z ozdobnymi liśćmi i rogami nawiązującymi do dzikiej przyrody.	Eine hölzerne Maske mit dekorativen Blättern und Hörnern, die auf die Tierwelt eingestimmt ist.
+Items/TamerNecklace	Text		Wildwarden Necklace	Naszyjnik dzikiego strażnika	Wildwächter-Halskette
+Items/TamerNecklaceDesc	Text		An animalistic emblem decorated with golden trinkets that ring out to the wild.	Zwierzęcy emblemat ozdobiony złotymi drobiazgami, które przywołują dziką naturę.	Ein animalistisches Emblem, dekoriert mit goldenen Schmuckstücken, deren Klimpern in die Wildnis hinaus hallt.
+Items/TamerPantsArmor	Text		Wildwarden Pants	Spodnie dzikiego strażnika	Wildwächter-Hose
+Items/TamerPantsArmorDesc	Text		Leafy legwear made from ancient wooden roots that seem to connect with the earth whenever one stands still.	Liściaste spodnie wykonane z pradawnych drewnianych korzeni, które zdają się łączyć z ziemią, gdy ktoś stoi nieruchomo.	Blättrige Beinkleidung aus uralten Wurzeln, die sich mit der Erde zu verbinden scheinen, sobald man still steht.
+Items/TamerRing	Text		Wildwarden Ring	Pierścień dzikiego strażnika	Wildwächter-Ring
+Items/TamerRingDesc	Text		A wooden ring with two smaller rings around it. One symbolises the warden and the other the bonded beast.	Drewniany pierścień z dwoma mniejszymi pierścieniami wokół niego. Jeden symbolizuje strażnika, a drugi związaną bestię.	Ein Holzring mit zwei kleineren Ringen daran. Einer symbolisiert den Wächter und der andere das ihm anvertraute Tier.
+Items/TealPalaceFish	Text		Teal Palace Fish	Turkusowa ryba pałacowa	Türkiser Palastfisch
+Items/TealPalaceFishDesc	Text		A greenish-blue, odd-looking fish with weirdly shaped fins.	Zielonkawo-niebieska, dziwnie wyglądająca ryba z dziwnie ukształtowanymi płetwami.	Ein grün-blauer, merkwürdig aussehender Fisch mit seltsam geformten Flossen.
+Items/TempleAzeosUrn	Text		Azeos Urn	Urna Azeosa	Azeos-Urne
+Items/TempleAzeosUrnDesc	Text		This decorative vase has been made in honor of Azeos, the Sky Titan.	Ta dekoracyjna waza została wykonana na cześć Azeosa, Podniebnego Tytana.	Diese dekorative Vase wurde zu Ehren von Azeos, dem Himmelstitanen hergestellt.
+Items/TempleGlyphBlock	Text		Glyph Stele	Stela z glifami	Glyphenstele
+Items/TempleGlyphBlockBroken	Text		Broken Glyph Stele	Złamana z glifami	Zerstörte Glyphenstele
+Items/TempleGlyphBlockBrokenDesc	Text		A block made from hazy blue glass with golden etchings. The information written on it is lost forever as it has been smashed on purpose.	Blok wykonany z zamglonego niebieskiego szkła ze złotymi wyryciami. Zapisane na nim informacje przepadły na zawsze, ponieważ został on celowo rozbity.	Ein Block aus trübem blauem Glas mit goldenen Ätzungen. Die darauf enthaltenen Informationen sind für immer verloren, da er absichtlich zertrümmert wurde.
+Items/TempleGlyphBlockDesc	Text		A block made from hazy blue glass with golden etchings. It seems like these were used as memorials or to mark places of importance.	Blok wykonany z zamglonego niebieskiego szkła ze złotymi wyryciami. Wygląda na to, że były używane jako pomniki lub do oznaczania ważnych miejsc.	Ein Block aus trübem, blauen Glas mit goldenen Eingravierungen. Es sieht so aus, als ob sie als Denkmäler oder zur Markierung wichtiger Orte verwendet wurden.
+Items/TempleGlyphWall1	Text		Angled Glyph Wall	Zakrzywiony mur z glifami	Gewinkelte Glyphenwand
+Items/TempleGlyphWall1Desc	Text		An ancient sandstone wall with an angled top and covered in indecipherable glyphs. What stories do they tell?	Starożytna ściana z piaskowca z pochyłym wierzchołkiem, pokryta nieczytelnymi glifami. Jakie historie one opowiadają?	Eine uralte Sandsteinwand mit einer angewinkelten Oberkante, bedeckt mit unentzifferbaren Glyphen. Welche Geschichten erzählen sie?
+Items/TempleGlyphWall2	Text		Glyph Wall	Ściana z glifami	Glyphenwand
+Items/TempleGlyphWall2Desc	Text		An ancient sandstone wall covered in indecipherable glyphs. What stories do they tell?	Starożytna ściana z piaskowca pokryta niemożliwymi do odczytania glifami. Jakie historie one opowiadają?	Eine alte Sandsteinwand, bedeckt mit Glyphen, die nicht zu entziffern sind. Welche Geschichten erzählen sie?
+Items/TempleGuardianStatue	Text		Temple Guardian Statue	Posąg Strażnika Świątyni	Tempelwächter-Statue
+Items/TempleGuardianStatueDesc	Text		This intimidating statue depicts an ancient guardian in exotic garment. Its kneeling pose hints at being in service of a king.	Ten onieśmielający posąg przedstawia starożytnego strażnika w egzotycznej szacie. Jego klęcząca pozycja sugeruje, że służy królowi.	Diese furchteinflößende Statue stellt einen antiken Wächter in einem exotischen Gewand dar. Seine kniende Haltung deutet darauf hin, dass er im Dienste eines Königs stand.
+Items/TempleGuardianStatueRaided	Text		Raided Temple Guardian Statue	Zniszczony posąg strażnika świątyni	Beschädigte Tempelwächter-Statue
+Items/TempleGuardianStatueRaidedDesc	Text		A statue wilfully destroyed by grave thiefs. It has been partially relieved of the green daggers in its stony clasp.	Posąg umyślnie zniszczony przez złodziei grobów. Został częściowo pozbawiony zielonych sztyletów w kamiennej klamrze.	Eine Statue, die mutwillig von Grabräubern zerstört wurde. Sie wurde teilweise von den grünen Dolchen in ihrem steinernen Griff erleichtert.
+Items/TempleOmorothUrn	Text		Omoroth Urn	Urna Omorotha	Omoroth-Urne
+Items/TempleOmorothUrnDesc	Text		This decorative vase has been made in honor of Omoroth, the Sea Titan.	Ta dekoracyjna waza została wykonana na cześć Omorotha, Morskiego Tytana.	Diese dekorative Vase wurde zu Ehren von Omoroth, dem Meerestitanen hergestellt.
+Items/TemplePedestal	Text		Temple Pedestal	Świątynny piedestał	Tempelsockel
+Items/TemplePedestalDesc	Text		An ancient golden stand that seems to have held royal belongings once.	Starożytny, złoty stojak, na którym niegdyś przechowywano królewskie rzeczy.	Ein uralter goldener Sockel, auf dem anscheinend einst königliche Besitztümer aufbewahrt wurden.
+Items/TemplePillar	Text		Temple Pillar	Filar świątynny	Tempelsäule
+Items/TemplePillarDesc	Text		A very beautiful, decorative pillar only found in ancient desert temples.	Bardzo piękny, dekoracyjny filar, który można znaleźć tylko w starożytnych pustynnych świątyniach.	Eine sehr schöne, dekorative Säule, die man nur in uralten Wüstentempeln findet.
+Items/TemplePitPillar	Text		Temple Pit Pillar	Słup świątynny	Tempel-Abgrundsäule
+Items/TemplePitPillarDesc	Text		A load-bearing pillar which holds up the foundation of the ancient desert temples.	Filar nośny, który podtrzymuje fundamenty starożytnych pustynnych świątyń.	Eine tragende Säule, die das Fundament der uralten Wüstentempel bildet.
+Items/TempleRaAkarUrn	Text		Ra-Akar Urn	Urna Ra-Akara	Ra-Akar-Urne
+Items/TempleRaAkarUrnDesc	Text		This decorative vase has been made in honor of Ra-Akar, the Sand Titan.	Ta dekoracyjna waza została wykonana na cześć Ra-Akara, Piaskowego Tytana.	Diese dekorative Vase wurde zu Ehren von Ra-Akar, dem Sand-Titanen hergestellt.
+Items/TempleThrone	Text		Temple Throne	Tron świątynny	Tempel-Thron
+Items/TempleThroneDesc	Text		A golden throne reserved only for the buttocks of ancient royalty.	Złoty tron zarezerwowany tylko dla pośladków starożytnej rodziny królewskiej.	Ein goldener Thron, der nur den Gesäßen uralten Adels vorbehalten ist.
+Items/TempleTurret	Text		Stone Turret	Kamienna wieżyczka	Stein-Geschützturm
+Items/TempleTurretDesc	Text		This ancient trap shoots projectiles at anyone walking into its line of sight. Its inner workings are concealed by a caveling grimace.	Ta starożytna pułapka strzela pociskami do każdego, kto znajdzie się w zasięgu jej wzroku. Jej wnętrze skrywa grymas jaskiniowca.	Diese uralte Falle schießt auf alles, was sich in ihre Sichtlinie bewegt. Ihr innerer Mechanismus ist hinter einer Grottling-Grimasse versteckt.
+Items/TentacleJerky	Text		Tentacle Jerky	Suszona macka	Trockententakel
+Items/TentacleJerkyDesc	Text		A dried piece of tentacle. It's quite tough and keeps your teeth busy.	Wysuszony kawałek macki. Jest dość twardy i zapewnia zajęcie dla zębów.	Ein gepökeltes Stück eines Tentakels. Es ist ziemlich zäh und beschäftigt deine Zähne für eine Weile.
+Items/TentacleTrophy	Text		Tentacle Figurine	Figurka macki	Tentakel-Figur
+Items/TentacleTrophyDesc	Text		A lifelike representation of a Tentacle.	Realistyczna reprezentacja macki.	Eine lebensechte Nachbildung eines Tentakels.
+Items/TentacleWhip	Text		Tentacle Whip	Bicz z macki	Tentakel-Peitsche
+Items/TentacleWhipDesc	Text		An elastic tentacle that lashes out at enemies from afar. It's still alive and wiggling in your hand.	Elastyczna macka, która atakuje wrogów z daleka. Wciąż żyje i porusza się w dłoni.	Ein elastischer Tentakel, der nach weit entfernten Feinden ausschlägt. Er ist immer noch lebendig und zappelt in deiner Hand.
+Items/ThinWallGlass	Text		Thin Glass Wall	Cienka szklana ściana	Dünne Glaswand
+Items/ThinWallGlassDesc	Text		A thin wall made from glass, perfect to create enclosures.	Cienka ściana wykonana ze szkła, idealna do tworzenia ogrodzeń.	Eine dünne Wand aus Glas, die sich perfekt für ein Gehege macht.
+Items/ThornWood	Text		Thorn Wood	Cierniste drewno	Dornholz
+Items/ThornWoodDesc	Text		A brambly variant of the common root wood.	Ciernista odmiana zwykłego drewna korzeniowego.	Eine dornige Variante des herkömmlichen Wurzelholzes.
+Items/ThrowingDaggers	Text		Throwing Daggers	Sztylety do rzucania	Wurfdolche
+Items/ThrowingDaggersDesc	Text		A set of curved blades. They're evenly balanced so that throwing them is as easy as pointing a finger.	Zestaw zakrzywionych ostrzy. Są równomiernie wyważone, dzięki czemu rzucanie nimi jest tak proste, jak wskazywanie palcem.	Ein Set geschwungener Klingen. Sie sind perfekt ausbalanciert, sie zu werfen ist so einfach wie auf jemanden mit dem Finger zu zeigen.
+Items/Thumper	Text		Thumper	Zderzacz	Erschütterer
+Items/ThumperDesc	Text		A strange apparatus that sends shockwaves deep into the ground. Using it at the right spot may awaken something from its slumber. Is consumed on successful use.	Dziwne urządzenie, które wysyła fale uderzeniowe w głąb ziemi. Użycie go w odpowiednim miejscu może obudzić coś ze snu. Zużywa się po udanym użyciu.	Eine merkwürdige Apparatur, die Schockwellen tief ins Bodeninnere sendet. Am richtigen Ort verwendet, könnte man damit etwas aus einem tiefen Schlummer erwecken. Wird bei erfolgreicher Nutzung verbraucht.
+Items/TiltedGrave	Text		Tilted Grave	Przechylony grób	Verschobenes Grab
+Items/TiltedGraveDesc	Text		An empty grave that has been moved out of its alignment in search for valuables.	Pusty grób, który został przesunięty w poszukiwaniu kosztowności.	Ein leeres Grab, das auf der Suche nach Wertgegenständen aus seiner Position gerissen wurde.
+Items/TimelessHourglass	Text		Timeless Hourglass	Bezczasowa klepsydra	Zeitlose Sanduhr
+Items/TimelessHourglassDesc	Text		An intact hourglass, filled with blue sand. It is not clear what period of time it measures, as the sand seems to fall incredibly slowly.	Nienaruszona klepsydra wypełniona niebieskim piaskiem. Nie jest jasne, jaki okres czasu odmierza, ponieważ piasek wydaje się opadać niezwykle wolno.	Eine intakte Sanduhr, gefüllt mit blauem Sand. Es ist nicht klar, welche Zeitabstände sie misst, da der Sand wie in Zeitlupe fällt.
+Items/TinAnvil	Text		Tin Anvil	Cynowe kowadło	Zinn-Amboss
+Items/TinAnvilDesc	Text		A better anvil for creating gear and weapons more suited for survival.	Lepsze kowadło do tworzenia sprzętu i broni bardziej nadających się do przetrwania.	Ein besserer Amboss, um Ausrüstung und Waffen fürs Überleben herzustellen.
+Items/TinAxe	Text		Tin Axe	Cynowy topór	Zinn-Axt
+Items/TinAxeDesc	Text		A slower but more damaging weapon against multiple enemies.	Wolniejsza, ale zadająca większe obrażenia broń przeciwko wielu wrogom.	Eine langsamere, aber stärkere Waffe gegen viele Feinde.
+Items/TinBar	Text		Tin Bar	Sztabka cyny	Zinn-Barren
+Items/TinBarDesc	Text		A tough metal ingot for blacksmithing.	Wytrzymała sztabka metalu do obróbki kowalskiej.	Ein harter Metallbarren für das Schmieden.
+Items/TinBreastArmor	Text		Tin Breastplate	Cynowy napierśnik	Zinn-Brustplatte
+Items/TinBreastArmorDesc	Text		A good armor to survive battles more easily.	Dobry pancerz pozwalający łatwiej przetrwać bitwy.	Eine gute Rüstung, die das Überleben in Kämpfen einfacher macht.
+Items/TinDagger	Text		Tin Dagger	Cynowy sztylet	Zinn-Dolch
+Items/TinDaggerDesc	Text		A small blade that allows for quick stabs.	Małe ostrze pozwalające na szybkie zadawanie ciosów.	Eine kleine Klinge, die schnelle Stiche ermöglicht.
+Items/TinFishingRod	Text		Tin Fishing Rod	Cynowa wędka	Zinn-Angel
+Items/TinFishingRodDesc	Text		A durable tool for pulling up bigger fish.	Wytrzymałe narzędzie do wyławiania większych ryb.	Ein haltbares Werkzeug, um größere Fische an Land zu ziehen.
+Items/TinHelm	Text		Tin Helm	Cynowy hełm	Zinn-Helm
+Items/TinHelmDesc	Text		This helm repels slight blows to the head.	Ten hełm odpiera lekkie ciosy w głowę.	Dieser Helm wehrt leichte Schläge gegen den Kopf ab.
+Items/TinHoe	Text		Tin Hoe	Cynowa motyka	Zinn-Hacke
+Items/TinHoeDesc	Text		A durable tool to prepare ground for farming. Covers an area of 3x3 tiles.	Wytrzymałe narzędzie do przygotowywania ziemi pod uprawę. Obejmuje obszar 3x3 pola.	Ein haltbares Werkzeug, um Böden für den Anbau vorzubereiten. Deckt eine Fläche von 3x3 Fliesen ab.
+Items/TinMiningPick	Text		Tin Pickaxe	Cynowy kilof	Zinn-Spitzhacke
+Items/TinMiningPickDesc	Text		A durable tool, good for breaking down walls more easily.	Wytrzymałe narzędzie, dobre do łatwiejszego niszczenia ścian.	Ein haltbares Werkzeug. Es eignet sich hervorragend, um Wände einfacher zerstören zu können.
+Items/TinOre	Text		Tin Ore	Ruda cyny	Zinnerz
+Items/TinOreBoulder	Text		Tin Ore Boulder	Głaz rudy cyny	Zinn-Erzblock
+Items/TinOreDesc	Text		Commonly found in clay walls.	Często spotykana w glinianych ścianach.	Wird häufig in Lehmwänden gefunden.
+Items/TinPantsArmor	Text		Tin Pants	Cynowe spodnie	Zinn-Beinrüstung
+Items/TinPantsArmorDesc	Text		Some tin for the shin.	Trochę cyny na goleń.	Zinn am Bein muss sein.
+Items/TinShovel	Text		Tin Shovel	Cynowa łopata	Zinn-Schaufel
+Items/TinShovelDesc	Text		A durable shovel, well-suited for digging up ground.	Wytrzymała łopata, dobrze nadająca się do kopania ziemi.	Eine haltbare Schaufel. Sie eignet sich hervorragend, um Böden zu entfernen.
+Items/TinSledge	Text		Tin Sledge Hammer	Cynowy młot	Zinn-Hammer
+Items/TinSledgeDesc	Text		A bulky weapon for smashing foes and walls.	Masywna broń do rozbijania wrogów i ścian.	Eine klotzige Waffe, um Widersacher zu erschlagen und Wände zu zertrümmern.
+Items/TinSword	Text		Tin Sword	Cynowy miecz	Zinn-Schwert
+Items/TinSwordDesc	Text		A sharp weapon for slaying foes.	Ostra broń do zabijania wrogów.	Eine scharfe Waffe, um Widersacher zu erschlagen.
+Items/TinWorkbench	Text		Tin Workbench	Cynowy stół warsztatowy	Zinn-Werkbank
+Items/TinWorkbenchDesc	Text		A better workbench to prepare you for the underground world.	Lepszy stół warsztatowy, który przygotuje cię na podziemny świat.	Eine bessere Werkbank, um sich aufs Überleben im Untergrund vorzubereiten.
+Items/TopazRing	Text		Topaz Ring	Pierścień z topazem	Topaz-Ring
+Items/TopazRingDesc	Text		A precious little ring with a yellow gemstone on top.	Cenny mały pierścień z żółtym kamieniem szlachetnym na szczycie.	Ein wertvoller, kleiner Ring mit einem gelben Edelstein als Hauptstück.
+Items/TorcNecklace	Text		Torc Necklace	Torkwes	Torques-Halsreif
+Items/TorcNecklaceDesc	Text		A piece of jewelry for the neck that's merely a hoop with a gap. Worn by many different cultures throughout world history.	Biżuteria na szyję, która jest jedynie obręczą z otworem. Noszony przez wiele różnych kultur w historii świata.	Ein Schmuckstück für den Hals, das lediglich ein Reif mit einer Lücke ist. Wurde von vielen verschiedenen Kulturen in der Weltgeschichte getragen.
+Items/Torch	Text		Torch	Pochodnia	Fackel
+Items/TorchDesc	Text		Light up your surroundings. Can also be placed on the ground and attached to walls.	Rozświetla otoczenie. Może być również umieszczona na ziemi lub przymocowana do ściany.	Erhellt deine Umgebung. Kann auf dem Boden platziert und an Wänden angebracht werden.
+Items/TorchPlural	Text		Torches	Pochodnie	Fackeln
+Items/TornisKingfish	Text		Tornis Kingfish	&	Tornis-Königsfisch
+Items/TornisKingfishDesc	Text		An extremely rare enigma of sea life that seems to unify all other fish beneath it.	Niezwykle rzadka zagadka życia morskiego, która zdaje się jednoczyć wszystkie inne ryby pod sobą.	Eine extrem seltene Erscheinung der Meereswelt, die alle anderen Fische unter sich zu vereinen scheint.
+Items/TowelBreastArmor	Text		Towel	Ręcznik	Handtuch
+Items/TowelBreastArmorDesc	Text		A towel is about the most massively useful thing an underground miner can have.	Ręcznik to najbardziej przydatna rzecz, jaką może mieć podziemny górnik.	Ein Handtuch, heißt es, ist so ungefähr das nützlichste, was der Untergrund-Bergmann besitzen kann.
+Items/TowerShellNecklace	Text		Tower Shell Necklace	Naszyjnik z długą muszlą	Turmschnecken-Halskette
+Items/TowerShellNecklaceDesc	Text		A necklace featuring a coiling shell. Its ever turning spiral structure is captivating.	Naszyjnik ze zwijającą się muszlą. Jego stale obracająca się spiralna struktura jest urzekająca.	Eine Halskette mit einer geringelten Muschel. Ihre stets kreisende Spiralstruktur zieht dich in ihren Bann.
+Items/TrenchcoatBreastArmor	Text		Trenchcoat	Płaszcz	Langer Mantel
+Items/TrenchcoatBreastArmorDesc	Text		A coat with deep pockets fit for a hoggish, dodgy fancier.	Płaszcz z głębokimi kieszeniami, odpowiedni dla podejrzanego szychy.	Ein Mantel mit tiefen Taschen für gierige, zwielichtige Gesellen.
+Items/TriangleTrinket	Text		Triangle Trinket	Trójkątny drobiazg	Dreiecks-Schmuckstück
+Items/TriangleTrinketDesc	Text		A strange gold piece vibrating with energy.	Dziwny złoty przedmiot wibrujący energią.	Ein merkwürdiges Goldstück, das vor Energie vibriert.
+Items/TriopsFossil	Text		Triops Fossil	Skamielina triopsa	Triopsfossil
+Items/TriopsFossilDesc	Text		The petrified remains of a species that still exists to this day, even after 220 million years.	Skamieniałe szczątki gatunku, który istnieje do dziś, nawet po 220 milionach lat.	Die versteinerten Überreste einer Spezies, die selbst heute noch, nach 220 Millionen Jahren, existiert.
+Items/Turtle	Text		Kelple	Wodorostek	Tangrücken
+Items/TurtleBaby	Text		Kelple Hatchling	Młody wodorostek	Tangrücken-Schlüpfling
+Items/TurtleBabyDesc	Text		A young that comes up from the ground once it had enough time to slumber in the dark. Its shell is still blank but in time it will be populated by the kelp that it feeds on.	Młode, które wyłania się z ziemi, gdy tylko zdążyło ułożyć się do snu w ciemności. Jego skorupa jest jeszcze pusta, ale z czasem zostanie zasiedlona przez wodorosty, którymi się żywi.	Ein Jungtier, das aus der Erde hervorkommt, wenn es genug Zeit mit Schlafen verbracht hat. Sein Panzer ist noch blank, wird sich aber schnell mit Algen anreichern, die es vorher gefressen hat.
+Items/TurtleDesc	Text		A marine reptile and natural gardener, that chews down on kelp when it grows too plenty. It doesn’t need many nutrients, so whatever it eats comes out again in a condensed ball shape that is free for the taking.	Gad morski i naturalny ogrodnik, który żuje wodorosty, gdy rosną zbyt obficie. Nie potrzebuje wielu składników odżywczych, więc wszystko, co zje, wychodzi z powrotem w postaci skondensowanej kuli, która jest wolna do wzięcia.	Ein Meeresreptil und natürlicher Gärtner, der sich an Seetang labt, wenn zu viel davon wächst. Es braucht nicht viele Nährstoffe, daher kommt alles, was es frisst, wieder als komprimierte Kugel heraus, die eingesammelt werden kann.
+Items/TurtleShell	Text		Turtle Shell	Skorupa żółwia	Schildkröten-Panzer
+Items/TurtleShellDesc	Text		A hard shell that once belonged to a graceful sea creature. You feel much more protected when holding it.	Twarda skorupa, która kiedyś należała do wdzięcznego stworzenia morskiego. Trzymając ją w ręku, czujesz się o wiele bardziej chroniony.	Ein harter Panzer, der einst einer grazilen Meereskreatur gehörte. Du fühlst dich geschützt, wenn du ihn bei dir trägst.
+Items/TwistedAgate	Text		Twisted Agate	Zakręcony agat	Verdrehter Achat
+Items/TwistedAgateDesc	Text		A green gem shaped like a spiral.	Zielony klejnot w kształcie spirali.	Ein spiralförmiger, grüner Edelstein.
+Items/UnlockedKingChest	Text		Desert King Chest	Skrzynia Króla Pustyni	Wüstenkönig-Kiste
+Items/UnlockedKingChestDesc	Text		An intricate, unique chest with a purple gemstone locked in its center.	Misterna, wyjątkowa skrzynia z fioletowym kamieniem szlachetnym umieszczonym w jej środku.	Eine filigrane, einzigartige Kiste, in deren Mitte ein violetter Edelstein eingefasst ist.
+Items/UnlockedPrinceChest	Text		Desert Prince Chest	Skrzynia Księcia Pustyni	Wüstenprinz-Kiste
+Items/UnlockedPrinceChestDesc	Text		An intricate, unique chest with an orange gemstone locked in its center.	Misterna, unikatowa skrzynia z pomarańczowym kamieniem szlachetnym umieszczonym w jej środku.	Eine filigrane, einzigartige Kiste, in deren Mitte ein oranger Edelstein eingefasst ist.
+Items/UnlockedQueenChest	Text		Desert Queen Chest	Skrzynia Królowej Pustyni	Wüstenkönigin-Kiste
+Items/UnlockedQueenChestDesc	Text		An intricate, unique chest with a green gemstone locked in its center.	Misterna, unikatowa skrzynia z zielonym kamieniem szlachetnym umieszczonym w jej środku.	Eine filigrane, einzigartige Kiste, in deren Mitte ein grüner Edelstein eingefasst ist.
+Items/UnusualPotion	Text		Unusual Potion	Niezwykła mikstura	Ungewöhnlicher Trank
+Items/UnusualPotionDesc	Text		A two-component potion that is risky to drink.	Dwuskładnikowa mikstura, której wypicie jest ryzykowne.	Ein Zweikomponenten-Trank, dessen Genuss ein Risiko mit sich bringt.
+Items/UpgradeForge	Text		Upgrade Station	Stacja ulepszeń	Nachrüst-Station
+Items/UpgradeForgeDesc	Text		A high-tech workbench to upgrade tools and weapons, making them stronger and more effective.	Zaawansowany technologicznie stół warsztatowy do ulepszania narzędzi i broni, czyniąc je silniejszymi i skuteczniejszymi.	Eine Hightech-Werkbank zum Aufwerten von Werkzeugen und Waffen, um ihre Stärke und Effektivität zu verbessern.
+Items/ValentineCandles	Text		Valentine's Candles	Walentynkowe świeczki	Valentins-Kerzen
+Items/ValentineCandlesDesc	Text		A handful of small, pink candles that fill the air with a whiff of vanille.	Garść małych, różowych świeczek, które wypełniają powietrze zapachem wanilii.	Eine Handvoll kleiner, pinker Kerzen, die die Luft mit einem sanften Vanilleduft füllen.
+Items/ValentineChest	Text		Valentine's Chest	Walentynkowa skrzynia	Valentins-Kiste
+Items/ValentineChestDesc	Text		This heart-themed chest is great to tuck away little trinkets of love.	Ta skrzynia w kształcie serca świetnie nadaje się do przechowywania drobiazgów związanych z miłością.	Diese Kiste mit Herzmotiv eignet sich perfekt, um kleine Liebesbotschaften aufzubewahren.
+Items/ValentineFloorPetals	Text		Rose Petal Flooring	Podłoga z płatków róż	Rosenblatt-Bodenbelag
+Items/ValentineFloorPetalsDesc	Text		This little paper bag contains enough rose petals to cover a 1x1 floor tile with them. Great to lay out a path of love.	Ta mała papierowa torebka zawiera wystarczającą ilość płatków róż, aby pokryć nimi płytkę podłogową 1x1. Świetnie nadaje się do ułożenia ścieżki miłości.	Diese kleine Papiertüte enthält genügend Rosenblätter, um einen 1x1 Bodenbereich damit zu bedecken. Eignet sich großartig für einen Pfad der Liebe.
+Items/ValentineLetter	Text		Love Letter	List miłosny	Liebesbrief
+Items/ValentineLetterDesc	Text		A scented letter that contains words of love and appreciation. Give it to someone in dire need of affection.	Pachnący list zawierający słowa miłości i uznania. Podaruj go komuś, kto bardzo pragnie uczucia.	Ein parfümierter Brief, der Worte der Liebe und Anerkennung enthält. Gib ihn jemandem, der Zuneigung dringend nötig hat.
+Items/ValentineNecklace	Text		Valentine Necklace	Walentynkowy naszyjnik	Valentins-Halskette
+Items/ValentineNecklaceDesc	Text		A golden necklace featuring a big, shiny heart. You feel something you can't describe, when wearing it so close to your own.	Złoty naszyjnik z dużym, błyszczącym sercem. Czujesz coś, czego nie możesz opisać, nosząc go tak blisko siebie.	Eine goldene Halskette mit einem großen, glänzenden Herzen als Anhänger. Du fühlst etwas Unbeschreibliches, wenn du es so nah an deinem eigenen trägst.
+Items/ValentinePainting	Text		Heart Painting	Obraz z sercem	Herz-Gemälde
+Items/ValentinePaintingDesc	Text		A simple painting showing nothing more than a heart. Sometimes this is all one needs in these dark times.	Prosty obraz przedstawiający jedynie serce. Czasami to wszystko, czego potrzeba w tych mrocznych czasach.	Ein einfaches Gemälde, das ein kleines Herz zeigt. Manchmal ist das alles, was man in diesen dunklen Zeiten braucht.
+Items/ValentinePlushie	Text		Caveling Brute Plushie	Pluszowy brutal jaskiniowy	Grottling-Schläger-Plüschtier
+Items/ValentinePlushieDesc	Text		A big plushie, resembling a caveling brute holding a heart. Even those need a little bit of love sometimes.	Duży pluszak przypominający jaskiniowca trzymającego serce. Nawet oni potrzebują czasem odrobiny miłości.	Ein großes Plüschtier, das einen Grottling-Schläger mit einem Herzen darstellt. Selbst sie brauchen manchmal ein kleines bisschen Liebe.
+Items/ValentinePresent	Text		Valentine's Gift	Walentynkowy prezent	Valentins-Geschenk
+Items/ValentinePresentDesc	Text		This rose and silver-colored gift is packed with a variety of different charming items.	Ten różowo-srebrny prezent zawiera wiele różnych uroczych przedmiotów.	Dieses rosa- und silberfarbene Geschenk ist vollgepackt mit einer Auswahl an verschiedenen, bezaubernden Gegenständen.
+Items/ValentineRing	Text		Valentine Ring	Pierścionek walentynkowy	Valentins-Ring
+Items/ValentineRingDesc	Text		A golden ring featuring a candy-colored heart. The perfect gift to give to someone you like.	Złoty pierścionek z cukierkowym sercem. Idealny prezent dla ukochanej osoby.	Ein goldener Ring, auf dem ein bonbonfarbenes Herz trohnt. Das perfekte Geschenk für jemanden, der dir am Herzen liegt.
+Items/ValentineRug	Text		Heart-shaped Rug	Dywanik w kształcie serca	Herzförmiger Teppich
+Items/ValentineRugDesc	Text		"Nothing speaks ""love"" like a big fuzzy heart on the floor. It smells like wool and lavender."	Nic tak nie wyraża „miłości” jak duże, puszyste serce na podłodze. Pachnie wełną i lawendą.	Nichts repräsentiert Liebe so gut wie ein riesiges, wuscheliges Herz auf dem Boden. Es duftet nach Wolle und Lavendel.
+Items/ValentineWallHearts	Text		Wall Hearts	Serca na ścianę	Wandherzen
+Items/ValentineWallHeartsDesc	Text		An assortment of hearts cut from paper, they look great on walls and make a base just a little bit more lovely.	Asortyment serc wyciętych z papieru, które świetnie wyglądają na ścianach i sprawiają, że baza jest jeszcze bardziej urocza.	Eine Auswahl von Herzen aus Papier, sie sehen wunderbar an Wänden aus und machen die Basis ein kleines bisschen lieblicher.
+Items/ValentineWorkbench	Text		Valentine Crafting Table	Walentynkowy stół rzemieślniczy	Valentins-Basteltisch
+Items/ValentineWorkbenchDesc	Text		A workbench containing tools and blueprints to create some beautiful decorative items.	Stół warsztatowy zawierający narzędzia i plany do tworzenia pięknych przedmiotów dekoracyjnych.	Eine Werkbank, die Werkzeuge und Blaupausen enthält, um damit wunderschöne dekorative Gegenstände zu fertigen.
+Items/VampireCapeBreastArmor	Text		Dracularva Cape	Peleryna drakularwy	Dracularven-Umhang
+Items/VampireCapeBreastArmorDesc	Text		A black satin cape fit for a vampire. The crimson flip-up collar adds to the evil look.	Czarna satynowa peleryna w sam raz dla wampira. Szkarłatny, podwijany kołnierz dodaje jej złego wyglądu.	Ein schwarzer Seidenumhang, würdig eines Vampirs. Der purpurrote Klappkragen macht ihn noch furchterregender.
+Items/VampireEel	Text		Vampire Eel	Wampirzy węgorz	Vampir-Aal
+Items/VampireEelDesc	Text		A bloodsucking fish latching onto everything that has a pulse.	Krwiopijcza ryba atakująca wszystko, co ma puls.	Ein blutsaugender Fisch, der sich an alles anheftet, das einen Puls hat.
+Items/VendingMachine	Text		Vending Machine	Automat	Automat
+Items/VendingMachineBroken	Text		Broken Vending Machine	Zepsuty automat	Kaputter Automat
+Items/VendingMachineBrokenDesc	Text		A broken automaton that once contained snacks and other goods. It looks like it was forced open.	Zepsuty automat, który kiedyś zawierał przekąski i inne towary. Wygląda na to, że został otwarty siłą.	Ein zerstörter Automat, der einst Snacks und andere Güter enthielt. Es sieht aus, als wäre er absichtlich aufgebrochen worden.
+Items/VendingMachineDesc	Text		An old, still functioning automaton that is proof of advanced technology and a sophisticated society.	Stary, wciąż działający automat, będący dowodem zaawansowanej technologii i wyrafinowanego społeczeństwa.	Ein alter, intakter Automat, der Zeuge fortschrittlicher Technologie und einer hoch entwickelten Gesellschaft ist.
+Items/VerdantDragonfish	Text		Verdant Dragonfish	Zielona smocza ryba	Grüner Drachenfisch
+Items/VerdantDragonfishDesc	Text		This draconic fish has green scales that can withstand remarkably high temperatures.	Ta smocza ryba ma zielone łuski, które mogą wytrzymać niezwykle wysokie temperatury.	Dieser drakonische Fisch besitzt grüne Schuppen, die bemerkenswert hohen Temperaturen widerstehen können.
+Items/WallAlienBlock	Text		Alien Tech Block	Blok technologiczny obcych	Alientechnologie-Block
+Items/WallAlienBlockDesc	Text		A mysterious intricate piece of architecture.	Tajemniczy, skomplikowany element architektury.	Ein mysteriöses und komplexes architektonisches Werk.
+Items/WallCityBlock	Text		Metropolis Block	Blok metropolii	Metropolis-Block
+Items/WallCityBlockDesc	Text		A sturdy piece of city architecture, decorated with glass and gold.	Solidny element architektury miejskiej, ozdobiony szkłem i złotem.	Ein robustes Werk der Stadt-Architektur, dekoriert mit Glas und Gold.
+Items/WallClayBlock	Text		Clay Block	Blok gliny	Lehm-Block
+Items/WallClayBlockDesc	Text		A red, wet piece of clay.	Czerwony, mokry kawałek gliny.	Ein rötlicher Block feuchten Lehms.
+Items/WallCoralBlock	Text		Coral Wall	Koralowa ściana	Korallen-Wand
+Items/WallCoralBlockDesc	Text		A pinkish tiled wall section.	Różowawy fragment ściany wyłożony kafelkami.	Ein pinkfarbenes, gefliestes Stück Wand.
+Items/WallCrystalBlock	Text		Crystal Block	Blok kryształu	Kristall-Block
+Items/WallCrystalBlockDesc	Text		A blue, glistening piece of crystal.	Niebieski, lśniący fragment kryształu.	Ein blaues, glänzendes Stück Kristall.
+Items/WallDarkStoneBlock	Text		Dark Stone Block	Blok ciemnego kamienia	Dunkler Stein-Block
+Items/WallDarkStoneBlockDesc	Text		A sturdy dark piece of stone.	Solidny, ciemny fragment kamienia.	Ein robustes, dunkles Stück Stein.
+Items/WallDesertBlock	Text		Desert Block	Blok pustynny	Wüsten-Block
+Items/WallDesertBlockDesc	Text		A sandy piece of desert stone.	Piaskowy kawałek pustynnego kamienia.	Ein sandiger Block Wüstengestein.
+Items/WallDesertTempleBlock	Text		Desert Temple Block	Blok pustynnej świątyni	Wüstentempel-Block
+Items/WallDesertTempleBlock2	Text		Maze Block	Blok labiryntu	Labyrinth-Block
+Items/WallDesertTempleBlock2Desc	Text		An extremely durable block used to build ancient mazes.	Niezwykle wytrzymały blok używany do budowy starożytnych labiryntów.	Ein extrem widerstandsfähiger Block, der für den Bau uralter Labyrinthe genutzt wurde.
+Items/WallDesertTempleBlockDesc	Text		A sturdy piece of ancient architecture, decorated with tiles and gold.	Wytrzymały element starożytnej architektury, ozdobiony kafelkami i złotem.	Ein uraltes und robustes Architekturwerk, dekoriert mit Fliesen und Gold.
+Items/WallDirtBlock	Text		Dirt Block	Blok ziemi	Erd-Block
+Items/WallDirtBlockDesc	Text		A brown solid piece of dirt.	Brązowy, solidny fragment ziemi.	Ein brauner, massiver Klumpen Erde.
+Items/WallEerieBlock	Text		Eerie Wall	Upiorna ściana	Unheimliche Wand
+Items/WallEerieBlockDesc	Text		A ghostly wooden wall section.	Upiorny drewniany fragment ściany.	Ein gespenstisches, hölzernes Stück Wand.
+Items/WallExplosiveBlock	Text		Explosives Deposit	Skład materiałów wybuchowych	Sprengstoff-Depot
+Items/WallExplosiveBlockDesc	Text		A highly dangerous box of explosives that can be placed like a wall. Don't hit it or it will blow up right in your face.	Bardzo niebezpieczna skrzynia z materiałami wybuchowymi, którą można umieścić jak ścianę. Nie uderz w nią, bo wybuchnie ci prosto w twarz.	Eine hochgefährliche Kiste voller Sprengstoff, die wie eine Wand platziert werden kann. Nicht draufschlagen, sonst fliegt sie dir um die Ohren.
+Items/WallGalaxiteBlock	Text		Galaxite Wall	Ściana galaktyczna	Galaxit-Wand
+Items/WallGalaxiteBlockDesc	Text		An otherwordly wall speckled with glittering stars.	Niezwykła ściana usiana błyszczącymi gwiazdami.	Eine außerweltliche Wand, die mit glitzernden Sternchen überzogen ist.
+Items/WallGlassBlock	Text		Glass Wall	Szklana ściana	Glaswand
+Items/WallGlassBlockDesc	Text		A solid wall made from glass. Works well for building a base or enclosures.	Solidna ściana wykonana ze szkła. Świetnie nadaje się do budowy bazy lub obudowy.	Eine solide Wand aus Glas. Macht sich wunderbar zum Anlegen einer Basis oder eines Geheges.
+Items/WallGleamWoodBlock	Text		Gleam Wood Wall	Ściana z lśniącego drewna	Glimmerholz-Wand
+Items/WallGleamWoodBlockDesc	Text		An enigmatic wall reinforced with glimmering plates.	Enigmatyczna ściana wzmocniona błyszczącymi płytami.	Eine rätselhafte Wand, die mit schimmernden Platten verstärkt ist.
+Items/WallGrassBlock	Text		Grass Block	Blok trawy	Gras-Block
+Items/WallGrassBlockDesc	Text		A lush piece of vertical plants.	Bujna pionowa roślina.	Ein üppiges Stück aufrechter Pflanzen.
+Items/WallHiveBlock	Text		Larva Hive Block	Blok ula larw	Larvenbau-Block
+Items/WallHiveBlockDesc	Text		A lumpy… living piece of hive material.	Zbity... żywy kawałek materiału ula.	Ein klumpiges ... lebendiges Stück Larvenbau-Material.
+Items/WallLavaBlock	Text		Lava Rock Block	Blok skały lawowej	Lavagestein-Block
+Items/WallLavaBlockDesc	Text		A piece of molten rock.	Kawałek stopionej skały.	Ein Stück geschmolzenes Gestein.
+Items/WallLimestoneBlock	Text		Beach Block	Blok plażowy	Strand-Block
+Items/WallLimestoneBlockDesc	Text		A sandy piece of the coastal stone.	Piaszczysty kawałek przybrzeżnego kamienia.	Ein sandiger Block Küstengestein.
+Items/WallMeadowBlock	Text		Meadow Block	Blok łąki	Wiesen-Block
+Items/WallMeadowBlockDesc	Text		A mellow piece of earth with little summer flowers growing on it.	Delikatny kawałek ziemi z rosnącymi na nim letnimi kwiatami.	Ein weicher Brocken Erde, auf dem kleine Sommerblümchen wachsen.
+Items/WallMoldBlock	Text		Mold Block	Blok pleśni	Schimmel-Block
+Items/WallMoldBlockDesc	Text		A pungent piece of mold.	Śmierdzący kawałek pleśni.	Ein fauliger Klumpen Schimmel.
+Items/WallNaturalExplosiveBlock	Text		Thermite Wall	Ściana termitowa	Thermit-Wand
+Items/WallNaturalExplosiveBlockDesc	Text		An unstable, explosive piece of wall.	Niestabilny, wybuchowy kawałek ściany.	Ein instabiles, explosives Stück Wand.
+Items/WallObsidianBlock	Text		Obsidian Block	Blok obsydianu	Obsidian-Block
+Items/WallObsidianBlockDesc	Text		An indestructible piece of obsidian. You’re not supposed to have this…	Niezniszczalny kawałek obsydianu. Nie powinieneś tego mieć...	Ein unzerstörbarer Obsidian-Block. Du solltest das eigentlich nicht haben ...
+Items/WallPaintableBlock	Text		Paintable Wall	Ściana do malowania	Bemalbare Wand
+Items/WallPaintableBlockDesc	Text		A bleak stone wall ready to be turned lively with colors.	Ponura kamienna ściana gotowa do ożywienia kolorami.	Eine bemalbare, blanke Steinwand, um deine Basis farbenfroher zu machen.
+Items/WallSandBlock	Text		Sand Block	Blok piasku	Sand-Block
+Items/WallSandBlockDesc	Text		A yellow fragile piece of sand.	Żółty, kruchy kawałek piasku.	Ein gelber, zerbrechlicher Klumpen Sand.
+Items/WallScarletBlock	Text		Scarlet Wall	Szkarłatna ściana	Skarlit-Wand
+Items/WallScarletBlockDesc	Text		A reinforced metal wall to set up your base for tough encounters.	Wzmocniona metalowa ściana do stworzenia bazy na wypadek trudnych starć.	Eine verstärkte Metallwand, um deine Basis auf gefährliche Begegnungen vorzubereiten.
+Items/WallSnowBlock	Text		Snow Block	Blok śniegu	Schnee-Block
+Items/WallSnowBlockDesc	Text		A white cold piece of snow.	Biały, zimny kawałek śniegu.	Ein kalter, weißer Klumpen Schnee.
+Items/WallStoneBlock	Text		Stone Block	Kamienny blok	Stein-Block
+Items/WallStoneBlockDesc	Text		A sturdy piece of stone.	Solidny kawałek kamienia.	Ein robuster Block Stein.
+Items/WallStoneBricksBlock	Text		Stone Bricks Wall	Ściana z kamiennych cegieł	Steinziegel-Wand
+Items/WallStoneBricksBlockDesc	Text		A solid wall made with interlocking blocks.	Solidna ściana wykonana z zazębiających się bloków.	Eine solide Wand aus ineinandergreifenden Blöcken.
+Items/WallStrawBlock	Text		Straw-bale Wall	Ściana ze słomy	Strohballen-Wand
+Items/WallStrawBlockDesc	Text		A reinforced straw wall to set up a cozy farm.	Wzmocniona ściana ze słomy do stworzenia przytulnej farmy.	Eine verstärkte Strohwand, um eine gemütliche Farm anzulegen.
+Items/WallTurfBlock	Text		Turf Block	Blok torfu	Torf-Block
+Items/WallTurfBlockDesc	Text		A soft mossy piece of turf.	Miękki, omszały kawałek darni.	Ein weiches, bemoostes Stück Torf.
+Items/WallWoodBlock	Text		Wood Wall	Drewniana ściana	Holzwand
+Items/WallWoodBlockDesc	Text		A solid wall made from wood. Works well for building a base.	Solidna ściana wykonana z drewna. Dobrze nadaje się do budowy bazy.	Eine solide Wand aus Holz. Macht sich gut, um daraus eine Basis zu bauen.
+Items/WashBasin	Text		Wash Basin	Pojemnik na wodę	Becken
+Items/WashBasinDesc	Text		A container used to store water and filling up watering cans.	Pojemnik używany do przechowywania wody i napełniania konewek.	Ein Behälter, in dem Wasser aufbewahrt und Gießkannen aufgefüllt werden können.
+Items/WaterCan	Text		Watering Can	Konewka	Gießkanne
+Items/WaterCanDesc	Text		Used to water seeds and soil.	Służy do podlewania nasion i gleby.	Wird genutzt, um Böden und Samen zu bewässern.
+Items/WaterKelp	Text		Sun Kelp	Słoneczny wodorost	Sonnentang
+Items/WaterKelpDesc	Text		A large seaweed that lives off of the light cast down into the wilderness.	Duży wodorost, który żyje dzięki światłu padającemu na pustynię.	Eine große Seepflanze, die durch das Licht gedeiht, welches in der Wildnis herabscheint.
+Items/WaterLily	Text		Azeos Lily	Lilia Azeosa	Azeos-Lilie
+Items/WaterLilyDesc	Text		A floating plant that is part of a rich ecosystem in the wilderness waters.	Pływająca roślina, która jest częścią bogatego ekosystemu w wodach dziczy.	Eine schwimmende Pflanze, die einen Teil des reichen Ökosystems in den Gewässern der Wildnis bildet.
+Items/WaterWell	Text		Water Well	Studnia	Brunnen
+Items/WaterWellDesc	Text		An ancient stone well to take water from.	Starożytna kamienna studnia, z której można czerpać wodę.	Ein antiker Steinbrunnen, aus dem du Wasser schöpfen kannst.
+Items/WeddingDressArmor	Text		Wedding Dress	Suknia ślubna	Hochzeitskleid
+Items/WeddingDressArmorDesc	Text		A simple, white dress elevating the beauty of its wearer. There are many occasions to wear it but the most important one is being a bride.	Prosta, biała suknia podkreślająca piękno osoby ją noszącej. Można ją założyć na wiele okazji, ale najważniejszą z nich jest bycie panną młodą.	Ein einfaches weißes Kleid, das die Schönheit seines Trägers hervorhebt. Es gibt viele Anlässe, es zu tragen, aber der wichtigste ist, eine Braut zu sein.
+Items/WeddingHelm	Text		Flower Crown	Kwiatowa korona	Blumenkrone
+Items/WeddingHelmDesc	Text		A beautiful crown made from leaves and pink roses. It resembles a love that feels like eternal spring.	Piękna korona wykonana z liści i różowych róż. Przypomina miłość, która jest niczym wieczna wiosna.	Eine wunderschöne Krone, gefertigt aus Blättern und pinken Rosen. Sie erinnert an eine Liebe, die sich wie ein ewig währender Frühling anfühlt.
+Items/Wheelbarrow	Text		Old Wheelbarrow	Stara taczka	Alte Schubkarre
+Items/WheelbarrowDesc	Text		A broken wheelbarrow stuck in its own molten contents. It seems like it couldn't withstand the extreme heat.	Zepsuta taczka, która utknęła we własnej stopionej zawartości. Wygląda na to, że nie wytrzymała ekstremalnego upału.	Eine kaputte Schubkarre, die in ihrem eigenen geschmolzenen Inhalt feststeckt. Offenbar hat sie der extremen Hitze nicht standgehalten.
+Items/WhiteCherryFlower	Text		White Cherry Blossom	Biały kwiat wiśni	Weiße Kirschblüte
+Items/WhiteCherryFlowerDesc	Text		A silky white blossom that fell from a beautiful tree. In full bloom it has a faint almond fragrance and reminds one of the joys of life.	Jedwabiście biały kwiat, który spadł z pięknego drzewa. W pełnym rozkwicie ma delikatny migdałowy zapach i przypomina o radości życia.	Eine seidig weiße Blüte, die von einem wunderschönen Baum gefallen ist. In voller Pracht verströmt sie ein leichtes Mandelaroma und erinnert einen an die Freuden des Lebens.
+Items/WhiteCherryTree	Text		White Cherry Tree	Drzewo białej wiśni	Weißer Kirschbaum
+Items/WhiteCherryTreeDesc	Text		This beautiful white tree is a traditional symbol of the joys of life. It is said that in spring a fairy maiden descends to awake the sleeping cherry trees with her breath.	To piękne białe drzewo jest tradycyjnym symbolem radości życia. Mówi się, że wiosną wróżka zstępuje, aby swoim oddechem obudzić śpiące drzewa wiśni.	Dieser wunderschöne Baum ist ein traditionelles Symbol aller Lebensfreuden. Der Legende nach steigt eine Fee jeden Frühling vom Himmel herab, um die schlafenden Kirschbäume mit ihrem Atem zu wecken.
+Items/WhiteCoralotl	Text		White Coralotl	Biały koralotl	Weißer Korallotl
+Items/WhiteCoralotlDesc	Text		A small white amphibian with outward-protruding gills that look like corals. It also uses them to draw nutrients out of the waters of the Sunken Sea.	Mały biały płaz z wystającymi na zewnątrz skrzelami, które wyglądają jak koralowce. Używa ich również do pobierania składników odżywczych z wód Głębin Morza.	Eine kleine, weiße Amphibie mit äußeren, korallenähnlichen Kiemen. Sie werden auch genutzt, um Nährstoffe aus dem Wasser des Versunkenen Meeres zu ziehen.
+Items/WhiteGlassRing	Text		White Glass Ring	Pierścień z białego szkła	Weißglas-Ring
+Items/WhiteGlassRingDesc	Text		This ring is made from a milky, translucent material. The light it reflects makes it harder for enemies to hit you.	Ten pierścień jest wykonany z mlecznego, półprzezroczystego materiału. Odbijane przez niego światło sprawia, że wrogom trudniej cię trafić.	Dieser Ring besteht aus einem milchigen, halbdurchsichtigen Material. Das Licht, das er reflektiert, erschwert es den Feinden, dich zu treffen.
+Items/WhiteRoseBouquet	Text		White Rose Bouquet	Bukiet białych róż	Weißer Rosenstrauß
+Items/WhiteRoseBouquetDesc	Text		This beautiful bouquet made from white roses will elevate the look of every room. Give it to someone you like dearly.	Ten piękny bukiet z białych róż podkreśli wygląd każdego pomieszczenia. Podaruj go komuś, kogo bardzo lubisz.	Dieser wunderschöne Strauß aus weißen Rosen wird das Ambiente eines jeden Raumes bereichern. Gib ihn jemandem, der dir sehr wichtig ist.
+Items/WhiteWhistle	Text		White Whistle	Biały gwizdek	Weißpfeife
+Items/WhiteWhistleDesc	Text		A rare artifact made from precious, white stone. It doesn't produce a sound when you try to use it.	Rzadki artefakt wykonany z cennego, białego kamienia. Nie wydaje żadnego dźwięku, gdy próbujesz go użyć.	Ein seltenes Artefakt aus kostbarem weißem Gestein. Es erklingt kein Ton, wenn du hineinbläst.
+Items/WinterBell	Text		Winter Bell	Zimowy dzwon	Winterglöckchen
+Items/WinterBellDesc	Text		This golden and white bell produces a fine ringing sound, it's faint and reminds one of falling snow.	Ten biało-złoty dzwonek wydaje delikatny dźwięk, który przypomina padający śnieg.	Dieses golden-weiße Glöckchen lässt einen feinen Ton erklingen, er ist sehr leise und erinnert an fallenden Schnee.
+Items/WinterCookies	Text		Winter Cookies	Zimowe ciasteczka	Winter-Plätzchen
+Items/WinterCookiesDesc	Text		Nicely decorated this handful of cookies will put one in a seasonal mood. There's even a little core-shaped one in there.	Ładnie udekorowana garść ciasteczek wprowadzi każdego w sezonowy nastrój. Jest tu nawet małe ciasteczko w kształcie rdzenia.	Mit diesen liebevoll dekorierten Plätzchen kommt eine wahrhaft festliche Stimmung auf. Eins davon ist sogar wie der Kern selbst geformt.
+Items/WinterDinner	Text		Winter Dinner	Zimowa kolacja	Winter-Festessen
+Items/WinterDinnerDesc	Text		A full meal to warm your belly in the cold season. Prepared with a roasted larva, hot heartberry sauce, dumplings and some greens.	Pełny posiłek, który rozgrzeje brzuch w zimnych porach roku. Przygotowany z pieczoną larwą, gorącym sosem sercowo jagodowym, pierogami i zieleniną.	Eine vollwertige Mahlzeit, genau richtig, um dich zur kalten Jahreszeit aufzuwärmen. Zubereitet wurde sie mit einem Larvenbraten, heißer Herzbeeren-Sauce, Knödeln und etwas Grünzeug.
+Items/WonkyMinecart	Text		Wonky Minecart	Chwiejny wogonik	Wackeliger Minenwagen
+Items/WonkyMinecartDesc	Text		Allows riding the railways.	Umożliwia jazdę po torach kolejowych.	Erlaubt das Reisen auf Gleisen.
+Items/Wood	Text		Wood	Drewno	Holz
+Items/WoodBow	Text		Wood Bow	Drewniany łuk	Holz-Bogen
 Items/WoodBowDesc	Text		A crude bow to shoot foes from afar.		Ein einfacher Bogen, um Widersacher aus der Ferne anzugreifen.
 Items/WoodBreastArmor	Text		Wood Chest		Holz-Brustpanzer
 Items/WoodBreastArmorDesc	Text		Very crude armor for the upper body. Offers minor protection.		Eine sehr primitive Rüstung für den Oberkörper. Bietet relativ wenig Schutz.
