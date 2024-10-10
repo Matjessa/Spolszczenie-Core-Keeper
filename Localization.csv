@@ -2264,7 +2264,7 @@ Items/GraveTree	Text		Lush Tree	Bujne drzewo	Üppiger Baum
 Items/GraveTreeDesc	Text		This verdant tree spent many years growing in Azeos' Wilderness. Plant it back into the ground to decorate your home.	To zielone drzewo spędziło wiele lat rosnąc w dziczy Azeosa. Posadź je z powrotem w ziemi, aby ozdobić swój dom.	Dieser saftgrüne Baum wuchs über viele Jahre in Azeos Wildnis heran. Pflanze ihn wieder ein, um damit dein Heim zu dekorieren.
 Items/GreaterHealingPotion	Text		Greater Healing Potion	Większa mikstura leczenia	Großer Heiltrank
 Items/GreaterHealingPotionDesc	Text		A much healthier elixir that heals instantly. Also tastes great.	Znacznie zdrowszy eliksir, który leczy błyskawicznie. Ponadto świetnie smakuje.	Ein viel gesünderes Elixier, das augenblicklich heilt. Schmeckt außerdem gut.
-Items/GreenBlisterHead	Text		Green Blister Head	Zielona pęcherzowa główka	Grünblasen-Fisch
+Items/GreenBlisterHead	Text		Green Blister Head	Zielona pęcherzówka	Grünblasen-Fisch
 Items/GreenBlisterHeadDesc	Text		A fish with large green bubbles on its head.	Ryba z dużymi zielonymi bąbelkami na głowie.	Ein Fisch mit großen, grünen Geschwüren auf dem Kopf.
 Items/GreenDesertDestructible	Text		Oasis Flower Vessel	Naczynie kwiatowe oazy	Oasisblüten-Gefäß
 Items/GreenDesertDestructibleDesc	Text		A healthy plant containing natural loot from the desert.	Zdrowa roślina zawierająca naturalne łupy z pustyni.	Eine gesunde Pflanze, gefüllt mit den natürlichen Schätzen der Wüste.
@@ -2808,8 +2808,8 @@ Items/NatureGemstone	Text		Jungle Emerald	Dżunglowy szmaragd	Dschungel-Smaragd
 Items/NatureGemstoneDesc	Text		A verdant gemstone rarely found in lush regions. Its special properties allow it to be used for higher quality crafting.	Zielony kamień szlachetny rzadko spotykany w bujnych regionach. Jego specjalne właściwości pozwalają na wykorzystanie go w rzemiośle wyższej jakości.	Ein grüner Edelstein, der manchmal in üppig bewachsenen Gebieten gefunden werden kann. Seine besonderen Eigenheiten lassen ihn bei der Herstellung hochwertiger Produkte zum Einsatz kommen.
 Items/NatureWoodenDestructible	Text		Overgrown Wooden Crate	Zarośnięta drewniana skrzynia	Bewachsene Holzkiste
 Items/NatureWoodenDestructibleDesc	Text		A box that has been partially reclaimed by nature. It's containing useful goods.	Pudełko, które zostało częściowo przejęte przez naturę. Zawiera przydatne towary.	Ein Behälter, der teilweise von der Natur zurückerobert wurde. Er enthält nützliche Gegenstände.
-Items/NilipedeTrophy	Text	"Change the translations in a way that it relates to the Nilipede having no legs if you haven't already. Nil is latin for ""zero""."	Nilipede Figurine	Nullsienica	Nullfüßler-Figur
-Items/NilipedeTrophyDesc	Text	"Change the translations in a way that it relates to the Nilipede having no legs if you haven't already. Nil is latin for ""zero""."	A lifelike representation of a Nilipede.	Realistyczna reprezentacja Nullsienica.	Eine lebensechte Nachbildung eines Nullfüßlers.
+Items/NilipedeTrophy	Text	"Change the translations in a way that it relates to the Nilipede having no legs if you haven't already. Nil is latin for ""zero""."	Nilipede Figurine	Figurka nullsienicy	Nullfüßler-Figur
+Items/NilipedeTrophyDesc	Text	"Change the translations in a way that it relates to the Nilipede having no legs if you haven't already. Nil is latin for ""zero""."	A lifelike representation of a Nilipede.	Realistyczna reprezentacja Nullsienicy.	Eine lebensechte Nachbildung eines Nullfüßlers.
 Items/NinjaBreastArmor	Text		Ninja Garments	Odzież Ninja	Ninja-Gewand
 Items/NinjaBreastArmorDesc	Text	Should be written with 7 syllables, like the second sentence in a haiku.	Moving swiftly as the wind.	&	Der Schritt vom Wind beflügelt.
 Items/NinjaHelm	Text		Ninja Cowl	Kaptur Ninja	Ninja-Kapuze
@@ -3900,488 +3900,491 @@ Items/WonkyMinecart	Text		Wonky Minecart	Chwiejny wogonik	Wackeliger Minenwagen
 Items/WonkyMinecartDesc	Text		Allows riding the railways.	Umożliwia jazdę po torach kolejowych.	Erlaubt das Reisen auf Gleisen.
 Items/Wood	Text		Wood	Drewno	Holz
 Items/WoodBow	Text		Wood Bow	Drewniany łuk	Holz-Bogen
-Items/WoodBowDesc	Text		A crude bow to shoot foes from afar.		Ein einfacher Bogen, um Widersacher aus der Ferne anzugreifen.
-Items/WoodBreastArmor	Text		Wood Chest		Holz-Brustpanzer
-Items/WoodBreastArmorDesc	Text		Very crude armor for the upper body. Offers minor protection.		Eine sehr primitive Rüstung für den Oberkörper. Bietet relativ wenig Schutz.
-Items/WoodBridge	Text		Wood Bridge		Holz-Brücke
-Items/WoodBridgeDesc	Text		Used to cross chasms and water but also makes for a nice floor.		Wird genutzt, um Abgründe und Gewässer zu überqueren, macht sich aber auch gut als Boden.
-Items/WoodCrossbow	Text		Wood Crossbow		Holz-Armbrust
-Items/WoodCrossbowDesc	Text		A small wooden crossbow that swiftly shoots bolts.		Eine kleine hölzerne Armbrust, die flink Pfeile verschießt.
-Items/WoodDesc	Text		A piece of giant root to create all sorts of things.		Ein Stück einer großen Wurzel. Damit lassen sich viele verschiedene Gegenstände herstellen.
-Items/WoodDoor	Text		Wood Door		Holztür
-Items/WoodDoorDesc	Text		Close up your base with this simple door.		Verschließe deine Basis mit dieser einfachen Holztür.
-Items/WoodFence	Text		Wood Fence		Holzzaun
-Items/WoodFenceDesc	Text		A simple fence to protect what's rightfully yours.		Ein einfacher Zaun, um zu schützen, was rechtens dir gehört.
-Items/WoodFenceGate	Text		Wood Fence Gate		Holzzaun-Tor
-Items/WoodFenceGateDesc	Text		A simple gate for the wooden fence.		Ein einfaches Tor für den Holzzaun.
-Items/WoodFishingRod	Text		Wood Fishing Rod		Holz-Angel
-Items/WoodFishingRodDesc	Text		A crude tool for pulling up fish.		Ein primitives Werkzeug, um Fische an Land zu ziehen.
-Items/WoodFloor	Text		Wood Floor		Holzboden
-Items/WoodFloorDesc	Text		Simple wooden slats for decorating your base.		Einfache Holzplanken, um deine Basis zu verschönern.
-Items/WoodHelm	Text		Wood Helm		Holz-Helm
-Items/WoodHelmDesc	Text		Slight protection for the head but you should look for better options soon.		Ein einfacher Schutz für den Kopf, aber du solltest dich bald nach besseren Alternativen umsehen.
-Items/WoodHoe	Text		Wooden Hoe		Holz-Hacke
-Items/WoodHoeDesc	Text		A crude tool to prepare ground for farming.		Ein einfaches Werkzeug, um Böden für den Anbau vorzubereiten.
-Items/WoodMiningPick	Text		Wood Pickaxe		Holz-Spitzhacke
-Items/WoodMiningPickDesc	Text		A crude tool, useful for breaking down walls.		Ein primitives Werkzeug. Damit kann man Wände zerstören.
-Items/WoodPantsArmor	Text		Wood Pants		Holz-Beinschützer
-Items/WoodPantsArmorDesc	Text		The next best thing when it comes to lower body armor.		Die nächstbeste Rüstung, wenn es um den Schutz der Beine geht.
-Items/WoodPillar	Text		Wooden Pillar		Holz-Säule
-Items/WoodPillarDesc	Text		This decorative, wooden pillar is just the basic design for a whole lot more colorful variants.		Diese dekorative, hölzerne Säule ist nur eine Standardversion von vielen, bunteren Varianten.
-Items/WoodShield	Text		Wooden Shield		Holz-Schild
-Items/WoodShieldDesc	Text		A useful off-hand item to block hits from enemies.		Ein nützlicher Zweithand-Gegenstand, um Treffer von Feinden abzuwehren.
-Items/WoodShovel	Text		Wood Shovel		Holz-Schaufel
-Items/WoodShovelDesc	Text		A crude shovel, useful for digging up ground.		Eine primitive Schaufel. Damit kann man Böden entfernen.
-Items/WoodSpikeTrap	Text		Wooden Spike Trap		Hölzerne Stachelfalle
-Items/WoodSpikeTrapDesc	Text		A crude spike trap that only reacts to enemies.		Eine primitive Stachelfalle, die nur auf Feinde reagiert.
-Items/WoodStool	Text		Wood Stool		Holz-Hocker
-Items/WoodStoolDesc	Text		A simple, workable stool made from wood. A true hobbyist might turn this into something more beautiful.		Ein einfacher, bearbeitbarer Hocker aus Holz. Ein Hobbybastler könnte ihn in etwas viel schöneres umwandeln.
-Items/WoodSword	Text		Wooden Sword		Holz-Schwert
-Items/WoodSwordDesc	Text		A crude weapon to fend off foes.		Eine einfache Waffe, um Widersacher zu vertreiben.
-Items/WoodTable	Text		Wood Table		Holz-Tisch
-Items/WoodTableDesc	Text		A simple, workable table made from wood. A true hobbyist might turn this into something more beautiful.		Ein einfacher, bearbeitbarer Tisch aus Holz. Ein Hobbybastler könnte ihn in etwas viel schöneres umwandeln.
-Items/WoodenDestructible	Text		Wooden Crate		Holzkiste
-Items/WoodenDestructibleDesc	Text		A wooden box used by someone to store random goods.		Eine hölzerne Kiste, die von jemandem verwendet wurde, um allerlei Gegenstände aufzubewahren.
-Items/WoodenRing	Text		Wooden Ring		Holzring
-Items/WoodenRingDesc	Text		A simple wooden ring, nothing more, nothing less.		Ein einfacher Ring aus Holz, nicht mehr und nicht weniger.
-Items/WoodenSign1	Text		"Wooden Sign ""Core"""		Holzschild „Kern“
-Items/WoodenSign1Desc	Text		Driftwood with patterns and carvings showing the Core.		Treibholz mit eingeschnitzten Symbolen und Reliefs, die den Kern darstellen.
-Items/WoodenSign2	Text		"Wooden Sign ""Tulip"""		Holzschild „Tulpe“
-Items/WoodenSign2Desc	Text		Driftwood with patterns and carvings showing a Glow Tulip.		Treibholz mit eingeschnitzten Symbolen und Reliefs, die eine Leuchttulpe darstellen.
-Items/WoodenThornRing	Text		Wooden Thorn Ring		Dornholz-Ring
-Items/WoodenThornRingDesc	Text		A circular, brambly root with sharp thorns pointing outward.		Eine kreisförmige Wurzel mit nach außen gewandten, spitzen Dornen.
-Items/WoodenWorkBench	Text		Basic Workbench		Normale Werkbank
-Items/WoodenWorkBenchDesc	Text		The most basic of all workbenches.		Die einfachste aller Werkbänke.
-Items/Wool	Text		Wool		Wolle
-Items/WoolDesc	Text		An incredibly soft tuft of wool that has a pleasant scent to it.		Ein unglaublich weiches Büschel Wolle, dem ein wohltuender Duft anhaftet.
-Items/WorkerHandcuff	Text		Worker Handcuff		Arbeiter-Handschelle
-Items/WorkerHandcuffDesc	Text		Cast from thick metal this tool seemed to be attached to a chain. Has it been used to keep the unlawful from running away?		Dieses aus Metall gegossene Werkzeug hing offenbar einmal an einer Kette. Wurde es genutzt, um Gesetzlose am Fliehen zu hindern?
-Items/WormSegment	Text	"Change the translations in a way that it relates to the Nilipede having no legs if you haven't already. Nil is latin for ""zero""."	Nilipede		Nullfüßler
-Items/WovenMat	Text		Woven Mat		Gewebte Matte
-Items/WovenMatDesc	Text		Groundcover made from a net of firm plants.		Eine Bodenbedeckung, hergestellt aus einem Netz fester Pflanzen.
-Items/WovenStrawFloor	Text		Woven Straw Floor		Geflochtener Strohboden
-Items/WovenStrawFloorDesc	Text		A reinforced floor, woven from meadow straw.		Ein verstärkter, aus Wiesenstroh gewobener Boden.
-Items/YellowBlisterHead	Text		Yellow Blister Head		Gelbblasen-Fisch
-Items/YellowBlisterHeadDesc	Text		A fish with large yellow bubbles on its head.		Ein Fisch mit großen, gelben Geschwüren auf dem Kopf.
-Items/YellowFirefly	Text		Yellow Glowbug		Gelber Glimmkäfer
-Items/YellowFireflyDesc	Text		This flying bug always appears in swarms which appear as dancing lights. Its yellow glow is biome-specific.		Dieser fliegende Käfer taucht immer in Schwärmen auf, die wie tanzende Lichter wirken. Sein gelber Schein ist biomspezifisch.
-Items/YellowKelp	Text		Yellow Kelp		Gelber Seetang
-Items/YellowKelpDesc	Text		A yellow lump of marine plants.		Ein gelber Klumpen Meerespflanzen.
-JoinDiscord	Text		Join the Core Keeper Discord Server		Tritt dem Discord-Server von Core Keeper bei
-LanguageOption	Text		Language: {0}		Sprache: {0}
-LeashCattle	Text		Attach to cattle		An Nutztier anbringen
-MapMarkers/DeathMarker	Text	"{0} is replaced with ""You"" or name of other players"	{0} died here		{0} starb hier
-MapMarkers/DeathMarkerThisPlayer	Text		You died here		Du starbst hier
-MapMarkers/TheCore	Text		The Core		Der Kern
-MapMarkers/You	Text	This is shown when hovering over own player marker in Map	You		Du
-MapMarkers/mustBeAtPortalToTeleportDesc	Text		You must use a portal to teleport here.		Du musst ein Portal benutzen, um dich hierher zu teleportieren.
-MapMarkers/portal	Text		Portal		Portal
-MapMarkers/portalGoToDesc	Text		Click to teleport to this portal.		Klicke, um zu diesem Portal zu teleportieren.
-MapMarkers/portalNotReadyDesc	Text		Portal is not ready.		Portal ist nicht bereit.
-MapMarkers/portalStandingAtDesc	Text		You are standing at this portal.		Du stehst an diesem Portal.
-Menu/AdminPlayers	Text		Admin players		Admin-Spieler
-Menu/AllowJoinByPresence	Text		Allow friends to join without Game ID		Erlaube Freunden, ohne Spiel-ID beizutreten
-Menu/AmbientOcclusion	Text		Ambient occlusion		Umgebungsokklusion
-Menu/BannedPlayers	Text		Banned players		Gesperrte Spieler
-Menu/Bloom	Text		Bloom		Bloom
-Menu/BorderlessFullscreen	Text		Borderless fullscreen		Randloses Vollbild
-Menu/Brightness	Text		Brightness		Helligkeit
-Menu/CharacterSlot	Text		Character slot		Charakter-Slot
-Menu/CharacterStuck	Text	Option in gameplay settings allowing player to kill themselves in order to get out of a stuck position	My character is stuck!		Mein Charakter steckt fest!
-Menu/CharacterType	Text		Character type		Charakter-Typ
-Menu/ColorOutput	Text		Color Output		Farbausgabe
-Menu/ConnectedPlayers	Text		Connected players:		Verbundene Spieler:
-Menu/ConnectedPlayersWarning	Text		More than {0} players connected. This may cause issues.		Mehr als {0} Spieler verbunden. Das könnte Probleme verursachen.
-Menu/CreateWorld	Text		Create world		Welt erschaffen
-Menu/CreatedSaveBackup	Text		Created CoreKeeperSaves.zip on Desktop		CoreKeeperSaves.zip auf Desktop erstellt
-Menu/Credits	Text		Credits		Das Team
-Menu/DeleteCharactersMenu	Text		Delete characters menu		Menü zum Löschen von Charakteren
-Menu/DeleteCreativeCharactersMenu	Text		Delete creative characters menu		Menü für kreative Charaktere löschen
-Menu/DeleteOptions	Text		Delete options		Optionen löschen
-Menu/DeleteProgressOptions	Text		Delete progress options		Fortschrittsoptionen löschen
-Menu/DeleteWorldsMenu	Text		Delete worlds menu		Menü zum Löschen von Welten
-Menu/Disable	Text		Disable		Deaktivieren
-Menu/DisplayOptions	Text		Display settings		Anzeigeeinstellungen
-Menu/DynamicWater	Text		Dynamic water		Dynamisches Wasser
-Menu/EnterWorldName	Text		Enter world name...		Weltenname eingeben ...
-Menu/ExperimentalPopUp	Text		Core Keeper is currently running in experimental mode. This mode is using a separate set of save files. Your regular save files will still be there when you are back in non-experimental mode.		Core Keeper läuft derzeit im experimentellen Modus. In diesem Modus wird ein separater Satz von Speicherdateien verwendet. Deine regulären Speicherdateien bleiben erhalten, wenn du wieder in den nicht-experimentellen Modus zurückkehrst.
-Menu/FaceMouseDirection	Text	Option that when enabled causes character to face towards mouse on screen, otherwise character faces the direction that player last moved towards	Face mouse direction		Blickrichtung der Maus
-Menu/Fullscreen	Text		Fullscreen		Vollbild
-Menu/GameID	Text	Game ID is used to connect to other players and shown in pause menu while in a game	Game ID: {0}		Spiel-ID: {0}
-Menu/GameplayOptions	Text		Gameplay settings		Gameplay-Einstellungen
-Menu/GetOutOfStuckPositionDialogue	Text		Do you want to kill your character to get out of a stuck position?		Möchtest du deinen Charakter töten, um aus einer ausweglosen Situation herauszukommen?
-Menu/GiveFeedback	Text		Report bugs / feedback		Fehler melden / Feedback
-Menu/GraphicsOptions	Text		Graphics settings		Grafikeinstellungen
-Menu/Hardcore	Text		Hardcore		Hardcore
-Menu/HardcoreDesc	Text		Hardcore characters are permanently lost when they die and cannot be revived.		Hardcore-Charaktere gehen bei ihrem Tod dauerhaft verloren und können nicht wiederbelebt werden.
-Menu/HideGameID	Text		Hide game ID		Spiel-ID ausblenden
-Menu/Ignore	Text		Ignore		Ignorieren
-Menu/JoinGame	Text		Join Game		Spiel beitreten
-Menu/LightQuality	Text		Light quality		Lichtqualität
-Menu/LoadAnyway	Text		Load anyway		Trotzdem laden
-Menu/LocalModMissingClientDialogue	Text		Required mod {0} is missing.		Benötigte Mod {0} fehlt.
-Menu/LocalModMissingServerDialogue	Text		Required mod {0} is missing from server.		Benötigte Mod {0} fehlt auf dem Server.
-Menu/ManagePlayers	Text		Manage players		Spieler verwalten
-Menu/ModFailedToLoadWarning	Text	{0} is mod name. {1} indicates reason it failed to load	A mod failed to load: {0} ({1})		Ein Mod konnte nicht geladen werden: {0} ({1})
-Menu/ModIncompatibleWarning	Text	{0} is mod name	A mod is not compatible with this version: {0}		Ein Mod ist mit dieser Version nicht kompatibel: {0}
-Menu/ModMenuButtonModsLoaded	Text		Mods ({0} loaded)		Mods ({0} geladen)
+Items/WoodBowDesc	Text		A crude bow to shoot foes from afar.	Prymitywny łuk do strzelania do wrogów z daleka.	Ein einfacher Bogen, um Widersacher aus der Ferne anzugreifen.
+Items/WoodBreastArmor	Text		Wood Chest	Drewniany napierśnik	Holz-Brustpanzer
+Items/WoodBreastArmorDesc	Text		Very crude armor for the upper body. Offers minor protection.	Bardzo prymitywny pancerz na górną część ciała. Zapewnia niewielką ochronę.	Eine sehr primitive Rüstung für den Oberkörper. Bietet relativ wenig Schutz.
+Items/WoodBridge	Text		Wood Bridge	Drewniany most	Holz-Brücke
+Items/WoodBridgeDesc	Text		Used to cross chasms and water but also makes for a nice floor.	Służy do przekraczania przepaści i wody, ale stanowi też ładną podłogę.	Wird genutzt, um Abgründe und Gewässer zu überqueren, macht sich aber auch gut als Boden.
+Items/WoodCrossbow	Text		Wood Crossbow	Drewniana kusza	Holz-Armbrust
+Items/WoodCrossbowDesc	Text		A small wooden crossbow that swiftly shoots bolts.	Mała drewniana kusza, która szybko wystrzeliwuje pociski.	Eine kleine hölzerne Armbrust, die flink Pfeile verschießt.
+Items/WoodDesc	Text		A piece of giant root to create all sorts of things.	Kawałek gigantycznego korzenia do tworzenia różnego rodzaju rzeczy.	Ein Stück einer großen Wurzel. Damit lassen sich viele verschiedene Gegenstände herstellen.
+Items/WoodDoor	Text		Wood Door	Drewniane drzwi	Holztür
+Items/WoodDoorDesc	Text		Close up your base with this simple door.	Zamknij swoją bazę za pomocą tych prostych drzwi.	Verschließe deine Basis mit dieser einfachen Holztür.
+Items/WoodFence	Text		Wood Fence	Drewniany płot	Holzzaun
+Items/WoodFenceDesc	Text		A simple fence to protect what's rightfully yours.	Prosty płot do ochrony tego, co należy do ciebie.	Ein einfacher Zaun, um zu schützen, was rechtens dir gehört.
+Items/WoodFenceGate	Text		Wood Fence Gate	Drewniana brama	Holzzaun-Tor
+Items/WoodFenceGateDesc	Text		A simple gate for the wooden fence.	Prosta brama do drewnianego ogrodzenia.	Ein einfaches Tor für den Holzzaun.
+Items/WoodFishingRod	Text		Wood Fishing Rod	Drewniana wędka	Holz-Angel
+Items/WoodFishingRodDesc	Text		A crude tool for pulling up fish.	Prymitywne narzędzie do wyławiania ryb.	Ein primitives Werkzeug, um Fische an Land zu ziehen.
+Items/WoodFloor	Text		Wood Floor	Drewniana podłoga	Holzboden
+Items/WoodFloorDesc	Text		Simple wooden slats for decorating your base.	Proste drewniane deski do dekoracji bazy.	Einfache Holzplanken, um deine Basis zu verschönern.
+Items/WoodHelm	Text		Wood Helm	Drewniany hełm	Holz-Helm
+Items/WoodHelmDesc	Text		Slight protection for the head but you should look for better options soon.	Niewielka ochrona głowy, ale wkrótce powinieneś poszukać lepszych opcji.	Ein einfacher Schutz für den Kopf, aber du solltest dich bald nach besseren Alternativen umsehen.
+Items/WoodHoe	Text		Wooden Hoe	Drewniana motyka	Holz-Hacke
+Items/WoodHoeDesc	Text		A crude tool to prepare ground for farming.	Prymitywne narzędzie do przygotowania ziemi pod uprawę.	Ein einfaches Werkzeug, um Böden für den Anbau vorzubereiten.
+Items/WoodMiningPick	Text		Wood Pickaxe	Drewniany kilof	Holz-Spitzhacke
+Items/WoodMiningPickDesc	Text		A crude tool, useful for breaking down walls.	Prymitywne narzędzie, przydatne do niszczenia ścian.	Ein primitives Werkzeug. Damit kann man Wände zerstören.
+Items/WoodPantsArmor	Text		Wood Pants	Drewniane spodnie	Holz-Beinschützer
+Items/WoodPantsArmorDesc	Text		The next best thing when it comes to lower body armor.	Kolejna najlepsza rzecz, jeśli chodzi o dolną część pancerza.	Die nächstbeste Rüstung, wenn es um den Schutz der Beine geht.
+Items/WoodPillar	Text		Wooden Pillar	Drewniany filar	Holz-Säule
+Items/WoodPillarDesc	Text		This decorative, wooden pillar is just the basic design for a whole lot more colorful variants.	Ten ozdobny, drewniany filar to tylko podstawowy projekt dla wielu innych kolorowych wariantów.	Diese dekorative, hölzerne Säule ist nur eine Standardversion von vielen, bunteren Varianten.
+Items/WoodShield	Text		Wooden Shield	Drewniana tarcza	Holz-Schild
+Items/WoodShieldDesc	Text		A useful off-hand item to block hits from enemies.	Przydatny przedmiot do blokowania ciosów zadawanych przez wrogów.	Ein nützlicher Zweithand-Gegenstand, um Treffer von Feinden abzuwehren.
+Items/WoodShovel	Text		Wood Shovel	Drewniana łopata	Holz-Schaufel
+Items/WoodShovelDesc	Text		A crude shovel, useful for digging up ground.	Prymitywna łopata, przydatna do kopania ziemi.	Eine primitive Schaufel. Damit kann man Böden entfernen.
+Items/WoodSpikeTrap	Text		Wooden Spike Trap	Drewniana pułapka z kolcami	Hölzerne Stachelfalle
+Items/WoodSpikeTrapDesc	Text		A crude spike trap that only reacts to enemies.	Prymitywna pułapka z kolcami, która reaguje tylko na wrogów.	Eine primitive Stachelfalle, die nur auf Feinde reagiert.
+Items/WoodStool	Text		Wood Stool	Drewniany stołek	Holz-Hocker
+Items/WoodStoolDesc	Text		A simple, workable stool made from wood. A true hobbyist might turn this into something more beautiful.	Prosty, użyteczny stołek wykonany z drewna. Prawdziwy hobbysta może przekształcić go w coś piękniejszego.	Ein einfacher, bearbeitbarer Hocker aus Holz. Ein Hobbybastler könnte ihn in etwas viel schöneres umwandeln.
+Items/WoodSword	Text		Wooden Sword	Drewniany miecz	Holz-Schwert
+Items/WoodSwordDesc	Text		A crude weapon to fend off foes.	Prymitywna broń do odpierania wrogów.	Eine einfache Waffe, um Widersacher zu vertreiben.
+Items/WoodTable	Text		Wood Table	Drewniany stół	Holz-Tisch
+Items/WoodTableDesc	Text		A simple, workable table made from wood. A true hobbyist might turn this into something more beautiful.	Prosty, nadający się do użytku stół wykonany z drewna. Prawdziwy hobbysta może przekształcić go w coś piękniejszego.	Ein einfacher, bearbeitbarer Tisch aus Holz. Ein Hobbybastler könnte ihn in etwas viel schöneres umwandeln.
+Items/WoodenDestructible	Text		Wooden Crate	Drewniane pudło	Holzkiste
+Items/WoodenDestructibleDesc	Text		A wooden box used by someone to store random goods.	Drewniana skrzynia używana przez kogoś do przechowywania przypadkowych towarów.	Eine hölzerne Kiste, die von jemandem verwendet wurde, um allerlei Gegenstände aufzubewahren.
+Items/WoodenRing	Text		Wooden Ring	Drewniany pierścień	Holzring
+Items/WoodenRingDesc	Text		A simple wooden ring, nothing more, nothing less.	Prosty drewniany pierścień, nic dodać, nic ująć.	Ein einfacher Ring aus Holz, nicht mehr und nicht weniger.
+Items/WoodenSign1	Text		"Wooden Sign ""Core"""	Drewniany znak „ Rdzeń”	Holzschild „Kern“
+Items/WoodenSign1Desc	Text		Driftwood with patterns and carvings showing the Core.	Dryfujące drewno z wzorami i rzeźbieniami przedstawiającymi rdzeń.	Treibholz mit eingeschnitzten Symbolen und Reliefs, die den Kern darstellen.
+Items/WoodenSign2	Text		"Wooden Sign ""Tulip"""	Drewniany znak „Tulipan”	Holzschild „Tulpe“
+Items/WoodenSign2Desc	Text		Driftwood with patterns and carvings showing a Glow Tulip.	Dryfujące drewno z wzorami i rzeźbieniami przedstawiającymi świecącego tulipana.	Treibholz mit eingeschnitzten Symbolen und Reliefs, die eine Leuchttulpe darstellen.
+Items/WoodenThornRing	Text		Wooden Thorn Ring	Drewniany pierścień cierniowy	Dornholz-Ring
+Items/WoodenThornRingDesc	Text		A circular, brambly root with sharp thorns pointing outward.	Okrągły korzeń z ostrymi kolcami skierowanymi na zewnątrz.	Eine kreisförmige Wurzel mit nach außen gewandten, spitzen Dornen.
+Items/WoodenWorkBench	Text		Basic Workbench	Podstawowy stół warsztatowy	Normale Werkbank
+Items/WoodenWorkBenchDesc	Text		The most basic of all workbenches.	Najbardziej podstawowy ze wszystkich stołów warsztatowych.	Die einfachste aller Werkbänke.
+Items/Wool	Text		Wool	Wełna	Wolle
+Items/WoolDesc	Text		An incredibly soft tuft of wool that has a pleasant scent to it.	Niezwykle miękki kłąb wełny o przyjemnym zapachu.	Ein unglaublich weiches Büschel Wolle, dem ein wohltuender Duft anhaftet.
+Items/WorkerHandcuff	Text		Worker Handcuff	Kajdanki robocze	Arbeiter-Handschelle
+Items/WorkerHandcuffDesc	Text		Cast from thick metal this tool seemed to be attached to a chain. Has it been used to keep the unlawful from running away?	Odlane z grubego metalu, to narzędzie wydawało się być przymocowane do łańcucha. Czy było używane do powstrzymywania przestępców przed ucieczką?	Dieses aus Metall gegossene Werkzeug hing offenbar einmal an einer Kette. Wurde es genutzt, um Gesetzlose am Fliehen zu hindern?
+Items/WormSegment	Text	"Change the translations in a way that it relates to the Nilipede having no legs if you haven't already. Nil is latin for ""zero""."	Nilipede	Nullsienica	Nullfüßler
+Items/WovenMat	Text		Woven Mat	Pleciona mata	Gewebte Matte
+Items/WovenMatDesc	Text		Groundcover made from a net of firm plants.	Pokrycie gruntu wykonane z siatki sztywnych roślin.	Eine Bodenbedeckung, hergestellt aus einem Netz fester Pflanzen.
+Items/WovenStrawFloor	Text		Woven Straw Floor	Pleciona podłoga ze słomy	Geflochtener Strohboden
+Items/WovenStrawFloorDesc	Text		A reinforced floor, woven from meadow straw.	Wzmocniona podłoga utkana ze słomy łąkowej.	Ein verstärkter, aus Wiesenstroh gewobener Boden.
+Items/YellowBlisterHead	Text		Yellow Blister Head	Żółta pęcherzówka	Gelbblasen-Fisch
+Items/YellowBlisterHeadDesc	Text		A fish with large yellow bubbles on its head.	Ryba z dużymi żółtymi pęcherzami na głowie.	Ein Fisch mit großen, gelben Geschwüren auf dem Kopf.
+Items/YellowFirefly	Text		Yellow Glowbug	Żółty świetlik	Gelber Glimmkäfer
+Items/YellowFireflyDesc	Text		This flying bug always appears in swarms which appear as dancing lights. Its yellow glow is biome-specific.	Ten latający robak zawsze pojawia się w rojach, które wyglądają jak tańczące światła. Jego żółta poświata jest specyficzna dla biomu.	Dieser fliegende Käfer taucht immer in Schwärmen auf, die wie tanzende Lichter wirken. Sein gelber Schein ist biomspezifisch.
+Items/YellowKelp	Text		Yellow Kelp	Żółty wodorost	Gelber Seetang
+Items/YellowKelpDesc	Text		A yellow lump of marine plants.	Żółta kępa roślin morskich.	Ein gelber Klumpen Meerespflanzen.
+JoinDiscord	Text		Join the Core Keeper Discord Server	Dołącz do serwera Discord Core Keeper	Tritt dem Discord-Server von Core Keeper bei
+LanguageOption	Text		Language: {0}	Język: {0}	Sprache: {0}
+LeashCattle	Text		Attach to cattle	Przyłącz do bydła	An Nutztier anbringen
+MapMarkers/DeathMarker	Text	"{0} is replaced with ""You"" or name of other players"	{0} died here	Tutaj umarł {0}	{0} starb hier
+MapMarkers/DeathMarkerThisPlayer	Text		You died here	Tutaj umarłeś	Du starbst hier
+MapMarkers/TheCore	Text		The Core	Rdzeń	Der Kern
+MapMarkers/You	Text	This is shown when hovering over own player marker in Map	You	Ty	Du
+MapMarkers/mustBeAtPortalToTeleportDesc	Text		You must use a portal to teleport here.	Musisz użyć portalu, aby się tu teleportować.	Du musst ein Portal benutzen, um dich hierher zu teleportieren.
+MapMarkers/portal	Text		Portal	Portal	Portal
+MapMarkers/portalGoToDesc	Text		Click to teleport to this portal.	Kliknij, aby teleportować się do tego portalu.	Klicke, um zu diesem Portal zu teleportieren.
+MapMarkers/portalNotReadyDesc	Text		Portal is not ready.	Portal nie jest gotowy.	Portal ist nicht bereit.
+MapMarkers/portalStandingAtDesc	Text		You are standing at this portal.	Stoisz przy tym portalu.	Du stehst an diesem Portal.
+Menu/AdminPlayers	Text		Admin players	Admini	Admin-Spieler
+Menu/AllowJoinByPresence	Text		Allow friends to join without Game ID	Zezwalaj znajomym na dołączanie bez identyfikatora gry.	Erlaube Freunden, ohne Spiel-ID beizutreten
+Menu/AmbientOcclusion	Text		Ambient occlusion	Okluzja otoczenia	Umgebungsokklusion
+Menu/BannedPlayers	Text		Banned players	Zbanowani gracze	Gesperrte Spieler
+Menu/Bloom	Text		Bloom	Blask	Bloom
+Menu/BorderlessFullscreen	Text		Borderless fullscreen	Pełny ekran bez obramowania	Randloses Vollbild
+Menu/Brightness	Text		Brightness	Jasność	Helligkeit
+Menu/CharacterSlot	Text		Character slot	Gniazdo na postać	Charakter-Slot
+Menu/CharacterStuck	Text	Option in gameplay settings allowing player to kill themselves in order to get out of a stuck position	My character is stuck!	Moja postać utknęła!	Mein Charakter steckt fest!
+Menu/CharacterType	Text		Character type	Typ postaci	Charakter-Typ
+Menu/ColorOutput	Text		Color Output	Kolor wyjściowy	Farbausgabe
+Menu/ConnectedPlayers	Text		Connected players:	Połączeni gracze:	Verbundene Spieler:
+Menu/ConnectedPlayersWarning	Text		More than {0} players connected. This may cause issues.	Połączono więcej niż {0} graczy. Może to powodować problemy.	Mehr als {0} Spieler verbunden. Das könnte Probleme verursachen.
+Menu/CreateWorld	Text		Create world	Utwórz świat	Welt erschaffen
+Menu/CreatedSaveBackup	Text		Created CoreKeeperSaves.zip on Desktop	Utworzono CoreKeeperSaves.zip na pulpicie	CoreKeeperSaves.zip auf Desktop erstellt
+Menu/Credits	Text		Credits	Twórcy	Das Team
+Menu/DeleteCharactersMenu	Text		Delete characters menu	Menu usuwania postaci	Menü zum Löschen von Charakteren
+Menu/DeleteCreativeCharactersMenu	Text		Delete creative characters menu	Menu usuwania postaci kreatywnych	Menü für kreative Charaktere löschen
+Menu/DeleteOptions	Text		Delete options	Usuń opcje	Optionen löschen
+Menu/DeleteProgressOptions	Text		Delete progress options	Opcje usuwania postępu	Fortschrittsoptionen löschen
+Menu/DeleteWorldsMenu	Text		Delete worlds menu	Menu usuwania światów	Menü zum Löschen von Welten
+Menu/Disable	Text		Disable	Wyłącz	Deaktivieren
+Menu/DisplayOptions	Text		Display settings	Ustawienia ekranu	Anzeigeeinstellungen
+Menu/DynamicWater	Text		Dynamic water	Dynamiczna woda	Dynamisches Wasser
+Menu/EnterWorldName	Text		Enter world name...	Wprowadź nazwę świata...	Weltenname eingeben ...
+Menu/ExperimentalPopUp	Text		Core Keeper is currently running in experimental mode. This mode is using a separate set of save files. Your regular save files will still be there when you are back in non-experimental mode.	Core Keeper działa obecnie w trybie eksperymentalnym. Tryb ten korzysta z oddzielnego zestawu plików zapisu. Zwykłe pliki zapisu będą nadal dostępne po powrocie do trybu nieeksperymentalnego.	Core Keeper läuft derzeit im experimentellen Modus. In diesem Modus wird ein separater Satz von Speicherdateien verwendet. Deine regulären Speicherdateien bleiben erhalten, wenn du wieder in den nicht-experimentellen Modus zurückkehrst.
+Menu/FaceMouseDirection	Text	Option that when enabled causes character to face towards mouse on screen, otherwise character faces the direction that player last moved towards	Face mouse direction	Zwróć postać w kierunku myszy	Blickrichtung der Maus
+Menu/Fullscreen	Text		Fullscreen	Pełny ekran	Vollbild
+Menu/GameID	Text	Game ID is used to connect to other players and shown in pause menu while in a game	Game ID: {0}	Identyfikator gry: {0}	Spiel-ID: {0}
+Menu/GameplayOptions	Text		Gameplay settings	Ustawienia rozgrywki	Gameplay-Einstellungen
+Menu/GetOutOfStuckPositionDialogue	Text		Do you want to kill your character to get out of a stuck position?	Czy chcesz zabić swoją postać, aby wydostać się z zablokowanej pozycji?	Möchtest du deinen Charakter töten, um aus einer ausweglosen Situation herauszukommen?
+Menu/GiveFeedback	Text		Report bugs / feedback	Zgłaszanie błędów / opinie	Fehler melden / Feedback
+Menu/GraphicsOptions	Text		Graphics settings	Ustawienia grafiki	Grafikeinstellungen
+Menu/Hardcore	Text		Hardcore	Hardcore	Hardcore
+Menu/HardcoreDesc	Text		Hardcore characters are permanently lost when they die and cannot be revived.	Postacie w trybie hardcore są trwale tracone po śmierci i nie można ich odzyskać.	Hardcore-Charaktere gehen bei ihrem Tod dauerhaft verloren und können nicht wiederbelebt werden.
+Menu/HideGameID	Text		Hide game ID	Ukryj identyfikator gry	Spiel-ID ausblenden
+Menu/Ignore	Text		Ignore	Ignoruj	Ignorieren
+Menu/JoinGame	Text		Join Game	Dołącz do gry	Spiel beitreten
+Menu/LightQuality	Text		Light quality	Niska jakość	Lichtqualität
+Menu/LoadAnyway	Text		Load anyway	Załaduj mimo to	Trotzdem laden
+Menu/LocalModMissingClientDialogue	Text		Required mod {0} is missing.	Brakuje wymaganej modyfikacji: {0}.	Benötigte Mod {0} fehlt.
+Menu/LocalModMissingServerDialogue	Text		Required mod {0} is missing from server.	Na serwerze brakuje wymaganej modyfikacji: {0}.	Benötigte Mod {0} fehlt auf dem Server.
+Menu/ManagePlayers	Text		Manage players	Zarządzaj graczami	Spieler verwalten
+Menu/ModFailedToLoadWarning	Text	{0} is mod name. {1} indicates reason it failed to load	A mod failed to load: {0} ({1})	Nie udało się załadować modyfikacji: {0} ({1})	Ein Mod konnte nicht geladen werden: {0} ({1})
+Menu/ModIncompatibleWarning	Text	{0} is mod name	A mod is not compatible with this version: {0}	Ta modyfikacja nie jest kompatybilna z tą wersją: {0}	Ein Mod ist mit dieser Version nicht kompatibel: {0}
+Menu/ModMenuButtonModsLoaded	Text		Mods ({0} loaded)	Modyfikacje ({0} załadowane)	Mods ({0} geladen)
 Menu/ModMenuButtonModsLoadedPendingChanges	Text	"* indicates extra information which will be shown elsewhere (see Mod/PendingChanges)
-"	Mods ({0} loaded)*		Mods ({0} geladen)*
-Menu/ModMenuPopUp	Text		Thank you for exploring the MODS section! Please note that our mod support is currently work-in-progress. As it's newly released, there might not be many mods available yet. Additionally, using mods may lead to unforeseen issues or behaviors in the game. Use them at your own discretion and enjoy the creative possibilities!		Danke fürs Vorbeischauen in der MODS-Sektion! Bitte denke daran, dass wir an unserem Mod-Support noch arbeiten. Da der Support noch nicht lange existiert, kann es sein, dass nur wenige Mods verfügbar sind. Außerdem kann die Verwendung von Mods zu unvorhergesehenen Problemen im Spiel führen. Installiere Mods auf eigene Gefahr und viel Spaß mit all den neuen Möglichkeiten!
-Menu/ModMissingClientDialogue	Text		Required mod {0} is missing. Do you want to install it (needs restart)?		Benötigte Mod {0} fehlt. Möchtest du die Mod installieren? (Neustart erforderlich)
-Menu/ModMissingServerDialogue	Text		Required mod {0} is missing from server. Do you want to disable it (needs restart)?		Benötigte Mod {0} fehlt auf dem Server. Möchtest du die Mod deaktivieren? (Neustart erforderlich)
-Menu/Mods	Text		Mods		Mods
+"	Mods ({0} loaded)*	Modyfikacje ({0} załadowane)*	Mods ({0} geladen)*
+Menu/ModMenuPopUp	Text		Thank you for exploring the MODS section! Please note that our mod support is currently work-in-progress. As it's newly released, there might not be many mods available yet. Additionally, using mods may lead to unforeseen issues or behaviors in the game. Use them at your own discretion and enjoy the creative possibilities!	Dziękujemy za zapoznanie się z sekcją MODY! Należy pamiętać, że nasza funkcja obsługi modyfikacji jest obecnie w fazie rozwoju. Ponieważ jest to nowo wydana funkcja, może nie być jeszcze dostępnych wiele modyfikacji. Ponadto korzystanie z modyfikacji może prowadzić do nieprzewidzianych problemów lub zachowań w grze. Używaj ich według własnego uznania i ciesz się kreatywnymi możliwościami!	Danke fürs Vorbeischauen in der MODS-Sektion! Bitte denke daran, dass wir an unserem Mod-Support noch arbeiten. Da der Support noch nicht lange existiert, kann es sein, dass nur wenige Mods verfügbar sind. Außerdem kann die Verwendung von Mods zu unvorhergesehenen Problemen im Spiel führen. Installiere Mods auf eigene Gefahr und viel Spaß mit all den neuen Möglichkeiten!
+Menu/ModMissingClientDialogue	Text		Required mod {0} is missing. Do you want to install it (needs restart)?	Brakuje wymaganej modyfikacji {0}. Czy chcesz go zainstalować (wymaga restartu)?	Benötigte Mod {0} fehlt. Möchtest du die Mod installieren? (Neustart erforderlich)
+Menu/ModMissingServerDialogue	Text		Required mod {0} is missing from server. Do you want to disable it (needs restart)?	Na serwerze brakuje wymaganej modyfikacji {0}. Czy chcesz go wyłączyć (wymaga restartu)?	Benötigte Mod {0} fehlt auf dem Server. Möchtest du die Mod deaktivieren? (Neustart erforderlich)
+Menu/Mods	Text		Mods	Mody	Mods
 Menu/ModsAddedWithEnhancedAccess	Text		"Caution: 'Elevated Access' mods have increased access to resources outside the game like user files and internet. For the best experience, install only from reputable sources.
 
 Mods with Elevated Access:
-{0}"		"Vorsicht: Mods mit „erweitertem Zugriff“ haben erweiterten Zugriff auf Ressourcen außerhalb des Spiels wie Benutzerdateien und Internet. Für ein optimales Spielerlebnis solltest du nur Mods aus seriösen Quellen installieren.
+{0}"	"Uwaga: Modyfikacje o podwyższonym dostępie mają zwiększony dostęp do zasobów poza grą, takich jak pliki użytkownika i internet. Aby uzyskać najlepsze doświadczenie, instaluj je tylko z renomowanych źródeł.
+
+Mody z podwyższonym dostępem:
+{0}"	"Vorsicht: Mods mit „erweitertem Zugriff“ haben erweiterten Zugriff auf Ressourcen außerhalb des Spiels wie Benutzerdateien und Internet. Für ein optimales Spielerlebnis solltest du nur Mods aus seriösen Quellen installieren.
 
 Mods mit erweitertem Zugriff:
 {0}"
-Menu/ModsLoaded	Text		{0} Mods Loaded		{0} Mods geladen
-Menu/MoreInfo	Text		More info		Mehr Info
-Menu/NoAdminsOnline	Text		There are no admins online.		Es sind keine Admins online.
-Menu/NoBannedPlayers	Text		No players have been banned.		Es wurden keine Spieler gesperrt.
-Menu/ObjectShadows	Text		Object shadows		Objektschatten
-Menu/OneModLoaded	Text	Should match ModsLoaded, but singular	1 Mod Loaded		1 Mod geladen
-Menu/Options	Text		Settings		Einstellungen
-Menu/OverrideSeason	Text		Override season		Saison überschreiben
-Menu/PacketRate	Text	As in the rate of network packets being sent	Network packet send rate		Netzwerkpaket-Sendegeschwindigkeit
-Menu/ParticlesQuality	Text		Particles quality		Partikelqualität
-Menu/PendingChanges	Text		*Pending changes		*Anstehende Änderungen
-Menu/PerformanceOptions	Text		Performance settings		Leistungseinstellungen
-Menu/Ping	Text	Ping to server, shown in pause menu	Ping: {0} ms		Ping: {0} ms
-Menu/Quit	Text		Quit		Beenden
-Menu/Reflections	Text		Reflections		Reflektionen
-Menu/RefreshGameID	Text		Refresh game ID		Spiel-ID aktualisieren
-Menu/RestartPendingModChanges	Text		Restarting to apply pending mod changes.		Starte neu, um benötigte Mods zu installieren.
-Menu/RestartToApplyModChanges	Text		Pending mod changes requires a restart, do you want to restart now?		Anstehende Mod-Änderungen erfordern einen Neustart. Jetzt neu starten?
-Menu/SelectCharacterType	Text		Select character type		Charaktertyp auswählen
-Menu/SelectSaveSlotIcon	Text		Select save slot icon		Speicherplatz-Symbol auswählen
-Menu/SelectWorld	Text		Select world		Welt auswählen
-Menu/SelectWorldMode	Text		Select world mode		Weltmodus auswählen
-Menu/ServerSimulationDistance	Text		Server simulation distance		Server-Simulationsabstand
-Menu/ServerTickRate	Text		Server tick rate		Server-Tickrate
-Menu/SettingsNotAvailableNote	Text		Some settings can only be changed in main menu		Einige Einstellungen können nur im Hauptmenü geändert werden
-Menu/ShadowQuality	Text		Shadow quality		Schattenqualität
-Menu/ShowCharacterNames	Text		Show character names		Charakternamen anzeigen
-Menu/ShowDamageNumbers	Text		Show damage numbers		Schadenszahlen anzeigen
-Menu/ShowGameID	Text		Show game ID		Spiel-ID anzeigen
-Menu/ShowInGameUI	Text		Show in-game UI		Spielinterne UI anzeigen
-Menu/ShowKeyHints	Text		Show key hints		Tasten-Hinweise anzeigen
-Menu/ShowMinimap	Text		Show minimap		Minikarte anzeigen
-Menu/SquashBugs	Text	This option allows player to toggle off bugs being squashed when player walks on them in game	Squash bugs		Kriechtiere zertreten
-Menu/Standard	Text	Refers to type of character type such as classic or hardcore	Standard		Standard
-Menu/StandardDesc	Text		Standard characters respawn after dying. This is the intended way to play Core Keeper.		Normale Charaktere werden nach dem Tod wiederbelebt. Das ist die empfohlene Art, Core Keeper zu spielen.
-Menu/StartGame	Text		Start Game		Spiel starten
-Menu/StreamerMode	Text		Streamer mode		Streamer-Modus
-Menu/TargetFrameRate	Text		Frame rate target		Bildfrequenz-Ziel
-Menu/ToggleGuestModeOff	Text		Disable guest mode		Gastmodus deaktivieren
-Menu/ToggleGuestModeOn	Text		Enable guest mode		Gastmodus aktivieren
-Menu/UIOptions	Text		UI settings		UI-Einstellungen
-Menu/Version	Text		Version: {0} ({1})   |   © Pugstorm AB		Version: {0} ({1})   |   © Pugstorm AB
-Menu/WindowMode	Text		Window mode		Fenstermodus
-Menu/Windowed	Text		Windowed		Fenster
-Menu/WorldName	Text		World: {0}		Welt: {0}
-Menu/WorldSlot	Text		World slot		Welt-Slot
-Names/BirdBoss	Text		Azeos the Sky Titan		Azeos, der Himmelstitan
-Names/HiveEgg	Text	Name shown on eggs at larva hive boss	Hive Egg		Nest-Kokon
-Names/KingSlime	Text		King Slime		Schleimkönig
-Names/LarvaBoss	Text		Ghorm the Devourer		Ghorm, der Verschlinger
-Names/LarvaHiveBoss	Text		The Hive Mother		Die Nestmutter
-Names/LarvaHiveHalloweenBoss	Text		Haunted Hive Mother		Besessene Nestmutter
-Names/LavaSlimeBoss	Text		Igneous the Molten Mass		Igneous die Geschmolzene Masse
-Names/OctopusBoss	Text		Omoroth the Sea Titan		Omoroth, der Meerestitan
-Names/PoisonSlimeBoss	Text		Ivy the Poisonous Mass		Ivy, die Giftige Masse
-Names/ScarabBoss	Text		Ra-Akar the Sand Titan		Ra-Akar der Sandtitan
-Names/ShamanBoss	Text		Malugaz the Corrupted		Malugaz, der Korrupte
-Names/SlimeBoss	Text		Glurch the Abominous Mass		Glurch, die Abscheuliche Masse
-Names/SlipperySlimeBoss	Text		Morpha the Aquatic Mass		Morpha, die Aquatische Masse
-Names/SnakeBoss	Text		Atlantean Worm		Atlantischer Wurm
-Names/SoulOfAzeos	Text		Azeos		Azeos
-Names/SoulOfOmoroth	Text		Omoroth		Omoroth
-Names/SoulOfScarab	Text		Ra-Akar		Ra-Akar
-None	Text		None		Keines
-NonePlayableTitleInfoText	Text		This version of the game is not available, however, you can of course still play the latest Early Access build on the default Steam branch. If you think you were supposed to have access to an exclusive version of the game, please get in touch with your relevant point of contact on the publisher's end.		Diese Version des Spiels ist nicht verfügbar. Du kannst allerdings natürlich immer noch den neuesten Early Access Build auf dem normalen Steam-Zweig spielen. Wenn du der Meinung bist, dass du Zugang zu einer exklusiven Version des Spiels haben solltest, setze dich bitte mit deinem zuständigen Ansprechpartner auf Seiten des Herausgebers in Verbindung.
-NormalMode	Text		Standard		Standard
-NormalModeDesc	Text		Face balanced monsters for a fair and engaging challenge.		Tritt gegen ausgewoge gefährliche Monster an und stelle dich einer fairen und spannenden Herausforderung.
-OffHandMechanics/Dash	Text		Dash forward at {0}% movement speed		Flitze nach vorne mit {0} % Bewegungsgeschwindigkeit
-OffHandMechanics/Shield	Text		Shield yourself and reduce any incoming damage by {0}%		Schirme dich ab und verringere den erlittenen Schaden um {0} %
-OpenBeta	Text		Open Beta		Open Beta
-OpenContainer	Text		Open container		Behälter öffnen
-OpenCrackedEgg	Text		Hatch egg		Ei ausbrüten
-OptionNumber	Text	{0} will be replaced with a number	Option {0}		Option {0}
-PantsVanitySlot	Text		Pants vanity slot		Hosen-Eitelkeit-Slot
-PetTalents/ApplyBurnBuff	Text		Rising Phoenix		Aufsteigender Phönix
-PetTalents/ApplyBurnMelee	Text		Burning Anger		Brennende Wut
-PetTalents/ApplyBurnRange	Text		Burning Anger		Brennende Wut
-PetTalents/ApplyPoisonBuff	Text		Vile Droppings		Üble Hinterlassenschaften
-PetTalents/ApplyPoisonMelee	Text		Bite Wound Infection		Bisswunden-Infektion
-PetTalents/ApplyPoisonRange	Text		Bite Wound Infection		Bisswunden-Infektion
-PetTalents/ApplySlimeBuff	Text		Mucus Missile		Rotzrakete
-PetTalents/ApplySlimeMelee	Text		Sticky Toy		Verklebtes Spielzeug
-PetTalents/ApplySlimeRange	Text		Sticky Toy		Verklebtes Spielzeug
-PetTalents/ApplySlipperyBuff	Text		Coated Feather		Beschichtete Feder
-PetTalents/ApplySlipperyMelee	Text		Icky Tounge		Schlabberzunge
-PetTalents/ApplySlipperyRange	Text		Icky Tounge		Schlabberzunge
-PetTalents/ApplyStunBuff	Text		Secret Neck Grip		Geheimer Nackengriff
-PetTalents/ApplyStunMelee	Text		Paralyzing Fangs		Lähmender Reißzahn
-PetTalents/ApplyStunRange	Text		Paralyzing Fangs		Lähmender Reißzahn
-PetTalents/BlueGlowBuff	Text		Moon Glow		Mondschimmer
-PetTalents/BlueGlowMelee	Text		Soul Animal		Seelentier
-PetTalents/BlueGlowRange	Text		Soul Animal		Seelentier
-PetTalents/BossDamageBuff	Text		Alpha Instincts		Alpha-Instinkt
-PetTalents/BossDamageMelee	Text		Asserting Dominance		Dominanz beweisen
-PetTalents/BossDamageRange	Text		Asserting Dominance		Dominanz beweisen
-PetTalents/ChanceToConsumeBurningBuff	Text		Bellows		Blasebalg
-PetTalents/ChanceToConsumeBurningMelee	Text		Flaming Treat		Flammendes Leckerli
-PetTalents/ChanceToConsumeBurningRange	Text		Flaming Treat		Flammendes Leckerli
-PetTalents/ChanceToDealTripleDamageBuff	Text		Triple Trouble		Dreifach-Ärger
-PetTalents/ChanceToDealTripleDamageMelee	Text		Off-Leash		Leinenlos
-PetTalents/ChanceToDealTripleDamageRange	Text		Off-Leash		Leinenlos
-PetTalents/CritChanceBuff	Text		Spirit of the Hawk		Geist des Falken
-PetTalents/CritChanceMelee	Text		Laser Pointer Play		Laserpointer-Spur
-PetTalents/CritChanceRange	Text		Laser Pointer Play		Laserpointer-Spur
-PetTalents/CritDamageBuff	Text		Crane Style		Stil des Kranichs
-PetTalents/CritDamageMelee	Text		Breaking Skin		Haut aufreißen
-PetTalents/CritDamageRange	Text		Breaking Skin		Haut aufreißen
-PetTalents/DamageBasedOnTargetRemainingHealthBuff	Text		Inflated Target		Aufgeblasenes Ziel
-PetTalents/DamageBasedOnTargetRemainingHealthMelee	Text		Hungry Fang		Hungerzahn
-PetTalents/DamageBasedOnTargetRemainingHealthRange	Text		Hungry Fang		Hungerzahn
-PetTalents/DamageIncreaseAgainstStunnedBuff	Text		Paralyze Pawnch		Paralyse-Stoß
-PetTalents/DamageIncreaseAgainstStunnedMelee	Text		Predator's Mark		Zeichen des Raubtiers
-PetTalents/DamageIncreaseAgainstStunnedRange	Text		Predator's Mark		Zeichen des Raubtiers
-PetTalents/MeleeAttackSpeedBuff	Text		Divebombing		Sturzflug
-PetTalents/MeleeAttackSpeedMelee	Text		Leap Attack		Sprungangriff
-PetTalents/MeleeDamageBuff	Text		Plume Power		Feder-Klinge
-PetTalents/MeleeDamageMelee	Text		Puffing Up		Aufplustern
-PetTalents/MovementSpeedBuff	Text		Avian Run		Flugsprint
-PetTalents/MovementSpeedMelee	Text		Zoomies		Zoomies
-PetTalents/MovementSpeedRange	Text		Zoomies		Zoomies
-PetTalents/OrangeGlowBuff	Text		Sun Glow		Sonnenglanz
-PetTalents/OrangeGlowMelee	Text		Spirit Animal		Totemtier
-PetTalents/OrangeGlowRange	Text		Spirit Animal		Totemtier
-PetTalents/PiercingProjectilesBuff	Text		Hypersonic Talon		Überschall-Klaue
-PetTalents/PiercingProjectilesRange	Text		Hypersonic Claw		Überschall-Kralle
-PetTalents/RangeAttackSpeedBuff	Text		Flock Together		Schwarmflug
-PetTalents/RangeAttackSpeedRange	Text		Leap Attack		Sprungangriff
-PetTalents/RangeDamageBuff	Text		Plume Projectile		Feder-Projektil
-PetTalents/RangeDamageRange	Text		Puffing Up		Aufplustern
-PetTalents/StunDurationBuff	Text		Taxidermy		Taxidermie
-PetTalents/StunDurationMelee	Text		Intimidating Presence		Ängstigende Präsenz
-PetTalents/StunDurationRange	Text		Intimidating Presence		Ängstigende Präsenz
-PlusOne	Text		(+1)		(+1)
-Rarity/Common	Text		Common		Gewöhnliches
-Rarity/CommonFemale	Text		Common		Gewöhnliche
-Rarity/CommonMale	Text		Common		Gewöhnlicher
-Rarity/Epic	Text		Epic		Episches
-Rarity/EpicFemale	Text		Epic		Epische
-Rarity/EpicMale	Text		Epic		Epischer
-Rarity/Legendary	Text		Legendary		Legendäres
-Rarity/LegendaryFemale	Text		Legendary		Legendäre
-Rarity/LegendaryMale	Text		Legendary		Legendärer
-Rarity/Poor	Text		Poor		Schlechtes
-Rarity/PoorFemale	Text		Poor		Schlechte
-Rarity/PoorMale	Text		Poor		Schlechter
-Rarity/Rare	Text		Rare		Seltenes
-Rarity/RareFemale	Text		Rare		Seltene
-Rarity/RareMale	Text		Rare		Seltener
-Rarity/Uncommon	Text		Uncommon		Ungewöhnliches
-Rarity/UncommonFemale	Text		Uncommon		Ungewöhnliche
-Rarity/UncommonMale	Text		Uncommon		Ungewöhnlicher
+Menu/ModsLoaded	Text		{0} Mods Loaded	{0} Modyfikacje załadowane	{0} Mods geladen
+Menu/MoreInfo	Text		More info	Więcej informacji	Mehr Info
+Menu/NoAdminsOnline	Text		There are no admins online.	Nie ma żadnych administratorów online.	Es sind keine Admins online.
+Menu/NoBannedPlayers	Text		No players have been banned.	Żaden gracz nie został zbanowany.	Es wurden keine Spieler gesperrt.
+Menu/ObjectShadows	Text		Object shadows	Cienie obiektów	Objektschatten
+Menu/OneModLoaded	Text	Should match ModsLoaded, but singular	1 Mod Loaded	1 modyfikacja załadowana	1 Mod geladen
+Menu/Options	Text		Settings	Ustawienia	Einstellungen
+Menu/OverrideSeason	Text		Override season	Nadpisz sezon	Saison überschreiben
+Menu/PacketRate	Text	As in the rate of network packets being sent	Network packet send rate	Szybkość wysyłania pakietów sieciowych	Netzwerkpaket-Sendegeschwindigkeit
+Menu/ParticlesQuality	Text		Particles quality	Jakość cząstek	Partikelqualität
+Menu/PendingChanges	Text		*Pending changes	*Oczekuje na zmiany	*Anstehende Änderungen
+Menu/PerformanceOptions	Text		Performance settings	Ustawienia wydajności	Leistungseinstellungen
+Menu/Ping	Text	Ping to server, shown in pause menu	Ping: {0} ms	Ping: {0} ms	Ping: {0} ms
+Menu/Quit	Text		Quit	Wyjście	Beenden
+Menu/Reflections	Text		Reflections	Odbicia	Reflektionen
+Menu/RefreshGameID	Text		Refresh game ID	Odśwież identyfikator gry	Spiel-ID aktualisieren
+Menu/RestartPendingModChanges	Text		Restarting to apply pending mod changes.	Restart w celu zastosowania oczekujących zmian w modyfikacjach.	Starte neu, um benötigte Mods zu installieren.
+Menu/RestartToApplyModChanges	Text		Pending mod changes requires a restart, do you want to restart now?	Oczekujące zmiany modyfikacji wymagają ponownego uruchomienia, czy chcesz teraz ponownie uruchomić grę?	Anstehende Mod-Änderungen erfordern einen Neustart. Jetzt neu starten?
+Menu/SelectCharacterType	Text		Select character type	Wybierz typ postaci	Charaktertyp auswählen
+Menu/SelectSaveSlotIcon	Text		Select save slot icon	Wybierz ikonę miejsca zapisu	Speicherplatz-Symbol auswählen
+Menu/SelectWorld	Text		Select world	Wybierz świat	Welt auswählen
+Menu/SelectWorldMode	Text		Select world mode	Wybierz tryb świata	Weltmodus auswählen
+Menu/ServerSimulationDistance	Text		Server simulation distance	Odległość symulacji serwera	Server-Simulationsabstand
+Menu/ServerTickRate	Text		Server tick rate	Częstotliwość taktowania serwera	Server-Tickrate
+Menu/SettingsNotAvailableNote	Text		Some settings can only be changed in main menu	Niektóre ustawienia można zmienić tylko w menu głównym	Einige Einstellungen können nur im Hauptmenü geändert werden
+Menu/ShadowQuality	Text		Shadow quality	Jakość cieni	Schattenqualität
+Menu/ShowCharacterNames	Text		Show character names	Pokaż nazwy postaci	Charakternamen anzeigen
+Menu/ShowDamageNumbers	Text		Show damage numbers	Pokaż liczby obrażeń	Schadenszahlen anzeigen
+Menu/ShowGameID	Text		Show game ID	Pokaż identyfikator gry	Spiel-ID anzeigen
+Menu/ShowInGameUI	Text		Show in-game UI	Pokaż interfejs użytkownika w grze	Spielinterne UI anzeigen
+Menu/ShowKeyHints	Text		Show key hints	Pokaż kluczowe podpowiedzi	Tasten-Hinweise anzeigen
+Menu/ShowMinimap	Text		Show minimap	Pokaż minimapę	Minikarte anzeigen
+Menu/SquashBugs	Text	This option allows player to toggle off bugs being squashed when player walks on them in game	Squash bugs	Deptanie robaków	Kriechtiere zertreten
+Menu/Standard	Text	Refers to type of character type such as classic or hardcore	Standard	Standardowy	Standard
+Menu/StandardDesc	Text		Standard characters respawn after dying. This is the intended way to play Core Keeper.	Standardowe postacie odradzają się po śmierci. Jest to zalecany sposób gry w Core Keeper.	Normale Charaktere werden nach dem Tod wiederbelebt. Das ist die empfohlene Art, Core Keeper zu spielen.
+Menu/StartGame	Text		Start Game	Rozpocznij grę	Spiel starten
+Menu/StreamerMode	Text		Streamer mode	Tryb streamera	Streamer-Modus
+Menu/TargetFrameRate	Text		Frame rate target	Docelowa liczba FPS	Bildfrequenz-Ziel
+Menu/ToggleGuestModeOff	Text		Disable guest mode	Wyłącz tryb gościa	Gastmodus deaktivieren
+Menu/ToggleGuestModeOn	Text		Enable guest mode	Włącz tryb gościa	Gastmodus aktivieren
+Menu/UIOptions	Text		UI settings	Ustawienia interfejsu użytkownika	UI-Einstellungen
+Menu/Version	Text		Version: {0} ({1})   |   © Pugstorm AB	Wersja: {0} ({1})   |   © Pugstorm AB	Version: {0} ({1})   |   © Pugstorm AB
+Menu/WindowMode	Text		Window mode	Tryb okienkowy	Fenstermodus
+Menu/Windowed	Text		Windowed	Okienkowy	Fenster
+Menu/WorldName	Text		World: {0}	Świat: {0}	Welt: {0}
+Menu/WorldSlot	Text		World slot	Gniazdo świata	Welt-Slot
+Names/BirdBoss	Text		Azeos the Sky Titan	Azeos Podniebny Tytan	Azeos, der Himmelstitan
+Names/HiveEgg	Text	Name shown on eggs at larva hive boss	Hive Egg	Jajo ula	Nest-Kokon
+Names/KingSlime	Text		King Slime	Król szlamu	Schleimkönig
+Names/LarvaBoss	Text		Ghorm the Devourer	Ghorm Pożeracz	Ghorm, der Verschlinger
+Names/LarvaHiveBoss	Text		The Hive Mother	Matka Ula	Die Nestmutter
+Names/LarvaHiveHalloweenBoss	Text		Haunted Hive Mother	Nawiedzona Matka Ula	Besessene Nestmutter
+Names/LavaSlimeBoss	Text		Igneous the Molten Mass	Igneous - stopiona masa	Igneous die Geschmolzene Masse
+Names/OctopusBoss	Text		Omoroth the Sea Titan	Omoroth, tytan morski	Omoroth, der Meerestitan
+Names/PoisonSlimeBoss	Text		Ivy the Poisonous Mass	Ivy Trująca Masa	Ivy, die Giftige Masse
+Names/ScarabBoss	Text		Ra-Akar the Sand Titan	Ra-Akar Piaskowy Tytan 	Ra-Akar der Sandtitan
+Names/ShamanBoss	Text		Malugaz the Corrupted	Malugaz Skażony 	Malugaz, der Korrupte
+Names/SlimeBoss	Text		Glurch the Abominous Mass	Glurch Obrzydliwa Masa	Glurch, die Abscheuliche Masse
+Names/SlipperySlimeBoss	Text		Morpha the Aquatic Mass	Morpha Wodna Masa	Morpha, die Aquatische Masse
+Names/SnakeBoss	Text		Atlantean Worm	Atlantydzki Robak	Atlantischer Wurm
+Names/SoulOfAzeos	Text		Azeos	Azeos	Azeos
+Names/SoulOfOmoroth	Text		Omoroth	Omoroth	Omoroth
+Names/SoulOfScarab	Text		Ra-Akar	Ra-Akar	Ra-Akar
+None	Text		None	Brak	Keines
+NonePlayableTitleInfoText	Text		This version of the game is not available, however, you can of course still play the latest Early Access build on the default Steam branch. If you think you were supposed to have access to an exclusive version of the game, please get in touch with your relevant point of contact on the publisher's end.	Ta wersja gry nie jest dostępna, jednak oczywiście nadal można grać w najnowszą wersję Early Access na domyślnej gałęzi Steam. Jeśli uważasz, że powinieneś mieć dostęp do ekskluzywnej wersji gry, skontaktuj się z odpowiednim punktem kontaktowym po stronie wydawcy.	Diese Version des Spiels ist nicht verfügbar. Du kannst allerdings natürlich immer noch den neuesten Early Access Build auf dem normalen Steam-Zweig spielen. Wenn du der Meinung bist, dass du Zugang zu einer exklusiven Version des Spiels haben solltest, setze dich bitte mit deinem zuständigen Ansprechpartner auf Seiten des Herausgebers in Verbindung.
+NormalMode	Text		Standard	Standardowy	Standard
+NormalModeDesc	Text		Face balanced monsters for a fair and engaging challenge.	Zmierz się ze zbalansowanymi potworami, by stawić czoła uczciwemu i angażującemu wyzwaniu.	Tritt gegen ausgewoge gefährliche Monster an und stelle dich einer fairen und spannenden Herausforderung.
+OffHandMechanics/Dash	Text		Dash forward at {0}% movement speed	Wykonaj zryw do przodu z {0}% prędkości ruchu	Flitze nach vorne mit {0} % Bewegungsgeschwindigkeit
+OffHandMechanics/Shield	Text		Shield yourself and reduce any incoming damage by {0}%	Osłoń się i zmniejsz otrzymywane obrażenia o {0}%.	Schirme dich ab und verringere den erlittenen Schaden um {0} %
+OpenBeta	Text		Open Beta	Otwarta beta	Open Beta
+OpenContainer	Text		Open container	Otwórz pojemnik	Behälter öffnen
+OpenCrackedEgg	Text		Hatch egg	Wykluj jajko	Ei ausbrüten
+OptionNumber	Text	{0} will be replaced with a number	Option {0}	Opcja {0}	Option {0}
+PantsVanitySlot	Text		Pants vanity slot	Gniazdo wyglądu spodni	Hosen-Eitelkeit-Slot
+PetTalents/ApplyBurnBuff	Text		Rising Phoenix	Wschodzący feniks	Aufsteigender Phönix
+PetTalents/ApplyBurnMelee	Text		Burning Anger	Płonący gniew	Brennende Wut
+PetTalents/ApplyBurnRange	Text		Burning Anger	Płonący gniew	Brennende Wut
+PetTalents/ApplyPoisonBuff	Text		Vile Droppings	Ohydne odchody	Üble Hinterlassenschaften
+PetTalents/ApplyPoisonMelee	Text		Bite Wound Infection	Infekcja rany po ugryzieniu	Bisswunden-Infektion
+PetTalents/ApplyPoisonRange	Text		Bite Wound Infection	Infekcja rany po ugryzieniu	Bisswunden-Infektion
+PetTalents/ApplySlimeBuff	Text		Mucus Missile	Pocisk śluzowy	Rotzrakete
+PetTalents/ApplySlimeMelee	Text		Sticky Toy	Lepka zabawka	Verklebtes Spielzeug
+PetTalents/ApplySlimeRange	Text		Sticky Toy	Lepka zabawka	Verklebtes Spielzeug
+PetTalents/ApplySlipperyBuff	Text		Coated Feather	Powlekane pióro	Beschichtete Feder
+PetTalents/ApplySlipperyMelee	Text		Icky Tounge	Paskudny język	Schlabberzunge
+PetTalents/ApplySlipperyRange	Text		Icky Tounge	Paskudny język	Schlabberzunge
+PetTalents/ApplyStunBuff	Text		Secret Neck Grip	Sekretny uchwyt na szyję	Geheimer Nackengriff
+PetTalents/ApplyStunMelee	Text		Paralyzing Fangs	Paraliżujące kły	Lähmender Reißzahn
+PetTalents/ApplyStunRange	Text		Paralyzing Fangs	Paraliżujące kły	Lähmender Reißzahn
+PetTalents/BlueGlowBuff	Text		Moon Glow	Księżycowy blask	Mondschimmer
+PetTalents/BlueGlowMelee	Text		Soul Animal	Zwierzę duszy	Seelentier
+PetTalents/BlueGlowRange	Text		Soul Animal	Zwierzę duszy	Seelentier
+PetTalents/BossDamageBuff	Text		Alpha Instincts	Instynkty alfa	Alpha-Instinkt
+PetTalents/BossDamageMelee	Text		Asserting Dominance	Dominacja	Dominanz beweisen
+PetTalents/BossDamageRange	Text		Asserting Dominance	Dominacja	Dominanz beweisen
+PetTalents/ChanceToConsumeBurningBuff	Text		Bellows	Mieszek	Blasebalg
+PetTalents/ChanceToConsumeBurningMelee	Text		Flaming Treat	Płonący smakołyk	Flammendes Leckerli
+PetTalents/ChanceToConsumeBurningRange	Text		Flaming Treat	Płonący smakołyk	Flammendes Leckerli
+PetTalents/ChanceToDealTripleDamageBuff	Text		Triple Trouble	Potrójny kłopot	Dreifach-Ärger
+PetTalents/ChanceToDealTripleDamageMelee	Text		Off-Leash	Bez smyczy	Leinenlos
+PetTalents/ChanceToDealTripleDamageRange	Text		Off-Leash	Bez smyczy	Leinenlos
+PetTalents/CritChanceBuff	Text		Spirit of the Hawk	Duch jastrzębia	Geist des Falken
+PetTalents/CritChanceMelee	Text		Laser Pointer Play	Zabawa wskaźnikiem laserowym	Laserpointer-Spur
+PetTalents/CritChanceRange	Text		Laser Pointer Play	Zabawa wskaźnikiem laserowym	Laserpointer-Spur
+PetTalents/CritDamageBuff	Text		Crane Style	Styl żurawia	Stil des Kranichs
+PetTalents/CritDamageMelee	Text		Breaking Skin	Łamanie skóry	Haut aufreißen
+PetTalents/CritDamageRange	Text		Breaking Skin	Łamanie skóry	Haut aufreißen
+PetTalents/DamageBasedOnTargetRemainingHealthBuff	Text		Inflated Target	Nadmuchiwany cel	Aufgeblasenes Ziel
+PetTalents/DamageBasedOnTargetRemainingHealthMelee	Text		Hungry Fang	Głodny Kieł	Hungerzahn
+PetTalents/DamageBasedOnTargetRemainingHealthRange	Text		Hungry Fang	Głodny Kieł	Hungerzahn
+PetTalents/DamageIncreaseAgainstStunnedBuff	Text		Paralyze Pawnch	Paraliż pionka	Paralyse-Stoß
+PetTalents/DamageIncreaseAgainstStunnedMelee	Text		Predator's Mark	Znak drapieżnika	Zeichen des Raubtiers
+PetTalents/DamageIncreaseAgainstStunnedRange	Text		Predator's Mark	Znak Drapieżnika	Zeichen des Raubtiers
+PetTalents/MeleeAttackSpeedBuff	Text		Divebombing	Bombardowanie	Sturzflug
+PetTalents/MeleeAttackSpeedMelee	Text		Leap Attack	Atak z wyskoku	Sprungangriff
+PetTalents/MeleeDamageBuff	Text		Plume Power	Moc pióropusza	Feder-Klinge
+PetTalents/MeleeDamageMelee	Text		Puffing Up	Puffing Up	Aufplustern
+PetTalents/MovementSpeedBuff	Text		Avian Run	Ptasi bieg	Flugsprint
+PetTalents/MovementSpeedMelee	Text		Zoomies	Zoomies	Zoomies
+PetTalents/MovementSpeedRange	Text		Zoomies	Zoomies	Zoomies
+PetTalents/OrangeGlowBuff	Text		Sun Glow	Słoneczny blask	Sonnenglanz
+PetTalents/OrangeGlowMelee	Text		Spirit Animal	Duchowe zwierzę	Totemtier
+PetTalents/OrangeGlowRange	Text		Spirit Animal	Duchowe zwierzę	Totemtier
+PetTalents/PiercingProjectilesBuff	Text		Hypersonic Talon	Pazur naddźwiękowy	Überschall-Klaue
+PetTalents/PiercingProjectilesRange	Text		Hypersonic Claw	Hipersoniczny pazur	Überschall-Kralle
+PetTalents/RangeAttackSpeedBuff	Text		Flock Together	Stado razem	Schwarmflug
+PetTalents/RangeAttackSpeedRange	Text		Leap Attack	Atak z wyskoku	Sprungangriff
+PetTalents/RangeDamageBuff	Text		Plume Projectile	Pocisk pióropuszowy	Feder-Projektil
+PetTalents/RangeDamageRange	Text		Puffing Up	Nadmuchiwanie	Aufplustern
+PetTalents/StunDurationBuff	Text		Taxidermy	Taksydermia	Taxidermie
+PetTalents/StunDurationMelee	Text		Intimidating Presence	Zastraszająca obecność	Ängstigende Präsenz
+PetTalents/StunDurationRange	Text		Intimidating Presence	Zastraszająca Obecność	Ängstigende Präsenz
+PlusOne	Text		(+1)	(+1)	(+1)
+Rarity/Common	Text		Common	Zwykłe	Gewöhnliches
+Rarity/CommonFemale	Text		Common	Zwykła	Gewöhnliche
+Rarity/CommonMale	Text		Common	Zwykły	Gewöhnlicher
+Rarity/Epic	Text		Epic	Epicke	Episches
+Rarity/EpicFemale	Text		Epic	Epicka	Epische
+Rarity/EpicMale	Text		Epic	Epicki	Epischer
+Rarity/Legendary	Text		Legendary	Legendarne	Legendäres
+Rarity/LegendaryFemale	Text		Legendary	Legendarna	Legendäre
+Rarity/LegendaryMale	Text		Legendary	Legendarny	Legendärer
+Rarity/Poor	Text		Poor	Słabe	Schlechtes
+Rarity/PoorFemale	Text		Poor	Słaba	Schlechte
+Rarity/PoorMale	Text		Poor	Słaby	Schlechter
+Rarity/Rare	Text		Rare	Rzadke	Seltenes
+Rarity/RareFemale	Text		Rare	Rzadka	Seltene
+Rarity/RareMale	Text		Rare	Rzadki	Seltener
+Rarity/Uncommon	Text		Uncommon	Niezwykłe	Ungewöhnliches
+Rarity/UncommonFemale	Text		Uncommon	Niezwykła	Ungewöhnliche
+Rarity/UncommonMale	Text		Uncommon	Niezwykły	Ungewöhnlicher
 Recipes	Text	"Title for recipes of foods, {0} will be replaced with a number indicating the current amount of known recipes
-"	Recipes ({0})		Rezepte ({0})
-ReinforceButtonDesc	Text		Toggle to reinforce tools, weapons and equipment. Reinforcing will improve the stats of the item by a small amount and also extend the durability.		Umschalten, um Werkzeuge, Waffen und Ausrüstung zu verstärken. Die Verstärkung verbessert die Werte des Gegenstands um einen kleinen Betrag und verlängert zudem seine Haltbarkeit.
-ReinforceButtonTitle	Text		Reinforce		Verstärken
-RepairButtonDesc	Text		Toggle to repair tools, weapons and equipment.		Umschalten, um Werkzeuge, Waffen und Ausrüstung zu reparieren.
-RepairButtonTitle	Text		Repair		Reparieren
-RichPresence/InBiomeDesert	Text		in the Desert of Beginnings		in der Wüste der Anfänge
-RichPresence/InBiomeGreatWall	Text		at the Great Wall		an der Großen Mauer
-RichPresence/InBiomeLarva	Text		in the Clay Caves		in den Lehm-Höhlen
-RichPresence/InBiomeNature	Text		in Azeos' Wilderness		in Azeos' Wildnis
-RichPresence/InBiomeNone	Text		in the unknown		im Unbekannten
-RichPresence/InBiomeSea	Text		in the Sunken Sea		im Versunkenen Meer
-RichPresence/InBiomeSlime	Text		in the Undergrounds		in den Untergründen
-RichPresence/InBiomeStone	Text		in the Forgotten Ruins		in den Vergessenen Ruinen
-RichPresence/InGame	Text		In game		Im Spiel
-RichPresence/InMainMenu	Text		In the main menu		Im Hauptmenü
-RichPresence/TaskDying	Text		Dying		Sterben
-RichPresence/TaskExploring	Text		Exploring		Erkunden
-RichPresence/TaskFishing	Text		Fishing		Angeln
-RichPresence/TaskIdle	Text		Chilling		Frieren
-RichPresence/TaskSleeping	Text		Sleeping		Schlafen
-Roles/Chef	Text		Chef		Chefkoch
-Roles/ChefDesc	Text		A culinary expert preparing food for anyone in need.		Ein Experte auf dem Gebiet der Kulinarik, der Essen für Menschen in Not zubereitet.
-Roles/Explorer	Text		Explorer		Forscher
-Roles/ExplorerDesc	Text		An experienced traveller who always brings a few torches.		Ein erfahrener Reisender, der immer ein paar Fackeln im Gepäck hat.
-Roles/Fighter	Text		Fighter		Kämpfer
-Roles/FighterDesc	Text		A fighter with great self-defence and the power to defend their allies.		Ein Kämpfer mit großartiger Selbstverteidigung und der Kraft, seine Verbündeten zu verteidigen.
-Roles/Fisherman	Text		Fisherman		Fischer
-Roles/FishermanDesc	Text		A patient fisherman with a fishing rod at hand and an eye on the lure.		Ein geduldiger Angler mit einer Angel in der Hand und einem Auge auf dem Köder.
-Roles/Gardener	Text		Gardener		Gärtner
-Roles/GardenerDesc	Text		A seasoned farmer with green fingers eager to turn some soil.		Ein erfahrener Landwirt mit grünem Daumen, der bereit ist, sich die Hände schmutzig zu machen.
-Roles/Miner	Text		Miner		Bergmann
-Roles/MinerDesc	Text		A veteran miner knowledgeable about breaking down walls effectively.		Ein erfahrener Bergmann, der weiß, wie man Wände effektiv einreißt.
-Roles/Nomad	Text		Nomad		Nomade
-Roles/NomadDesc	Text		An ordinary person without starting equipment but all the possibilities.		Ein normaler Mensch ohne Anfangsausrüstung, aber mit allen Möglichkeiten.
-Roles/Ranger	Text		Ranger		Jäger
-Roles/RangerDesc	Text		A swift fighter with a keen eye that's trained to hit enemies from far away.		Ein flinker Kämpfer mit scharfem Auge, der darauf trainiert ist, Gegner auf weite Distanz zu bekämpfen.
-SalvageButtonDesc	Text		Salvage tools, weapons and equipment to gain scrap parts and some of the crafting materials back. Items with less durability gives back less materials.		Berge Werkzeuge, Waffen und Ausrüstung, um Schrottteile und einen Teil der Fertigungsmaterialien zurückzugewinnen. Gegenstände mit geringerer Haltbarkeit geben weniger Materialien zurück.
-SalvageButtonTitle	Text		Salvage		Zurückgewinnen
+"	Recipes ({0})	Przepisy ({0})	Rezepte ({0})
+ReinforceButtonDesc	Text		Toggle to reinforce tools, weapons and equipment. Reinforcing will improve the stats of the item by a small amount and also extend the durability.	Przełącz, aby wzmocnić narzędzia, broń i wyposażenie. Wzmocnienie poprawi statystyki przedmiotu o niewielką wartość, a także zwiększy jego trwałość.	Umschalten, um Werkzeuge, Waffen und Ausrüstung zu verstärken. Die Verstärkung verbessert die Werte des Gegenstands um einen kleinen Betrag und verlängert zudem seine Haltbarkeit.
+ReinforceButtonTitle	Text		Reinforce	Wzmocnienie	Verstärken
+RepairButtonDesc	Text		Toggle to repair tools, weapons and equipment.	Przełącz, aby naprawić narzędzia, broń i wyposażenie.	Umschalten, um Werkzeuge, Waffen und Ausrüstung zu reparieren.
+RepairButtonTitle	Text		Repair	Naprawa	Reparieren
+RichPresence/InBiomeDesert	Text		in the Desert of Beginnings	na Pustyni Początków	in der Wüste der Anfänge
+RichPresence/InBiomeGreatWall	Text		at the Great Wall	na Wielkim Murze	an der Großen Mauer
+RichPresence/InBiomeLarva	Text		in the Clay Caves	w Glinianych Jaskiniach	in den Lehm-Höhlen
+RichPresence/InBiomeNature	Text		in Azeos' Wilderness	w Dziczy Azeosa	in Azeos' Wildnis
+RichPresence/InBiomeNone	Text		in the unknown	w Nieznanym	im Unbekannten
+RichPresence/InBiomeSea	Text		in the Sunken Sea	w Głębinach Morza	im Versunkenen Meer
+RichPresence/InBiomeSlime	Text		in the Undergrounds	w Podziemiach	in den Untergründen
+RichPresence/InBiomeStone	Text		in the Forgotten Ruins	w Zapomnianych Ruinach	in den Vergessenen Ruinen
+RichPresence/InGame	Text		In game	W grze	Im Spiel
+RichPresence/InMainMenu	Text		In the main menu	W menu głównym	Im Hauptmenü
+RichPresence/TaskDying	Text		Dying	Umieranie	Sterben
+RichPresence/TaskExploring	Text		Exploring	Eksploracja	Erkunden
+RichPresence/TaskFishing	Text		Fishing	Łowienie	Angeln
+RichPresence/TaskIdle	Text		Chilling	Chłodzenie	Frieren
+RichPresence/TaskSleeping	Text		Sleeping	Spanie	Schlafen
+Roles/Chef	Text		Chef	Szef kuchni	Chefkoch
+Roles/ChefDesc	Text		A culinary expert preparing food for anyone in need.	Ekspert kulinarny przygotowujący jedzenie dla potrzebujących.	Ein Experte auf dem Gebiet der Kulinarik, der Essen für Menschen in Not zubereitet.
+Roles/Explorer	Text		Explorer	Odkrywca	Forscher
+Roles/ExplorerDesc	Text		An experienced traveller who always brings a few torches.	Doświadczony podróżnik, który zawsze ma przy sobie kilka pochodni.	Ein erfahrener Reisender, der immer ein paar Fackeln im Gepäck hat.
+Roles/Fighter	Text		Fighter	Wojownik	Kämpfer
+Roles/FighterDesc	Text		A fighter with great self-defence and the power to defend their allies.	Wojownik z doskonałą samoobroną i mocą do obrony sojuszników.	Ein Kämpfer mit großartiger Selbstverteidigung und der Kraft, seine Verbündeten zu verteidigen.
+Roles/Fisherman	Text		Fisherman	Rybak	Fischer
+Roles/FishermanDesc	Text		A patient fisherman with a fishing rod at hand and an eye on the lure.	Cierpliwy rybak z wędką pod ręką i okiem na przynęcie.	Ein geduldiger Angler mit einer Angel in der Hand und einem Auge auf dem Köder.
+Roles/Gardener	Text		Gardener	Ogrodnik	Gärtner
+Roles/GardenerDesc	Text		A seasoned farmer with green fingers eager to turn some soil.	Doświadczony rolnik z zielonymi palcami, chętny do uprawy ziemi.	Ein erfahrener Landwirt mit grünem Daumen, der bereit ist, sich die Hände schmutzig zu machen.
+Roles/Miner	Text		Miner	Górnik	Bergmann
+Roles/MinerDesc	Text		A veteran miner knowledgeable about breaking down walls effectively.	Doświadczony górnik znający się na skutecznym niszczeniu ścian.	Ein erfahrener Bergmann, der weiß, wie man Wände effektiv einreißt.
+Roles/Nomad	Text		Nomad	Nomad	Nomade
+Roles/NomadDesc	Text		An ordinary person without starting equipment but all the possibilities.	Zwykła osoba bez sprzętu startowego, ale ze wszystkimi możliwościami.	Ein normaler Mensch ohne Anfangsausrüstung, aber mit allen Möglichkeiten.
+Roles/Ranger	Text		Ranger	Strzelec	Jäger
+Roles/RangerDesc	Text		A swift fighter with a keen eye that's trained to hit enemies from far away.	Szybki wojownik z bystrym okiem, wyszkolony do trafiania wrogów z daleka.	Ein flinker Kämpfer mit scharfem Auge, der darauf trainiert ist, Gegner auf weite Distanz zu bekämpfen.
+SalvageButtonDesc	Text		Salvage tools, weapons and equipment to gain scrap parts and some of the crafting materials back. Items with less durability gives back less materials.	Złomowanie narzędzi, broni i sprzętu w celu odzyskania części złomu i niektórych materiałów rzemieślniczych. Przedmioty o mniejszej wytrzymałości zwracają mniej materiałów.	Berge Werkzeuge, Waffen und Ausrüstung, um Schrottteile und einen Teil der Fertigungsmaterialien zurückzugewinnen. Gegenstände mit geringerer Haltbarkeit geben weniger Materialien zurück.
+SalvageButtonTitle	Text		Salvage	Odzysk	Zurückgewinnen
 Salvaging	Text	"Shown as title in the salvage and repair UI
-"	Salvaging		Zurückgewinnen
-ScanWorld	Text		Scan the world		Welt scannen
-Seasons/Anniversary	Text		Anniversary		Jubiläum
-Seasons/CherryBlossom	Text		Cherry blossom		Kirschblüte
-Seasons/Christmas	Text		Christmas		Weihnachten
-Seasons/Easter	Text		Easter		Ostern
-Seasons/Halloween	Text		Halloween		Halloween
-Seasons/LunarNewYear	Text		Lunar New Year		Mondneujahr
-Seasons/None	Text		None		Keines
-Seasons/Valentine	Text		Valentine		Valentinstag
-Simple	Text		Simple		Einfach
-SkillIncrease/Cooking	Text		+ {0} cooking		+ {0} Kochen
-SkillIncrease/Crafting	Text		+ {0} crafting		+ {0} Fertigung
-SkillIncrease/Fishing	Text		+ {0} fishing		+ {0} Angeln
-SkillIncrease/Gardening	Text		+ {0} gardening		+ {0} Gärtnern
-SkillIncrease/Melee	Text		+ {0} melee		+ {0} Nahkampf
-SkillIncrease/Mining	Text		+ {0} mining		+ {0} Bergbau
-SkillIncrease/Range	Text		+ {0} range combat		+ {0} Fernkampf
-SkillIncrease/Running	Text		+ {0} running		+ {0} Laufen
-SkillIncrease/Vitality	Text		+ {0} vitality		+ {0} Vitalität
-SkillTalents/ArmorIncreaseFromMovementSpeed	Text		Breaking barriers		Schallmauer
-SkillTalents/ChanceForExtraOre	Text		Meticulous miner		Bedächtiger Bergbau
-SkillTalents/ChanceForRandomLootFromWall	Text		Archaeologist		Archäologe
-SkillTalents/ChanceOnMeleeHitToIncreaseRangeDamage	Text		Taking a step back		Klinge und Korn
-SkillTalents/ChanceOnRangeHitToIncreaseMeleeDamage	Text		Charging in		Ansturm
-SkillTalents/ChanceToApplyPoison	Text		Poison coated weapons		Vergiftete Waffen
-SkillTalents/ChanceToApplySlimeOnRangeHit	Text		Slimy bullets		Schleim-Projektile
-SkillTalents/ChanceToGainHigherRarityCookedFood	Text		Master chef		Meisterkoch
-SkillTalents/ChanceToGainHigherRarityPlants	Text		Expert gardener		Gartenexperte
-SkillTalents/ChanceToNotDieOnLethalHit	Text		Cheat death		Den Tod betrügen
-SkillTalents/ChanceToPreserveBait	Text		Chewy bait		Zäher Köder
-SkillTalents/ChanceToRestoreHealthOnMeleeHit	Text		Seething blade		Dürstende Klinge
-SkillTalents/ChanceToStunOnRangeHit	Text		Stun shot		Schreckschuss
-SkillTalents/CostReductionAtAnvil	Text		Blacksmith		Profischmied
-SkillTalents/CriticalDamageMultiplier	Text		Amplified precision		Perfekte Präzision
-SkillTalents/CriticalHitMultiplier	Text		Thorny weapons		Dornige Waffen
-SkillTalents/DamageIncreaseAgainstBosses	Text		Strength of the Ancients		Macht der Alten
-SkillTalents/DamageIncreaseAgainstPoisoned	Text		Potent poison		Potentes Gift
-SkillTalents/DamageIncreaseAtLowerHealth	Text		Desperate fighter		Nichts zu verlieren
-SkillTalents/DamageIncreaseAtMaxHealth	Text		Strong and healthy		Gesund und kräftig
-SkillTalents/DodgeChanceIncrease	Text		Studied patterns		Erlernte Muster
-SkillTalents/DodgeIncreaseWhileStandingStill	Text		Balanced stance		Schattenschritt
-SkillTalents/DrainLessHunger	Text		Endurance runner		Ausdauerläufer
-SkillTalents/EquipmentDurabilityLastsLonger	Text		High quality equipment		Hochwertige Ausrüstung
-SkillTalents/ExplosivesImprovement	Text		Explosives engineer		Explosive Effizienz
-SkillTalents/ExtraItemChanceAtAlchemyTable	Text		Alchemist		Alchemist
-SkillTalents/ExtraItemChanceAtBaseBuilding	Text		Base builder		Basis-Bauherr
-SkillTalents/ExtraItemChanceAtRailsWiresAndBelts	Text		Industry specialist		Industriespezialist
-SkillTalents/FishBitesFaster	Text		Improved bait		Köstliche Köder
-SkillTalents/FishChanceIncrease	Text		Fisherman's luck		Petri Heil
-SkillTalents/FishStartsCloserToBeReeledIn	Text		Angler's advantage		Anglervorteil
-SkillTalents/FishingAsRangeDamage	Text		Well-trained aim		Trainiertes Zielen
-SkillTalents/FoodBuffsLastLonger	Text		Long-lasting food		Langlebiges Essen
-SkillTalents/GainDurabilityOnOreWall	Text		Self-mending alloy		Selbstflickende Legierung
-SkillTalents/GainHungerFromHarvesting	Text		Feast for the eyes		Das Auge isst mit
-SkillTalents/GainMoreFood	Text		Eat your vegetables!		Iss dein Gemüse!
-SkillTalents/GainMoreFoodFromCookedFood	Text		Utilizing every nutrient		Nützliche Nährstoffe
-SkillTalents/GuaranteedRangeCritsChance	Text		Weakness detection		Schwachpunkt-Erkennung
-SkillTalents/HealingEffectivenessIncrease	Text		Healing potency		Potente Heilung
-SkillTalents/HealingPotionAddHealOverTime	Text		Lingering potions		Süßer Nachgeschmack
-SkillTalents/HealthRegenIncreaseBelowHalfHealth	Text		Stayin' alive		Notpflaster
-SkillTalents/ImprovedWaterCan	Text		Bottomless water can		Bodenlose Gießkanne
-SkillTalents/IncreaseAttackSpeedFromCookedFood	Text		Fast food		Fast Food
-SkillTalents/IncreaseAttackSpeedOnNextThreeAttacksChance	Text		Fast and furious		Fuchtelschwung
-SkillTalents/IncreaseDamageForAllNearbyAllies	Text		The smell of food		Duftende Gerichte
-SkillTalents/IncreaseDamageWhenEatingFish	Text		Power of Omega-3!		Die Kraft von Omega-3!
-SkillTalents/IncreasedArmorAtLowHealth	Text		Unbreakable		Letzter Widerstand
-SkillTalents/KnockbackChance	Text		Heavy swings		Schwere Schläge
-SkillTalents/MaxHealthIncreaseFromAllSkillPoints	Text		Maxed out!		Am Limit
-SkillTalents/MeleeAttackSpeed	Text		Quick strikes		Schnelle Schläge
-SkillTalents/MeleeDamageIncreaseOnHittingSameTarget	Text		Stubborn fighter		Hartnäckig
-SkillTalents/MiningDamageAsMeleeDamage	Text		Miner's strength		Muskelschmalz
-SkillTalents/MiningDamagePercentage	Text		Efficient excavation		Effiziente Ausgrabung
-SkillTalents/MiningSpeedIncrease	Text		Mine, mine, mine!		Graben, graben, graben!
-SkillTalents/MovementIncreaseAfterConsistentRunning	Text		Gotta go fast!		Bruder, muss los
-SkillTalents/MovementIncreaseAfterDodge	Text		On your toes		Ausweichsprinter
-SkillTalents/MovementIncreaseAfterMining	Text		Pick and run!		Nimm, was du kriegen kannst
-SkillTalents/NearbyAlliesGainHealingFromCookedFood	Text		Sharing is caring		Teilen macht Freude
-SkillTalents/NearbyEnemiesSlowedDown	Text		Encumbering presence		Bedrohliche Präsenz
-SkillTalents/PolishedItemChanceAtJewelryTable	Text		Jewelry crafter		Goldschmied
-SkillTalents/RangeAttackSpeed	Text		Rapid shots		Rapid-Schuss
-SkillTalents/ReducedDamageTakenFromBosses	Text		Protection of the Ancients		Schutz der Alten
-SkillTalents/ReducedImpactOfSlipperyMovement	Text		Steady feet		Sicherer Stand
-SkillTalents/RodRangeIncrease	Text		Throwing expert		Auswurf-Experte
-SkillTalents/SeedFromPlantChanceIncrease	Text		Grateful gardener		Gründlicher Gärtner
-SkillTalents/SnareTimeReduction	Text		Escape artist		Entfesslungskünstler
-SkillTalents/StackingDamageWhileRunning	Text		Keeping tempo		Tempo halten
-SkillTalents/StackingMeleeDamage	Text		Building anger		Steigende Wut
-SkillTalents/StackingRangeDamage	Text		Keeping momentum		Artillerist
-SkillTalents/StandingStillIncreaseRangeDamage	Text		Focused accuracy		Fokustreffer
-SkillTalents/StrongerWellFedBuffs	Text		Healthy diet		Gesunde Ernährung
-SkillTalents/ThornsDamageIncrease	Text		Thorny skin		Dornenhaut
-SkillTalents/ToolDurabilityLastsLonger	Text		The right tools in the right hands		Sorgfältiger Gebrauch
-SkillTalents/VisibleOreDistance	Text		Night vision		Nachtsicht
-SkillTalents/WellFedBuffsThresholdReduction	Text		Not so picky		Nicht so mäklig
-Skills/Cooking	Text		Cooking		Kochen
-Skills/CookingDesc	Text		Grabbing cooked food from the cooking pot increases the chance of gaining additional cooked food.		Wenn du gekochtes Essen aus dem Kochtopf nimmst, erhöht sich die Chance, ein zusätzliches gekochtes Essen zu erhalten.
-Skills/CookingPerk	Text		+{0} Cooking skill		+{0} Kochen-Fertigkeit
-Skills/Crafting	Text		Crafting		Fertigung
-Skills/CraftingDesc	Text		Crafting items increases your physical durability.		Die Fertigung von Gegenständen erhöht deine körperliche Belastbarkeit.
-Skills/CraftingPerk	Text		+{0} Crafting skill		+{0} Fertigung-Fertigkeit
-Skills/Fishing	Text		Fishing		Angeln
-Skills/FishingDesc	Text		Reeling up fish or other treasures from waters increases your fishing skill.		Das Einholen von Fischen oder anderen Schätzen aus den Gewässern erhöht deine Angeln-Fertigkeit.
-Skills/FishingPerk	Text		+{0} Fishing skill		+{0} Angeln-Fertigkeit
-Skills/Gardening	Text		Gardening		Gärtnern
-Skills/GardeningDesc	Text		Harvesting plants gives you green fingers, allowing you to gain extra plants.		Wenn du Pflanzen erntest, bekommst du einen grünen Daumen, mit dem du zusätzliche Pflanzen erhalten kannst.
-Skills/GardeningPerk	Text		+{0} Gardening skill		+{0} Gärtnern-Fertigkeit
-Skills/Melee	Text		Melee combat		Nahkampf
-Skills/MeleeDesc	Text		Fighting in melee increases your strength.		Wenn du im Nahkampf kämpfst, erhöht sich deine Stärke.
-Skills/MeleePerk	Text		+{0} Melee skill		+{0} Nahkampf-Fertigkeit
-Skills/Mining	Text		Mining		Bergbau
-Skills/MiningDesc	Text		Excavating walls increases your mining damage.		Das Ausheben von Wänden erhöht deinen Bergbauschaden.
-Skills/MiningPerk	Text		+{0} Mining skill		+{0} Bergbau-Fertigkeit
-Skills/Range	Text		Range combat		Fernkampf
-Skills/RangeDesc	Text		Shooting with ranged weapons improves your firepower.		Die Nutzung von Fernkampfwaffen verbessert deine Feuerkraft.
-Skills/RangePerk	Text		+{0} Range combat skill		+{0} Fernkampf-Fertigkeit
-Skills/Running	Text		Running		Laufen
-Skills/RunningDesc	Text		Running increases your movement speed.		Laufen erhöht deine Bewegungsgeschwindigkeit.
-Skills/RunningPerk	Text		+{0} Running skill		+{0} Laufen-Fertigkeit
-Skills/Vitality	Text		Vitality		Vitalität
-Skills/VitalityDesc	Text		Defeating enemies makes you tougher and increases your maximum health.		Wenn du Feinde besiegst, wirst du widerstandsfähiger und erhöhst deine maximale Gesundheit.
-Skills/VitalityPerk	Text		+{0} Vitality skill		+{0} Vitalität-Fertigkeit
-Souls/SoulDesc1	Text		The soul of Azeos empowers you with the ancient thunder.		Die Seele von Azeos verleiht dir die Kraft des alten Donners.
-Souls/SoulDesc2	Text		The soul of Omoroth empowers you with the forces of the depth.		Die Seele von Omoroth verleiht dir Macht über die Mächte der Tiefe.
-Souls/SoulDesc3	Text		The soul of Ra-Akar empowers you with the ancient force of the desert.		Die Seele von Ra-Akar verleiht dir die antiken Kräfte der Wüste.
-Souls/SoulTitle1	Text		Soul of Azeos		Seele von Azeos
-Souls/SoulTitle2	Text		Soul of Omoroth		Seele von Omoroth
-Souls/SoulTitle3	Text		Soul of Ra-Akar		Seele von Ra-Akar
-Stats/Adventure	Text		Adventure		Abenteuer
-Stats/Defense	Text		Defense		Verteidigung
-Stats/Health	Text		Health		Gesundheit
-Stats/Offense	Text		Offense		Angriff
-TeleportToCore	Text		Teleport to the Core		Zum Kern teleportieren
-TheCore/ActivationSentence1	Text		Thou hast awakened us...		Ihr habt uns erweckt...
-TheCore/ActivationSentence10	Text		In return,* thou shalt be able to go back to whence thou camest.		Im Gegenzug* soll es Euch möglich sein, dahin zurückzukehren, von wo Ihr kamt.
-TheCore/ActivationSentence11	Text		By the power with which we now imbue thee, the Great Wall shall be opened as thou layest a hand upon it.		Mit der Macht, die Ihr nun von uns erhaltet, wird sich Euch die Große Mauer öffnen, sofern Ihr Eure Hand daran legt.
-TheCore/ActivationSentence2	Text		Never have we seen a creature such as thee.		Noch nie sahen wir ein Lebewesen wie Euch.
-TheCore/ActivationSentence3	Text		There once was a thriving civilization here, but it seems all of it has been lost.		Einst gab es hier eine blühende Zivilisation, doch nun scheint sie seit Langem verloren.
-TheCore/ActivationSentence4	Text		We must have been dormant for aeons.		Wir müssen seit Äonen geruht haben.
-TheCore/ActivationSentence5	Text		We wonder...		Wir fragen uns ...
-TheCore/ActivationSentence6	Text		We must ask something of thee.		Wir müssen Euch um etwas ersuchen.
-TheCore/ActivationSentence7	Text		Seek the ancient titans still roaming beyond the Great Wall.		Findet die uralten Titanen, die noch immer durch die Lande jenseits der Großen Mauer ziehen.
-TheCore/ActivationSentence8	Text		Destroy them and collect their souls.		Zerstört sie und verleibt Euch ihre Seelen ein.
-TheCore/ActivationSentence9	Text		With their energy we can restore what once was.		Mit ihrer Macht können wir wiederherstellen, was einst war.
-TheCore/NextSoulUnderDevelopment	Text	The core will say this line when player has defeated all souls bosses while there still are more bosses being developed during early access.	The next soul is still being shaped by the makers of this world.		Die nächste Seele wird noch immer von den Machern dieser Welt geformt.
-TheCore/SoulOfBirdBossHint1	Text	"{0} will be replaced with the direction of the nature biome such as ""north east"" or ""south"""	The flourishing wilderness in which Azeos resides thrives {0} from here.		Die blühende Wildnis, in der Azeos lebt, befindet sich {0} von hier.
-TheCore/SoulOfBirdBossHint2	Text		Azeos has a liking for shiny glimmering objects.		Azeos hat ein Verlangen nach großen, glänzenden Objekten.
-TheCore/SoulOfOctopusBossHint1	Text		The sunken sea in which Omoroth resides can be found to the {0} from here.		Das versunkene Meer, in welchem Omoroth haust, befindet sich {0} von hier.
-TheCore/SoulOfOctopusBossHint2	Text		Omoroth only arises from the depth when there's a lure valuable enough for it.		Omoroth erwacht nur aus den Tiefen, wenn es Beute gibt, die zu holen es sich lohnt.
-TheCore/SoulOfScarabBossHint1	Text		The desert of beginnings in which Ra-Akar resides can be found to the {0} from here.		Die Wüste des Anbeginns, in der Ra-Akar ruht, befindet sich {0} von hier.
-TheCore/SoulOfScarabBossHint2	Text		Ra-Akar slumbers deep in the sands and only emerges when disturbed by intruders.		Ra-Akar schlummert in den Tiefen des Sandes und erwacht nur, wenn Eindringlinge seine Ruhe stören.
-TheCore/TheGreatWallHint1	Text		Thou must travel far out to the Great Wall and lay a hand upon it to open it.		Ihr müsst weit reisen, bis zu Großen Mauer, und Eure Hand an sie legen.
-TheCore/TheGreatWallHint2	Text		The titans can be found beyond the Great Wall.		Die Titanen können weit jenseits der großen Mauer gefunden werden.
+"	Salvaging	Przywracanie	Zurückgewinnen
+ScanWorld	Text		Scan the world	Skanuj świat	Welt scannen
+Seasons/Anniversary	Text		Anniversary	Rocznica	Jubiläum
+Seasons/CherryBlossom	Text		Cherry blossom	Kwitnąca wiśnia	Kirschblüte
+Seasons/Christmas	Text		Christmas	Boże Narodzenie	Weihnachten
+Seasons/Easter	Text		Easter	Wielkanoc	Ostern
+Seasons/Halloween	Text		Halloween	Halloween	Halloween
+Seasons/LunarNewYear	Text		Lunar New Year	Księżycowy Nowy Rok	Mondneujahr
+Seasons/None	Text		None	Brak	Keines
+Seasons/Valentine	Text		Valentine	Walentynki	Valentinstag
+Simple	Text		Simple	Proste	Einfach
+SkillIncrease/Cooking	Text		+ {0} cooking	+ {0} gotowania	+ {0} Kochen
+SkillIncrease/Crafting	Text		+ {0} crafting	+ {0} rzemiosła	+ {0} Fertigung
+SkillIncrease/Fishing	Text		+ {0} fishing	+ {0} wędkarstwa	+ {0} Angeln
+SkillIncrease/Gardening	Text		+ {0} gardening	+ {0} ogrodnictwa	+ {0} Gärtnern
+SkillIncrease/Melee	Text		+ {0} melee	+ {0} walki wręcz	+ {0} Nahkampf
+SkillIncrease/Mining	Text		+ {0} mining	+ {0} górnictwa	+ {0} Bergbau
+SkillIncrease/Range	Text		+ {0} range combat	+ {0} walki na dystans	+ {0} Fernkampf
+SkillIncrease/Running	Text		+ {0} running	+ {0} biegania	+ {0} Laufen
+SkillIncrease/Vitality	Text		+ {0} vitality	+ {0} witalności	+ {0} Vitalität
+SkillTalents/ArmorIncreaseFromMovementSpeed	Text		Breaking barriers	Przełamywanie barier	Schallmauer
+SkillTalents/ChanceForExtraOre	Text		Meticulous miner	Skrupulatny górnik	Bedächtiger Bergbau
+SkillTalents/ChanceForRandomLootFromWall	Text		Archaeologist	Archeolog	Archäologe
+SkillTalents/ChanceOnMeleeHitToIncreaseRangeDamage	Text		Taking a step back	Krok wstecz	Klinge und Korn
+SkillTalents/ChanceOnRangeHitToIncreaseMeleeDamage	Text		Charging in	Szarża	Ansturm
+SkillTalents/ChanceToApplyPoison	Text		Poison coated weapons	Broń pokryta trucizną	Vergiftete Waffen
+SkillTalents/ChanceToApplySlimeOnRangeHit	Text		Slimy bullets	Śluzowate pociski	Schleim-Projektile
+SkillTalents/ChanceToGainHigherRarityCookedFood	Text		Master chef	Mistrz kuchni	Meisterkoch
+SkillTalents/ChanceToGainHigherRarityPlants	Text		Expert gardener	Doświadczony ogrodnik	Gartenexperte
+SkillTalents/ChanceToNotDieOnLethalHit	Text		Cheat death	Oszukać śmierć	Den Tod betrügen
+SkillTalents/ChanceToPreserveBait	Text		Chewy bait	Sycąca przynęta	Zäher Köder
+SkillTalents/ChanceToRestoreHealthOnMeleeHit	Text		Seething blade	Gorejące ostrze	Dürstende Klinge
+SkillTalents/ChanceToStunOnRangeHit	Text		Stun shot	Strzał ogłuszający	Schreckschuss
+SkillTalents/CostReductionAtAnvil	Text		Blacksmith	Kowal	Profischmied
+SkillTalents/CriticalDamageMultiplier	Text		Amplified precision	Wzmocniona precyzja	Perfekte Präzision
+SkillTalents/CriticalHitMultiplier	Text		Thorny weapons	Kolczasta broń	Dornige Waffen
+SkillTalents/DamageIncreaseAgainstBosses	Text		Strength of the Ancients	Siła starożytnych	Macht der Alten
+SkillTalents/DamageIncreaseAgainstPoisoned	Text		Potent poison	Silna trucizna	Potentes Gift
+SkillTalents/DamageIncreaseAtLowerHealth	Text		Desperate fighter	Zdesperowany wojownik	Nichts zu verlieren
+SkillTalents/DamageIncreaseAtMaxHealth	Text		Strong and healthy	Silny i zdrowy	Gesund und kräftig
+SkillTalents/DodgeChanceIncrease	Text		Studied patterns	Przestudiowane wzorce	Erlernte Muster
+SkillTalents/DodgeIncreaseWhileStandingStill	Text		Balanced stance	Zrównoważona postawa	Schattenschritt
+SkillTalents/DrainLessHunger	Text		Endurance runner	Wytrzymały biegacz	Ausdauerläufer
+SkillTalents/EquipmentDurabilityLastsLonger	Text		High quality equipment	Wysokiej jakości sprzęt	Hochwertige Ausrüstung
+SkillTalents/ExplosivesImprovement	Text		Explosives engineer	Inżynier materiałów wybuchowych	Explosive Effizienz
+SkillTalents/ExtraItemChanceAtAlchemyTable	Text		Alchemist	Alchemik	Alchemist
+SkillTalents/ExtraItemChanceAtBaseBuilding	Text		Base builder	Konstruktor baz	Basis-Bauherr
+SkillTalents/ExtraItemChanceAtRailsWiresAndBelts	Text		Industry specialist	Specjalista branżowy	Industriespezialist
+SkillTalents/FishBitesFaster	Text		Improved bait	Ulepszona przynęta	Köstliche Köder
+SkillTalents/FishChanceIncrease	Text		Fisherman's luck	Szczęście rybaka	Petri Heil
+SkillTalents/FishStartsCloserToBeReeledIn	Text		Angler's advantage	Przewaga wędkarza	Anglervorteil
+SkillTalents/FishingAsRangeDamage	Text		Well-trained aim	Dobrze wyszkolony cel	Trainiertes Zielen
+SkillTalents/FoodBuffsLastLonger	Text		Long-lasting food	Długotrwała żywność	Langlebiges Essen
+SkillTalents/GainDurabilityOnOreWall	Text		Self-mending alloy	Samonaprawiający się stop	Selbstflickende Legierung
+SkillTalents/GainHungerFromHarvesting	Text		Feast for the eyes	Uczta dla oczu	Das Auge isst mit
+SkillTalents/GainMoreFood	Text		Eat your vegetables!	Zjedz swoje warzywka!	Iss dein Gemüse!
+SkillTalents/GainMoreFoodFromCookedFood	Text		Utilizing every nutrient	Wykorzystanie każdego składnika odżywczego	Nützliche Nährstoffe
+SkillTalents/GuaranteedRangeCritsChance	Text		Weakness detection	Wykrywanie słabości	Schwachpunkt-Erkennung
+SkillTalents/HealingEffectivenessIncrease	Text		Healing potency	Potencjał leczniczy	Potente Heilung
+SkillTalents/HealingPotionAddHealOverTime	Text		Lingering potions	Utrzymujące się mikstury	Süßer Nachgeschmack
+SkillTalents/HealthRegenIncreaseBelowHalfHealth	Text		Stayin' alive	Pozostanie przy życiu	Notpflaster
+SkillTalents/ImprovedWaterCan	Text		Bottomless water can	Konewka bez dna	Bodenlose Gießkanne
+SkillTalents/IncreaseAttackSpeedFromCookedFood	Text		Fast food	Szybkie jedzenie	Fast Food
+SkillTalents/IncreaseAttackSpeedOnNextThreeAttacksChance	Text		Fast and furious	Szybcy i wściekli	Fuchtelschwung
+SkillTalents/IncreaseDamageForAllNearbyAllies	Text		The smell of food	Zapach jedzenia	Duftende Gerichte
+SkillTalents/IncreaseDamageWhenEatingFish	Text		Power of Omega-3!	Moc Omega-3!	Die Kraft von Omega-3!
+SkillTalents/IncreasedArmorAtLowHealth	Text		Unbreakable	Niezniszczalne	Letzter Widerstand
+SkillTalents/KnockbackChance	Text		Heavy swings	Mocne huśtawki	Schwere Schläge
+SkillTalents/MaxHealthIncreaseFromAllSkillPoints	Text		Maxed out!	Na maksa!	Am Limit
+SkillTalents/MeleeAttackSpeed	Text		Quick strikes	Szybkie uderzenia	Schnelle Schläge
+SkillTalents/MeleeDamageIncreaseOnHittingSameTarget	Text		Stubborn fighter	Uparty wojownik	Hartnäckig
+SkillTalents/MiningDamageAsMeleeDamage	Text		Miner's strength	Siła górnika	Muskelschmalz
+SkillTalents/MiningDamagePercentage	Text		Efficient excavation	Wydajne kopanie	Effiziente Ausgrabung
+SkillTalents/MiningSpeedIncrease	Text		Mine, mine, mine!	Kopać, kopać, kopać!	Graben, graben, graben!
+SkillTalents/MovementIncreaseAfterConsistentRunning	Text		Gotta go fast!	Jestem szybkością!	Bruder, muss los
+SkillTalents/MovementIncreaseAfterDodge	Text		On your toes	Na palcach	Ausweichsprinter
+SkillTalents/MovementIncreaseAfterMining	Text		Pick and run!	Bierz i uciekaj!	Nimm, was du kriegen kannst
+SkillTalents/NearbyAlliesGainHealingFromCookedFood	Text		Sharing is caring	Dzielenie jest troską	Teilen macht Freude
+SkillTalents/NearbyEnemiesSlowedDown	Text		Encumbering presence	Obciążająca obecność	Bedrohliche Präsenz
+SkillTalents/PolishedItemChanceAtJewelryTable	Text		Jewelry crafter	Twórca biżuterii	Goldschmied
+SkillTalents/RangeAttackSpeed	Text		Rapid shots	Szybkie strzały	Rapid-Schuss
+SkillTalents/ReducedDamageTakenFromBosses	Text		Protection of the Ancients	Ochrona starożytnych	Schutz der Alten
+SkillTalents/ReducedImpactOfSlipperyMovement	Text		Steady feet	Stabilne stopy	Sicherer Stand
+SkillTalents/RodRangeIncrease	Text		Throwing expert	Ekspert od rzutów	Auswurf-Experte
+SkillTalents/SeedFromPlantChanceIncrease	Text		Grateful gardener	Wdzięczny ogrodnik	Gründlicher Gärtner
+SkillTalents/SnareTimeReduction	Text		Escape artist	Artysta ucieczek	Entfesslungskünstler
+SkillTalents/StackingDamageWhileRunning	Text		Keeping tempo	Utrzymywanie tempa	Tempo halten
+SkillTalents/StackingMeleeDamage	Text		Building anger	Budowanie gniewu	Steigende Wut
+SkillTalents/StackingRangeDamage	Text		Keeping momentum	Utrzymywanie pędu	Artillerist
+SkillTalents/StandingStillIncreaseRangeDamage	Text		Focused accuracy	Skupiona dokładność	Fokustreffer
+SkillTalents/StrongerWellFedBuffs	Text		Healthy diet	Zdrowa dieta	Gesunde Ernährung
+SkillTalents/ThornsDamageIncrease	Text		Thorny skin	Ciernista skóra	Dornenhaut
+SkillTalents/ToolDurabilityLastsLonger	Text		The right tools in the right hands	Właściwe narzędzia we właściwych rękach	Sorgfältiger Gebrauch
+SkillTalents/VisibleOreDistance	Text		Night vision	Widzenie w nocy	Nachtsicht
+SkillTalents/WellFedBuffsThresholdReduction	Text		Not so picky	Nie tak wybredny	Nicht so mäklig
+Skills/Cooking	Text		Cooking	Gotowanie	Kochen
+Skills/CookingDesc	Text		Grabbing cooked food from the cooking pot increases the chance of gaining additional cooked food.	Wzięcie gotowanego jedzenia z garnka zwiększa szansę na zdobycie dodatkowego gotowanego jedzenia.	Wenn du gekochtes Essen aus dem Kochtopf nimmst, erhöht sich die Chance, ein zusätzliches gekochtes Essen zu erhalten.
+Skills/CookingPerk	Text		+{0} Cooking skill	+{0} Umiejętności gotowania	+{0} Kochen-Fertigkeit
+Skills/Crafting	Text		Crafting	Wytwarzanie	Fertigung
+Skills/CraftingDesc	Text		Crafting items increases your physical durability.	Wytwarzanie przedmiotów zwiększa wytrzymałość fizyczną.	Die Fertigung von Gegenständen erhöht deine körperliche Belastbarkeit.
+Skills/CraftingPerk	Text		+{0} Crafting skill	+{0} Umiejętności rzemiosła	+{0} Fertigung-Fertigkeit
+Skills/Fishing	Text		Fishing	Wędkarstwo	Angeln
+Skills/FishingDesc	Text		Reeling up fish or other treasures from waters increases your fishing skill.	Wyławianie ryb lub innych skarbów z wody zwiększa umiejętności wędkarskie.	Das Einholen von Fischen oder anderen Schätzen aus den Gewässern erhöht deine Angeln-Fertigkeit.
+Skills/FishingPerk	Text		+{0} Fishing skill	+{0} Umiejętności łowienia ryb	+{0} Angeln-Fertigkeit
+Skills/Gardening	Text		Gardening	Ogrodnictwo	Gärtnern
+Skills/GardeningDesc	Text		Harvesting plants gives you green fingers, allowing you to gain extra plants.	Zbieranie roślin daje ci zielone palce, pozwalając ci zdobyć dodatkowe rośliny.	Wenn du Pflanzen erntest, bekommst du einen grünen Daumen, mit dem du zusätzliche Pflanzen erhalten kannst.
+Skills/GardeningPerk	Text		+{0} Gardening skill	+{0} Umiejętności ogrodnicza	+{0} Gärtnern-Fertigkeit
+Skills/Melee	Text		Melee combat	Walka wręcz	Nahkampf
+Skills/MeleeDesc	Text		Fighting in melee increases your strength.	Walka wręcz zwiększa twoją siłę.	Wenn du im Nahkampf kämpfst, erhöht sich deine Stärke.
+Skills/MeleePerk	Text		+{0} Melee skill	+{0} Umiejętności walki wręcz	+{0} Nahkampf-Fertigkeit
+Skills/Mining	Text		Mining	Górnictwo	Bergbau
+Skills/MiningDesc	Text		Excavating walls increases your mining damage.	Wykopywanie ścian zwiększa twoje obrażenia górnicze.	Das Ausheben von Wänden erhöht deinen Bergbauschaden.
+Skills/MiningPerk	Text		+{0} Mining skill	+{0} Umiejętności górniczej	+{0} Bergbau-Fertigkeit
+Skills/Range	Text		Range combat	Walka dystansowa	Fernkampf
+Skills/RangeDesc	Text		Shooting with ranged weapons improves your firepower.	Strzelanie z broni dystansowej zwiększa siłę ognia.	Die Nutzung von Fernkampfwaffen verbessert deine Feuerkraft.
+Skills/RangePerk	Text		+{0} Range combat skill	+{0} Umiejętności walki na odległość	+{0} Fernkampf-Fertigkeit
+Skills/Running	Text		Running	Bieganie	Laufen
+Skills/RunningDesc	Text		Running increases your movement speed.	Bieganie zwiększa szybkość ruchu.	Laufen erhöht deine Bewegungsgeschwindigkeit.
+Skills/RunningPerk	Text		+{0} Running skill	+{0} Umiejętności biegania	+{0} Laufen-Fertigkeit
+Skills/Vitality	Text		Vitality	Witalność	Vitalität
+Skills/VitalityDesc	Text		Defeating enemies makes you tougher and increases your maximum health.	Pokonywanie wrogów zwiększa twoją wytrzymałość i maksymalne zdrowie.	Wenn du Feinde besiegst, wirst du widerstandsfähiger und erhöhst deine maximale Gesundheit.
+Skills/VitalityPerk	Text		+{0} Vitality skill	+{0} Umiejętności witalności	+{0} Vitalität-Fertigkeit
+Souls/SoulDesc1	Text		The soul of Azeos empowers you with the ancient thunder.	Dusza Azeosa obdarza cię mocą starożytnego grzmotu.	Die Seele von Azeos verleiht dir die Kraft des alten Donners.
+Souls/SoulDesc2	Text		The soul of Omoroth empowers you with the forces of the depth.	Dusza Omorotha obdarza cię mocami głębin.	Die Seele von Omoroth verleiht dir Macht über die Mächte der Tiefe.
+Souls/SoulDesc3	Text		The soul of Ra-Akar empowers you with the ancient force of the desert.	Dusza Ra-Akara obdarza cię starożytną siłą pustyni.	Die Seele von Ra-Akar verleiht dir die antiken Kräfte der Wüste.
+Souls/SoulTitle1	Text		Soul of Azeos	Dusza Azeosa	Seele von Azeos
+Souls/SoulTitle2	Text		Soul of Omoroth	Dusza Omorotha	Seele von Omoroth
+Souls/SoulTitle3	Text		Soul of Ra-Akar	Dusza Ra-Akara	Seele von Ra-Akar
+Stats/Adventure	Text		Adventure	Przygoda	Abenteuer
+Stats/Defense	Text		Defense	Obrona	Verteidigung
+Stats/Health	Text		Health	Zdrowie	Gesundheit
+Stats/Offense	Text		Offense	Ofensywa	Angriff
+TeleportToCore	Text		Teleport to the Core	Teleportuj do rdzenia	Zum Kern teleportieren
+TheCore/ActivationSentence1	Text		Thou hast awakened us...	Tyś nas wybudził...	Ihr habt uns erweckt...
+TheCore/ActivationSentence10	Text		In return,* thou shalt be able to go back to whence thou camest.	W zamian,* będziesz mógł wrócić do miejsca, z którego przybyłeś.	Im Gegenzug* soll es Euch möglich sein, dahin zurückzukehren, von wo Ihr kamt.
+TheCore/ActivationSentence11	Text		By the power with which we now imbue thee, the Great Wall shall be opened as thou layest a hand upon it.	Dzięki mocy, którą cię teraz obdarzymy, Wielki Mur zostanie otwarty, gdy tylko położysz na nim dłoń.	Mit der Macht, die Ihr nun von uns erhaltet, wird sich Euch die Große Mauer öffnen, sofern Ihr Eure Hand daran legt.
+TheCore/ActivationSentence2	Text		Never have we seen a creature such as thee.	Nigdy nie widzieliśmy stworzenia takiego jak ty.	Noch nie sahen wir ein Lebewesen wie Euch.
+TheCore/ActivationSentence3	Text		There once was a thriving civilization here, but it seems all of it has been lost.	Kiedyś istniała tu kwitnąca cywilizacja, ale wygląda na to, że wszystko przepadło.	Einst gab es hier eine blühende Zivilisation, doch nun scheint sie seit Langem verloren.
+TheCore/ActivationSentence4	Text		We must have been dormant for aeons.	Musieliśmy być uśpieni przez eony.	Wir müssen seit Äonen geruht haben.
+TheCore/ActivationSentence5	Text		We wonder...	Zastanawiamy się...	Wir fragen uns ...
+TheCore/ActivationSentence6	Text		We must ask something of thee.	Musimy cię o coś poprosić.	Wir müssen Euch um etwas ersuchen.
+TheCore/ActivationSentence7	Text		Seek the ancient titans still roaming beyond the Great Wall.	Poszukaj starożytnych tytanów wciąż wędrujących za Wielkim Murem.	Findet die uralten Titanen, die noch immer durch die Lande jenseits der Großen Mauer ziehen.
+TheCore/ActivationSentence8	Text		Destroy them and collect their souls.	Zniszcz ich i zbierz ich dusze.	Zerstört sie und verleibt Euch ihre Seelen ein.
+TheCore/ActivationSentence9	Text		With their energy we can restore what once was.	Z ich energią możemy przywrócić to, co kiedyś było.	Mit ihrer Macht können wir wiederherstellen, was einst war.
+TheCore/NextSoulUnderDevelopment	Text	The core will say this line when player has defeated all souls bosses while there still are more bosses being developed during early access.	The next soul is still being shaped by the makers of this world.	Następna dusza jest wciąż kształtowana przez twórców tego świata.	Die nächste Seele wird noch immer von den Machern dieser Welt geformt.
+TheCore/SoulOfBirdBossHint1	Text	"{0} will be replaced with the direction of the nature biome such as ""north east"" or ""south"""	The flourishing wilderness in which Azeos resides thrives {0} from here.	Kwitnąca dzicz, w której żyje Azeos, rozwija się {0} stąd.	Die blühende Wildnis, in der Azeos lebt, befindet sich {0} von hier.
+TheCore/SoulOfBirdBossHint2	Text		Azeos has a liking for shiny glimmering objects.	Azeos lubi błyszczące, mieniące się przedmioty.	Azeos hat ein Verlangen nach großen, glänzenden Objekten.
+TheCore/SoulOfOctopusBossHint1	Text		The sunken sea in which Omoroth resides can be found to the {0} from here.	Głębiny Morza, w których mieszka Omoroth, znajdują się {0} stąd.	Das versunkene Meer, in welchem Omoroth haust, befindet sich {0} von hier.
+TheCore/SoulOfOctopusBossHint2	Text		Omoroth only arises from the depth when there's a lure valuable enough for it.	Omoroth wynurza się z głębin tylko wtedy, gdy znajdzie się dla niego wystarczająco cenna przynęta.	Omoroth erwacht nur aus den Tiefen, wenn es Beute gibt, die zu holen es sich lohnt.
+TheCore/SoulOfScarabBossHint1	Text		The desert of beginnings in which Ra-Akar resides can be found to the {0} from here.	Pustynię Początków, na której mieszka Ra-Akar, można znaleźć {0} stąd.	Die Wüste des Anbeginns, in der Ra-Akar ruht, befindet sich {0} von hier.
+TheCore/SoulOfScarabBossHint2	Text		Ra-Akar slumbers deep in the sands and only emerges when disturbed by intruders.	Ra-Akar śpi głęboko w piaskach i wynurza się tylko wtedy, gdy przeszkadzają mu intruzi.	Ra-Akar schlummert in den Tiefen des Sandes und erwacht nur, wenn Eindringlinge seine Ruhe stören.
+TheCore/TheGreatWallHint1	Text		Thou must travel far out to the Great Wall and lay a hand upon it to open it.	Musisz udać się daleko do Wielkiego Muru i położyć na nim dłoń, aby go otworzyć.	Ihr müsst weit reisen, bis zu Großen Mauer, und Eure Hand an sie legen.
+TheCore/TheGreatWallHint2	Text		The titans can be found beyond the Great Wall.	Tytanów można znaleźć za Wielkim Murem.	Die Titanen können weit jenseits der großen Mauer gefunden werden.
 TotalItemLevel	Text		Total item level: {0}	Całkowity poziom przedmiotu: {0}	Gesamte Gegenstandsstufe: {0}
 TurnOffSeasons	Text		Turn off seasons	Wyłącz sezony	Saisons ausschalten
 WeaponSecondary/ArcSlash	Text		Wide Slash	Szerokie Cięcie	Breiter Hieb
@@ -4480,7 +4483,7 @@ electrictyIconHoverDesc	Text	Shown when hovering over the electricity icon in bu
 emptySlot	Text		Empty slot	&	Leerer Slot
 enableGodMode	Text		Enable god mode	Włącz tryb boga	Gott-Modus aktivieren
 enableWorldSimulation	Text		World paused	Świat wstrzymany	Welt pausiert
-enterGameId	Text		Enter Game ID	Wprowadź ID gry	Spiel-ID eingeben
+enterGameId	Text		Enter Game ID	Wprowadź identyfikator gry	Spiel-ID eingeben
 enterHost	Text		Enter host IP address	Wprowadź adres IP hosta	Host-IP-Adresse eingeben
 enterLabel	Text		Label...	Etykieta...	Label ...
 enterName	Text	Hint shown on text input to enter name	Name...	Imię...	Name ...
@@ -4583,7 +4586,7 @@ no	Text		no	nie	Nein
 noControllerWarning	Text		Warning!\Your controller\has disconnected.	Ostrzeżenie!\Twój kontroler\został odłączony.	HOPPLA!\Dein Controller\wurde getrennt.
 noPermissionToBan	Text		You don't have permission to ban players.	Nie masz uprawnień do banowania graczy.	Du hast keine Berechtigung, Spieler zu sperren.
 noPermissionToGiveAdmin	Text		You don't have permission to give players admin privileges.	Nie masz uprawnień do nadawania graczom uprawnień administratora.	Du hast keine Berechtigung, Spielern die Administratorrechte zu gewähren.
-noPermissionToRegenerateGameIDPrompt	Text		You don't have permission to regenerate the Game ID.	Nie masz uprawnień do regeneracji ID gry.	Du hast keine Berechtigung, die Spiel-ID neu zu generieren.
+noPermissionToRegenerateGameIDPrompt	Text		You don't have permission to regenerate the Game ID.	Nie masz uprawnień do regeneracji identyfikatora gry.	Du hast keine Berechtigung, die Spiel-ID neu zu generieren.
 noPermissionToRemoveAdmin	Text		You don't have permission to remove players admin privileges.	Nie masz uprawnień do odbierania graczom uprawnień administratora.	Du hast keine Berechtigung, Spielern die Administratorrechte zu entziehen.
 noPermissionToUnBan	Text		You don't have permission to unban players.	Nie masz uprawnień do odbanowania graczy.	Du hast keine Berechtigung, Spieler zu entsperren.
 nonLocalizedPlaceholder	Text	No need to be translated, only exists in localization for devs convenience	{0}	{0}	{0}
@@ -4643,7 +4646,7 @@ rareItemFormat	Text	"Format used for items that has rarity indicator as part of 
 {1} = item name"	{0} {1}	{0} {1}	{0} {1}
 receivedItems	Text	"For example"" Gained 4 Copper Bars!"" where {0} is 4 and {1} is Copper Bars"	Received {0} {1}	Otrzymano {0} {1}	{0} {1} erhalten
 reduced	Text		Reduced	Zmniejszony	Reduziert
-regenerateGameIDPrompt	Text		Do you want to regenerate a new Game ID? This will not affect any progression made.	Czy chcesz zregenerować nowy numer ID gry? Nie wpłynie to na postępy w grze.	Möchtest du erneut eine Spiel-ID generieren? Dies wirkt sich nicht auf deinen Fortschritt aus.
+regenerateGameIDPrompt	Text		Do you want to regenerate a new Game ID? This will not affect any progression made.	Czy chcesz zregenerować nowy identyfikator gry? Nie wpłynie to na postępy w grze.	Möchtest du erneut eine Spiel-ID generieren? Dies wirkt sich nicht auf deinen Fortschritt aus.
 reinforceCost	Text		Reinforce cost:	Koszt wzmocnienia:	Verstärkungskosten:
 reinforced	Text		Reinforced: {0}/{1}	Wzmocniony: {0}/{1}	Verstärkt: {0}/{1}
 release	Text		Release	Uwolnij	Loslassen
