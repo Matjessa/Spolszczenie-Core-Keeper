@@ -6,10 +6,10 @@ Achievements/CatchStarlightNautilus	Text		Legendary Fossil	Legendarna Skamielina
 Achievements/CherryBlossomTrees	Text		5 Centimeters Per Second	5 Centymetrów Na Sekundę	5 Zentimeter pro Sekunde
 Achievements/DefeatAtlanteanWorm	Text		Thalassophobia	Talasofobia	Thalassophobie
 Achievements/DefeatAzeos	Text		From the Skies!	Z Przestworzy!	Vom Himmel herab!
-Achievements/DefeatGhorm	Text		Bugging Out	&	Davongekrabbelt
+Achievements/DefeatGhorm	Text		Bugging Out	Bugging Out	Davongekrabbelt
 Achievements/DefeatGlurch	Text		A Slimey Encounter	Oślizgłe Spotkanie	Eine schleimige Begegnung
 Achievements/DefeatHivemother	Text		Watch Your Step	Uważaj Na Kroki	Pass auf, wohin du trittst
-Achievements/DefeatIgneous	Text		Burning Through	&	Durchgebrannt
+Achievements/DefeatIgneous	Text		Burning Through	Przepalenie 	Durchgebrannt
 Achievements/DefeatIvy	Text		Toxic Personality	Toksyczna Osobowość	Toxischer Charakter
 Achievements/DefeatKingSlime	Text		Slippery Shinobi	Oślizgły Shinobi	Schlüpfriger Shinobi
 Achievements/DefeatMalugaz	Text		You're a Wizard	Jesteś Czarodziejem	Du bist ein Zauberer
@@ -17,7 +17,7 @@ Achievements/DefeatMorpha	Text		Slippery When Wet	Uwaga Ślisko	Vorsicht, Rutsch
 Achievements/DefeatOmoroth	Text		From the Depths!	Z Głębin!	Aus der Tiefe!
 Achievements/DefeatRaAkar	Text		Just Deserts	Po Prostu Pustynia	Stinknormale Wüste
 Achievements/Discover100CookBookRecipes	Text		Certified Chef	Certyfikowany Kucharz	Geprüfter Chefkoch
-Achievements/EquipRingOfRockAndStone	Text		Rock and Stone!	&Rock and Stone!	Fels und Stein!
+Achievements/EquipRingOfRockAndStone	Text		Rock and Stone!	Rock and Stone!	Fels und Stein!
 Achievements/FeedCattle	Text		A Good Life	Dobre Życie	Ein gutes Leben
 Achievements/FirstPet	Text		Your Very First	Twój Pierwszy	Dein Allererstes
 Achievements/GainOver200MovementSpeed	Text		In a Rush	W Pośpiechu	In Eile
@@ -1232,7 +1232,7 @@ Items/AncientMiningPickDesc	Text		Great architects of the lost civilization must
 Items/AncientSpear	Text		Prehistoric Crystal Spear	Prehistoryczna kryształowa włócznia	Urzeitlicher Kristallspeer
 Items/AncientSpearDesc	Text		One of the first weapons ever made by mankind, but this one has an ancient gemstone in place of a normal spearhead.	Jedna z pierwszych broni kiedykolwiek stworzonych przez ludzkość, ale ta ma starożytny kamień szlachetny zamiast zwykłego grotu włóczni.	Eine der ersten Waffen der Menschheit, diese hier besitzt jedoch einen Antiken Edelstein anstelle einer herkömmlicher Speerspitze.
 Items/AncientWire	Text		Ancient Wire	Antyczny kabel	Antikes Kabel
-Items/AngleFish	Text		Beryll Angle Fish	Ryba Kątowa Berylla	Beryll-Winkelfisch
+Items/AngleFish	Text		Beryll Angle Fish	Berylowy skalar 	Beryll-Winkelfisch
 Items/AngleFishDesc	Text		This moon-blue fish seemed to have had a normal body once, but the water of the Shimmering Frontier corrupted it to be crystalline through and through.	Wydawało się, że ta księżycowo-niebieska ryba miała kiedyś normalne ciało, ale woda Błyszczącej Granicy zmieniła je w krystaliczne na wskroś.	Dieser mondblaue Fisch scheint einst einen normalen Körper gehabt zu haben, doch die Gewässer der Schimmernden Grenze haben ihn durch und durch mit Kristall überzogen.
 Items/AnniversaryCake	Text		Anniversary Cake	Tort jubileuszowy	Jubiläumskuchen
 Items/AnniversaryCakeDesc	Text		Drenched in blue glaze and stuck with candles, this glow tulip chocolate cake marks a special anniversary.	Oblany niebieską polewą i ozdobiony świeczkami, ten świecący tulipanowy tort czekoladowy upamiętnia wyjątkową rocznicę.	Dieser mit blauer Glasur überzogene und mit Kerzen besetzte Leuchttulpen-Schokoladenkuchen markiert einen besonderen Jahrestag.
@@ -1584,8 +1584,8 @@ Items/ChippedPlate	Text		Chipped Plate	Wyszczerbiona płyta	Gesprungener Teller
 Items/ChippedPlateDesc	Text		An old stone plate. What kind of food has been served on it?	Stary kamienny talerz. Jakie jedzenie na nim serwowano?	Ein alter Steinteller. Welche Gerichte wurden darauf serviert?
 Items/ChristmasBruteTrophy	Text		Bakery Brute Figurine	Figurka piekarza brutala	Bäckereischläger-Figur
 Items/ChristmasBruteTrophyDesc	Text		A lifelike representation of a Bakery Brute.	Realistycznie odwzorowana postać piekarza brutala	Eine lebensechte Nachbildung eines Bäckereischlägers.
-Items/ChristmasCavelingTrophy	Text		Gingerbreadling Figurine	&	Lebkuchling-Figur
-Items/ChristmasCavelingTrophyDesc	Text		A lifelike representation of a Gingerbreadling.	&	Eine lebensechte Nachbildung eines Lebkuchlings.
+Items/ChristmasCavelingTrophy	Text		Gingerbreadling Figurine		Lebkuchling-Figur
+Items/ChristmasCavelingTrophyDesc	Text		A lifelike representation of a Gingerbreadling.		Eine lebensechte Nachbildung eines Lebkuchlings.
 Items/ChristmasFireplace	Text		Festive Fireplace	Kominek świąteczny	Festlicher Kamin
 Items/ChristmasFireplaceDesc	Text		This fireplace is a great addition to every base when it's cold outside. Crackling fire and the smell of burning wood add to a homely atmosphere.	Ten kominek jest świetnym dodatkiem do każdej bazy, gdy na zewnątrz jest zimno. Trzaskający ogień i zapach palącego się drewna dodają domowej atmosfery.	Dieser Kamin ist eine großartige Ergänzung zu jeder Basis, wenn es draußen kalt ist. Ein knisterndes Feuer und der Geruch von Feuerholz komplettieren die heimelige Atmosphäre.
 Items/ChristmasLightDecorationMix	Text		Festive Wall Lights	Świąteczne lampy ścienne	Festliche Wandbeleuchtung
@@ -1860,7 +1860,7 @@ Items/DesertHelm	Text		Paladin Mask	Maska Paladyna	Paladin-Maske
 Items/DesertHelmDesc	Text		A mysterious piece of equipment with a golden mask. It seems to have been granted to warriors of high rank.	Tajemniczy przedmiot ze złotą maską. Wydaje się, że był przyznawany wojownikom o wysokiej randze.	Ein mysteriöses Stück Ausrüstung mit einer goldenen Maske. Offenbar wurde sie nur an hochrangige Krieger verliehen.
 Items/DesertPantsArmor	Text		Paladin Pants	Spodnie Paladyna	Paladin-Hose
 Items/DesertPantsArmorDesc	Text		Wide harem pants made for fighting, coupled with a set of pointy golden shoes.	Szerokie spodnie haremowe stworzone do walki, w połączeniu z zestawem spiczastych złotych butów.	Eine weite Haremshose für den Kampf. Dazu gibt es ein Paar goldene Spitzschuhe.
-Items/DesertRock1	Text	&	Desert Rock	Skała z piaskowca	Wüstenstein
+Items/DesertRock1	Text		Desert Rock	Skała z piaskowca	Wüstenstein
 Items/DesertRock1Desc	Text		A medium-sized sandstone boulder.	Średniej wielkości głaz z piaskowca.	Ein mittelgroßer Sandstein-Felsblock.
 Items/DesertRock2Left	Text		Large Left-Facing Rock Arc	Duży łuk skalny skierowany w lewo	Linksgerichteter großer Steinbogen
 Items/DesertRock2LeftDesc	Text		A large sandstone arc, you're not exactly sure how it fits in your backpack.	Duży łuk z piaskowca, nie do końca wiesz, jak mieści ci się w plecaku.	Ein großer Sandstein-Bogen. Du weißt nicht genau, warum er in deinen Rucksack passt.
@@ -1870,7 +1870,7 @@ Items/DesertRock3Left	Text		Giant Left-Facing Rock Arc	Gigantyczny łuk skalny s
 Items/DesertRock3LeftDesc	Text		A giant sandstone arc, you're not exactly sure how it fits in your backpack.	Duży łuk z piaskowca, nie do końca wiesz, jak mieści ci się w plecaku.	Ein gigantischer Sandstein-Bogen. Du weißt nicht genau, warum er in deinen Rucksack passt.
 Items/DesertRock3Right	Text		Giant Right-Facing Rock Arc	Gigantyczny łuk skalny skierowany w prawo	Rechtsgerichteter gigantischer Steinbogen
 Items/DesertRock3RightDesc	Text		A giant sandstone arc, you're not exactly sure how it fits in your backpack.	Duży łuk z piaskowca, nie do końca wiesz, jak mieści ci się w plecaku.	Ein gigantischer Sandstein-Bogen. Du weißt nicht genau, warum er in deinen Rucksack passt.
-Items/DesertRockSmall	Text	&	Small Desert Rock	Mała skała z piaskowca	Kleiner Wüstenstein
+Items/DesertRockSmall	Text		Small Desert Rock	Mała skała z piaskowca	Kleiner Wüstenstein
 Items/DesertRockSmallDesc	Text		A small dry sandstone boulder.	Mały suchy głaz z piaskowca.	Ein kleiner, trockener Sandstein-Felsblock.
 Items/DesertTempleDestructible	Text		Temple Crate	Skrzynia Świątyni	Tempel-Behälter
 Items/DesertTempleDestructibleDesc	Text		An ancient crate filled with goods of an old desert civilization.	Starożytna skrzynia wypełniona dobrami starej pustynnej cywilizacji.	Eine uralte Kiste, gefüllt mit den Habseligkeiten einer alten Wüstenzivilisation.
@@ -2135,8 +2135,8 @@ Items/GhormsStomachBag	Text		Ghorm's Stomach Bag	Worek żołądkowy Ghorma	Ghorm
 Items/GhormsStomachBagDesc	Text		A well-preserved stomach portion of the Devourer, comes with a handy strap.	Dobrze zachowana część żołądka Pożeracza z poręcznym paskiem.	Ein gut erhaltenes Stück vom Magen des Verschlingers. Kommt mit einem praktischen Tragegurt.
 Items/GhostBlanketBreastArmor	Text		Spooky Blanket Cape	Peleryna z upiornego koca	Spuklaken-Umhang
 Items/GhostBlanketBreastArmorDesc	Text		Boohooo, behold the dirty bedding!	Boooo, oto brudna pościel!	Buuhuuu, fürchtet die dreckige Bettwäsche!
-Items/GhostBlanketCavelingTrophy	Text		Spookaveling Figurine	&	Spukrottling-Figur
-Items/GhostBlanketCavelingTrophyDesc	Text		A lifelike representation of a Spookaveling.	&	Eine lebensechte Nachbildung eines Spukrottlings.
+Items/GhostBlanketCavelingTrophy	Text		Spookaveling Figurine	Figurka Strasznego jaskiniowca	Spukrottling-Figur
+Items/GhostBlanketCavelingTrophyDesc	Text		A lifelike representation of a Spookaveling.	Realistyczne odwzorowanie strasznego jaskiniowca	Eine lebensechte Nachbildung eines Spukrottlings.
 Items/GhostBlanketHelm	Text		Spooky Blanket Hood	Kaptur z upiornego koca	Spuklaken-Kapuze
 Items/GhostBlanketHelmDesc	Text		A cheap last-minute attempt to get ready for the spooky season.	Tania próba przygotowania się do upiornego sezonu w ostatniej chwili.	Ein billiger, in letzter Minute gebastelter Versuch, sich auf die gruselige Jahreszeit vorzubereiten.
 Items/GiantGerm	Text		Giant Germ	Gigantyczny zarazek	Riesiger Keim
@@ -2222,7 +2222,7 @@ Items/GoldCrystalRingDesc	Text		A precious ring featuring ancient gemstones.	Cen
 Items/GoldOre	Text		Gold Ore	Ruda złota	Golderz
 Items/GoldOreBoulder	Text		Gold Ore Boulder	Głaz rudy złota	Gold-Erzblock
 Items/GoldOreDesc	Text		Rarely found in clay and stone walls.	Rzadko spotykany w glinianych i kamiennych ścianach.	Wird manchmal in Lehm- und Steinwänden gefunden.
-Items/GoldenAngleFish	Text		Jasper Angle Fish	&	Jaspis-Winkelfisch
+Items/GoldenAngleFish	Text		Jasper Angle Fish	Jaspisowy skalar 	Jaspis-Winkelfisch
 Items/GoldenAngleFishDesc	Text		This sun-golden fish seemed to have had a normal body once, but the water of the Shimmering Frontier corrupted it to be crystalline through and through.	Wydawało się, że ta złocista ryba miała kiedyś normalne ciało, ale woda Błyszczącej Granicy zmieniła je w krystaliczne na wskroś.	Dieser sonnengoldene Fisch scheint einst einen normalen Körper gehabt zu haben, doch die Gewässer der Schimmernden Grenze haben ihn durch und durch mit Kristall überzogen.
 Items/GoldenCavelingMask	Text		Golden Caveling Mask	Złota maska jaskiniowca	Goldene Grottling-Maske
 Items/GoldenCavelingMaskDesc	Text		An intricate mask with a stern expression, it was probably used in a ritual or by someone of high ranks.	Misterna maska o srogim wyrazie twarzy była prawdopodobnie używana podczas rytuału lub przez kogoś o wysokiej randze.	Eine detailliert gefertigte Maske mit ernstem Ausdruck, sie wurde vermutlich in Ritualen oder von jemandem mit hohem Rang verwendet.
@@ -2346,11 +2346,11 @@ Items/GrumpkinSeed	Text		Grumpkin Seed	Nasiono zrzędyni	Knurrbis-Samen
 Items/GrumpkinSeedDesc	Text		Grows into a lumpy fruit when planted.	Po posadzeniu wyrasta na kulisty owoc.	Wenn er eingepflanzt wird, erwächst daraus eine knollige Frucht.
 Items/GuardiansPotion	Text		Guardian's Potion	Mikstura Strażnika	Wächter-Trank
 Items/GuardiansPotionDesc	Text		A potion that fills you with great courage and the ability to withstand the strongest of foes.	Mikstura, która napełnia cię wielką odwagą i zdolnością do stawienia czoła najsilniejszym wrogom.	Ein Trank, der dich mit großem Mut erfüllt, und der Fähigkeit, den gefährlichsten aller Widersacher zu trotzen.
-Items/HalloweenGoodieBag	Text		Samhain Goodie Bag	&	Samhain-Wundertüte
+Items/HalloweenGoodieBag	Text		Samhain Goodie Bag	Torebka z dobrami Samhain 	Samhain-Wundertüte
 Items/HalloweenGoodieBagDesc	Text		A bag full of spooky sweets and secrets. Pop it up to peek inside.	Torba pełna upiornych słodyczy i sekretów. Otwórz ją, aby zajrzeć do środka.	Eine Tüte voller gruseliger Süßigkeiten und Geheimnisse. Reiß sie auf und schau nach was drin ist.
-Items/HalloweenWorkbench	Text		Samhain Workbench	&	Samhain-Werkbank
+Items/HalloweenWorkbench	Text		Samhain Workbench	Stół warsztatowy Samhain 	Samhain-Werkbank
 Items/HalloweenWorkbenchDesc	Text		A coffin-shaped workbench that aids the creation of eerie furniture.	Stół warsztatowy w kształcie trumny, który pomaga w tworzeniu upiornych mebli.	Eine sargförmige Werkbank zur Herstellung unheimlicher Möbel.
-Items/HandMortar	Text	&	Hand Mortar	Ręczny moździerz	Hand-Granatenwerfer
+Items/HandMortar	Text		Hand Mortar	Moździerz ręczny 	Hand-Granatenwerfer
 Items/HandMortarDesc	Text		Problems that can't be solved can usually be blasted away.	Problemy, których nie da się rozwiązać, można zazwyczaj wysadzić w powietrze.	Probleme, die sich nicht lösen lassen, können auch weggesprengt werden.
 Items/HardThorn	Text		Hard Thorn	Twardy cierń	Harter Stachel
 Items/HardThornDesc	Text		A sturdy wooden thorn that can quickly poke careless fingers.	Solidny drewniany kolec, który może szybko wbić się w nieostrożne palce.	Ein fester Holzstachel, der sehr schnell unvorsichtige Finger piksen kann.
@@ -2368,9 +2368,9 @@ Items/HeartOfGold	Text		Heart of Gold	Złote serce	Herz aus Gold
 Items/HeartOfGoldDesc	Text		Rewarded to those who truly look out for others and help whenever they can.	Nagradzani są ci, którzy naprawdę troszczą się o innych i pomagają, kiedy tylko mogą.	Vergeben an jene, die sich um andere kümmern und stets ihre Hilfe anbieten.
 Items/HeartberrySoda	Text		Heart Berry Soda	Gazowana sercowa jagoda	Herzbeeren-Soda
 Items/HeartberrySodaDesc	Text		This canned sparkly drink is a pure explosion of taste and sweetness in your mouth.	Ten musujący napój w puszce to czysta eksplozja smaku i słodyczy w ustach.	Dieser sprudelige Drink in Dosenform erzeugt im Mund eine wahre Geschmacksexplosion.
-Items/HiveBigLarva	Text	&	Big Hive Larva	Duża gruba larwa	Große Nestlarve
-Items/HiveBigLarvaTrophy	Text	&	Big Hive Larva Figurine	figurka dużej grubej larwy	Große Nestlarven-Figur
-Items/HiveBigLarvaTrophyDesc	Text	&	A lifelike representation of a Big Hive Larva.	Realistyczna reprezentacja dużej grubej larwy.	Eine lebensechte Nachbildung einer Großen Nestlarve.
+Items/HiveBigLarva	Text		Big Hive Larva	Duża gruba larwa	Große Nestlarve
+Items/HiveBigLarvaTrophy	Text		Big Hive Larva Figurine	figurka dużej grubej larwy	Große Nestlarven-Figur
+Items/HiveBigLarvaTrophyDesc	Text		A lifelike representation of a Big Hive Larva.	Realistyczna reprezentacja dużej grubej larwy.	Eine lebensechte Nachbildung einer Großen Nestlarve.
 Items/HiveBone	Text		Hive Bones	Kości ula	Nest-Knochen
 Items/HiveBoneBreastArmor	Text		Hivebone Breastplate	Napierśnik z kości ula	Nestknochen-Brustplatte
 Items/HiveBoneBreastArmorDesc	Text		A fleshy suit covered by protective spines. The feeling on your skin is quite unpleasant.	Cielisty kombinezon pokryty ochronnymi kolcami. Uczucie na skórze jest dość nieprzyjemne.	Fleischige Kleidung, die in schützende Stacheln gehüllt ist. Das Gefühl auf der Haut ist allerdings ziemlich unangenehm.
@@ -2480,7 +2480,7 @@ Items/IronOreDesc	Text		Commonly found in stone walls.	Powszechnie spotykana w k
 Items/IronPantsArmor	Text		Iron Pants	Żelazne spodnie	Eisen-Beinharnisch
 Items/IronPantsArmorDesc	Text		You've got knees of steel!	Masz kolana ze stali!	Du hast Knie aus Stahl!
 Items/IronShield	Text		Iron Shield	Żelazna Tarcza	Eisenschild
-Items/IronShieldDesc	Text	&	A heraldic shield offering significant protection from attacks.	Tarcza heraldyczna zapewniająca znaczną ochronę przed atakami.	Ein Wappenschild, der beachtlichen Schutz vor Attacken bietet.
+Items/IronShieldDesc	Text		A heraldic shield offering significant protection from attacks.	Tarcza heraldyczna zapewniająca znaczną ochronę przed atakami.	Ein Wappenschild, der beachtlichen Schutz vor Attacken bietet.
 Items/IronShovel	Text		Iron Shovel	Żelazna łopata	Eisen-Schaufel
 Items/IronShovelDesc	Text		A strong shovel, excellent for digging up ground.	Mocna łopata, doskonała do kopania ziemi.	Eine starke Schaufel. Exzellent, um Böden zu entfernen.
 Items/IronSledge	Text		Iron Sledge Hammer	Żelazny młot	Eisen-Hammer
@@ -2491,26 +2491,26 @@ Items/IronWorkBench	Text		Iron Workbench	Żelazny stół warsztatowy	Eisen-Werkb
 Items/IronWorkBenchDesc	Text		Essential workbench for survival in the underground.	Niezbędny stół warsztatowy do przetrwania w podziemiach.	Essentielle Werkbank, um im Untergrund zu überleben.
 Items/IvyBreastArmor	Text		Ivy's Thorn Harness	Napierśnik z ciernistego bluszczu	Ivys Dornenharnisch
 Items/IvyBreastArmorDesc	Text		This organic breastplate armor is crested with thorns, allowing for stronger critical hits.	Ten organiczny napierśnik jest ozdobiony cierniami, co pozwala na silniejsze trafienia krytyczne.	Diese organische Brustplatte ist mit Dornen besetzt und erlaubt stärkere kritische Treffer.
-Items/IvyChest	Text		Ivy's Chest	Bluszczowa skrzynia	Ivys Kiste
-Items/IvyChestDesc	Text	&	A slime-covered chest reminiscent of the Poisonous Mass.	Pokryta śluzem skrzynia przypominająca Trującą Mszę.	Eine schleimbedeckte Kiste, die an die Giftige Masse erinnert.
+Items/IvyChest	Text		Ivy's Chest	Skrzynia Ivy	Ivys Kiste
+Items/IvyChestDesc	Text		A slime-covered chest reminiscent of the Poisonous Mass.	Pokryta śluzem skrzynia przypominająca Trującą Mszę.	Eine schleimbedeckte Kiste, die an die Giftige Masse erinnert.
 Items/IvyPantsArmor	Text		Ivy's Pants	Spodnie z bluszczu	Ivys Beinharnisch
 Items/IvyPantsArmorDesc	Text		Lower body armor naturally grown in the underground jungle, featuring thorned kneecaps.	Dolny pancerz naturalnie wyhodowany w podziemnej dżungli, wyposażony w kolczaste nakolanniki.	Eine im Untergrund-Dschungel natürlich entstandene Rüstung für die Beine, mit Dornen an den Kniescheiben.
 Items/IvyRing	Text		Ivy's Ring	Bluszczowy pierścień	Ivys Ring
 Items/IvyRingDesc	Text		An organic ring grown from slime covered thorns.	Organiczny pierścień wyhodowany z cierni pokrytych śluzem.	Ein organischer Ring, entstanden aus schleimbedeckten Dornen.
-Items/IvyTrophy	Text	&	Ivy Figurine	Figurka Ivy	Ivy-Figur
-Items/IvyTrophyDesc	Text		A lifelike representation of Ivy the Poisonous Mass.	Realistycznie odwzorowany Ivy trujący.	Eine lebensechte Nachbildung von Ivy, der Giftigen Masse.
+Items/IvyTrophy	Text		Ivy Figurine	Figurka Ivy	Ivy-Figur
+Items/IvyTrophyDesc	Text		A lifelike representation of Ivy the Poisonous Mass.	Realistycznie odwzorowany Ivy Trującej Masy.	Eine lebensechte Nachbildung von Ivy, der Giftigen Masse.
 Items/JellyFish	Text		Gem-Jellyfish	Meduza-klejnot	Edelstein-Qualle
 Items/JellyFishDesc	Text		A glowing kind of jellyfish that inherited ancient energy.	Świecący rodzaj meduzy, który odziedziczył starożytną energię.	Eine leuchtende Quallenart, der antike Energie innewohnt.
 Items/JellyfishDestructable	Text		Beached Jelly	Meduza plażowa	Gestrandete Qualle
 Items/JellyfishDestructableDesc	Text		A gelatinous creature containing goods from the sea.	Galaretowate stworzenie zawierające morskie dobra.	Eine gelartige Kreatur, die Güter aus dem Meer enthält.
 Items/JewelryWorkBench	Text		Jewelry Workbench	Stół jubilerski	Schmuck-Werkbank
 Items/JewelryWorkBenchDesc	Text		Workbench for creating rings and necklaces.	Stół warsztatowy do tworzenia pierścieni i naszyjników.	Eine Werkbank, um Ringe und Halsketten herzustellen.
-Items/JingleJamCookie	Text	&	Jingle Jam Cookie	Ciasteczko Jingle Jam	Jingle-Jam-Keks
+Items/JingleJamCookie	Text		Jingle Jam Cookie	Ciasteczko Jingle Jam	Jingle-Jam-Keks
 Items/JingleJamCookieDesc	Text		A special gift for participating in the Jingle Jam charity event.	Specjalny prezent za udział w imprezie charytatywnej Jingle Jam.	Ein spezielles Geschenk fürs Teilnehmen im Jingle-Jam-Spendenevent.
 Items/JuteBag	Text		Belt Pocket	Kieszeń na pasek	Gürteltasche
 Items/JuteBagDesc	Text		A simple clip on belt pocket, made from smoothened bark.	Prosta kieszeń na pasek z klipsem, wykonana z wygładzonej kory.	Eine einfache Klipp-Gürteltasche, hergestellt aus geglätteter Rinde.
-Items/KeenPotion	Text		Keen Potion	&	Fokus-Trank
-Items/KeenPotionDesc	Text		A cold elixir that focuses your senses and aim.	Zimny eliksir, który skupia zmysły i koncentruje.	Ein kühles Elixier, das die Sinne schärft und die Genauigkeit steigert.
+Items/KeenPotion	Text		Keen Potion	Mikstura zaciekłości	Fokus-Trank
+Items/KeenPotionDesc	Text		A cold elixir that focuses your senses and aim.	Zimny eliksir, który skupia zmysły i koncentracje.	Ein kühles Elixier, das die Sinne schärft und die Genauigkeit steigert.
 Items/KelpDumpling	Text		Kelp Dumpling	Pieróg z wodorostów	Seetang-Knödel
 Items/KelpDumplingDesc	Text		A soft, warm dumpling that smells pretty... funny. You don't really want to know where that one came from.	Miękki, ciepły pieróg, który pachnie dość... zabawnie. Naprawdę nie chcesz wiedzieć, skąd się wziął.	Ein weicher, warmer Knödel, der ziemlich ... merkwürdig riecht. Du willst nicht wirklich wissen, wo der herkommt.
 Items/KelpTree	Text		Kelp Tree	Drzewo wodorostów	Seetang-Baum
@@ -2525,7 +2525,7 @@ Items/KingSlimeChest	Text		King Slime's Chest	Skrzynia króla szlamu	Schleimkön
 Items/KingSlimeChestDesc	Text		A slime-covered chest with golden additions reminiscent of the King Slime.	Pokryta szlamem skrzynia ze złotymi dodatkami przypominającymi Króla Szlamu.	Eine schleimbedeckte Kiste mit goldenen Verzierungen, die an den Schleimkönig erinnert.
 Items/KingSlimeCrown	Text		King Slime Crown	Korona króla szlamu	Schleimkönig-Krone
 Items/KingSlimeCrownDesc	Text		A rare headpiece that crowns you as king of all slimes. You feel very royal wearing it.	Rzadkie nakrycie głowy, które koronuje cię na króla wszystkich szlamów. Nosząc go, czujesz się bardzo królewsko.	Ein seltenes Kopfstück, das dich als König aller Schleime krönt. Du fühlst dich sehr hoheitlich, wenn du es trägst.
-Items/KingSlimeSummoningItem	Text		Crown Summoning Idol	&	Kronen-Beschwörungsstein
+Items/KingSlimeSummoningItem	Text		Crown Summoning Idol	Bożek korony	Kronen-Beschwörungsstein
 Items/KingSlimeSummoningItemDesc	Text		A crystal idol that feels out of this world. Consumed upon placing it on any Giant Slime summoning rune.	Kryształowy posążek, który sprawia wrażenie nie z tego świata. Zużywa się po umieszczeniu go na dowolnej runie przywołującej Gigantyczny Szlam.	Ein Kristall-Abbild aus einer anderen Welt. Wird beim Platzieren auf einer Großschleim-Beschwörungsrune verbraucht.
 Items/KingSlimeTrophy	Text		King Slime Figurine	Figurka króla szlamu	Schleimkönig-Figur
 Items/KingSlimeTrophyDesc	Text		A lifelike representation of the King Slime.	Realistyczne odwzorowanie króla szlamu.	Eine lebensechte Nachbildung des Schleimkönigs.
@@ -2594,7 +2594,7 @@ Items/LavaButterflyTrophyDesc	Text		A lifelike representation of a Lava Butterfl
 Items/LavaHelm	Text		Magma Horn Armor	Magmowy hełm z rogami	Magma-Hornpanzer
 Items/LavaHelmDesc	Text		A pretty awesome piece of equipment that makes you look like the harbinger of doom.	Niesamowity element uzbrojenia, który sprawia, że wyglądasz jak zwiastun zagłady.	Ein ziemliches cooles Stück Ausrüstung, das dich wie den Vorboten des Untergangs aussehen lässt.
 Items/LavaPantsArmor	Text		Magma Shin Armor	Magmowe nagolenniki	Magma-Beinpanzer
-Items/LavaPantsArmorDesc	Text	&	A melting leg armor made from liquid stone, giving hot legs a whole new definition.	Topniejący pancerz na nogi wykonany z płynnego kamienia, nadający gorącym nogom zupełnie nową definicję.	Ein schmelzender Beinschutz aus flüssigem Gestein. Gibt heißen Beinen eine ganz neue Bedeutung.
+Items/LavaPantsArmorDesc	Text		A melting leg armor made from liquid stone, giving hot legs a whole new definition.	Topniejący pancerz na nogi wykonany z płynnego kamienia, nadający gorącym nogom zupełnie nową definicję.	Ein schmelzender Beinschutz aus flüssigem Gestein. Gibt heißen Beinen eine ganz neue Bedeutung.
 Items/LavaPost1	Text		Broken Quarry Timber	Zniszczone podpory kamieniołomu	Gesplittertes Steinbruchgerüst
 Items/LavaPost1Desc	Text		One half of a broken wooden construction that seemed to have once held something in place.	Połowa połamanej drewnianej konstrukcji, która zdawała się kiedyś utrzymywać coś w miejscu.	Eine Hälfte eines zerbrochenen Holzgerüsts, das einst etwas gestützt hat.
 Items/LavaPost2	Text		Large Quarry Timber	Duża podpora kamieniołomu	Großes Steinbruchgerüst
@@ -2606,7 +2606,7 @@ Items/LavaShieldDesc	Text		The crust of molten rock, formed to be wielded like a
 Items/LavaSlime	Text		Magma Slime	Magmowy szlam	Magmaschleim
 Items/LavaSlimeBlob	Text		Lava Slime	Lawowy szlam	Lavaschleim
 Items/LavaSlimeBossChest	Text		Igneous' Chest	Skrzynia Igneousa	Igneous' Kiste
-Items/LavaSlimeBossChestDesc	Text	&	A magma-covered chest reminiscent of the Molten Mass.	Pokryta magmą skrzynia przypominająca stopioną masę.	Eine schleimbedeckte Kiste, die an die Geschmolzene Masse erinnert.
+Items/LavaSlimeBossChestDesc	Text		A magma-covered chest reminiscent of the Molten Mass.	Pokryta magmą skrzynia przypominająca Stopioną Masę.	Eine schleimbedeckte Kiste, die an die Geschmolzene Masse erinnert.
 Items/LavaSlimeBossScanner	Text		Igneous the Molten Mass Scanner	Skaner Igneosa Stopionego	Igneous-Scanner
 Items/LavaSlimeBossScannerDesc	Text		Scans the world for Igneous the Molten Mass. Consumed on successful scan.	Skanuje świat w poszukiwaniu Igneosa Stopionego. Zużywany po udanym skanowaniu.	Scannt die Welt nach Igneous, der Geschmolzenen Masse. Wird bei erfolgreichem Scan verbraucht.
 Items/LavaSlimeDesc	Text		A dark blob of flaming slime. Can be further processed.	Ciemna kula płonącego szlamu. Może być dalej przetwarzany.	Ein dunkler Klumpen feurigen Schleims. Kann weiterverarbeitet werden.
@@ -2620,9 +2620,9 @@ Items/LeafFossil	Text		Leaf Fossil	Skamielina liścia	Blattfossil
 Items/LeafFossilDesc	Text		Proof of a once flourishing environment.	Dowód niegdyś kwitnącego środowiska.	Beweis einer einst blühenden Umgebung.
 Items/Leash	Text		Leash	Smycz	Leine
 Items/LeashDesc	Text		This long leash can be attached to any cattle so that they can get hurried along. Quite helpful when there are enemies on the hunt for some tender meat.	Ta długa smycz może być przymocowana do każdego bydła, aby można było je poganiać. Bardzo pomocna, gdy wrogowie polują na delikatne mięso.	Diese lange Leine kann an jedem Nutztier angebracht werden, um es zur Eile anzutreiben. Ziemlich nützlich, wenn gerade Feinde auf der Jagd nach zartem Fleisch sind.
-Items/LeatherFrame	Text	&	Clamping Frame		Spannrahmen
+Items/LeatherFrame	Text		Clamping Frame	Rama napinająca	Spannrahmen
 Items/LeatherFrameDesc	Text		This wooden frame has been used to stretch larva skin and manufacture it into leather.	Ta drewniana rama była używana do rozciągania skóry larw i wytwarzania z niej produktów skórzanych.	Dieser Holzrahmen wurde verwendet, um Larvenhau zu spannen und zu Leder zu verarbeiten.
-Items/LeatherFrameSmall	Text	&	Small Clamping Frame		Kleiner Spannrahmen
+Items/LeatherFrameSmall	Text		Small Clamping Frame	Mała rama napinająca	Kleiner Spannrahmen
 Items/LeatherFrameSmallDesc	Text		This small wooden frame made use of even the tiniest larva to turn its skin into leather.	Ta mała drewniana rama pozwalała zamienić nawet najmniejszą larwę w skórę.	An diesem kleinen Holzgestell wurde selbst die kleinste Larve zu Leder verarbeitet.
 Items/LegendaryBow	Text		Phantom Spark	Iskra Widmo	Phantomfunke
 Items/LegendaryBowDesc	Text		A legendary, masterfully crafted bow that shoots pure energy projectiles. Sometimes those pierce the veil of time and space, calling upon the spirits of the past.	Legendarny, mistrzowsko wykonany łuk, który wystrzeliwuje pociski o czystej energii. Czasami przebijają one zasłonę czasu i przestrzeni, wzywając duchy przeszłości.	Ein legendärer, meisterhaft gearbeiteter Bogen, der reine Energieprojektile verschießt. Manchmal durchdringen diese Zeit und Raum und rufen die Geister der Vergangenheit.
@@ -2655,8 +2655,8 @@ Items/LockedGalaxiteChestDesc	Text		An indestructible chest made from galaxite w
 Items/LockedIronChest	Text		Locked Iron Chest	Zamknięta żelazna skrzynia	Verschlossene Eisen-Kiste
 Items/LockedIronChestDesc	Text		An old chest made from iron with heavy chains strung around it. It could be opened with the right key.	Stara skrzynia wykonana z żelaza, wokół której wiszą ciężkie łańcuchy. Można ją otworzyć odpowiednim kluczem.	Eine alte Eisenkiste, um die eine schwere Kette geschlungen ist. Mit dem richtigen Schlüssel könnte man sie öffnen.
 Items/LockedKingChest	Text		Locked Desert King Chest	Zamknięta skrzynia pustynnego króla	Verschlossene Wüstenkönig-Kiste
-Items/LockedOctarineChest	Text		Locked Octarine Chest	&	Verschlossene Oktarin-Kiste
-Items/LockedOctarineChestDesc	Text		A clunky chest made from octarine with heavy chains strung around it. It could be opened with the right key.	&	Eine klotzige Kiste aus Oktarin mit einer schweren Kette darum. Mit dem richtigen Schlüssel könnte sie geöffnet werden.
+Items/LockedOctarineChest	Text		Locked Octarine Chest	Zamknięta oktarynowa skrzynia	Verschlossene Oktarin-Kiste
+Items/LockedOctarineChestDesc	Text		A clunky chest made from octarine with heavy chains strung around it. It could be opened with the right key.	Masywna skrzynia wykonana z oktarynowego materiału, wokół której nawleczono ciężkie łańcuchy. Można ją otworzyć za pomocą odpowiedniego klucza.	Eine klotzige Kiste aus Oktarin mit einer schweren Kette darum. Mit dem richtigen Schlüssel könnte sie geöffnet werden.
 Items/LockedPrinceChest	Text		Locked Desert Prince Chest	Zamknięta skrzynia pustynnego księcia	Verschlossene Wüstenprinz-Kiste
 Items/LockedQueenChest	Text		Locked Desert Queen Chest	Zamknięta skrzynia pustynnej królowej	Verschlossene Wüstenkönigin-Kiste
 Items/LockedScarletChest	Text		Locked Scarlet Chest	Zamknięta szkarłatna skrzynia	Verschlossene Skarlit-Kiste
@@ -2707,7 +2707,7 @@ Items/MechanicalPart	Text		Mechanical Part	Część mechaniczna	Mechanisches Tei
 Items/MechanicalPartDesc	Text		A piece of ancient machinery.	Kawałek starożytnej maszynerii.	Ein Stück uralter Maschinerie.
 Items/MeltingCrystalRing	Text		Melting Crystal Ring	Topniejący pierścień z kryształem	Schmelzender Kristall-Ring
 Items/MeltingCrystalRingDesc	Text		A gooey ring dripping slippery slime on the floor.	Gęsty pierścień kapiący śliskim śluzem na podłogę.	Ein glibberiger Ring, von dem Schleim tropft.
-Items/MetalGrateBridge	Text	&	Metal Grate	Metalowa krata	Metallgitter
+Items/MetalGrateBridge	Text		Metal Grate	Metalowa krata	Metallgitter
 Items/MetalGrateBridgeDesc	Text		A metal bridge that was used to cross lava in the molten quarry.	Metalowy most, który był używany do przekraczania lawy w roztopionym kamieniołomie.	Eine Metallbrücke, die benutzt wurde, um die Lava im geschmolzenen Steinbruch zu überqueren.
 Items/MildewLeaf	Text		Mildew Leaf	Liść z pleśnią	Mehltau-Blatt
 Items/MildewLeafDesc	Text		A leaf with white mold spots on it, apart from that it looks unscathed.	Liść z białymi plamami pleśni, poza tym wygląda na nietknięty.	Ein Blatt mit weißen Pilzflecken darauf. Davon abgesehen ist es unversehrt.
@@ -2762,11 +2762,11 @@ Items/MoltenButterflyWingDesc	Text		The wing of a lava butterfly, swinging it ca
 Items/MorphaBag	Text		Morpha's Bubble Bag	Torba bąbelkowa Morphy	Morphas Blubberbeutel
 Items/MorphaBagDesc	Text		An elastic bag with lots of space that formed from one of Morpha's outer growths.	Elastyczna torba z dużą ilością miejsca, która powstała z jednej z zewnętrznych części Morphy 	Ein elastischer Beutel mit viel Platz im Inneren, der aus einem von Morphas Wüchsen entstanden ist.
 Items/MorphaChest	Text		Morpha's Chest	Skrzynia Morphy	Morphas Kiste
-Items/MorphaChestDesc	Text	&	A slime-covered chest reminiscent of the Aquatic Mass.	Pokryta szlamem skrzynia przypomina Wodnego.	Eine schleimbedeckte Kiste, die an die Aquatische Masse erinnert.
+Items/MorphaChestDesc	Text		A slime-covered chest reminiscent of the Aquatic Mass.	Pokryta szlamem skrzynia przypomina Wodną Masę.	Eine schleimbedeckte Kiste, die an die Aquatische Masse erinnert.
 Items/MorphaRing	Text		Morpha's Ring	Pierścień Morphy	Morphas Ring
 Items/MorphaRingDesc	Text		A strange, little loop made from blue slime, it almost slides off of your finger.	Dziwna, mała pętla wykonana z niebieskiego szlamu, prawie zsuwa się z palca.	Ein kleiner, seltsamer Ring aus blauem Schleim. Er rutscht dir fast vom Finger.
 Items/MorphaTrophy	Text		Morpha Figurine	Figurka Morphy	Morpha-Figur
-Items/MorphaTrophyDesc	Text	&	A lifelike representation of Morpha, the Aquatic Mass.	Realistycznie odwzorowany Morpha Wodny.	Eine lebensechte Nachbildung von Morpha, der Aquatischen Masse.
+Items/MorphaTrophyDesc	Text		A lifelike representation of Morpha, the Aquatic Mass.	Realistycznie odwzorowany Morpha Wodna Masa.	Eine lebensechte Nachbildung von Morpha, der Aquatischen Masse.
 Items/MucusAmoeba	Text		Mucus Amoeba	Ameba śluzowa	Mukus-Amöbe
 Items/MucusAmoebaDesc	Text		A slimy giant amoeba, it seems to be looking at you.	Oślizgła gigantyczna ameba, wydaje się patrzeć na ciebie.	Eine schleimige, riesige Amöbe. Sie scheint dich genau anzusehen.
 Items/Mushroom	Text		Mushroom	Grzyb	Pilz
@@ -2799,7 +2799,7 @@ Items/MusicWorkbench	Text		Music Workbench	Muzyczny stół warsztatowy	Musik-Wer
 Items/MusicWorkbenchDesc	Text		This writers' table sparks the inspiration for tools and compositions used to conduct music.	Ten stół pisarski jest inspiracją do tworzenia narzędzi i kompozycji wykorzystywanych do prowadzenia muzyki.	Dieser Schreibtisch inspiriert die Herstellung von Werkzeugen und Kompositionen, um damit Musik aufzuführen.
 Items/MysteriousIdol	Text		Mysterious Idol	Tajemniczy posążek	Mysteriöse Statue
 Items/MysteriousIdolDesc	Text		A crystalline core statue. May attract someone looking for mysterious idols if placed in a habitable room.	Posążek z krystalicznym rdzeniem. Może przyciągnąć kogoś szukającego tajemniczych bożków, jeśli zostanie umieszczony w pomieszczeniu mieszkalnym.	Ein kristallines Abbild des Kerns. Könnte einen Sammler für mysteriöse Statuen anlocken, wenn es in einem passenden Raum platziert wird.
-Items/NatureBones	Text	&	Wilderness Bones	Dzikie kości	Wildnis-Knochen
+Items/NatureBones	Text		Wilderness Bones	Dzikie kości	Wildnis-Knochen
 Items/NatureCavelingMoss	Text		Lush Moss	Bujny mech	Blüten-Moos
 Items/NatureCavelingMossDesc	Text		Ground plants found in Azeos' Wilderness. They grow tiny berries that attract cavelings of the corresponding area.	Rośliny naziemne występujące na pustkowiach Azeos. Rosną na nich małe jagody, które przyciągają jaskiniowców z danego obszaru.	Bodenpflanzen, die in Azeos' Wildnis gefunden werden. Auf ihnen wachsen winzige Beeren, die Grottlinge aus dem jeweiligen Areal anlocken.
 Items/NatureDestructible	Text		Flower Vessel	Naczynie kwiatowe	Blütengefäß
@@ -2811,11 +2811,11 @@ Items/NatureWoodenDestructibleDesc	Text		A box that has been partially reclaimed
 Items/NilipedeTrophy	Text	"Change the translations in a way that it relates to the Nilipede having no legs if you haven't already. Nil is latin for ""zero""."	Nilipede Figurine	Figurka nullsienicy	Nullfüßler-Figur
 Items/NilipedeTrophyDesc	Text	"Change the translations in a way that it relates to the Nilipede having no legs if you haven't already. Nil is latin for ""zero""."	A lifelike representation of a Nilipede.	Realistyczna reprezentacja Nullsienicy.	Eine lebensechte Nachbildung eines Nullfüßlers.
 Items/NinjaBreastArmor	Text		Ninja Garments	Odzież Ninja	Ninja-Gewand
-Items/NinjaBreastArmorDesc	Text	Should be written with 7 syllables, like the second sentence in a haiku.	Moving swiftly as the wind.	&	Der Schritt vom Wind beflügelt.
+Items/NinjaBreastArmorDesc	Text	Should be written with 7 syllables, like the second sentence in a haiku.	Moving swiftly as the wind.	Być szybkim jak wiatr.	Der Schritt vom Wind beflügelt.
 Items/NinjaHelm	Text		Ninja Cowl	Kaptur Ninja	Ninja-Kapuze
-Items/NinjaHelmDesc	Text	Should be written with 5 syllables, like the first sentence in a haiku.	Hidden by the dark.	&	In Schatten gehüllt.
+Items/NinjaHelmDesc	Text	Should be written with 5 syllables, like the first sentence in a haiku.	Hidden by the dark.	Ukryte w mroku 	In Schatten gehüllt.
 Items/NinjaPantsArmor	Text		Ninja Leggings	Legginsy Ninja	Ninja-Gamaschen
-Items/NinjaPantsArmorDesc	Text	Should be written with 5 syllables, like the last sentence in a haiku.	Gone without a sound.	&	Ohne Spur entschwunden.
+Items/NinjaPantsArmorDesc	Text	Should be written with 5 syllables, like the last sentence in a haiku.	Gone without a sound.	Zniknął bez śladu.	Ohne Spur entschwunden.
 Items/NobleRing	Text		Noble Ring	Szlachetny Pierścień	Nobler Ring
 Items/NobleRingDesc	Text		An expensive looking ring featuring a ruby. It must have belonged to someone wealthy.	Drogo wyglądający pierścień z rubinem. Musiał należeć do kogoś bogatego.	Ein teuer anmutender Ring, verziert mit einem Rubin. Er hat sicher einer sehr wohlhabenden Person gehört.
 Items/NomadNecklace	Text		Nomad Necklace	Naszyjnik Nomadów	Nomadenhalsschmuck
@@ -2996,13 +2996,13 @@ Items/PetCandyEpic	Text		Beast Booster	Wzmacniacz bestii	Bestien-Booster
 Items/PetCandyEpicDesc	Text		Fully packed with vitamins, flavours and lots of energy, this treat is the pinnacle of how you can spoil your pets.	Pełen witamin, smaków i mnóstwa energii, ten przysmak jest szczytem tego, jak można rozpieszczać swoje zwierzęta.	Vollgepackt mit Vitaminen, Geschmack und einem Haufen Energie, ist diese Leckerei das Nonplusultra, um deine Haustiere zu verwöhnen.
 Items/PetCandyRare	Text		Rare Candy	Rzadki cukierek	Sonderbonbon
 Items/PetCandyRareDesc	Text		A nutrient-rich snack that's highly sought after. Your pets will go crazy over this!	Bogata w składniki odżywcze przekąska, która jest bardzo poszukiwana. Twoje zwierzęta oszaleją na jej punkcie!	Ein nährstoffreicher Snack, der hochbegehrt ist. Deine Haustiere werden verrückt danach sein.
-Items/PetCat	Text	Again, the name should feel whimsical and be a creative combination of cat/breed/cat parts + its fire shooting properties. It's fine if it doesn't exactly match the names in other languages	Embertail	&	Glutschweif
+Items/PetCat	Text	Again, the name should feel whimsical and be a creative combination of cat/breed/cat parts + its fire shooting properties. It's fine if it doesn't exactly match the names in other languages	Embertail	Błyskogon 	Glutschweif
 Items/PetCatDesc	Text		Spontaneous and impulsive in nature, this pet is as fierce in battle as it is at clawing at furniture. But also incredibly cuddly.	Spontaniczny i impulsywny z natury, ten zwierzak jest równie zaciekły w walce, co w drapaniu mebli. Ale także niesamowicie przytulny.	Von Natur aus spontan und impulsiv, ist dieses Haustier im Kampf genauso gnadenlos mit Gegnern wie mit deiner Inneneinrichtung. Aber auch unglaublich verschmust.
 Items/PetCatEgg	Text		Curious Egg	Ciekawskie jajko	Neugieriges Ei
 Items/PetCatEggCracked	Text		Cracked Curious Egg	Pęknięte ciekawskie jajko	Angeknackstes neugieriges Ei
 Items/PetCatEggCrackedDesc	Text		A mysterious, curly-tailed egg that is about to hatch.	Tajemnicze jajo z kręconym ogonem, które wkrótce się wykluje.	Ein geheimnisvolles Ei mit gekrümmtem Schweif, das kurz davor ist, auszuschlüpfen.
 Items/PetCatEggDesc	Text		A mysterious, curly-tailed egg that seems to react to your presence. Is there a way to hatch it?	Tajemnicze jajo z kręconym ogonem, które zdaje się reagować na twoją obecność. Czy istnieje sposób na jego wyklucie?	Ein geheimnisvolles Ei mit gekrümmtem Schweif, das auf deine Nähe zu reagieren scheint. Gibt es einen Weg, es auszubrüten?
-Items/PetDog	Text	Try to find a word mix with dog/breeds + anything related to subterran, cave, den or similar when doing translations.	Subterrier	&	Subterrier
+Items/PetDog	Text	Try to find a word mix with dog/breeds + anything related to subterran, cave, den or similar when doing translations.	Subterrier	Podpies	Subterrier
 Items/PetDogDesc	Text		A canine companion that is out to smite your enemies, endlessly lick his paws and in general just be a good pal.	Psi towarzysz, który ma na celu pokonanie wrogów, niekończące się lizanie łap i ogólnie bycie dobrym kumplem.	Ein treuer Gefährte, der darauf aus ist, deine Feinde zu vernichten, endlos seine Pfoten zu lecken und von Grund auf ein guter Junge zu sein.
 Items/PetDogEgg	Text		Loyal Egg	Lojalne jajko	Treues Ei
 Items/PetDogEggCracked	Text		Cracked Loyal Egg	Pęknięte lojalne jajko	Angeknackstes treues Ei
@@ -3048,11 +3048,11 @@ Items/PetrifiedEgg	Text		Petrified Egg	Skamieniałe jajko	Versteinertes Ei
 Items/PetrifiedEggDesc	Text		Fossilized egg shell, it feels light and brittle.	Skamieniała skorupka jajka, jest lekka i krucha.	Das Fossil einer Eierschale. Es ist leicht und brüchig.
 Items/PetrifiedTrilobite	Text		Petrified Trilobite	Skamieniały trylobit	Versteinerter Trilobit
 Items/PetrifiedTrilobiteDesc	Text		The fossil of a long gone critter species. They are ancestors of a big variety of lifeforms.	Skamielina dawno wymarłego gatunku stworzenia. Są przodkami wielu różnych form życia.	Das Fossil einer längst ausgestorbenen Spezies. Sie waren die Vorfahren einer Vielzahl von Lebensformen.
-Items/Pewpaya	Text		Pewpaya	&	Pengpaya
+Items/Pewpaya	Text		Pewpaya	Pjupaja	Pengpaya
 Items/PewpayaDesc	Text		A juicy, sweet fruit that clears your mind and raises focus.	Soczysty, słodki owoc, który oczyszcza umysł i poprawia koncentrację.	Eine saftig-süße Frucht, die einen klaren Kopf beschert und den Fokus verbessert.
-Items/PewpayaRare	Text		Golden Pewpaya	&	Goldene Pengpaya
-Items/PewpayaRareDesc	Text		A very rare variant of the common pewpaya.	&	Eine sehr seltene Variante der Pengpaya.
-Items/PewpayaSeed	Text		Pewpaya Seed	&	Pengpaya-Samen
+Items/PewpayaRare	Text		Golden Pewpaya	Złota pjupaja	Goldene Pengpaya
+Items/PewpayaRareDesc	Text		A very rare variant of the common pewpaya.	Bardzo rzadka odmiana pjupai.	Eine sehr seltene Variante der Pengpaya.
+Items/PewpayaSeed	Text		Pewpaya Seed	Nasiono pjupai	Pengpaya-Samen
 Items/PewpayaSeedDesc	Text		Grows into a juicy fruit when planted in beach sand.	Po posadzeniu w piasku plażowym wyrasta na soczysty owoc.	Wächst zu einer saftigen Frucht heran, wenn er in Strandsand eingepflanzt wird.
 Items/PickaxeHead	Text		Pickaxe Head	Głowica kilofa	Spitzhacken-Kopf
 Items/PickaxeHeadDesc	Text		The top part of an iron pickaxe that is partially molten. It must have been broken while working under extreme conditions.	Górna część żelaznego kilofa, która jest częściowo stopiona. Musiał zostać złamany podczas pracy w ekstremalnych warunkach.	Der obere Teil einer Eisen-Spitzhacke, der teilweise geschmolzen ist. Er muss beim Arbeiten unter extremen Bedingungen abgebrochen sein.
@@ -3092,8 +3092,8 @@ Items/PoisonAidPotion	Text		Poison Aid Potion	Mikstura przeciw truciźnie	Gift-H
 Items/PoisonAidPotionDesc	Text		A purple, mucky liquid that tastes horrible but cures any poison.	Fioletowy, mulisty płyn, który smakuje okropnie, ale leczy każdą truciznę.	Eine violette, schlammige Flüssigkeit, die widerlich schmeckt, aber jegliches Gift aus dem Körper entfernt.
 Items/PoisonSlime	Text		Poison Slime	Trujący szlam	Giftschleim
 Items/PoisonSlimeBlob	Text		Purple Slime	Fioletowy szlam	Lilaschleim
-Items/PoisonSlimeBossScanner	Text		Ivy the Poisonous Mass Scanner	Skaner trującej masy Ivy &	Ivy-Scanner
-Items/PoisonSlimeBossScannerDesc	Text		Scans the world for Ivy the Poisonous Mass. Consumed on successful scan.	Skanuje świat w poszukiwaniu Trującej Masy Ivy. Zużywa się po udanym skanowaniu. &	Scannt die Welt nach Ivy, der Giftigen Masse. Wird bei erfolgreichem Scan verbraucht.
+Items/PoisonSlimeBossScanner	Text		Ivy the Poisonous Mass Scanner	Skaner Ivy Trującej Masy	Ivy-Scanner
+Items/PoisonSlimeBossScannerDesc	Text		Scans the world for Ivy the Poisonous Mass. Consumed on successful scan.	Skanuje świat w poszukiwaniu  Ivy Trującej Masy. Zużywa się po udanym skanowaniu. &	Scannt die Welt nach Ivy, der Giftigen Masse. Wird bei erfolgreichem Scan verbraucht.
 Items/PoisonSlimeDesc	Text		A purple blob of toxic slime. Can be further processed.	Fioletowy zlepek toksycznego śluzu. Może być dalej przetwarzany.	Ein violetter Klumpen giftiger Schleim. Kann weiterverarbeitet werden.
 Items/PoisonSlimeDestructLarge	Text		Large Poison Slime Vessel	Duży zbiornik trującego szlamu	Großes Giftschleim-Gefäß
 Items/PoisonSlimeDestructMedium	Text		Medium Poison Slime Vessel	Średni zbiornik trującego szlamu	Mittelgroßes Giftschleim-Gefäß
@@ -3133,7 +3133,7 @@ Items/PolishedSwiftRingDesc	Text		Wearing this winged ring creates a slight wind
 Items/Portal	Text		Portal	Portal	Portal
 Items/PortalDesc	Text		Allows teleporting to other portals that have been placed out. The portal takes 20 minutes to charge up before it can be used once it has been placed.	Umożliwia teleportację do innych portali, które zostały umieszczone na zewnątrz. Portal ładuje się przez 20 minut, zanim będzie można go użyć po umieszczeniu.	Erlaubt das Teleportieren zu anderen platzierten Portalen. Ein Portal benötigt 20 Minuten, um aufzuladen, bevor es nach dem Platzieren verwendet werden kann.
 Items/PotBreastArmor	Text		Pot Tub	Garnek	Krug
-Items/PotBreastArmorDesc	Text		This brittle clay container is just your size and usually filled with caveling supplies.	&	Dieses brüchige Tongefäß hat genau deine Größe und ist normalerweise mit Grottling-Vorräten gefüllt.
+Items/PotBreastArmorDesc	Text		This brittle clay container is just your size and usually filled with caveling supplies.	Ten gliniany, kruchy pojemnik ma twój rozmiar i zwykle jest wypełniony zapasami jaskiniowców.	Dieses brüchige Tongefäß hat genau deine Größe und ist normalerweise mit Grottling-Vorräten gefüllt.
 Items/PotHelm	Text		Pot Lid	Pokrywka garnka	Krug-Deckel
 Items/PotHelmDesc	Text		A heavy clay cover that has partially cracked and doubles down as a funny hat.	Ciężka gliniana pokrywa, która częściowo pękła i służy jako zabawny kapelusz.	Eine schwere Abdeckung aus Ton, die etwas angeknackst ist, sich aber als lustige Kopfbedeckung eignet.
 Items/PottedAlienFlower	Text		Potted Alien Flower	Kwiat obcych w doniczce	Eingetopfte Alien-Blume
@@ -3734,7 +3734,7 @@ Items/TorcNecklaceDesc	Text		A piece of jewelry for the neck that's merely a hoo
 Items/Torch	Text		Torch	Pochodnia	Fackel
 Items/TorchDesc	Text		Light up your surroundings. Can also be placed on the ground and attached to walls.	Rozświetla otoczenie. Może być również umieszczona na ziemi lub przymocowana do ściany.	Erhellt deine Umgebung. Kann auf dem Boden platziert und an Wänden angebracht werden.
 Items/TorchPlural	Text		Torches	Pochodnie	Fackeln
-Items/TornisKingfish	Text		Tornis Kingfish	&	Tornis-Königsfisch
+Items/TornisKingfish	Text		Tornis Kingfish	Królewska ryba Tornis	Tornis-Königsfisch
 Items/TornisKingfishDesc	Text		An extremely rare enigma of sea life that seems to unify all other fish beneath it.	Niezwykle rzadka zagadka życia morskiego, która zdaje się jednoczyć wszystkie inne ryby pod sobą.	Eine extrem seltene Erscheinung der Meereswelt, die alle anderen Fische unter sich zu vereinen scheint.
 Items/TowelBreastArmor	Text		Towel	Ręcznik	Handtuch
 Items/TowelBreastArmorDesc	Text		A towel is about the most massively useful thing an underground miner can have.	Ręcznik to najbardziej przydatna rzecz, jaką może mieć podziemny górnik.	Ein Handtuch, heißt es, ist so ungefähr das nützlichste, was der Untergrund-Bergmann besitzen kann.
@@ -4393,18 +4393,18 @@ WeaponSecondary/ChargedShot	Text		Strong Shot	Silny strzał	Starker Schuss
 WeaponSecondary/ChargedThrust	Text		Charged Thrust	Naładowane Pchnięcie	Gezielter Stoß
 WeaponSecondary/ExplosiveBolt	Text		Explosive Projectile	Wybuchowy pocisk	Explosiv-Projektil
 WeaponSecondary/PiercingShot	Text		Piercing Shot	Przebijający strzał	Durchdringender Schuss
-WeaponSecondary/TrailingCrystals	Text		Trailing Crystals	&	Schleppkristalle
+WeaponSecondary/TrailingCrystals	Text		Trailing Crystals	Kryształy smugowe	Schleppkristalle
 WeaponSpeed	Text		{0} attacks per second	{0} ataku na sekundę	{0} Angriffe pro Sekunde
 additionalItemGained	Text	"For example"" Gained 5 extra mushroom soup!"""	Gained {0} extra {1}!	Otrzymano {0} dodatkowych {1}!	{0} {1} zusätzlich erhalten!
-additionalSlotsStat	Text		+{0} inventory slots	&	+{0} Inventar-Slots
-ancientCoins	Text	"For example ""14 ancient coins"""	{0} ancient coins	{0} antycznych monet &	{0} antike Münzen
+additionalSlotsStat	Text		+{0} inventory slots	+{0} slotów ekwipunku	+{0} Inventar-Slots
+ancientCoins	Text	"For example ""14 ancient coins"""	{0} ancient coins	{0} antycznych monet 	{0} antike Münzen
 anyCommonEdibleObject	Text	Shown on items as a requirement for the material used in crafting	Any cooked food of uncommon or lower rarity	Dowolna gotowana żywność o rzadkiej lub niższej rzadkości	Jede Art von zubereitetem Essen mit der Seltenheitsstufe „ungewöhnlich“ oder niedriger
 anyRareEdibleObject	Text	Shown on items as a requirement for the material used in crafting	Any cooked food of rare or higher rarity	Dowolna gotowana żywność o rzadkiej lub wyższej rzadkości	Jede Art von zubereitetem Essen mit der Seltenheitsstufe „selten“ oder höher
 anySandObject	Text		Any sand block	Dowolny blok piasku	Jeder Sand-Block
 areYouSure	Text		Hardcore!? Are you sure?	Hardcore!? Jesteś pewien?	Hardcore!? Bist du sicher?
 audioOptions	Text		Audio settings	Ustawienia audio	Toneinstellungen
 back	Text		Back	Wstecz	Zurück
-backToTitle	Text		Exit to title screen	Wyjście do ekranu tytułowego &	Zurück zum Titelbildschirm
+backToTitle	Text		Exit to title screen	Wyjście do ekranu tytułowego	Zurück zum Titelbildschirm
 bagSlot	Text		Bag slot	Miejsce na torbę	Taschen-Slot
 banPlayerDialogue	Text		Do you want to ban this player?	Czy chcesz zbanować tego gracza?	Möchtest du diesen Spieler sperren?
 base	Text	Shown as title in crafting window	Base	Baza	Basis
@@ -4426,9 +4426,9 @@ cattle	Text		Cattle	Bydło	Nutztier
 caughtItem	Text	Shown in chat when for example catching an item through fishing where {0} is the name of the item	Caught: {0}	Wyłowiono: {0}	Gefangen: {0}
 changeProfile	Text		Change profile	Zmień profil	Profil wechseln
 character	Text		Character	Postać	Charakter
-characterBackground	Text	As in what type of character such as Miner, Explorer etc.	Background	&	Hintergrund
+characterBackground	Text	As in what type of character such as Miner, Explorer etc.	Background	Zarys	Hintergrund
 cheatDeath	Text		Cheated death!	Oszukana śmierć!	Den Tod betrogen!
-chestSlot	Text	Chest as in the breast armor slot	Chest slot	&	Oberkörper-Slot
+chestSlot	Text	Chest as in the breast armor slot	Chest slot	Gniazdo klatki piersiowej	Oberkörper-Slot
 click	Text		Click	Kliknij	Klicken
 clickToActivate	Text		Click to activate.	Kliknij, aby aktywować.	Zum Aktivieren klicken.
 clickToDeactivate	Text		Click to deactivate.	Kliknij, aby dezaktywować.	Zum Deaktivieren klicken.
@@ -4443,7 +4443,7 @@ copyGameID	Text		Copy game ID	Kopiuj identyfikator gry	Spiel-ID kopieren
 crafting	Text	Shown as title in crafting window	Crafting	Tworzenie	Fertigung
 createCharacter	Text		Create character	Tworzenie postaci	Charakter erstellen
 creativeModeOptions	Text		Creative mode options	Opcje trybu kreatywnego	Kreativmodus-Einstellungen
-crystalSlot	Text	Used as hint when hovering a slot that needs a crystal	Crystal slot	&	Kristall-Slot
+crystalSlot	Text	Used as hint when hovering a slot that needs a crystal	Crystal slot	Gniazdo na kryształ	Kristall-Slot
 currentlySaving	Text		Saving...	Zapisywanie...	Speichert ...
 damage	Text	"The damage of an item like a trap or a turret shown when hovering it, for example ""19-22 damage"""	{0}-{1} damage	{0}-{1} obrażeń	{0}-{1} Schaden
 dateFormat	Text	"{0} = year (number)
@@ -4461,7 +4461,7 @@ disableWorldSimulation	Text		Pause world	Wstrzymywanie świata	Welt pausieren
 dodge	Text	This text appears when a character dodges an attack	dodge	unik	ausweichen
 done	Text		Done	Zrobione	Fertig
 dontShowAgain	Text		Don't show again	Nie pokazuj ponownie	Nicht wieder anzeigen
-down	Text		Move down	&	Nach unten
+down	Text		Move down	Ruch w dół	Nach unten
 dresser	Text		Dresser	Komoda	Kommode
 dropToWorld	Text		"Drop item:
 {0}"	"Upuść przedmiot:
@@ -4480,7 +4480,7 @@ durationSec	Text	"Shown at end of buff text with a duration such as ""+2 health 
 {0} is replaced with  ""+2 health every sec"" and
 {1} is replaced with ""25"""	{0} for {1} sec	{0} na {1} sek	{0} für {1} Sek.
 electrictyIconHoverDesc	Text	Shown when hovering over the electricity icon in buildings that require it	This building requires electricity	Ten budynek wymaga energii elektrycznej	Dieses Gebäude benötigt Elektrizität
-emptySlot	Text		Empty slot	&	Leerer Slot
+emptySlot	Text		Empty slot	Puste gniazdo	Leerer Slot
 enableGodMode	Text		Enable god mode	Włącz tryb boga	Gott-Modus aktivieren
 enableWorldSimulation	Text		World paused	Świat wstrzymany	Welt pausiert
 enterGameId	Text		Enter Game ID	Wprowadź identyfikator gry	Spiel-ID eingeben
@@ -4507,7 +4507,7 @@ gainedItem	Text	Shown in chat when for example gaining a polished version of a r
 gainedSoul	Text		Gained soul of {0}!	Zdobyto duszę {0}!	Seele von {0} erhalten!
 gameMenu	Text	Shown as title when opening the pause menu in game	Game Menu	Menu Gry	Spielmenü
 gamepad	Text		Gamepad	Kontroler	Controller
-gear	Text	As in equipment and tools, should be one word	Gear	&	Zubehör
+gear	Text	As in equipment and tools, should be one word	Gear	Sprzęt	Zubehör
 godModeOptionDesc	Text		"God mode features:
 - Player can move through objects
 - Player can destroy objects in one hit
@@ -4528,7 +4528,7 @@ graphicsAPIOption	Text	{0} will be replaced with the name of the graphics api	Pl
 hair	Text	Option to choose hair style	Hair	Włosy	Haar
 hairColor	Text	Option to choose hair color	Hair color	Kolor włosów	Haarfarbe
 hardcoreDeathMessage	Text		You died. Character has been lost.	Zginąłeś. Postać została utracona.	Du bist gestorben. Charakter ging verloren.
-helmSlot	Text		Helm slot	&	Helm-Slot
+helmSlot	Text		Helm slot	Gniazdo na hełm	Helm-Slot
 hideCreativeUI	Text	"""UI"" should also be called ""UI"" when translated, as the button space it is shown own should be kept small and short."	Hide Creative UI	Ukryj kreatywne UI	UI ausblenden
 high	Text		High	Wysoki	Hoch
 holdToSkip	Text	"{0} is replaced with a button/key so for example ""Hold SPACE to skip"". This is used in intro slides of the game."	Hold {0} to skip intro	Przytrzymaj {0} aby pominąć intro	Halte {0}, um das Intro zu überspringen
@@ -4543,7 +4543,7 @@ keyCtrl	Text		CTRL	CTRL	STRG
 keyE	Text		E	E	E
 keyEnter	Text		ENTER	ENTER	EINGABE
 keyEsc	Text		ESC	ESC	ESC
-keyItem	Text	Shown on items that are used as a key	Key item	Przedmiot klucz &	Schlüssel-Gegenstand
+keyItem	Text	Shown on items that are used as a key	Key item	Klucz	Schlüssel-Gegenstand
 keyM	Text		M	M	M
 keyRightCtrl	Text		RIGHT CTRL	PRAWY CTRL	STRG RECHTS
 keyRightShift	Text		RIGHT SHIFT	PRAWY SHIFT	UMSCHALTTASTE RECHTS
@@ -4552,9 +4552,9 @@ keySpace	Text		SPACE	SPACJA	LEERTASTE
 keyStart	Text	Name of the Start button on the gamepad	START	START	START
 keyTab	Text		Tab	Tab	Tab
 keyboard	Text		Keyboard	Klawiatura	Tastatur
-lanternSlot	Text	&	Lantern slot	Slot na latarnię	Laternen-Slot
+lanternSlot	Text		Lantern slot	Gniazdo na latarnię	Laternen-Slot
 leaveTheGame	Text		Leave	Wyjdź	Verlassen
-left	Text	&	Move left	Ruch w lewo	Nach links
+left	Text		Move left	Ruch w lewo	Nach links
 legalBlurb	Text		© 2021. Core Keeper is a trademark or registered trademark of Pugstorm AB. Published by Fireshine Games.	© 2021. Core Keeper jest znakiem towarowym lub zastrzeżonym znakiem towarowym Pugstorm AB. Wydany przez Fireshine Games.	© 2021 Core Keeper ist eine Marke oder eingetragene Marke von Pugstorm AB. Veröffentlicht von Fireshine Games.
 level	Text	{0} will be replaced with the level number	Level: {0}	Poziom: {0}	Stufe: {0}
 loading	Text		Loading...	Ładowanie...	Laden ...
@@ -4577,7 +4577,7 @@ The month will be placed into the 'dateFormat' string."	Jan Feb Mar Apr May Jun 
 multiplayer	Text		Multiplayer	Tryb wieloosobowy	Mehrspieler
 musicSheetItem	Text		Music sheet	Arkusz nutowy	Notenblatt
 nativeLang	Text	"should not translate ""english"" but should show the name of the language itself"	English	Polski	Deutsch
-necklaceSlot	Text		Necklace slot	&	Halsketten-Slot
+necklaceSlot	Text		Necklace slot	Gniazdo na naszyjnik	Halsketten-Slot
 newGame	Text		New Game	Nowa Gra	Neues Spiel
 newItem	Text	"Shown when a new item is picked up, for example: ""New item: Apple"""	New item: {0}	Nowy przedmiot: {0}	Neuer Gegenstand: {0}
 newTalentPoint	Text	"Will for example say ""New talent point available in Fishing!"" in the chat window when player unlocks a new talent point"	New talent point available in {0}!	Nowy punkt umiejętności dostępny w {0}!	Neuer Talentpunkt verfügbar in {0}!
@@ -4596,8 +4596,8 @@ numpadPlus	Text		NUMPAD +	NUMPAD +	NUMPAD +
 off	Text	"On/Off
 If your language doesn't have specific words for on/off, consider yes/no or enabled/disabled.
 This will be used with things like ""gamepad vibration: On/Off"""	Off	Wył	Aus
-offHandUse	Text		Off-hand use: {0}	&	Zweithand-Verwendung: {0}
-offhandSlot	Text		Off-hand slot	&	Zweithand-Slot
+offHandUse	Text		Off-hand use: {0}	Użycie drugiej ręki: {0}	Zweithand-Verwendung: {0}
+offhandSlot	Text		Off-hand slot	Gniazdo drugiej ręki	Zweithand-Slot
 ok	Text		Ok	Ok	Okay
 on	Text	"On/Off setting.
 If your language doesn't have specific words for on/off, consider yes/no or enabled/disabled.
@@ -4606,13 +4606,13 @@ oneTimeEffect	Text	Shown after buff texts on food for example that can only occu
 options	Text		Settings	Ustawienia	Einstellungen
 oxygen	Text		Oxygen	Tlen	Sauerstoff
 pants	Text	Option to choose pants style	Pants	Spodnie	Hose
-pantsSlot	Text		Pants slot	&	Hosen-Slot
+pantsSlot	Text		Pants slot	Gniazdo na spodnie	Hosen-Slot
 parry	Text		parry	parowanie	parieren
 pauseWorldOptionDesc	Text		Pausing the world will stop creatures and objects from moving or doing any actions. Water spreading is also paused. This can only be toggled by admins.	Wstrzymanie świata spowoduje, że stworzenia i obiekty nie będą się poruszać ani wykonywać żadnych czynności. Rozprzestrzenianie się wody jest również wstrzymane. Może to być zmienione tylko przez adminów.	Wenn du die Welt pausierst, können sich Kreaturen und Objekte nicht mehr bewegen und keine Aktionen mehr ausführen. Dies kann nur von Admins eingestellt werden.
 paused	Text		Game Paused	Pauza Gry	Spiel pausiert
 permanentWhenEaten	Text	Shown above list of buffs gained from eating food	Permanent when eaten:	Trwałe po spożyciu:	Dauerhaft nach dem Verzehr:
 petCandy	Text		Use: Feed this to your pet to boost its experience by {0}.	Użycie: Nakarm tym swojego zwierzaka, aby zwiększyć jego doświadczenie o {0}.	Verwenden: Verfüttere dies an dein Haustier, um seine Erfahrung um {0} zu erhöhen.
-petEgg	Text		Hatchable	&	Ausbrütbar
+petEgg	Text		Hatchable	Możliwość wyklucia	Ausbrütbar
 petInfo	Text	":Shown as a header for a window showing information about a pet. Try to keep it short and avoid writing ""info"" as ""information"" for example
 "	Pet info	Info o zwierzaku	Haustier-Info
 petLeveledUp	Text	"{0} will be replaced with the level number
@@ -4636,9 +4636,10 @@ pressAnyButtonXbox	Text		Press any button	Naciśnij dowolny przycisk	Drücke ein
 price	Text		Price: {0}	Cena: {0}	Preis: {0}
 primary	Text	Shown as category for red, yellow, blue and green painting colors	Primary	Podstawowy	Primär
 quickMove	Text		"Quick stash:
-{0}"	&	"Schnell-Ablage:
+{0}"	"Szybki skład:
+{0}"	"Schnell-Ablage:
 {0}"
-quickStack	Text	Shown when hovering a button that uses the quick stack function	Quick stack	&	Schnellstapeln
+quickStack	Text	Shown when hovering a button that uses the quick stack function	Quick stack	Szybki skład	Schnellstapeln
 quickStackDesc	Text		Moves already existing items in the chest from your inventory to the chest.	Przenosi przedmioty znajdujące się już w skrzyni z ekwipunku do skrzyni.	Verschiebt bereits in der Kiste vorhandene Gegenstände aus deinem Inventar in die Kiste.
 quitToDesktop	Text		Quit	Wyjdź	Beenden
 rareItemFormat	Text	"Format used for items that has rarity indicator as part of their name such as ""Rare Heartberry"" where
@@ -4670,14 +4671,14 @@ sell	Text		Sell	Sprzedaj	Verkaufen
 set	Text	"Format to show set bonuses such as ""2 set: +10% damage"" indicating that 2 pieces are needed to fullfill the set bonus where
 {0} = 2
 {1} = +10% damage"	{0} set: {1}	{0} części zestawu: {1}	{0}-teiliges Set: {1}
-settingAmbientVol	Text		Ambient SFX	&	Umgebungssoundeffekte
+settingAmbientVol	Text		Ambient SFX	Dźwięki otoczenia	Umgebungssoundeffekte
 settingDisplayGameTime	Text		Show game time	Pokaż czas gry	Spielzeit anzeigen
 settingLanguage	Text		Language	Język	Sprache
 settingLimitColors	Text		16 bit colors	16-bitowe kolory	16-Bit-Farben
 settingLimitPalette	Text		Limit Palette	Ograniczona paleta	Palette einschränken
 settingMusicVol	Text		Music	Muzyka	Musik
 settingPlayableInstrument	Text	"name of the setting that allows changing volume of in game instruments that players can play
-"	Playable instrument	Odtwarzany instrument &	Spielbares Instrument
+"	Playable instrument	Odtwarzany instrument	Spielbares Instrument
 settingScreenShakes	Text		Screen shakes	Wstrząsy ekranu	Bildschirmrütteln
 settingSfxVol	Text		SFX	Efekty dźwiękowe	Soundeffekte
 settingVSync	Text		V-sync	V-sync	V-Sync
@@ -4690,7 +4691,7 @@ shirt	Text	Option to choose shirt style	Shirt	Koszulka	Hemd
 shortcuts	Text		Shortcuts	Skróty klawiszowe	Abkürzungen
 showCreativeUI	Text	"""UI"" should also be called ""UI"" when translated, as the button space it is shown own should be kept small and short."	Show Creative UI	Pokaż kreatywne UI	UI anzeigen
 signedOutWarning	Text		Warning!\Your profile has\been signed out.	Ostrzeżenie!\Twój profil\został wylogowany.	HOPPLA!\Dein Profil\wurde abgemeldet.
-singleplayer	Text		Singleplayer	&	Einzelspieler
+singleplayer	Text		Singleplayer	Gra jednoosobowa	Einzelspieler
 skillInfo	Text		Click to expand talent tree.	Kliknij, aby rozwinąć drzewo talentów.	Klicken, um den Talentbaum zu erweitern.
 skills	Text		Skills	Umiejętności	Fertigkeiten
 skin	Text	Option to choose skin color	Skin	Karnacja	Hautfarbe
@@ -4704,7 +4705,7 @@ starvationDeathMessage	Text		You died from starvation.	Umarłeś z głodu.	Du bi
 stats	Text	Title of stats window that shows when hovering character ui in game	Stats	Statystyki	Werte
 stop	Text		Stop	Stop	Stopp
 textWithAmount	Text	"Used for any text that has an amount indicated such as ""Mining 48/100"" to show the current and max Mining skill"	{0} {1}/{2}	{0} {1}/{2}	{0} {1}/{2}
-toggleShortcuts	Text	&	Press {0} to toggle this window	Naciśnij {0}, aby przełączyć to okno	Drücke {0}, um dieses Fenster umzuschalten
+toggleShortcuts	Text		Press {0} to toggle this window	Naciśnij {0}, aby przełączyć to okno	Drücke {0}, um dieses Fenster umzuschalten
 tools	Text	Shown as title in crafting window	Tools	Narzędzia	Werkzeuge
 trading	Text		Trading	Handel	Handeln
 unbanPlayerDialogue	Text		Do you want to unban this player?	Czy chcesz odbanować tego gracza?	Möchtest du diesen Spieler entsperren?
@@ -4712,11 +4713,11 @@ uncapped	Text	Used in the context of setting the FPS to not be limited	Uncapped	
 uniqueCraftingComponent	Text	Shown in hover text of items that are unique crafting components	Unique crafting component	Unikalny element rzemieślniczy	Einzigartige Fertigungskomponente
 up	Text		Move up	Do góry	Nach oben
 upgrade	Text		Upgrade	Ulepszenie	Aufwerten
-useItemTerm	Text	&	Use: {0}	Użycie: {0}	Zum Verwenden: {0}
+useItemTerm	Text		Use: {0}	Użycie: {0}	Zum Verwenden: {0}
 valuable	Text	Shown as a tag in description of items  that are meant to be sold for coins.	Valuable	Wartościowe	Wertvoll
 value	Text	"As in the coin value of an item, for example ""Value: 1484 coins"""	Value: {0}	Wartość: {0}	Wert: {0}
 vanityToggleVisibility	Text		Click to toggle visiblity of equipment	Kliknij, aby przełączyć widoczność sprzętu	Klicken, um die Sichtbarkeit der Ausrüstung umzuschalten
-versus	Text	&	Versus	Versus	Gegen
+versus	Text		Versus	Versus	Gegen
 veryHigh	Text		Very high	Bardzo wysoka	Sehr hoch
 videoOptions	Text		Video settings	Ustawienia obrazu	Videoeinstellungen
 weaponMeleeDamage	Text	"The damage of a weapon shown when hovering it, for example ""19-22 melee damage"""	{0}-{1} melee damage	{0}-{1} obrażeń wręcz	{0}-{1} Nahkampfschaden
