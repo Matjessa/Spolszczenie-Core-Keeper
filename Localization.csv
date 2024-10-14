@@ -2,14 +2,14 @@ Key	Type	Desc	English	Polish	German
 15bit	Text		15-bit	15-bit	15-Bit
 15bitDither	Text		15-bit (Dither)	15-bit (Dither)	15-Bit (Dither)
 24bit	Text		24-bit	24-bit	24-Bit
-AcceptEula	Text	 [new]	I accept the end-user license agreement		Ich stimme der Endnutzer-Lizenzvereinbarung zu
+AcceptEula	Text	1.0	I accept the end-user license agreement	Akceptuję umowę licencyjną użytkownika końcowego	Ich stimme der Endnutzer-Lizenzvereinbarung zu
 Achievements/CatchStarlightNautilus	Text		Legendary Fossil	Legendarna Skamielina	Legendäres Fossil
 Achievements/CherryBlossomTrees	Text		5 Centimeters Per Second	5 Centymetrów Na Sekundę	5 Zentimeter pro Sekunde
 Achievements/DefeatAtlanteanWorm	Text		Thalassophobia	Talasofobia	Thalassophobie
 Achievements/DefeatAzeos	Text		From the Skies!	Z Przestworzy!	Vom Himmel herab!
-Achievements/DefeatCoreCommander	Text	 [new]	Visitor From A Dying World		Abgesandter einer sterbenden Welt
-Achievements/DefeatCrydra	Text	 [new]	Howl of the Sea		Das Heulen des Meeres
-Achievements/DefeatDruidra	Text	 [new]	Song of the Woods		Das Lied des Waldes
+Achievements/DefeatCoreCommander	Text	1.0	Visitor From A Dying World	Przybysz z umierającego świata	Abgesandter einer sterbenden Welt
+Achievements/DefeatCrydra	Text	1.0	Howl of the Sea	Skowyt morza	Das Heulen des Meeres
+Achievements/DefeatDruidra	Text	1.0	Song of the Woods	Pieśń lasu	Das Lied des Waldes
 Achievements/DefeatGhorm	Text		Bugging Out	Bugging Out	Davongekrabbelt
 Achievements/DefeatGlurch	Text		A Slimey Encounter	Oślizgłe Spotkanie	Eine schleimige Begegnung
 Achievements/DefeatHivemother	Text		Watch Your Step	Uważaj Na Kroki	Pass auf, wohin du trittst
@@ -19,9 +19,9 @@ Achievements/DefeatKingSlime	Text		Slippery Shinobi	Oślizgły Shinobi	Schlüpfr
 Achievements/DefeatMalugaz	Text		You're a Wizard	Jesteś Czarodziejem	Du bist ein Zauberer
 Achievements/DefeatMorpha	Text		Slippery When Wet	Uwaga Ślisko	Vorsicht, Rutschgefahr
 Achievements/DefeatOmoroth	Text		From the Depths!	Z Głębin!	Aus der Tiefe!
-Achievements/DefeatPyrdra	Text	 [new]	Roar of the Flames		Das Brüllen der Flammen
+Achievements/DefeatPyrdra	Text	 [new]	Roar of the Flames	Ryk płomieni	Das Brüllen der Flammen
 Achievements/DefeatRaAkar	Text		Just Deserts	Po Prostu Pustynia	Stinknormale Wüste
-Achievements/DefeatUrschleim	Text	 [new]	Cambrian Behemoth		Kambrisches Ungetüm
+Achievements/DefeatUrschleim	Text	 [new]	Cambrian Behemoth	Kambryjski behemot	Kambrisches Ungetüm
 Achievements/Discover100CookBookRecipes	Text		Certified Chef	Certyfikowany Kucharz	Geprüfter Chefkoch
 Achievements/EquipRingOfRockAndStone	Text		Rock and Stone!	Rock and Stone!	Fels und Stein!
 Achievements/FeedCattle	Text		A Good Life	Dobre Życie	Ein gutes Leben
@@ -33,12 +33,12 @@ Achievements/MaxedOutCooking	Text		Cheese it!	Ser!	Alles Käse!
 Achievements/MaxedOutCrafting	Text		Crafty Explorer	Sprytny Odkrywca	Pfiffiger Forscher
 Achievements/MaxedOutFishing	Text		Completely Hooked	Na Haku Przeznaczenia	An Schicksals Haken
 Achievements/MaxedOutGardening	Text		Nature Nurturer	Opiekun Natury	Natur-Nanny
-Achievements/MaxedOutMagic	Text	 [new]	A Wizard Is Never Late		Ein Zauberer kommt nie zu spät
+Achievements/MaxedOutMagic	Text	 [new]	A Wizard Is Never Late	Czarodziej nigdy się nie spóźnia	Ein Zauberer kommt nie zu spät
 Achievements/MaxedOutMelee	Text		...Sting like a bee	...Żądło jak pszczoła	... Stich wie eine Biene
 Achievements/MaxedOutMining	Text		Diggy Diggy Hole	Diggy Diggy Hole	Wer andern eine Grube gräbt
 Achievements/MaxedOutRange	Text		Robin Hood	Robin Hood	Robin Hood
 Achievements/MaxedOutRunning	Text		Float like a butterfly...	Unosić się jak motyl...	Tanze wie ein Schmetterling ...
-Achievements/MaxedOutSummoning	Text	 [new]	Stay Away From The Summoner!		Komm' nicht in die Nähe des Mediums!
+Achievements/MaxedOutSummoning	Text	 [new]	Stay Away From The Summoner!	Trzymaj się z dala od przywoływacza!	Komm' nicht in die Nähe des Mediums!
 Achievements/MaxedOutVitality	Text		Health Conscious	Troska o zdrowie	Gesundheitsbewusst
 Achievements/ObtainPhantomSpark	Text		The Phantom Spark	Iskra Widmo	Der Phantomfunke
 Achievements/ObtainRuneSong	Text		The Rune Song	Runiczna Pieśń	Das Runenlied
@@ -52,9 +52,9 @@ Achievements/TalkToBigLarva	Text		Gossip Group	Grupa plotkarska	Kaffeekränzchen
 AchievementsLockedDescription/CatchStarlightNautilus	Text		Catch a Starlight Nautilus	Złap Gwiezdnego Nautilusa	Sternlicht-Nautilus fangen
 AchievementsLockedDescription/DefeatAtlanteanWorm	Text		Defeat an Atlantean Worm	Pokonaj Atlantydzkiego Robaka	Bezwinge einen Atlantischen Wurm
 AchievementsLockedDescription/DefeatAzeos	Text		Defeat Azeos the Sky Titan	Pokonaj Azeosa Podniebnego Tytana	Azeos den Himmelstitanen bezwingen
-AchievementsLockedDescription/DefeatCoreCommander	Text	 [new]	Defeat the Core Commander		Bezwinge den Kernkommandanten
-AchievementsLockedDescription/DefeatCrydra	Text	 [new]	Defeat Crydra the Ice Titan		Bezwinge Crydra, den Eistitanen
-AchievementsLockedDescription/DefeatDruidra	Text	 [new]	Defeat Druidra the Wild Titan		Bezwinge Druidra, den Wildtitanen
+AchievementsLockedDescription/DefeatCoreCommander	Text	 [new]	Defeat the Core Commander	Pokonaj Dowódcę Rdzenia	Bezwinge den Kernkommandanten
+AchievementsLockedDescription/DefeatCrydra	Text	 [new]	Defeat Crydra the Ice Titan	Pokonaj Crydrę Lodowego Tytana	Bezwinge Crydra, den Eistitanen
+AchievementsLockedDescription/DefeatDruidra	Text	 [new]	Defeat Druidra the Wild Titan	Pokonaj Druidrę Dzikiego Tytana	Bezwinge Druidra, den Wildtitanen
 AchievementsLockedDescription/DefeatGhorm	Text		Defeat Ghorm the Devourer	Pokonaj Ghorma Pożeracza	Ghorm den Verschlinger bezwingen
 AchievementsLockedDescription/DefeatGlurch	Text		Defeat Glurch the Abominous Mass	Pokonaj Glurcha Obrzydliwą Masę	Glurch die Abscheuliche Masse bezwingen
 AchievementsLockedDescription/DefeatHivemother	Text		Defeat the Hive Mother	Pokonaj Matkę Ula	Die Nestmutter bezwingen
@@ -64,9 +64,9 @@ AchievementsLockedDescription/DefeatKingSlime	Text		Defeat King Slime	Pokonaj Kr
 AchievementsLockedDescription/DefeatMalugaz	Text		Defeat Malugaz the Corrupted	Pokonaj Malugaza Skażonego	Malugaz den Korrupten bezwingen
 AchievementsLockedDescription/DefeatMorpha	Text		Defeat Morpha the Aquatic Mass	Pokonaj Morpha Wodą Masę	Morpha die Aquatische Masse bezwingen
 AchievementsLockedDescription/DefeatOmoroth	Text		Defeat Omoroth the Sea Titan	Pokonaj Omorotha Morskiego Tytana	Omoroth den Meerestitanen bezwingen
-AchievementsLockedDescription/DefeatPyrdra	Text	 [new]	Defeat Pyrdra the Fire Titan		Bezwinge Pyrdra, den Feuertitanen
+AchievementsLockedDescription/DefeatPyrdra	Text	 [new]	Defeat Pyrdra the Fire Titan	Pokonaj Pyrdrę Ognistego Tytana	Bezwinge Pyrdra, den Feuertitanen
 AchievementsLockedDescription/DefeatRaAkar	Text		Defeat Ra-Akar the Sand Titan	Pokonaj Ra-Akara Piaskowego Tytana	Ra-Akar den Sandtitanen bezwingen
-AchievementsLockedDescription/DefeatUrschleim	Text	 [new]	Defeat Urschleim		Bezwinge den Urschleim
+AchievementsLockedDescription/DefeatUrschleim	Text	 [new]	Defeat Urschleim	Pokonaj Urschleima	Bezwinge den Urschleim
 AchievementsLockedDescription/Discover100CookBookRecipes	Text		Discover 100 recipes in the cook book	Odkryj 100 przepisów w książce kucharskiej	100 Rezepte im Kochbuch entdecken
 AchievementsLockedDescription/EquipRingOfRockAndStone	Text		Equip the Ring of Rock and Ring of Stone	Wyposaż Pierścień Skały i Pierścień Kamienia	Ring der Felsen und Ring der Steine ausrüsten
 AchievementsLockedDescription/FeedCattle	Text		Feed cattle	Nakarm bydło	Füttere ein Nutztier
@@ -78,12 +78,12 @@ AchievementsLockedDescription/MaxedOutCooking	Text		Gain 100 skill points in coo
 AchievementsLockedDescription/MaxedOutCrafting	Text		Gain 100 skill points in crafting	Zdobądź 100 punktów umiejętności w rzemiośle	Erhalte 100 Fertigkeitspunkte für Fertigung
 AchievementsLockedDescription/MaxedOutFishing	Text		Gain 100 skill points in fishing	Zdobądź 100 punktów umiejętności w łowieniu	Erhalte 100 Fertigkeitspunkte für Angeln
 AchievementsLockedDescription/MaxedOutGardening	Text		Gain 100 skill points in gardening	Zdobądź 100 punktów umiejętności w ogrodnictwie	Erhalte 100 Fertigkeitspunkte für Gärtnern
-AchievementsLockedDescription/MaxedOutMagic	Text	 [new]	Gain 100 skill points in magic		Erhalte 100 Fertigkeitspunkte der Magie
+AchievementsLockedDescription/MaxedOutMagic	Text	 [new]	Gain 100 skill points in magic	Zdobądź 100 punktów umiejętności w magii	Erhalte 100 Fertigkeitspunkte der Magie
 AchievementsLockedDescription/MaxedOutMelee	Text		Gain 100 skill points in melee	Zdobądź 100 punktów umiejętności w walce wręcz	Erhalte 100 Fertigkeitspunkte für Nahkampf
 AchievementsLockedDescription/MaxedOutMining	Text		Gain 100 skill points in mining	Zdobądź 100 punktów umiejętności w górnictwie	Erhalte 100 Fertigkeitspunkte für Bergbau 
 AchievementsLockedDescription/MaxedOutRange	Text		Gain 100 skill points in range	Zdobądź 100 punktów umiejętności w walce na odległość	Erhalte 100 Fertigkeitspunkte für Fernkampf
 AchievementsLockedDescription/MaxedOutRunning	Text		Gain 100 skill points in running	Zdobądź 100 punktów umiejętności w bieganiu	Erhalte 100 Fertigkeitspunkte für Laufen
-AchievementsLockedDescription/MaxedOutSummoning	Text	 [new]	Gain 100 skill points in summoning		Erhalte 100 Fertigkeitspunkte der Beschwörung
+AchievementsLockedDescription/MaxedOutSummoning	Text	 [new]	Gain 100 skill points in summoning	Zdobądź 100 punktów umiejętności w przywoływaniu	Erhalte 100 Fertigkeitspunkte der Beschwörung
 AchievementsLockedDescription/MaxedOutVitality	Text		Gain 100 skill points in vitality	Zdobądź 100 punktów umiejętności witalności	Erhalte 100 Fertigkeitspunkte für Vitalität
 AchievementsLockedDescription/ObtainPhantomSpark	Text		Obtain Phantom Spark	Uzyskaj Iskrę Widmo	Phantomfunken erhalten
 AchievementsLockedDescription/ObtainRuneSong	Text		Obtain Rune Song	Uzyskaj Runiczną Pieśń	Runenlied erhalten
@@ -98,9 +98,9 @@ AchievementsLockedDescription/TalkToBigLarva	Text		Talk to a Big Larva	Porozmawi
 AchievementsUnlockedDescription/CatchStarlightNautilus	Text		Caught a Starlight Nautilus	Złapano Gwiezdnego Nautilusa	Sternlicht-Nautilus gefangen
 AchievementsUnlockedDescription/DefeatAtlanteanWorm	Text		Defeated an Atlantean Worm	Pokonano Atlantydzkiego Robaka	Einen Atlantischen Wurm bezwungen
 AchievementsUnlockedDescription/DefeatAzeos	Text		Defeated Azeos the Sky Titan	Pokonano Azeosa Podniebnego Tytana	Azeos der Himmelstitan, besiegt
-AchievementsUnlockedDescription/DefeatCoreCommander	Text	 [new]	Defeated the Core Commander		Den Kernkommandanten bezwungen
-AchievementsUnlockedDescription/DefeatCrydra	Text	 [new]	Defeated Crydra the Ice Titan		Crydra, den Eistitanen bezwungen
-AchievementsUnlockedDescription/DefeatDruidra	Text	 [new]	Defeated Druidra the Wild Titan		Druidra, den Wildtitanen bezwungen
+AchievementsUnlockedDescription/DefeatCoreCommander	Text	 [new]	Defeated the Core Commander	Pokonano Dowódcę Rdzenia	Den Kernkommandanten bezwungen
+AchievementsUnlockedDescription/DefeatCrydra	Text	 [new]	Defeated Crydra the Ice Titan	Pokonano Crydrę Lodowego Tytana	Crydra, den Eistitanen bezwungen
+AchievementsUnlockedDescription/DefeatDruidra	Text	 [new]	Defeated Druidra the Wild Titan	Pokonano Druidrę Dzikiego Tytana	Druidra, den Wildtitanen bezwungen
 AchievementsUnlockedDescription/DefeatGhorm	Text		Defeated Ghorm the Devourer	Pokonano Ghorma Pożeracza	Ghorm den Verschlinger, besiegt
 AchievementsUnlockedDescription/DefeatGlurch	Text		Defeated Glurch the Abominous Mass	Pokonano Glurcha Obrzydliwą Masę	Glurch die Abscheuliche Masse, besiegt
 AchievementsUnlockedDescription/DefeatHivemother	Text		Defeated The Hive Mother	Pokonano Matkę Ula	Nestmutter, besiegt
@@ -110,9 +110,9 @@ AchievementsUnlockedDescription/DefeatKingSlime	Text		Defeated King Slime	Pokona
 AchievementsUnlockedDescription/DefeatMalugaz	Text		Defeated Malugaz the Corrupted	Pokonano Malugaza Skażonego	Malugaz der Korrupte, besiegt
 AchievementsUnlockedDescription/DefeatMorpha	Text		Defeated Morpha the Aquatic Mass	Pokonano Morpha Wodą Masę	Morpha die Aquatische Masse, besiegt
 AchievementsUnlockedDescription/DefeatOmoroth	Text		Defeated Omoroth the Sea Titan	Pokonano Omorotha Morskiego Tytana	Omoroth der Meerestitan, besiegt
-AchievementsUnlockedDescription/DefeatPyrdra	Text	 [new]	Defeated Pyrdra the Fire Titan		Pyrdra, den Feuertitanen bezwungen
+AchievementsUnlockedDescription/DefeatPyrdra	Text	 [new]	Defeated Pyrdra the Fire Titan	Pokonano Pyrdrę Ognistego Tytana	Pyrdra, den Feuertitanen bezwungen
 AchievementsUnlockedDescription/DefeatRaAkar	Text		Defeated Ra-Akar the Sand Titan	Pokonano Ra-Akara Piaskowego Tytana	Ra-Akar der Sandtitan, besiegt
-AchievementsUnlockedDescription/DefeatUrschleim	Text	 [new]	Defeated Urschleim		Urschleim bezwungen
+AchievementsUnlockedDescription/DefeatUrschleim	Text	 [new]	Defeated Urschleim	Pokonano Urschleima	Urschleim bezwungen
 AchievementsUnlockedDescription/Discover100CookBookRecipes	Text		Discovered 100 recipes in the cook book	Odkryto 100 przepisów w książce kucharskiej	100 Rezepte wurden im Kochbuch entdeckt
 AchievementsUnlockedDescription/EquipRingOfRockAndStone	Text		Equipped the Ring of Rock and Ring of Stone	Wyposażono Pierścień Skały i Pierścień Kamienia	Ring der Felsen und Ring der Steine ausgerüstet
 AchievementsUnlockedDescription/FeedCattle	Text		Fed cattle	Nakarmiono bydło	Ein Nutztier gefüttert
@@ -124,12 +124,12 @@ AchievementsUnlockedDescription/MaxedOutCooking	Text		Gained 100 skill points in
 AchievementsUnlockedDescription/MaxedOutCrafting	Text		Gained 100 skill points in crafting	Zdobyto 100 punktów umiejętności w rzemiośle	100 Fertigkeitspunkte für Fertigung erhalten
 AchievementsUnlockedDescription/MaxedOutFishing	Text		Gained 100 skill points in fishing	Zdobyto 100 punktów umiejętności w łowieniu	100 Fertigkeitspunkte für Angeln erhalten
 AchievementsUnlockedDescription/MaxedOutGardening	Text		Gained 100 skill points in gardening	Zdobyto 100 punktów umiejętności w ogrodnictwie	100 Fertigkeitspunkte für Gärtnern erhalten
-AchievementsUnlockedDescription/MaxedOutMagic	Text	 [new]	Gained 100 skill points in magic		100 Fertigkeitspunkte der Magie erhalten
+AchievementsUnlockedDescription/MaxedOutMagic	Text	 [new]	Gained 100 skill points in magic	Zdobyto 100 punktów umiejętności w magii	100 Fertigkeitspunkte der Magie erhalten
 AchievementsUnlockedDescription/MaxedOutMelee	Text		Gained 100 skill points in melee	Zdobyto 100 punktów umiejętności w walce wręcz	100 Fertigkeitspunkte für Nahkampf erhalten
 AchievementsUnlockedDescription/MaxedOutMining	Text		Gained 100 skill points in mining	Zdobyto 100 punktów umiejętności w górnictwie	100 Fertigkeitspunkte für Bergbau erhalten
 AchievementsUnlockedDescription/MaxedOutRange	Text		Gained 100 skill points in range	Zdobyto 100 punktów umiejętności w walce na odległość	100 Fertigkeitspunkte für Fernkampf erhalten
 AchievementsUnlockedDescription/MaxedOutRunning	Text		Gained 100 skill points in running	Zdobyto 100 punktów umiejętności w bieganiu	100 Fertigkeitspunkte für Laufen erhalten
-AchievementsUnlockedDescription/MaxedOutSummoning	Text	 [new]	Gained 100 skill points in summoning		100 Fertigkeitspunkte der Beschwörung erhalten
+AchievementsUnlockedDescription/MaxedOutSummoning	Text	 [new]	Gained 100 skill points in summoning	Zdobyto 100 punktów umiejętności w przywoływaniu	100 Fertigkeitspunkte der Beschwörung erhalten
 AchievementsUnlockedDescription/MaxedOutVitality	Text		Gained 100 skill points in vitality	Zdobyto 100 punktów umiejętności witalności	100 Fertigkeitspunkte für Vitalität erhalten
 AchievementsUnlockedDescription/ObtainPhantomSpark	Text		Obtained Phantom Spark	Uzyskano Iskrę Widmo	Phantomfunken wurde erhalten
 AchievementsUnlockedDescription/ObtainRuneSong	Text		Obtained Rune Song	Uzyskano Runiczną Pieśń	Runenlied wurde erhalten
@@ -151,7 +151,7 @@ BiomeNames/Larva	Text		The Clay Caves	Gliniane Jaskinie	Die Lehm-Höhlen
 BiomeNames/Nature	Text		Azeos' Wilderness	Dzicz Azeosa	Azeos' Wildnis
 BiomeNames/None	Text		Unknown	Nieznane	Unbekannt
 BiomeNames/Obsidian	Text		Unknown	Nieznane	Unbekannt
-BiomeNames/Passage	Text	 [new]	The Passage		Die Passage
+BiomeNames/Passage	Text	 [new]	The Passage	Przejście	Die Passage
 BiomeNames/Sea	Text		The Sunken Sea	Głębiny Morza	Das Versunkene Meer
 BiomeNames/Slime	Text		The Undergrounds	Podziemia	Die Untergründe
 BiomeNames/Stone	Text		The Forgotten Ruins	Zapomniane Ruiny	Die Vergessenen Ruinen
@@ -184,8 +184,8 @@ CattleStatus/NameHungryCattlePlantFood	Text	{0} will be replaced with the name t
 CattleStatus/NameHungryInsect	Text	{0} will be replaced with the name that the player has given to the cattle creature	{0} is hungry for small insects.	{0} pragnie małych owadów.	{0} hat Hunger auf kleine Insekten.
 CattleStatus/NameMediumHungry	Text	{0} will be replaced with the name that the player has given to the cattle creature	{0} is happy, fairly full and producing.	{0} jest szczęśliwy, dość syty i produktywny.	{0} ist glücklich, fast satt und erzeugt etwas.
 CattleStatus/NameMediumHungryBaby	Text		{0} is happy and fairly full.	{0} jest szczęśliwy i dość syty.	{0} ist glücklich und fast satt.
-ClassicMode	Text	 [new]	Classic		Klassisch
-ClassicModeDesc	Text	 [new]	Support for classic worlds will cease to continue and most 1.0 content will not be accessible. It is strongly recommended to start a world using other modes.		Die Unterstützung für klassische Welten wird eingestellt und die meisten 1.0-Inhalte werden nicht mehr verfügbar sein. Wir empfehlen dringend, eine Welt mit anderen Modi zu starten.
+ClassicMode	Text	 [new]	Classic	Klasyczny	Klassisch
+ClassicModeDesc	Text	 [new]	Support for classic worlds will cease to continue and most 1.0 content will not be accessible. It is strongly recommended to start a world using other modes.	Wsparcie dla klasycznych światów przestanie być kontynuowane, a większość zawartości 1.0 nie będzie dostępna. Zdecydowanie zaleca się rozpoczęcie świata przy użyciu innych trybów.	Die Unterstützung für klassische Welten wird eingestellt und die meisten 1.0-Inhalte werden nicht mehr verfügbar sein. Wir empfehlen dringend, eine Welt mit anderen Modi zu starten.
 CombineMaterials	Text		Combine the materials	Połącz materiały	Materialien kombinieren
 ConditionEffect/ApplyBurning	Text		{0} burn damage	{0} obrażeń od ognia	{0} Brandschaden
 ConditionEffect/ApplyDamageEverySecond	Text		{0} damage every sec	{0} obrażeń co sekundę	{0} Schaden pro Sekunde
@@ -204,28 +204,28 @@ ConditionEffect/ExplosivesDamage	Text		{0}% explosives damage	{0}% obrażeń wyb
 ConditionEffect/Fishing	Text		{0} fishing	{0} wędkarstwa	{0} Angeln
 ConditionEffect/Glowing	Text		{0} glow	{0} poświaty	{0} Leuchten
 ConditionEffect/HarvestChance	Text		{0}% larger harvests	{0}% większych zbiorów	{0} % größere Ernten
-ConditionEffect/HealOverTime	Text		{0} health every sec	{0} zdrowia na sekundę	{0} Gesundheit jede Sekunde
+ConditionEffect/HealOverTime	Text		{0} health every sec	{0} zdrowia co sekundę	{0} Gesundheit jede Sekunde
 ConditionEffect/Health	Text		{0} health	{0} zdrowia	{0} Gesundheit
 ConditionEffect/Hunger	Text		{0} food	{0} jedzenia	{0} Essen
 ConditionEffect/ImmuneToSlimeSlow	Text		Immune to being slowed by slime	Odporność na spowolnienie przez szlam	Immun gegen Verlangsamung durch Schleim
 ConditionEffect/LifeOnHit	Text		{0} life on melee hit	{0} życia przy trafieniu wręcz	{0} Leben bei Nahkampftreffer
-ConditionEffect/MagicBarrier	Text	 [new]	{0} magic barrier		{0} magische Barriere
-ConditionEffect/ManaRegen	Text	 [new]	{0} mana every sec		{0} Mana pro Sekunde
-ConditionEffect/MaxHealth	Text		{0} max health	{0} maks. Zdrowia	{0} max. Gesundheit
-ConditionEffect/MaxMana	Text	 [new]	{0} max mana		{0} max. Mana
-ConditionEffect/MaxMinions	Text	 [new]	{0} max minion count		{0} max. Unterling-Menge
+ConditionEffect/MagicBarrier	Text	 [new]	{0} magic barrier	{0} magicznej bariery	{0} magische Barriere
+ConditionEffect/ManaRegen	Text	 [new]	{0} mana every sec	{0} many co sekundę	{0} Mana pro Sekunde
+ConditionEffect/MaxHealth	Text		{0} max health	{0} maks. zdrowia	{0} max. Gesundheit
+ConditionEffect/MaxMana	Text	 [new]	{0} max mana	{0} maks. many	{0} max. Mana
+ConditionEffect/MaxMinions	Text	 [new]	{0} max minion count	{0} maks. liczby sługusów	{0} max. Unterling-Menge
 ConditionEffect/MeleeAttackSpeed	Text		{0}% melee speed	{0}% szybkości w walce wręcz	{0} % Nahkampfgeschwindigkeit
 ConditionEffect/MeleeDamage	Text		{0}% melee damage	{0}% obrażeń w walce wręcz	{0} % Nahkampfschaden
 ConditionEffect/Mining	Text		{0} mining damage	{0} obrażeń górniczych	{0} Bergbauschaden
 ConditionEffect/MiningSpeed	Text		{0}% mining speed	{0}% prędkości wydobycia	{0} % Bergbaugeschwindigkeit
-ConditionEffect/MinionAttackSpeed	Text	 [new]	{0}% minion attack speed		{0} % der Angriffsgeschwindigkeit des Unterlings
-ConditionEffect/MinionCritChance	Text	 [new]	{0}% minion critical hit chance		{0} % der kritischen Trefferchance des Unterlings
-ConditionEffect/MinionDamage	Text	 [new]	{0} minion damage		{0} Unterlingschaden
-ConditionEffect/MinionDamagePercentage	Text	 [new]	{0}% minion damage		{0} % Unterlingschaden
-ConditionEffect/MinionLifespan	Text	 [new]	{0}% minion lifespan		{0} % Lebensspanne der Unterlinge
+ConditionEffect/MinionAttackSpeed	Text	 [new]	{0}% minion attack speed	{0}% szybkości ataku sługusów	{0} % der Angriffsgeschwindigkeit des Unterlings
+ConditionEffect/MinionCritChance	Text	 [new]	{0}% minion critical hit chance	{0}% szans na trafienie krytyczne sługusa	{0} % der kritischen Trefferchance des Unterlings
+ConditionEffect/MinionDamage	Text	 [new]	{0} minion damage	{0} obrażeń sługusów	{0} Unterlingschaden
+ConditionEffect/MinionDamagePercentage	Text	 [new]	{0}% minion damage	{0}% obrażeń sługusów	{0} % Unterlingschaden
+ConditionEffect/MinionLifespan	Text	 [new]	{0}% minion lifespan	{0}% żywotności sługusów	{0} % Lebensspanne der Unterlinge
 ConditionEffect/MovementSpeed	Text		{0}% movement speed	{0}% prędkości ruchu	{0} % Bewegungsgeschwindigkeit
-ConditionEffect/PhysicalMeleeDamage	Text	 [new]	{0}% physical melee damage		{0} % des physischen Nahkampfschadens
-ConditionEffect/PhysicalRangeDamage	Text	 [new]	{0}% physical range damage		{0} % des physischen Fernkampfschadens
+ConditionEffect/PhysicalMeleeDamage	Text	 [new]	{0}% physical melee damage	{0}% fizycznych obrażeń wręcz	{0} % des physischen Nahkampfschadens
+ConditionEffect/PhysicalRangeDamage	Text	 [new]	{0}% physical range damage	{0}% fizycznych obrażeń zasięgowych	{0} % des physischen Fernkampfschadens
 ConditionEffect/Poisoned	Text		75% reduced healing received	75% mniej otrzymywanego leczenia	75 % verringerte Heilung erhalten
 ConditionEffect/RangeAttackSpeed	Text		{0}% range speed	{0}% prędkości w walce zasięgowej	{0} % Fernkampfgeschwindigkeit
 ConditionEffect/RangeDamage	Text		{0}% range damage	{0}% obrażeń w walce zasięgowej	{0} % Fernkampfschaden
@@ -244,24 +244,24 @@ ConditionEffectDesc/Glowing	Text		Produces a glow reaching up to {0} tiles away.
 ConditionEffectDesc/HarvestChance	Text		When harvesting, you gain on average {0}% extra plants.	Podczas zbiorów zyskujesz średnio {0}% dodatkowych roślin.	Bei der Ernte wirst du im Durchschnitt {0} % mehr Pflanzen ernten.
 ConditionEffectDesc/HealOverTime	Text		Gains {0} health every second.	Zyskujesz {0} zdrowia co sekundę.	Erhält {0} Gesundheit pro Sekunde.
 ConditionEffectDesc/LifeOnHit	Text		Gains {0} health when hitting an enemy with a melee attack.	Zyskujesz {0} zdrowia po trafieniu wroga atakiem wręcz.	Erhält {0} Gesundheit, wenn ein Feind mit einem Nahkampfangriff getroffen wird.
-ConditionEffectDesc/MagicBarrier	Text	 [new]	Absorbs up to {0} damage taken. The magic barrier regenerates itself after not taking damage for a while.		Absorbiert bist zu {0} des erlittenen Schadens. Die magische Barriere regeneriert sich, wenn sie für eine Weile keinen Schaden erleidet.
-ConditionEffectDesc/ManaRegen	Text	 [new]	Gains {0} mana every second. Base mana regeneration is 10.0 mana every second.		Gewinnt {0} mana pro Sekunde. Basis-Manaregenerierung beträgt 10.0 Mana pro Sekunde.
+ConditionEffectDesc/MagicBarrier	Text	 [new]	Absorbs up to {0} damage taken. The magic barrier regenerates itself after not taking damage for a while.	Pochłania do {0} otrzymanych obrażeń. Magiczna bariera regeneruje się po pewnym czasie bez otrzymywania obrażeń.	Absorbiert bist zu {0} des erlittenen Schadens. Die magische Barriere regeneriert sich, wenn sie für eine Weile keinen Schaden erleidet.
+ConditionEffectDesc/ManaRegen	Text	 [new]	Gains {0} mana every second. Base mana regeneration is 10.0 mana every second.	Zyskuje {0} many co sekundę. Podstawowa regeneracja many wynosi 10,0 pkt. many co sekundę.	Gewinnt {0} mana pro Sekunde. Basis-Manaregenerierung beträgt 10.0 Mana pro Sekunde.
 ConditionEffectDesc/MaxHealth	Text		Maximum amount of health is {0}.	Maksymalna ilość zdrowia wynosi {0}.	Max. Gesundheitsmenge ist {0}.
-ConditionEffectDesc/MaxMana	Text	 [new]	Maximum amount of mana is {0}.		Die maximale Menge an Mana beträgt {0}.
-ConditionEffectDesc/MaxMinions	Text	 [new]	You can have up to {0} summoned minions.		Du kannst zeitgleich bis zu {0} Unterlinge beschwören.
+ConditionEffectDesc/MaxMana	Text	 [new]	Maximum amount of mana is {0}.	Maksymalna ilość many wynosi {0}.	Die maximale Menge an Mana beträgt {0}.
+ConditionEffectDesc/MaxMinions	Text	 [new]	You can have up to {0} summoned minions.	Możesz mieć do {0} przyzwanych sługusów.	Du kannst zeitgleich bis zu {0} Unterlinge beschwören.
 ConditionEffectDesc/MeleeAttackSpeed	Text		You hit {0}% faster with melee weapons.	Trafiasz {0}% szybciej bronią do walki wręcz.	Du triffst {0} % schneller mit Nahkampfwaffen.
-ConditionEffectDesc/MeleeDamage	Text		Melee attacks deal {0}-{1} damage.	Ataki wręcz zadają {0}	Nahkampfangriffe verursachen {0}-{1} Schaden.
-ConditionEffectDesc/MeleeDamageFormat	Text	 [new]	Melee attacks deal {0}.		Nahkampfangriffe verursachen {0}.
+ConditionEffectDesc/MeleeDamage	Text		Melee attacks deal {0}. 	Ataki wręcz zadają {0}	Nahkampfangriffe verursachen {0}-{1} Schaden.
+ConditionEffectDesc/MeleeDamageFormat	Text	 [new]	Melee attacks deal {0}.	Ataki wręcz zadają {0}.	Nahkampfangriffe verursachen {0}.
 ConditionEffectDesc/Mining	Text		Deals {0} damage to walls and objects that require mining to be destroyed.	Zadaje {0} obrażeń ścianom i obiektom, których zniszczenie wymaga kopania.	Verursacht {0} Schaden an Wänden und Objekten, bei denen für die Zerstörung ein Bergbau erforderlich ist.
 ConditionEffectDesc/MiningSpeed	Text		You hit {0}% faster with pickaxes.	Uderzasz {0}% szybciej kilofami.	Du triffst {0} % schneller mit Spitzhacken.
-ConditionEffectDesc/MinionAttackSpeed	Text	 [new]	Minions attack {0}% faster.		Unterlinge greifen {0} % schneller an.
-ConditionEffectDesc/MinionCritChance	Text	 [new]	Minion attacks have a {0}% chance to deal 50% extra damage.		Bei Angriffen von Unterlingen besteht eine Chance von {0} %, 50 % zusätzlichen Schaden zu verursachen.
-ConditionEffectDesc/MinionDamagePercentage	Text	 [new]	Minions deal {0}% more damage.		Unterlinge verursachen {0} % mehr Schaden.
-ConditionEffectDesc/MinionLifespan	Text	 [new]	Minions last for {0}% longer before despawning.		Unterlinge leben {0} % länger, bevor sie verschwinden.
+ConditionEffectDesc/MinionAttackSpeed	Text	 [new]	Minions attack {0}% faster.	Sługusy atakują o {0}% szybciej.	Unterlinge greifen {0} % schneller an.
+ConditionEffectDesc/MinionCritChance	Text	 [new]	Minion attacks have a {0}% chance to deal 50% extra damage.	Ataki sługusów mają {0}% szans na zadanie dodatkowych 50% obrażeń.	Bei Angriffen von Unterlingen besteht eine Chance von {0} %, 50 % zusätzlichen Schaden zu verursachen.
+ConditionEffectDesc/MinionDamagePercentage	Text	 [new]	Minions deal {0}% more damage.	Sługusy zadają {0}% więcej obrażeń.	Unterlinge verursachen {0} % mehr Schaden.
+ConditionEffectDesc/MinionLifespan	Text	 [new]	Minions last for {0}% longer before despawning.	Sługusy trwają o {0}% dłużej przed zniknięciem.	Unterlinge leben {0} % länger, bevor sie verschwinden.
 ConditionEffectDesc/MovementSpeed	Text		Moves at {0}% of base movement speed.	Poruszasz się z prędkością {0}% bazowej prędkości ruchu.	Bewegt sich mit {0} % der normalen Bewegungsgeschwindigkeit.
 ConditionEffectDesc/RangeAttackSpeed	Text		You shoot {0}% faster with range weapons.	Strzelasz {0}% szybciej z broni dystansowych.	Du schießt {0} % schneller mit Fernkampfwaffen.
 ConditionEffectDesc/RangeDamage	Text		Ranged attacks deal {0}. 	Ataki dystansowe zadają {0}	Fernkampfangriffe verursachen {0}-{1} Schaden.
-ConditionEffectDesc/RangeDamageFormat	Text	 [new]	Range attacks deal {0}.		Fernkampfangriffe verursachen {0}.
+ConditionEffectDesc/RangeDamageFormat	Text	 [new]	Range attacks deal {0}.	Ataki dystansowe zadają {0}	Fernkampfangriffe verursachen {0}.
 ConditionEffectDesc/ReducedDamageFromBosses	Text		Reduces damage taken from bosses by {0}%.	Zmniejsza obrażenia otrzymywane od bossów o {0}%.	Verringert den von Bossen erlittenen Schaden um {0} %.
 ConditionEffectDesc/ThornsDamage	Text		Melee attackers take {0} damage when attacking.	Atakujący w zwarciu otrzymują {0} obrażeń podczas ataku.	Nahkampfangreifer erleiden {0} Schaden, wenn sie angreifen.
 Conditions/AcidDamage	Text		{0} acid damage every sec, ignores armor	{0} obrażeń od kwasu co sekundę, ignoruje pancerz	{0} Säureschaden pro Sekunde, ignoriert Rüstung
@@ -290,7 +290,7 @@ Conditions/AuraApplyMovementSpeedDecrease	Text		Any nearby enemies movement spee
 Conditions/AuraApplyRadioactiveDamageOverTime	Text		All nearby enemies take {0} radioactive damage every other sec	Wszyscy pobliscy wrogowie otrzymują {0} obrażeń radioaktywnych co sekundę	Alle Feinde in der Nähe erleiden {0} Strahlungsschaden alle zwei Sekunden
 Conditions/AuraMovementSpeedDecrease	Text		{0}% movement speed from a nearby aura	{0}% prędkości ruchu od pobliskiej aury	{0} % Bewegungsgeschwindigkeit durch eine Aura in der Nähe
 Conditions/AuraRadioactiveDamageOverTime	Text		{0} radioactive damage every other sec	{0} obrażeń radioaktywnych co sekundę	{0} Strahlungsschaden alle zwei Sekunden
-Conditions/AuraVoidDamagePercentageOverTime	Text	 [new]	{0}% of health as void damage every  sec		{0} % der Gesundheit als Nichts-Schaden pro Sekunde
+Conditions/AuraVoidDamagePercentageOverTime	Text	 [new]	{0}% of health as void damage every  sec	{0}% zdrowia jako obrażenia od próżni co sekundę	{0} % der Gesundheit als Nichts-Schaden pro Sekunde
 Conditions/BlueGlow	Text	"Description for items that make player glow when eating it. For example ""+5 glow"" where +5 refers to the intensity/range of the light"	{0} blue glow	{0} niebieskiej poświaty	{0} blaues Leuchten
 Conditions/Burning	Text		{0} burn damage every other sec	{0} obrażeń od ognia co sekundę	{0} Brandschaden alle zwei Sekunden
 Conditions/ChanceForAdditionalOre	Text		{0}% chance to gain an additional ore from walls containing ores	{0}% szans na zdobycie dodatkowej rudy ze ścian zawierających rudy	{0} % Chance auf den Erhalt eines zusätzlichen Erzes aus erzhaltigen Wänden
@@ -312,7 +312,7 @@ Conditions/ChanceOnRangeShotToApplySlowedBySlime	Text		20% chance to slow down t
 Conditions/ChanceOnRangeShotToStun	Text		{0}% chance to stun targets on ranged hit	{0}% szans na ogłuszenie celów przy trafieniu z dystansu	{0} % Chance, Ziele bei einem Fernkampftreffer zu betäuben
 Conditions/ChanceOnShotToGainCriticalHitChance	Text		{0}% chance on ranged hit to increase critical hit chance by 100% for a short duration	{0}% szansy przy trafieniu dystansowym na zwiększenie szansy na trafienie krytyczne o 100% na krótki czas.	{0} % Chance bei einem Fernkampftreffer, dass die kritische Trefferchance kurzzeitig um 100 % erhöht wird
 Conditions/ChanceOnShotToIncreaseMeleeDamage	Text		{0}% chance on ranged hit to increase melee damage by 30% 	{0}% szans przy trafieniu dystansowym na zwiększenie obrażeń zadawanych w walce wręcz o 30%.	{0} % Chance, dass bei einem Fernkampftreffer der Nahkampfschaden um 15 % erhöht wird
-Conditions/ChanceToAddRandomConditionOnHit	Text	 [new]	High chance to apply a random condition on hit		Große Chance, bei einem Treffer einen zufälligen Zustand zu erzeugen
+Conditions/ChanceToAddRandomConditionOnHit	Text	 [new]	High chance to apply a random condition on hit	Wysoka szansa na zastosowanie losowego efektu przy trafieniu	Große Chance, bei einem Treffer einen zufälligen Zustand zu erzeugen
 Conditions/ChanceToApplyCharmed	Text		Charm the target for 20 sec	Rzuca urok na cel na 20 sek.	Verzaubere das Ziel für 20 Sek.
 Conditions/ChanceToApplyPoisonOnBlock	Text		{0}% chance to apply poison when blocking melee hits, reduces enemy healing received by 75%	{0}% szans na zastosowanie trucizny podczas blokowania trafień w zwarciu, zmniejsza leczenie wroga o 75%.	{0} % Chance, Gift beim Blockieren von Nahkampftreffern anzuwenden, was die erhaltene Feindheilung um 75 % verringert
 Conditions/ChanceToApplyPoisoned	Text		{0}% chance to apply poison on hit, reduces enemy healing received by 75%	{0}% szans na zastosowanie trucizny przy trafieniu, zmniejsza leczenie wroga o 75%.	{0} % Chance, Gift bei einem Treffer anzuwenden, was die erhaltene Feindheilung um 75 % verringert
@@ -324,7 +324,7 @@ Conditions/ChanceToGainExtraItemFromBaseBuilding	Text		{0}% chance to gain an ex
 Conditions/ChanceToGainRarePlant	Text		{0}% chance that plants planted by you become golden	{0}% szans, że zasadzone przez ciebie rośliny staną się złote	{0} % Chance, dass von dir gepflanzte Pflanzen golden werden
 Conditions/ChanceToGetDoubleFish	Text		{0}% chance to get double fish when catching a fish	{0}% szans na zdobycie podwójnej ryby podczas łapania ryb	{0} % Chance auf die doppelte Menge Fisch, wenn du einen Fisch fängst
 Conditions/ChanceToNotConsumeWaterCan	Text		{0}% chance to not consume water when using water can	{0}% szans na niezużycie wody podczas korzystania z konewki	{0} % Chance, dass bei der Verwendung der Gießkanne kein Wasser verbraucht wird
-Conditions/ChanceToPreserveBait	Text	 [new]	{0}% chance bait will not be consumed when catching a fish		{0} % Chance, dass der Köder nicht verbraucht wird, wenn man Fische fängt
+Conditions/ChanceToPreserveBait	Text	 [new]	{0}% chance bait will not be consumed when catching a fish	{0}% szans na niezużycie przynęty podczas łapania ryby	{0} % Chance, dass der Köder nicht verbraucht wird, wenn man Fische fängt
 Conditions/ChanceToRestoreHealthOnMeleeHit	Text		10% chance on melee hit to restore {0}% health	10% szans na przywrócenie {0}% zdrowia przy trafieniu w zwarciu	10 % Chance, dass ein Nahkampftreffer {0} % Gesundheit regeneriert
 Conditions/ChanceToShootShockWaveOnBlock	Text		{0}% chance on block to release energy shockwaves dealing damage equal to what was blocked	{0}% szans przy bloku na uwolnienie fali uderzeniowej energii zadającej obrażenia o sile równej blokowi.	{0} % Chance beim Blocken Energie-Schockwellen zu entfesseln, die so viel Schaden verursachen, wie geblockt wurde
 Conditions/CheatDeath	Text		{0}% chance to restore a bit of health instead of dying when taking lethal damage	{0}% szans na przywrócenie odrobiny zdrowia po otrzymaniu śmiertelnych obrażeń	{0} % Chance, dass statt zu sterben etwas Gesundheit regeneriert wird, wenn man tödlichen Schaden erleidet
@@ -340,7 +340,7 @@ Conditions/DiggingIncrease	Text		{0} digging damage	{0} obrażeń od kopania	{0}
 Conditions/DodgeChance	Text		{0}% dodge chance	{0}% szansy na unik	{0} % Ausweichen-Chance
 Conditions/DodgeIncreaseFromStandingStill	Text		{0} % dodge chance from standing still	{0} % szansy na unik od stania w miejscu	{0} % Ausweichen-Chance durch Stillstehen
 Conditions/DrainLessHunger	Text		{0}% less food drained when running	{0}% mniej żywności zużywanej podczas biegu	{0} % weniger Essen wird beim Laufen verbraucht
-Conditions/DurabilityIncreaseAfterMiningOre	Text	 [new]	Gain {0} durability on your tool, when breaking walls containing ores		Erhalte {0} Haltbarkeit für dein Werkzeug, wenn du Wände mit Erzen brichst
+Conditions/DurabilityIncreaseAfterMiningOre	Text	 [new]	Gain {0} durability on your tool, when breaking walls containing ores	Zyskujesz {0} wytrzymałości narzędzia podczas niszczenia ścian zawierających rudę.	Erhalte {0} Haltbarkeit für dein Werkzeug, wenn du Wände mit Erzen brichst
 Conditions/EquipmentDurabilityLastsLonger	Text		{0}% chance to not lose durability on equipment when taking damage	{0}% szans na niestracenie wytrzymałości sprzętu po otrzymaniu obrażeń	{0} % Chance, keine Haltbarkeit von Ausrüstung zu verlieren, wenn Schaden erlitten wird
 Conditions/ExtraHarvestChance	Text		{0}% larger harvests	{0}% większe zbiory	{0} % größere Ernten
 Conditions/FishBitesFaster	Text		Fish (and other things) bite {0}% faster 	Ryby (i inne rzeczy) biorą {0}% szybciej	Fische beißen {0} % schneller
@@ -359,22 +359,22 @@ Conditions/GainHealthRegenWhileBelowHalfHealth	Text		Gain {0} health every sec w
 Conditions/GainIncreasedBossDamageFromEatingFish	Text		{0}% damage against bosses after eating fish or cooked food made out of fish	{0}% obrażeń zadawanych bossom po zjedzeniu ryby lub gotowanego jedzenia z ryb	{0} % Schaden an Bossen nach dem Verzehr von Fisch oder gekochtem Essen aus Fisch
 Conditions/GainIncreasedMaxHealthFromAllSkillPoints	Text		{0}% of all skill points added to max health	{0}% wszystkich punktów umiejętności zostaje dodanych do maksymalnego zdrowia	{0} % aller Fertigkeitspunkte werden zur max. Gesundheit hinzugefügt
 Conditions/GainIncreasedMaxHealthFromPet	Text		{0}% health when a pet is equipped	{0}% zdrowia, gdy wyposażony jest zwierzak	{0} % Gesundheit, wenn ein Haustier ausgerüstet wurde
-Conditions/GainMagicDamagePercentageBoostAfterCrit	Text	 [new]	{0}% magic damage for a short duration on critical hit		{0} % Magieschaden für kurze Zeit nach einem kritischen Treffer
-Conditions/GainManaPercentageOnCrit	Text	 [new]	{0}% mana recovered on critical hit		{0} % Mana nach kritischem Treffer regeneriert
-Conditions/GainManaPercentageOnDamageTaken	Text	 [new]	{0}% mana recovered on damage taken		{0} % Mana nach erlittenem Schaden regeneriert
+Conditions/GainMagicDamagePercentageBoostAfterCrit	Text	 [new]	{0}% magic damage for a short duration on critical hit	{0}% obrażeń magicznych przez krótki czas przy trafieniu krytycznym	{0} % Magieschaden für kurze Zeit nach einem kritischen Treffer
+Conditions/GainManaPercentageOnCrit	Text	 [new]	{0}% mana recovered on critical hit	{0}% many odzyskiwanej przy trafieniu krytycznym	{0} % Mana nach kritischem Treffer regeneriert
+Conditions/GainManaPercentageOnDamageTaken	Text	 [new]	{0}% mana recovered on damage taken	{0}% many odzyskiwanej po otrzymaniu obrażeń	{0} % Mana nach erlittenem Schaden regeneriert
 Conditions/GainMeleeAttackSpeedFromCookedFood	Text		{0}% melee attack speed when eating cooked food	{0}% szybkości ataku wręcz podczas jedzenia gotowanych dań	{0} % Nahkampf-Angriffsgeschwindigkeit beim Verzehr von gekochtem Essen
-Conditions/GainMeleeDamageAsLongAsNotTakenDamage	Text	 [new]	{0}% melee damage while not haven taken any direct damage for a while		{0} % des Nahkampfschadens, wenn du eine Zeit lang keinen direkten Schaden erlitten hast
+Conditions/GainMeleeDamageAsLongAsNotTakenDamage	Text	 [new]	{0}% melee damage while not haven taken any direct damage for a while	{0}% obrażeń w walce wręcz, jeśli przez pewien czas nie otrzymałeś żadnych bezpośrednich obrażeń.	{0} % des Nahkampfschadens, wenn du eine Zeit lang keinen direkten Schaden erlitten hast
 Conditions/GainMeleeDamageFromHitting	Text		Gain 2% melee damage every time an enemy is hit, stacks up to {0} times	Zyskujesz 2% obrażeń od walki wręcz za każdym razem, gdy trafisz wroga, kumuluje się do {0} razy	Erhalte 2 % Nahkampfschaden, wann immer ein Feind getroffen wird, stapelt sich bis zu {0}-mal
 Conditions/GainMeleeDamageIncreaseFromHittingSameTarget	Text		Gain {0}% melee damage when hitting the same target successively	Zyskujesz {0}% obrażeń od walki wręcz przy kolejnych trafieniach tego samego celu	Erhalte {0} % Nahkampfschaden, wenn du das gleiche Ziel aufeinanderfolgend triffst
 Conditions/GainMoreFoodFromCookedFood	Text		{0}% food from cooked food	{0}% nasycenia z gotowanego jedzenia	{0} % Essen durch gekochtes Essen
 Conditions/GainMoreFoodFromPlants	Text		{0}% food when eating plants or cooked food made out of plants	{0}% nasycenia podczas jedzenia roślin lub gotowanego jedzenia z roślin	{0} % Essen beim Verzehr von Pflanzen oder gekochtem Essen aus Pflanzen
 Conditions/GainMovementSpeedFromRunningConsistently	Text		{0}% movement speed after running consistently for a short duration	{0}% prędkości ruchu po stałym biegu przez krótki czas	{0} % kurzfristige Bewegungsgeschwindigkeit nach dauerhaftem Laufen
-Conditions/GainRangeAttackSpeedPerMinion	Text	 [new]	{0}% range attack speed per active minion		{0} % Fernkampf-Angriffsgeschwindigkeit pro aktivem Unterling
+Conditions/GainRangeAttackSpeedPerMinion	Text	 [new]	{0}% range attack speed per active minion	{0}% szybkości ataku zasięgowego za każdego aktywnego sługusa	{0} % Fernkampf-Angriffsgeschwindigkeit pro aktivem Unterling
 Conditions/GainRangeDamageFromShooting	Text		Gain 2% range damage every time an enemy is shot, stacks up to {0} times	Zyskujesz 2% obrażeń zasięgowych za każdym razem, gdy wróg zostanie postrzelony, kumuluje się do {0} razy.	Erhalte 2 % Fernkampfschaden, wann immer ein Feind erschossen wird, stapelt sich bis zu {0}-mal
 Conditions/GainRangeDamageIncreaseFromStandingStill	Text		{0}% range damage after standing still for a short duration	{0}% obrażeń zasięgowych po pozostaniu w bezruchu przez krótki czas.	{0} % kurzfristiger Fernkampfschaden nach dem Stillstehen
-Conditions/GainRemainingManaAsMagicDamagePercentage	Text	 [new]	Up to {0}% magic damage based on your remaining mana		Bis zu {0} % Magieschaden basiert auf deiner verbleibenden Mana
+Conditions/GainRemainingManaAsMagicDamagePercentage	Text	 [new]	Up to {0}% magic damage based on your remaining mana	Do {0}% obrażeń magicznych bazujących na pozostałej ilości many.	Bis zu {0} % Magieschaden basiert auf deiner verbleibenden Mana
 Conditions/GodMode	Text		You are in god mode	Jesteś w trybie boga	Du bist im Gott-Modus
-Conditions/HealOnMinionDespawn	Text	 [new]	Minions heal you for {0}% health when they despawn		Unterlinge heilen dich um {0} % Gesundheit, wenn sie verschwinden
+Conditions/HealOnMinionDespawn	Text	 [new]	Minions heal you for {0}% health when they despawn	Sługusy leczą cię za {0}% zdrowia, gdy znikną.	Unterlinge heilen dich um {0} % Gesundheit, wenn sie verschwinden
 Conditions/HealOverTime	Text	"For example ""+5 health every second"""	{0} health every sec	{0} zdrowia co sekundę	{0} Gesundheit jede Sekunde
 Conditions/HealOverTimePercentage	Text	"For example ""+5% health every second"""	{0}% health every sec	{0}% zdrowia co sekundę	{0} % Gesundheit pro Sekunde
 Conditions/HealingPotionAddHealOverTime	Text		Healing potions also heal for {0}% of health gained from the potion over time	Mikstury leczące leczą również {0} % zdrowia uzyskanego z mikstur po czasie.	Heiltränke heilen zudem {0} % der durch Tränke erhaltenen Gesundheit über Zeit
@@ -382,7 +382,7 @@ Conditions/HealthAddition	Text	{0} will be replaced by +10 for example so it say
 Conditions/HealthAdditionPercentage	Text		{0}% health	{0}% zdrowia	{0} % Gesundheit
 Conditions/HealthReduction	Text		{0} health	{0} zdrowia	{0} Gesundheit
 Conditions/HungerAddition	Text		{0} food	{0} nasycenia	{0} Essen
-Conditions/HungerAdditionOnHarvest	Text	 [new]	{0} food gained when harvesting plants		{0} Essen, wenn Pflanzen geerntet werden
+Conditions/HungerAdditionOnHarvest	Text	 [new]	{0} food gained when harvesting plants	{0} żywności zdobytej podczas zbierania roślin	{0} Essen, wenn Pflanzen geerntet werden
 Conditions/ImmuneToAcid	Text		Immune to acid damage	Odporność na obrażenia od kwasu	Immun gegen Säureschaden
 Conditions/ImmuneToBurning	Text		Immune to burning	Odporność na ogień	Immun gegen Feuerschaden
 Conditions/ImmuneToDamageAfterRespawn	Text		Immune to damage	Odporność na obrażenia	Immun gegen Schaden
@@ -399,7 +399,7 @@ Conditions/IncreasedBoatSpeed	Text		{0}% boat speed	{0}% prędkości łodzi	{0}�
 Conditions/IncreasedChanceForHigherRarityFish	Text		{0}% chance for higher rarity fish to bite	{0}% szansy na skuszenie ryby o wyższej rzadkości	{0} % Chance, dass Fische mit höherer Seltenheit anbeißen
 Conditions/IncreasedChanceToGetFish	Text		{0}% chance to get a fish on the hook	{0}% szansy na złapanie ryby na haczyk	{0} % Chance, dass ein Fisch am Haken anbeißt
 Conditions/IncreasedChanceToGetFishLoot	Text		{0}% chance to get a valuable or other non-fish item on the hook when fishing	{0}% szans na złapanie cennego lub innego nierybnego przedmiotu na haczyk podczas łowienia.	{0} % Chance, dass ein wertvoller Fisch oder ein Gegenstand, der kein Fisch ist, am Haken hängt
-Conditions/IncreasedChanceToSpawnMinionOnHit	Text	 [new]	{0}% chance to spawn a mininon when an enemy is hit		{0} % Chance, einen Unterling zu beschwören, wenn ein Feind getroffen wird
+Conditions/IncreasedChanceToSpawnMinionOnHit	Text	 [new]	{0}% chance to spawn a mininon when an enemy is hit	{0}% szans na pojawienie się sługusa po trafieniu wroga.	{0} % Chance, einen Unterling zu beschwören, wenn ein Feind getroffen wird
 Conditions/IncreasedCharmDuration	Text		{0}% longer duration of applied charm effects	{0}% dłuższy czas trwania zastosowanych efektów uroku	{0} % längere Dauer für angewandte Zaubereffekte
 Conditions/IncreasedDamageAgainstBosses	Text		{0}% damage against bosses	{0}% obrażeń przeciwko bossom	{0} % Schaden gegen Bosse
 Conditions/IncreasedDamageBasedOnTargetRemainingHealth	Text		Deal up to {0}% more damage based on targets remaining health	Zadaje do {0}% więcej obrażeń w zależności od pozostałego zdrowia celu. 	Verursache bis zu {0} % mehr Schaden, basierend auf der verbleibenden Gesundheit des Ziels
@@ -407,23 +407,23 @@ Conditions/IncreasedDamageTakenPercentage	Text		{0}% damage taken	{0} % otrzyman
 Conditions/IncreasedDashDuration	Text		{0}% longer dash duration	{0}% dłuższy czas trwania zrywu	{0} % längere Sprintdauer
 Conditions/IncreasedExplosivesDamage	Text		{0}% explosives damage	{0}% obrażeń wybuchowych	{0} % Sprengstoffschaden
 Conditions/IncreasedFishing	Text		{0} fishing	{0} wędkarstwa	{0} Angeln
-Conditions/IncreasedHealOnMinionDamage	Text	 [new]	Heal {0}% on minions attack damage		Heie {0} % bei Angriffsschaden der Unterlinge
+Conditions/IncreasedHealOnMinionDamage	Text	 [new]	Heal {0}% on minions attack damage	Leczy cię o {0}% od obrażeń sługusów	Heie {0} % bei Angriffsschaden der Unterlinge
 Conditions/IncreasedHealthRegenEffectiveness	Text		{0}% more healing from health over time regeneration	{0}% więcej leczenia z regeneracji zdrowia	{0} % mehr Heilung durch Gesundheit-über-Zeit-Regeneration
-Conditions/IncreasedMagicDamagePercentage	Text	 [new]	{0}% magic damage		{0} % Magieschaden
-Conditions/IncreasedMagicDamageToMinionDamage	Text	 [new]	Minion damage is increased by {0}% of your magic damage increase		Der Unterlingschaden wird um {0} % der Steigerung deines Magieschadens erhöht
-Conditions/IncreasedManaRegen	Text	 [new]	{0} mana every sec		{0} Mana pro Sekunde
-Conditions/IncreasedManaRegenEffectiveness	Text	 [new]	{0}% faster mana regeneration		{0} % schnellere Mana-Regenerierung
+Conditions/IncreasedMagicDamagePercentage	Text	 [new]	{0}% magic damage	{0}% obrażeń magicznych	{0} % Magieschaden
+Conditions/IncreasedMagicDamageToMinionDamage	Text	 [new]	Minion damage is increased by {0}% of your magic damage increase	Obrażenia sługusów są zwiększone o {0}% twoich obrażeń magicznych	Der Unterlingschaden wird um {0} % der Steigerung deines Magieschadens erhöht
+Conditions/IncreasedManaRegen	Text	 [new]	{0} mana every sec	{0} many co sekundę	{0} Mana pro Sekunde
+Conditions/IncreasedManaRegenEffectiveness	Text	 [new]	{0}% faster mana regeneration	{0}% szybsza regeneracja many	{0} % schnellere Mana-Regenerierung
 Conditions/IncreasedMaxHealth	Text		{0} max health	{0} maks. zdrowia	{0} max. Gesundheit
 Conditions/IncreasedMaxHealthPermanent	Text		{0} max health	{0} maks. zdrowia	{0} max. Gesundheit
-Conditions/IncreasedMaxMana	Text	 [new]	{0} max mana		{0} max. Mana
-Conditions/IncreasedMaxMinions	Text	 [new]	{0} max minion count		{0} max. Unterling-Menge
-Conditions/IncreasedMinionAttackSpeed	Text	 [new]	{0}% minion attack speed		{0} % der Angriffsgeschwindigkeit des Unterlings
-Conditions/IncreasedMinionCountAsMagicBarrier	Text	 [new]	{0} magic barrier per active minion		{0} magische Barriere für jeden aktiven Unterling
-Conditions/IncreasedMinionCountAsMagicDamagePercentage	Text	 [new]	{0}% magic damage for every active minion		{0} % Magieschaden für jeden aktiven Unterling
-Conditions/IncreasedMinionCritChance	Text	 [new]	{0}% minion critical hit chance		{0} % der kritischen Trefferchance des Unterlings
-Conditions/IncreasedMinionDamage	Text	 [new]	{0} minion damage		{0} Unterlingschaden
-Conditions/IncreasedMinionDamagePercentage	Text	 [new]	{0}% minion damage		{0} % Unterlingschaden
-Conditions/IncreasedMinionLifespanPercentage	Text	 [new]	{0}% minion lifespan		{0} % Lebensspanne der Unterlinge
+Conditions/IncreasedMaxMana	Text	 [new]	{0} max mana	{0} maks. many	{0} max. Mana
+Conditions/IncreasedMaxMinions	Text	 [new]	{0} max minion count	{0} maks. liczby sługusów	{0} max. Unterling-Menge
+Conditions/IncreasedMinionAttackSpeed	Text	 [new]	{0}% minion attack speed	{0}% prędkości ataku sługusów	{0} % der Angriffsgeschwindigkeit des Unterlings
+Conditions/IncreasedMinionCountAsMagicBarrier	Text	 [new]	{0} magic barrier per active minion	{0} bariery magicznej na aktywnego sługusa	{0} magische Barriere für jeden aktiven Unterling
+Conditions/IncreasedMinionCountAsMagicDamagePercentage	Text	 [new]	{0}% magic damage for every active minion	{0}% obrażeń magicznych za każdego aktywnego sługusa	{0} % Magieschaden für jeden aktiven Unterling
+Conditions/IncreasedMinionCritChance	Text	 [new]	{0}% minion critical hit chance	{0}% szansy na trafienie krytyczne sługusa	{0} % der kritischen Trefferchance des Unterlings
+Conditions/IncreasedMinionDamage	Text	 [new]	{0} minion damage	{0} obrażeń sługusów	{0} Unterlingschaden
+Conditions/IncreasedMinionDamagePercentage	Text	 [new]	{0}% minion damage	{0}% obrażeń sługusów	{0} % Unterlingschaden
+Conditions/IncreasedMinionLifespanPercentage	Text	 [new]	{0}% minion lifespan	{0}% żywotności stronników	{0} % Lebensspanne der Unterlinge
 Conditions/IncreasedPickUpRadius	Text		{0}% pickup radius	{0}% zasięgu podnoszenia	{0} % Aufnahme-Radius
 Conditions/IncreasedRodRange	Text		{0}% fishing rod throw range	{0}% zasięgu zarzucania wędki	{0} % Angel-Auswurfreichweite
 Conditions/InfectedWithMold	Text		{0}% movement speed, increasingly slows down movement from mold infection	{0}% szybkości ruchu, znacznie spowalnia ruch od zakażenia pleśnią	{0} % Bewegungsgeschwindigkeit, verlangsamt zunehmend die Bewegung durch Schimmel-Infektionen
@@ -431,14 +431,14 @@ Conditions/KillsIncreaseCritChance	Text		Killing an enemy increases critical hit
 Conditions/KingOfSlimes	Text		You are the king of slimes	Jesteś królem szlamów	Du bist der König der Schleime
 Conditions/LarvaDisguise	Text		Disguised as a larva	Przebrany za larwę	Als Larve getarnt
 Conditions/LifeOnHit	Text		{0} life on melee hit	{0} życia przy trafieniu w zwarciu	{0} Leben bei Nahkampftreffer
-Conditions/LightningGunChainLightning	Text	 [new]	When targeting an enemy the lightning will chain to 3 other nearby enemies		Trifft ein Blitz einen Feind, verkettet er 3 weitere Feinde in der Nähe
+Conditions/LightningGunChainLightning	Text	 [new]	When targeting an enemy the lightning will chain to 3 other nearby enemies	Podczas namierzania wroga błyskawica przeskoczy na 3 innych wrogów w pobliżu.	Trifft ein Blitz einen Feind, verkettet er 3 weitere Feinde in der Nähe
 Conditions/LongerCookedFoodBuffs	Text		{0}% longer cooked food buff durations	{0}% dłuższy czas trwania premii z gotowanego jedzenia	{0} % längere Buff-Dauer bei gekochtem Essen
 Conditions/LookLikeGhost	Text		You look like a ghost	Wyglądasz jak zjawa	Du siehst wie ein Geist aus
 Conditions/Love	Text		Gives you a  heart-warming feeling	Daje uczucie ciepła w sercu	Schenkt dir ein herzerwärmendes Gefühl
-Conditions/MagicBarrier	Text	 [new]	{0} magic barrier		{0} magische Barriere
-Conditions/MagicBarrierAsManaRegen	Text	 [new]	Recover {0}% of your magic barrier as mana every sec		Erhalte jede Sekunde {0} % deiner magischen Barriere als Mana zurück
-Conditions/MagicBarrierAsManaRegenPercentage	Text	 [new]	{0}% of magic barrier is added as mana regen		{0} % der magischen Barriere wird als Manaregenerierung hinzugefügt
-Conditions/ManaBarrier	Text	 [new]	{0}% of damage taken is absorbed by your mana pool		{0} % des erlittenen Schadens wird von deinem Manavorrat absorbiert
+Conditions/MagicBarrier	Text	 [new]	{0} magic barrier	{0} bariery magicznej	{0} magische Barriere
+Conditions/MagicBarrierAsManaRegen	Text	 [new]	Recover {0}% of your magic barrier as mana every sec	Odzyskuje {0}% bariery magicznej jako manę co sekundę	Erhalte jede Sekunde {0} % deiner magischen Barriere als Mana zurück
+Conditions/MagicBarrierAsManaRegenPercentage	Text	 [new]	{0}% of magic barrier is added as mana regen	{0}% bariery magicznej jest dodawane jako regeneracja many	{0} % der magischen Barriere wird als Manaregenerierung hinzugefügt
+Conditions/ManaBarrier	Text	 [new]	{0}% of damage taken is absorbed by your mana pool	{0}% otrzymanych obrażeń jest pochłaniane przez twoją pulę many	{0} % des erlittenen Schadens wird von deinem Manavorrat absorbiert
 Conditions/MeleeAttackSpeedIncrease	Text		{0}% melee attack speed	{0}% szybkości ataku w walce wręcz	{0} % Nahkampf-Angriffsgeschwindigkeit
 Conditions/MeleeDamageIncrease	Text	{0} will be replaced by +10 for example so it says +10 damage which can appear on an item description	{0}% melee damage	{0}% obrażeń w walce wręcz	{0} % Nahkampfschaden
 Conditions/MiningIncrease	Text		{0} mining damage	{0} obrażeń górniczych	{0} Bergbauschaden
@@ -451,11 +451,11 @@ Conditions/MovementSpeedIncrease	Text		{0}% movement speed	{0}% prędkości ruch
 Conditions/MovementSpeedIncreaseFromRunningConsistently	Text		{0} movement speed from consistent running	{0} prędkość ruchu od stałego biegu	{0} Bewegungsgeschwindigkeit durch dauerhaftes Laufen
 Conditions/OrangeGlow	Text		{0} glow	{0} poświaty	{0} Leuchten
 Conditions/PercentageOfFishingAsRange	Text		{0}% of fishing added as range damage	{0}% wędkarstwa zostaje dodane jako obrażenia zasięgowe	{0} % des Angelns als Fernkampfschaden hinzugefügt
-Conditions/PercentageOfMagicBarrierAsMagicDamage	Text	 [new]	{0}% of magic barrier is added as magic damage		{0} % der magischen Barriere wird als Magieschaden hinzugefügt
+Conditions/PercentageOfMagicBarrierAsMagicDamage	Text	 [new]	{0}% of magic barrier is added as magic damage	{0}% bariery magicznej jest dodawane jako obrażenia magiczne	{0} % der magischen Barriere wird als Magieschaden hinzugefügt
 Conditions/PercentageOfMiningAsMelee	Text		{0}% of mining damage added as melee damage	{0}% obrażeń górniczych dodanych jako obrażenia od walki wręcz	{0} % des Bergbauschadens als Nahkampfschaden hinzugefügt
-Conditions/PetChanceToGainManaOnAttack	Text	 [new]	{0}% chance to gain mana on hit		{0} % Chance, beim Treffer Mana zu erhalten
-Conditions/PhysicalMeleeDamageIncrease	Text	 [new]	{0}% physical melee damage		{0} % des physischen Nahkampfschadens
-Conditions/PhysicalRangeDamageIncrease	Text	 [new]	{0}% physical range damage		{0} % des physischen Fernkampfschadens
+Conditions/PetChanceToGainManaOnAttack	Text	 [new]	{0}% chance to gain mana on hit	{0}% szans na zyskanie many przy trafieniu	{0} % Chance, beim Treffer Mana zu erhalten
+Conditions/PhysicalMeleeDamageIncrease	Text	 [new]	{0}% physical melee damage	{0}% fizycznych obrażeń od walki wręcz	{0} % des physischen Nahkampfschadens
+Conditions/PhysicalRangeDamageIncrease	Text	 [new]	{0}% physical range damage	{0}% fizycznych obrażeń zasięgowych	{0} % des physischen Fernkampfschadens
 Conditions/PiercingProjectiles	Text		{0} target(s) pierced by projectiles	{0} cel(e) przebite przez pociski	{0} Ziel(e) von Projektilen durchschlagen
 Conditions/PinkGlow	Text		{0} pink glow	{0} różowej poświaty	{0} pinkes Leuchten
 Conditions/Poisoned	Text		75% reduced healing received	75% mniej otrzymanego leczenia	75 % verringerte Heilung erhalten
@@ -466,8 +466,8 @@ Conditions/ReducedAnvilEquipmentCosts	Text		Crafting items at the anvil and repa
 Conditions/ReducedDamageFromBosses	Text		{0}% reduced damage taken from bosses	{0}% mniej obrażeń otrzymywanych od bossów	{0} % verringerter durch Bosse erlittener Schaden
 Conditions/ReducedImpactOfSlipperyMovement	Text		{0}% reduced impact of slippery movement	{0}% mniejszy wpływ śliskich ruchów	{0} % verringerte Auswirkung durch rutschige Bewegung
 Conditions/ReducedImpactOfSlowedBySlime	Text		{0}% reduced impact of slowed movement from slime	{0}% mniejszy wpływ spowolnienia ruchu spowodowanego szlamem	{0} % reduzierte Wirkung der verlangsamten Bewegung durch Schleim
-Conditions/ReducedMagicBarrierRegenDelayPercentage	Text	 [new]	Magic barrier regeneration delay reduced by {0}%		Verzögerung der Regenerierung der magischen Barriere um {0} % reduziert
-Conditions/ReducedManaRegenDelayPercentage	Text	 [new]	Mana regeneration delay reduced by {0}%		Verzögerung der Manaregenerierung um {0} % reduziert
+Conditions/ReducedMagicBarrierRegenDelayPercentage	Text	 [new]	Magic barrier regeneration delay reduced by {0}%	Zmniejszenie opóźnienia regeneracji bariery magicznej o {0}%.	Verzögerung der Regenerierung der magischen Barriere um {0} % reduziert
+Conditions/ReducedManaRegenDelayPercentage	Text	 [new]	Mana regeneration delay reduced by {0}%	Zmniejszenie opóźnienia regeneracji many o {0}%.	Verzögerung der Manaregenerierung um {0} % reduziert
 Conditions/RemovePoison	Text		Removes any poison from the imbiber	Usuwa wszelką truciznę z napojonego	Entfernt jegliches Gift
 Conditions/SeedDropChance	Text		{0}% chance to gain a seed when harvesting plants	{0}% szansy na zdobycie nasion podczas zbierania roślin	{0} % Chance auf den Erhalt eines Samens beim Ernten von Pflanzen
 Conditions/ShortMovementSpeedBoost	Text		{0}% movement speed for a short duration	{0}% prędkości ruchu przez krótki czas	{0} % kurzfristige Bewegungsgeschwindigkeit
@@ -478,7 +478,7 @@ Conditions/SlowedBySlime	Text		{0}% movement speed from slime	{0}% prędkości r
 Conditions/SnareAndStunDurationReduction	Text		Snare and stun durations reduced by {0}%	Skrócono czas działania unieruchomienia i ogłuszenia o {0}%.	Schlingen- und Betäubungsdauer um {0} % verringert
 Conditions/Snared	Text	"Can also be translated from ""immobilized"" or other similar word meaning that character can't move"	Snared	unieruchomiony	Umschlungen
 Conditions/Snowing	Text		You can feel the winter embracing you	Możesz poczuć zimę obejmującą cię	Du spürst die Umarmung des Winters
-Conditions/SpawnExplosionOnDamageTaken	Text	 [new]	Deals {0} damage to all nearby enemies when taking damage		Fügt allen Feinden in der Nähe {0} Schaden zu, wenn Schaden erlitten wird
+Conditions/SpawnExplosionOnDamageTaken	Text	 [new]	Deals {0} damage to all nearby enemies when taking damage	Zadaje {0} obrażeń wszystkim pobliskim wrogom podczas otrzymywania obrażeń.	Fügt allen Feinden in der Nähe {0} Schaden zu, wenn Schaden erlitten wird
 Conditions/StackedCritChance	Text		{0}% critical hit chance	{0}% szansy na trafienie krytyczne	{0} % kritische Trefferchance
 Conditions/StarvingDamageDecrease	Text		{0}% reduced damage and max health from starving 	{0}% mniej obrażeń i maksymalnego zdrowia od głodu 	{0} % verringerter Schaden durch Verhungern
 Conditions/StarvingHealthDecrease	Text		{0}% reduced max health from starving	{0}% zmniejszone maksymalne zdrowie z wygłodzenia.	{0} % verringerte max. Gesundheit durch Verhungern
@@ -493,84 +493,84 @@ Conditions/VisibleOreDistanceIncrease	Text		{0} tiles visible ore distance	{0} p
 Conditions/WellFedBuffsThresholdReduction	Text		Well fed buffs are gained at {0}% lower food	Premie za dobre odżywienie są zdobywane przy {0}% niższym poziomie nasycenia	Wohlgenährt-Buffs werden bei {0} % geringerem Essen erhalten
 Conditions/WellFedDamageIncrease	Text		{0}% increased damage and max health from being well fed 	{0}% zwiększone obrażenia i maksymalne zdrowie od dobrego odżywiania	{0} % erhöhter Schaden durch „Wohlgenährt“ 
 Conditions/WellFedHealthIncrease	Text		{0}% increased max health from being well fed	{0}% zwiększone maksymalne zdrowie od dobrego odżywienia	{0} % erhöhte max. Gesundheit durch „Wohlgenährt“
-Conditions/WellFedManaRegenerationPercentage	Text	 [new]	{0}% mana regeneration from being well fed		{0} % Manaregenerierung, wenn man wohlgenährt ist
+Conditions/WellFedManaRegenerationPercentage	Text	 [new]	{0}% mana regeneration from being well fed	{0}% regeneracji many od dobrego odżywiania	{0} % Manaregenerierung, wenn man wohlgenährt ist
 Conditions/WellFedMovementSpeedIncrease	Text		{0}% movement speed from being well fed	{0}% prędkości ruchu od dobrego odżywienia	{0} % erhöhte Bewegungsgeschwindigkeit durch „Wohlgenährt“
-Consoles/AccountRestricted	Text	 [new]	Your account is restricted. You cannot play online.		Dein Konto ist eingeschränkt. Du kannst nicht online spielen.
-Consoles/BlockedUser	Text	 [new]	Blocked user		Gesperrter Nutzer
-Consoles/ConfirmSendInvites	Text	 [new]	Send an invite to {0}?		Einladung an {0} senden?
-Consoles/ConnectionErrorGeneric	Text	 [new]	There was an error during connection to the game.		Bei der Verbindung zum Spiel ist ein Fehler aufgetreten.
-Consoles/ConnectionListenFailed	Text	 [new]	Failed to start listening for incoming connections. Please check your internet connection.		Das Überwachen eingehender Verbindungen konnte nicht gestartet werden. Bitte überprüfe deine Internetverbindung.
-Consoles/ConnectionTimeout	Text	 [new]	The network connection has timed out.		Zeitüberschreitung der Netzwerkverbindung.
-Consoles/ConnectionToLost	Text	 [new]	The network connection to {0} has been lost.		Die Netzwerkverbindung zu {0} ist unterbrochen worden.
-Consoles/ContentFromBlockedUser	Text	 [new]	Prohibited content		Verbotener Inhalt
-Consoles/Crossplay	Text	 [new]	Crossplay		Crossplay
-Consoles/Eula61	Text	 [new]	ACCEPT		AKZEPTIEREN
-Consoles/Eula62	Text	 [new]	DECLINE		ABLEHNEN
-Consoles/GameX_ps	Text	 [new]	Left stick X-axis		Linker Stick X-Achse
-Consoles/GameX_switch	Text	 [new]	Left stick X-axis		Linker Stick X-Achse
-Consoles/GameX_xbox	Text	 [new]	Left stick X-axis		Linker Stick X-Achse
-Consoles/GameY_ps	Text	 [new]	Left stick Y-axis		Linker Stick Y-Achse
-Consoles/GameY_switch	Text	 [new]	Left stick Y-axis		Linker Stick Y-Achse
-Consoles/GameY_xbox	Text	 [new]	Left stick Y-axis		Linker Stick Y-Achse
+Consoles/AccountRestricted	Text	 [new]	Your account is restricted. You cannot play online.	Twoje konto jest ograniczone. Nie możesz grać online.	Dein Konto ist eingeschränkt. Du kannst nicht online spielen.
+Consoles/BlockedUser	Text	 [new]	Blocked user	Zablokowany użytkownik	Gesperrter Nutzer
+Consoles/ConfirmSendInvites	Text	 [new]	Send an invite to {0}?	Wysłać zaproszenie do {0}?	Einladung an {0} senden?
+Consoles/ConnectionErrorGeneric	Text	 [new]	There was an error during connection to the game.	Wystąpił błąd podczas połączenia z grą.	Bei der Verbindung zum Spiel ist ein Fehler aufgetreten.
+Consoles/ConnectionListenFailed	Text	 [new]	Failed to start listening for incoming connections. Please check your internet connection.	Nie udało się rozpocząć nasłuchiwania połączeń przychodzących. Sprawdź połączenie internetowe.	Das Überwachen eingehender Verbindungen konnte nicht gestartet werden. Bitte überprüfe deine Internetverbindung.
+Consoles/ConnectionTimeout	Text	 [new]	The network connection has timed out.	Upłynął limit czasu połączenia sieciowego.	Zeitüberschreitung der Netzwerkverbindung.
+Consoles/ConnectionToLost	Text	 [new]	The network connection to {0} has been lost.	Połączenie sieciowe z {0} zostało utracone.	Die Netzwerkverbindung zu {0} ist unterbrochen worden.
+Consoles/ContentFromBlockedUser	Text	 [new]	Prohibited content	Niedozwolona zawartość	Verbotener Inhalt
+Consoles/Crossplay	Text	 [new]	Crossplay	Crossplay	Crossplay
+Consoles/Eula61	Text	 [new]	ACCEPT	AKCEPTUJ	AKZEPTIEREN
+Consoles/Eula62	Text	 [new]	DECLINE	ODRZUĆ	ABLEHNEN
+Consoles/GameX_ps	Text	 [new]	Left stick X-axis	Lewy drążek Oś X	Linker Stick X-Achse
+Consoles/GameX_switch	Text	 [new]	Left stick X-axis	Lewy drążek Oś X	Linker Stick X-Achse
+Consoles/GameX_xbox	Text	 [new]	Left stick X-axis	Lewy drążek Oś X	Linker Stick X-Achse
+Consoles/GameY_ps	Text	 [new]	Left stick Y-axis	Lewy drążek Oś Y	Linker Stick Y-Achse
+Consoles/GameY_switch	Text	 [new]	Left stick Y-axis	Lewy drążek Oś Y	Linker Stick Y-Achse
+Consoles/GameY_xbox	Text	 [new]	Left stick Y-axis	Lewy drążek Oś Y	Linker Stick Y-Achse
 Consoles/GamepadSpeakerPS	Text	 [new]	Speaker	Głośnik	Lautsprecher
-Consoles/InviteAcceptFailed	Text	 [new]	An error occured while processing the invite.		Bei der Verarbeitung der Einladung ist ein Fehler aufgetreten.
-Consoles/InviteOnly	Text	 [new]	Invite only session		Sitzung nur mit Einladung
-Consoles/InvitePlayers	Text	 [new]	Invite Players		Spieler einladen
-Consoles/InvitesFailed	Text	 [new]	Sending invite to {0} failed		Sendung der Einladung an {0} fehlgeschlagen
-Consoles/InvitesSent	Text	 [new]	Invite to {0} sent successfully		Einladung an {0} gesendet
+Consoles/InviteAcceptFailed	Text	 [new]	An error occured while processing the invite.	Wystąpił błąd podczas przetwarzania zaproszenia.	Bei der Verarbeitung der Einladung ist ein Fehler aufgetreten.
+Consoles/InviteOnly	Text	 [new]	Invite only session	Sesja tylko na zaproszenie	Sitzung nur mit Einladung
+Consoles/InvitePlayers	Text	 [new]	Invite Players	Zaproś graczy	Spieler einladen
+Consoles/InvitesFailed	Text	 [new]	Sending invite to {0} failed	Wysłanie zaproszenia do {0} nie powiodło się	Sendung der Einladung an {0} fehlgeschlagen
+Consoles/InvitesSent	Text	 [new]	Invite to {0} sent successfully	Zaproszenie do {0} wysłane pomyślnie	Einladung an {0} gesendet
 Consoles/LightBarPS	Text	 [new]	Light bar	Pasek świetlny	Leuchtleiste
-Consoles/MissingPrivilege	Text	 [new]	You are missing a required privilege. Cannot proceed.		Dir fehlt ein erforderliches Privileg. Fortfahren nicht möglich.
-Consoles/MissingPrivilegeReason	Text	 [new]	You are missing the {0} privilege. Cannot proceed.		Dir fehlt das Privileg {0}. Fortfahren nicht möglich.
-Consoles/NewPatchAvailable	Text	 [new]	A new patch is available. Please download it in order to access online features.		Ein neuer Patch ist verfügbar. Bitte lade ihn herunter, um auf die Online-Funktionen zugreifen zu können.
+Consoles/MissingPrivilege	Text	 [new]	You are missing a required privilege. Cannot proceed.	Brakuje wymaganego uprawnienia. Nie można kontynuować.	Dir fehlt ein erforderliches Privileg. Fortfahren nicht möglich.
+Consoles/MissingPrivilegeReason	Text	 [new]	You are missing the {0} privilege. Cannot proceed.	Brakuje uprawnienia {0}. Nie można kontynuować.	Dir fehlt das Privileg {0}. Fortfahren nicht möglich.
+Consoles/NewPatchAvailable	Text	 [new]	A new patch is available. Please download it in order to access online features.	Dostępna jest nowa łatka. Pobierz ją, aby uzyskać dostęp do funkcji online.	Ein neuer Patch ist verfügbar. Bitte lade ihn herunter, um auf die Online-Funktionen zugreifen zu können.
 Consoles/NintendoSwitchOnline	Text	 [new]	Nintendo Switch Online	Nintendo Switch Online	Nintendo Switch Online
-Consoles/NoInvitableUsers	Text	 [new]	No invitable players		Keine Spieler, die eingeladen werden könnten
+Consoles/NoInvitableUsers	Text	 [new]	No invitable players	Brak graczy, których można zaprosić	Keine Spieler, die eingeladen werden könnten
 Consoles/PlayStationNetwork	Text	 [new]	PlayStation™Network	PlayStation™Network	PlayStation™Network
-Consoles/RightJoyStickX_ps	Text	 [new]	Right stick X-axis		Rechter Stick X-Achse
-Consoles/RightJoyStickX_switch	Text	 [new]	Right stick X-axis		Rechter Stick X-Achse
-Consoles/RightJoyStickX_xbox	Text	 [new]	Right stick X-axis		Rechter Stick X-Achse
-Consoles/RightJoyStickY_ps	Text	 [new]	Right stick Y-axis		Rechter Stick Y-Achse
-Consoles/RightJoyStickY_switch	Text	 [new]	Right stick Y-axis		Rechter Stick Y-Achse
-Consoles/RightJoyStickY_xbox	Text	 [new]	Right stick Y-axis		Rechter Stick Y-Achse
-Consoles/RightJoystickBack_ps	Text	 [new]	Right stick backward		Rechter Stick rückwärts
-Consoles/RightJoystickBack_switch	Text	 [new]	Right stick backward		Rechter Stick rückwärts
-Consoles/RightJoystickBack_xbox	Text	 [new]	Right stick backward		Rechter Stick rückwärts
-Consoles/RightJoystickForward_ps	Text	 [new]	Right stick forward		Rechter Stick vorwärts
-Consoles/RightJoystickForward_switch	Text	 [new]	Right stick forward		Rechter Stick vorwärts
-Consoles/RightJoystickForward_xbox	Text	 [new]	Right stick forward		Rechter Stick vorwärts
-Consoles/RightJoystickLeft_ps	Text	 [new]	Right stick left		Rechter Stick links
-Consoles/RightJoystickLeft_switch	Text	 [new]	Right stick left		Rechter Stick links
-Consoles/RightJoystickLeft_xbox	Text	 [new]	Right stick left		Rechter Stick links
-Consoles/RightJoystickRight_ps	Text	 [new]	Right stick right		Rechter Stick rechts
-Consoles/RightJoystickRight_switch	Text	 [new]	Right stick right		Rechter Stick rechts
-Consoles/RightJoystickRight_xbox	Text	 [new]	Right stick right		Rechter Stick rechts
-Consoles/SelectSession	Text	 [new]	Select Session		Sitzung auswählen
-Consoles/SessionCreateFailed	Text	 [new]	Session creation failed.		Erstellung der Sitzung fehlgeschlagen
-Consoles/SessionFull	Text	 [new]	The session you are trying to join is already full.		Die Sitzung, der du beitreten möchtest, ist bereits voll.
-Consoles/SessionFullWithPlayerCount	Text	 [new]	The session you are trying to join only supports up to {0} players and is currently full.		
-Consoles/SessionJoinFailed	Text	 [new]	Joining the multiplayer session failed.		Der Beitritt zur Multiplayer-Sitzung ist fehlgeschlagen.
-Consoles/SessionStartFailed	Text	 [new]	The multiplayer session could not be started. Please check your internet connection.		Die Multiplayer-Sitzung konnte nicht gestartet werden. Bitte überprüfe deine Internetverbindung.
-Consoles/SettingControllerSpeaker	Text	 [new]	Controller Speaker		Lautsprecher-Controller
-Consoles/SettingVibrationNintendoSwitch	Text	 [new]	HD rumble	Wibracje	HD-Vibration
-Consoles/ShowButtonHintsNintendo	Text	 [new]	Show button hints		Knopfhinweise anzeigen
-Consoles/ShowButtonHintsPlayStation	Text	 [new]	Show button hints		Tastenhinweise anzeigen
-Consoles/ShowButtonHintsXbox	Text	 [new]	Show button hints		Tastenhinweise anzeigen
-Consoles/StartGameOffline	Text	 [new]	Start offline game		Offline-Spiel starten
-Consoles/UgcLastEditedBy	Text	 [new]	Author: {0}		Autor: {0}
+Consoles/RightJoyStickX_ps	Text	 [new]	Right stick X-axis	Prawy drążek Oś X	Rechter Stick X-Achse
+Consoles/RightJoyStickX_switch	Text	 [new]	Right stick X-axis	Prawy drążek Oś X	Rechter Stick X-Achse
+Consoles/RightJoyStickX_xbox	Text	 [new]	Right stick X-axis	Prawy drążek Oś X	Rechter Stick X-Achse
+Consoles/RightJoyStickY_ps	Text	 [new]	Right stick Y-axis	Prawy drążek Oś Y	Rechter Stick Y-Achse
+Consoles/RightJoyStickY_switch	Text	 [new]	Right stick Y-axis	Prawy drążek Oś Y	Rechter Stick Y-Achse
+Consoles/RightJoyStickY_xbox	Text	 [new]	Right stick Y-axis	Prawy drążek Oś Y	Rechter Stick Y-Achse
+Consoles/RightJoystickBack_ps	Text	 [new]	Right stick backward	Prawy drążek do tyłu	Rechter Stick rückwärts
+Consoles/RightJoystickBack_switch	Text	 [new]	Right stick backward	Prawy drążek do tyłu	Rechter Stick rückwärts
+Consoles/RightJoystickBack_xbox	Text	 [new]	Right stick backward	Prawy drążek do tyłu	Rechter Stick rückwärts
+Consoles/RightJoystickForward_ps	Text	 [new]	Right stick forward	Prawy drążek do przodu	Rechter Stick vorwärts
+Consoles/RightJoystickForward_switch	Text	 [new]	Right stick forward	Prawy drążek do przodu	Rechter Stick vorwärts
+Consoles/RightJoystickForward_xbox	Text	 [new]	Right stick forward	Prawy drążek do przodu	Rechter Stick vorwärts
+Consoles/RightJoystickLeft_ps	Text	 [new]	Right stick left	Prawy drążek w lewo	Rechter Stick links
+Consoles/RightJoystickLeft_switch	Text	 [new]	Right stick left	Prawy drążek w lewo	Rechter Stick links
+Consoles/RightJoystickLeft_xbox	Text	 [new]	Right stick left	Prawy drążek w lewo	Rechter Stick links
+Consoles/RightJoystickRight_ps	Text	 [new]	Right stick right	Prawy drążek w prawo	Rechter Stick rechts
+Consoles/RightJoystickRight_switch	Text	 [new]	Right stick right	Prawy drążek w prawo	Rechter Stick rechts
+Consoles/RightJoystickRight_xbox	Text	 [new]	Right stick right	Prawy drążek w prawo	Rechter Stick rechts
+Consoles/SelectSession	Text	 [new]	Select Session	Wybierz sesję	Sitzung auswählen
+Consoles/SessionCreateFailed	Text	 [new]	Session creation failed.	Tworzenie sesji nie powiodło się.	Erstellung der Sitzung fehlgeschlagen
+Consoles/SessionFull	Text	 [new]	The session you are trying to join is already full.	Sesja, do której próbujesz dołączyć, jest już pełna.	Die Sitzung, der du beitreten möchtest, ist bereits voll.
+Consoles/SessionFullWithPlayerCount	Text	 [new]	The session you are trying to join only supports up to {0} players and is currently full.	Sesja, do której próbujesz dołączyć, obsługuje tylko do {0} graczy i jest obecnie pełna.	
+Consoles/SessionJoinFailed	Text	 [new]	Joining the multiplayer session failed.	Dołączenie do sesji wieloosobowej nie powiodło się.	Der Beitritt zur Multiplayer-Sitzung ist fehlgeschlagen.
+Consoles/SessionStartFailed	Text	 [new]	The multiplayer session could not be started. Please check your internet connection.	Nie można uruchomić sesji dla wielu graczy. Sprawdź połączenie internetowe.	Die Multiplayer-Sitzung konnte nicht gestartet werden. Bitte überprüfe deine Internetverbindung.
+Consoles/SettingControllerSpeaker	Text	 [new]	Controller Speaker	Głośnik kontrolera	Lautsprecher-Controller
+Consoles/SettingVibrationNintendoSwitch	Text	 [new]	HD rumble	Wibracje HD	HD-Vibration
+Consoles/ShowButtonHintsNintendo	Text	 [new]	Show button hints	Pokaż podpowiedzi do przycisków	Knopfhinweise anzeigen
+Consoles/ShowButtonHintsPlayStation	Text	 [new]	Show button hints	Pokaż podpowiedzi do przycisków	Tastenhinweise anzeigen
+Consoles/ShowButtonHintsXbox	Text	 [new]	Show button hints	Pokaż podpowiedzi do przycisków	Tastenhinweise anzeigen
+Consoles/StartGameOffline	Text	 [new]	Start offline game	Rozpocznij grę offline	Offline-Spiel starten
+Consoles/UgcLastEditedBy	Text	 [new]	Author: {0}	Autor: {0}	Autor: {0}
 Consoles/XboxNetwork	Text	 [new]	Xbox network	sieć Xbox	Xbox-Netzwerk
-Consoles/clickToActivateConsoles	Text	 [new]	Press {0} to activate.		Zum Aktivieren {0} drücken.
-Consoles/clickToDeactivateConsoles	Text	 [new]	Press {0} to deactivate.		Zum Deaktivieren {0} drücken.
-Consoles/elementAssignmentPrePollingWindowMessage_ps	Text	 [new]	First center or zero all sticks and axes and press any button or wait for the timer to finish.		Zentriere zuerst alle Sticks oder stelle sie auf null und drücke eine beliebige Taste – du kannst auch warten, bis der Timer abgelaufen ist.
-Consoles/elementAssignmentPrePollingWindowMessage_switch	Text	 [new]	First center or zero all sticks and axes and press any button or wait for the timer to finish.		Zentriere zuerst alle Sticks oder stelle sie auf null und drücke einen beliebigen Knopf – du kannst auch warten, bis der Timer abgelaufen ist.
-Consoles/elementAssignmentPrePollingWindowMessage_xbox	Text	 [new]	First center or zero all sticks and axes and press any button or wait for the timer to finish.		Zentriere zuerst alle Sticks oder stelle sie auf null und drücke eine beliebige Taste – du kannst auch warten, bis der Timer abgelaufen ist.
-Consoles/joystickElementAssignmentPollingWindowMessage_ps	Text	 [new]	Now press a button or move an axis to assign it to {0}.		Drücke jetzt eine Taste oder bewege eine Achse, um sie {0} zuzuweisen.
-Consoles/joystickElementAssignmentPollingWindowMessage_switch	Text	 [new]	Now press a button or move an axis to assign it to {0}.		Drücke jetzt einen Knopf oder bewege eine Achse, um sie {0} zuzuweisen.
-Consoles/joystickElementAssignmentPollingWindowMessage_xbox	Text	 [new]	Now press a button or move an axis to assign it to {0}.		Drücke jetzt eine Taste oder bewege eine Achse, um sie {0} zuzuweisen.
-Consoles/portalGoToDescConsoles	Text	 [new]	Press {0} teleport to this portal.		{0} drücken, um zu diesem Portal zu teleportieren.
-Consoles/pressAnyButtonNintendoSwitch	Text	 [new]	Press any button		Drücke einen Knopf
-Consoles/pressAnyButtonPS4	Text	 [new]	Press any button		Drücke eine Taste
-Consoles/pressAnyButtonXbox	Text	 [new]	Press any button		Drücke eine Taste
-Consoles/skillInfoConsoles	Text	 [new]	Press {0} expand talent tree.		{0} drücken, um den Talentbaum zu erweitern.
-Consoles/vanityToggleVisibilityConsoles	Text	 [new]	Press {0} to toggle the visiblity of equipment		{0} drücken, um die Sichtbarkeit der Ausrüstung umzuschalten.
+Consoles/clickToActivateConsoles	Text	 [new]	Press {0} to activate.	Naciśnij {0}, aby włączyć.	Zum Aktivieren {0} drücken.
+Consoles/clickToDeactivateConsoles	Text	 [new]	Press {0} to deactivate.	Naciśnij {0}, aby wyłączyć.	Zum Deaktivieren {0} drücken.
+Consoles/elementAssignmentPrePollingWindowMessage_ps	Text	 [new]	First center or zero all sticks and axes and press any button or wait for the timer to finish.	Najpierw wyśrodkuj lub wyzeruj wszystkie drążki i osie, a następnie naciśnij dowolny przycisk lub poczekaj na zakończenie odliczania.	Zentriere zuerst alle Sticks oder stelle sie auf null und drücke eine beliebige Taste – du kannst auch warten, bis der Timer abgelaufen ist.
+Consoles/elementAssignmentPrePollingWindowMessage_switch	Text	 [new]	First center or zero all sticks and axes and press any button or wait for the timer to finish.	Najpierw wyśrodkuj lub wyzeruj wszystkie drążki i osie, a następnie naciśnij dowolny przycisk lub poczekaj na zakończenie odliczania.	Zentriere zuerst alle Sticks oder stelle sie auf null und drücke einen beliebigen Knopf – du kannst auch warten, bis der Timer abgelaufen ist.
+Consoles/elementAssignmentPrePollingWindowMessage_xbox	Text	 [new]	First center or zero all sticks and axes and press any button or wait for the timer to finish.	Najpierw wyśrodkuj lub wyzeruj wszystkie drążki i osie, a następnie naciśnij dowolny przycisk lub poczekaj na zakończenie odliczania.	Zentriere zuerst alle Sticks oder stelle sie auf null und drücke eine beliebige Taste – du kannst auch warten, bis der Timer abgelaufen ist.
+Consoles/joystickElementAssignmentPollingWindowMessage_ps	Text	 [new]	Now press a button or move an axis to assign it to {0}.	Teraz naciśnij przycisk lub przesuń oś, aby przypisać ją do {0}.	Drücke jetzt eine Taste oder bewege eine Achse, um sie {0} zuzuweisen.
+Consoles/joystickElementAssignmentPollingWindowMessage_switch	Text	 [new]	Now press a button or move an axis to assign it to {0}.	Teraz naciśnij przycisk lub przesuń oś, aby przypisać ją do {0}.	Drücke jetzt einen Knopf oder bewege eine Achse, um sie {0} zuzuweisen.
+Consoles/joystickElementAssignmentPollingWindowMessage_xbox	Text	 [new]	Now press a button or move an axis to assign it to {0}.	Teraz naciśnij przycisk lub przesuń oś, aby przypisać ją do {0}.	Drücke jetzt eine Taste oder bewege eine Achse, um sie {0} zuzuweisen.
+Consoles/portalGoToDescConsoles	Text	 [new]	Press {0} teleport to this portal.	Naciśnij {0}, aby teleportować się do tego portalu.	{0} drücken, um zu diesem Portal zu teleportieren.
+Consoles/pressAnyButtonNintendoSwitch	Text	 [new]	Press any button	Naciśnij dowolny przycisk	Drücke einen Knopf
+Consoles/pressAnyButtonPS4	Text	 [new]	Press any button	Naciśnij dowolny przycisk	Drücke eine Taste
+Consoles/pressAnyButtonXbox	Text	 [new]	Press any button	Naciśnij dowolny przycisk	Drücke eine Taste
+Consoles/skillInfoConsoles	Text	 [new]	Press {0} expand talent tree.	Naciśnij {0}, aby rozwinąć drzewo talentów.	{0} drücken, um den Talentbaum zu erweitern.
+Consoles/vanityToggleVisibilityConsoles	Text	 [new]	Press {0} to toggle the visiblity of equipment	Naciśnij {0}, aby przełączyć widoczność wyposażenia.	{0} drücken, um die Sichtbarkeit der Ausrüstung umzuschalten.
 ControlMapper/A4	Text		A4	A4	A4
 ControlMapper/A4S	Text		A#4	A#4	A#4
 ControlMapper/A5	Text		A5	A5	A5
@@ -728,175 +728,175 @@ CooldownMinSec	Text		{0} min {1} sec cooldown	{0} min {1} sek odnowienia	{0} Mi
 CooldownSec	Text		{0} sec cooldown	{0} sek czasu odnowienia	{0} Sek. Abklingzeit
 CreativeMode	Text		Creative	Kreatywny	Kreativ
 CreativeModeDesc	Text		Set your imagination free in an empty, limitless world.	Uwolnij swoją wyobraźnię w pustym, nieograniczonym świecie.	Lass deiner Fantasie freien Lauf in einer leeren, grenzenlosen Welt.
-Credits/AccountDirector	Text	 [new]	Account Director		Account Director
-Credits/AcquisitionManager	Text	 [new]	Acquisition Manager		Acquisition Manager
-Credits/AdditionalArt	Text	 [new]	Additional Art		Zusätzliche Kunstinhalte
-Credits/AdditionalAudio	Text	 [new]	Additional Audio		Zusätzliche Audioinhalte
-Credits/AdditionalGameDesign	Text	 [new]	Additional Game Design		Zusätzliches Spieldesign
-Credits/AdditionalProduction	Text	 [new]	Additional Production		Zusätzliche Produktion
-Credits/AdditionalProgramming	Text	 [new]	Additional Programming		Zusätzliche Programmierung
-Credits/AdditionalSFX	Text	 [new]	Additional SFX		Zusätzliche SFX
-Credits/AdditionalWriting	Text	 [new]	Additional Writing		Zusätzliche narrative Inhalte
+Credits/AccountDirector	Text	 [new]	Account Director	Dyrektor ds. klientów	Account Director
+Credits/AcquisitionManager	Text	 [new]	Acquisition Manager	Kierownik ds. akwizycji	Acquisition Manager
+Credits/AdditionalArt	Text	 [new]	Additional Art	Dodatkowa grafika	Zusätzliche Kunstinhalte
+Credits/AdditionalAudio	Text	 [new]	Additional Audio	Dodatkowy dźwięk	Zusätzliche Audioinhalte
+Credits/AdditionalGameDesign	Text	 [new]	Additional Game Design	Dodatkowy projekt gry	Zusätzliches Spieldesign
+Credits/AdditionalProduction	Text	 [new]	Additional Production	Dodatkowa produkcja	Zusätzliche Produktion
+Credits/AdditionalProgramming	Text	 [new]	Additional Programming	Dodatkowe programowanie	Zusätzliche Programmierung
+Credits/AdditionalSFX	Text	 [new]	Additional SFX	Dodatkowe SFX	Zusätzliche SFX
+Credits/AdditionalWriting	Text	 [new]	Additional Writing	Dodatkowe pisanie	Zusätzliche narrative Inhalte
 Credits/AmazingModeratorTeam	Text		Amazing Moderator Team	Wspaniały zespół moderatorów	Ein großartiges Moderatorenteam
 Credits/Animation	Text		Animation	Animacje	Animation
-Credits/Animators	Text	 [new]	Animators		Animationskünstler
+Credits/Animators	Text	 [new]	Animators	Animatorzy	Animationskünstler
 Credits/Art	Text		Art	Obraz	Grafik
-Credits/ArtAndEffects	Text	 [new]	Art and Effects		Kunst und Effekte
-Credits/ArtDirector	Text	 [new]	Art Director		Art Director
-Credits/Artists	Text	 [new]	Artists		Künstler
+Credits/ArtAndEffects	Text	 [new]	Art and Effects	Grafika i efekty	Kunst und Effekte
+Credits/ArtDirector	Text	 [new]	Art Director	Dyrektor artystyczny	Art Director
+Credits/Artists	Text	 [new]	Artists	Artyści	Künstler
 Credits/AssociateProducer	Text		Associate Producer	Współpracownik ds. produkcji	Associate Producer
 Credits/AssociateProductManager	Text		Associate Product Manager	Zastępca kierownika produktu	Associate Product Manager
 Credits/Association71Consulting	Text	 [new]	"In Association with Marketing & PR Studio
-71 Consulting"		"In Zusammenarbeit mit Marketing- und PR-Studio
+71 Consulting"	We współpracy z Marketing & PR Studio 71 Consulting	"In Zusammenarbeit mit Marketing- und PR-Studio
 71 Consulting"
 Credits/AssociationAceAgency	Text	 [new]	"In Association with Localisation Studio
-ACE Agency"		"In Zusammenarbeit mit der Lokalisierungsagentur
+ACE Agency"	We współpracy z agencją lokalizacyjną Studio ACE	"In Zusammenarbeit mit der Lokalisierungsagentur
 ACE Agency"
 Credits/AssociationDreamLoop	Text	 [new]	"In Association with Console Porting Studio
-Dreamloop Games"		"In Zusammenarbeit mit dem Konsolen-Portierungsstudio
+Dreamloop Games"	We współpracy z konsolowym studiem portującym Dreamloop Games	"In Zusammenarbeit mit dem Konsolen-Portierungsstudio
 Dreamloop Games"
 Credits/AssociationEnzyme	Text	 [new]	"In Association with Compatibility Testing Studio
-Enzyme"		"In Zusammenarbeit mit dem Studio für Kompatibilitätstests
+Enzyme"	We współpracy z Studio Enzyme zajmującym się testowaniem kompatybilności	"In Zusammenarbeit mit dem Studio für Kompatibilitätstests
 Enzyme"
 Credits/AssociationKeywordsIndia	Text	 [new]	"In Association with PC FQA Studio
-Keywords India"		"In Zusammenarbeit mit dem Studio für PC-FQA
+Keywords India"	We współpracy z PC FQA Studio Keywords India	"In Zusammenarbeit mit dem Studio für PC-FQA
 Keywords India"
 Credits/AssociationLionbridge	Text	 [new]	"In Association with PC and Console QA Studio
-Lionbridge Games"		"In Zusammenarbeit mit dem Studio für PC- und Konsolen-QA
+Lionbridge Games"	We współpracy z PC and Console QA Studio Lionbridge Games	"In Zusammenarbeit mit dem Studio für PC- und Konsolen-QA
 Lionbridge Games"
 Credits/AssociationLionbridgeLQA	Text	 [new]	"In Association with PC and Console LQA Studio
-Lionbridge Games"		"In Zusammenarbeit mit dem Studio für PC- und Konsolen-LQA
+Lionbridge Games"	We współpracy z PC and Console LQA Studio Lionbridge Games	"In Zusammenarbeit mit dem Studio für PC- und Konsolen-LQA
 Lionbridge Games"
 Credits/AssociationLocalizeDirect	Text	 [new]	"In Association with PC LQA Studio
-LocalizeDirect"		"In Zusammenarbeit mit dem Studio für PC-LQA
+LocalizeDirect"	We współpracy z PC LQA Studio LocalizeDirect	"In Zusammenarbeit mit dem Studio für PC-LQA
 LocalizeDirect"
 Credits/AssociationOhCreative	Text	 [new]	"In Association with Marketing Studio
-OH Creative"		"In Zusammenarbeit mit Marketingstudio
+OH Creative"	We współpracy z Marketing Studio OH Creative	"In Zusammenarbeit mit Marketingstudio
 OH Creative"
 Credits/AssociationPlaytropic	Text	 [new]	"In Association with PC and Console FQA Studio
-Playtropic Video Game Services"		"In Zusammenarbeit mit dem Studio für PC- und Konsolen-FQA
+Playtropic Video Game Services"	We współpracy z PC and Console FQA Studio Playtropic Video Game Services	"In Zusammenarbeit mit dem Studio für PC- und Konsolen-FQA
 Playtropic Videogame Services"
 Credits/AssociationTestify	Text	 [new]	"In Association with Testing Studio
-Testify"		"In Zusammenarbeit mit dem Teststudio
+Testify"	We współpracy z testerskim Testify Studio 	"In Zusammenarbeit mit dem Teststudio
 Testify"
-Credits/AudioAndMusic	Text	 [new]	Audio and Music		Audio und Musik
-Credits/AudioDesigners	Text	 [new]	Audio/Sound Designers		Audio-/Sound-Designer
+Credits/AudioAndMusic	Text	 [new]	Audio and Music	Audio i muzyka	Audio und Musik
+Credits/AudioDesigners	Text	 [new]	Audio/Sound Designers	Projektanci dźwięku	Audio-/Sound-Designer
 Credits/CEO	Text		CEO	DYREKTOR GENERALNY	CEO
 Credits/COO	Text		COO	DYREKTOR OPERACYJNY	COO
 Credits/ChiefAcquisitionsProductionOfficer	Text		Chief Acquisitions & Production Officer	Dyrektor ds. przejęć i produkcji	Chief Acquisitions & Production Officer
-Credits/ChineseSimplifiedLQATester	Text	 [new]	Chinese (Simplified) LQA Tester		LQA-Tester Chinesisch (vereinfacht)
-Credits/ChineseTraditionalLQATester	Text	 [new]	Chinese (Traditional) LQA Tester		LQA-Tester Chinesisch (traditionell)
+Credits/ChineseSimplifiedLQATester	Text	 [new]	Chinese (Simplified) LQA Tester	Chiński (uproszczony) LQA tester	LQA-Tester Chinesisch (vereinfacht)
+Credits/ChineseTraditionalLQATester	Text	 [new]	Chinese (Traditional) LQA Tester	Chiński (tradycyjny) LQA tester	LQA-Tester Chinesisch (traditionell)
 Credits/CommunityManager	Text		Community Manager	Menedżer społeczności	Community Manager
 Credits/CompatibilityTesting	Text		Compatibility Testing	Testowanie Kompatybilności	Kompatibilitätstests
-Credits/ComplianceEngineer	Text	 [new]	Compliance Engineer		Compliance Engineer
-Credits/ComplianceTestLead	Text	 [new]	Compliance Test Lead		Leitung Konformitätsprüfung
-Credits/ConsolePorting	Text	 [new]	Console Porting		Konsolenportierung
+Credits/ComplianceEngineer	Text	 [new]	Compliance Engineer	Inżynier ds. zgodności	Compliance Engineer
+Credits/ComplianceTestLead	Text	 [new]	Compliance Test Lead	Kierownik testów zgodności	Leitung Konformitätsprüfung
+Credits/ConsolePorting	Text	 [new]	Console Porting	Portowanie konsoli	Konsolenportierung
 Credits/CoreKeeper	Text		Core Keeper	Core Keeper	Core Keeper
 Credits/CoreSupporters	Text		Core Supporters	Core Wspierający	Core-Unterstützer
 Credits/CreativeDirector	Text		Creative Director	Dyrektor kreatywny	Creative Director
 Credits/DevOps	Text		DevOps	DevOps	DevOps
 Credits/DevelopedBy	Text		Developed by	Opracowano przez	Entwickelt von
 Credits/DevelopmentDirector	Text		Development Director	Dyrektor ds. rozwoju	Development Director
-Credits/EngineeringManager	Text	 [new]	Engineering Manager		Engineering Manager
-Credits/EuropeanSpanishLQATester	Text	 [new]	European Spanish LQA Tester		LQA-Tester europäisches Spanisch
+Credits/EngineeringManager	Text	 [new]	Engineering Manager	Menedżer ds. inżynierii	Engineering Manager
+Credits/EuropeanSpanishLQATester	Text	 [new]	European Spanish LQA Tester	Tester LQA z europejskim językiem hiszpańskim	LQA-Tester europäisches Spanisch
 Credits/FinanceDirector	Text		Finance Director	Dyrektor ds. finansów	Finance Director
-Credits/FinanceHRDirector	Text	 [new]	Finance & HR Director		Direktor/in Finanzen & Personalwesen
+Credits/FinanceHRDirector	Text	 [new]	Finance & HR Director	Dyrektor ds. finansów i zasobów ludzkich	Direktor/in Finanzen & Personalwesen
 Credits/FinanceTeam	Text		Finance Team	Zespół finansowy	Finance-Team
-Credits/FrenchLQATester	Text	 [new]	French LQA Tester		LQA-Tester Französisch
+Credits/FrenchLQATester	Text	 [new]	French LQA Tester	Francuski LQA Tester	LQA-Tester Französisch
 Credits/GameDesign	Text		Game design	Projekt rozgrywki	Gamedesign
 Credits/GameDirector	Text		Game Director	Dyrektor gry	Game Director
-Credits/GameplayAndDesign	Text	 [new]	Gameplay and Design		Gameplay und Design
-Credits/GameplayDesigners	Text	 [new]	Gameplay Designers		Gameplay-Designer
+Credits/GameplayAndDesign	Text	 [new]	Gameplay and Design	Rozgrywka i projektowanie	Gameplay und Design
+Credits/GameplayDesigners	Text	 [new]	Gameplay Designers	Projektanci rozgrywki	Gameplay-Designer
 Credits/GameplayDirector	Text		Gameplay Director	Dyrektor rozgrywki	Gameplay Director
-Credits/GameplayProgrammers	Text	 [new]	Gameplay Programmers		Gameplay-Programmierer
-Credits/GermanLQATester	Text	 [new]	German LQA Tester		LQA-Tester Deutsch
+Credits/GameplayProgrammers	Text	 [new]	Gameplay Programmers	Programiści rozgrywki	Gameplay-Programmierer
+Credits/GermanLQATester	Text	 [new]	German LQA Tester	Niemiecki LQA tester	LQA-Tester Deutsch
 Credits/HeadofProductMarketing	Text		Head of Product Marketing	Kierownik działu marketingu produktów	Head of Product Marketing
-Credits/ItalianLQATester	Text	 [new]	Italian LQA Tester		LQA-Tester Italienisch
-Credits/JapaneseLQATester	Text	 [new]	Japanese LQA Tester		LQA-Tester Japanisch
-Credits/KoreanLQATester	Text	 [new]	Korean LQA Tester		LQA-Tester Koreanisch
-Credits/LQARussianTester	Text	 [new]	Russian LQA Tester		LQA-Tester Russisch
-Credits/LQATestDirector	Text	 [new]	LQA Test Director		Leitung LQA
-Credits/LQATestManager	Text	 [new]	LQA Test Manager		Testmanager LQA
-Credits/LQATesters	Text	 [new]	LQA Testers		LQA-Tester
-Credits/LQAUkrainianTester	Text	 [new]	Ukrainian LQA Tester		LQA-Tester Ukrainisch
+Credits/ItalianLQATester	Text	 [new]	Italian LQA Tester	Włoski LQA tester	LQA-Tester Italienisch
+Credits/JapaneseLQATester	Text	 [new]	Japanese LQA Tester	Japoński LQA tester	LQA-Tester Japanisch
+Credits/KoreanLQATester	Text	 [new]	Korean LQA Tester	Koreański LQA tester	LQA-Tester Koreanisch
+Credits/LQARussianTester	Text	 [new]	Russian LQA Tester	Rosyjski LQA tester	LQA-Tester Russisch
+Credits/LQATestDirector	Text	 [new]	LQA Test Director	Dyrektor ds. testów LQA	Leitung LQA
+Credits/LQATestManager	Text	 [new]	LQA Test Manager	Kierownik testów LQA	Testmanager LQA
+Credits/LQATesters	Text	 [new]	LQA Testers	Testerzy LQA	LQA-Tester
+Credits/LQAUkrainianTester	Text	 [new]	Ukrainian LQA Tester	Ukraiński LQA tester	LQA-Tester Ukrainisch
 Credits/LeadAnimator	Text		Lead Animator	Główny animator	Lead Animator
 Credits/LeadAnimators	Text		Lead Animators	Główni animatorzy	Lead Animators
 Credits/LeadArtist	Text		Lead Artist	Główny artysta	Lead Artist
 Credits/LeadAssociateProducer	Text		Lead Associate Producer	Główny współpracownik ds. produkcji	Lead Associate Producer
-Credits/LeadComposer	Text	 [new]	Lead Composer		Verantwortliche/r Komponist/in
-Credits/LeadGameplay	Text	 [new]	Lead Gameplay		Lead Gameplay
-Credits/LeadProducer	Text	 [new]	Lead Producer		Verantwortliche/r Produzent/in
-Credits/LeadProgrammer	Text	 [new]	Lead Programmer		Verantwortliche/r Programmierer/in
+Credits/LeadComposer	Text	 [new]	Lead Composer	Główny kompozytor	Verantwortliche/r Komponist/in
+Credits/LeadGameplay	Text	 [new]	Lead Gameplay	Główny gameplay	Lead Gameplay
+Credits/LeadProducer	Text	 [new]	Lead Producer	Główny producent	Verantwortliche/r Produzent/in
+Credits/LeadProgrammer	Text	 [new]	Lead Programmer	Główny programista	Verantwortliche/r Programmierer/in
 Credits/LeadRenderingProgrammer	Text		Lead Rendering Programmer	Główny programista renderingu	Lead Rendering Programmer
-Credits/LevelDesigners	Text	 [new]	Level/World Designers		Level-/Welt-Designer
+Credits/LevelDesigners	Text	 [new]	Level/World Designers	Projektanci poziomów/światów	Level-/Welt-Designer
 Credits/Localisation	Text		Localisation	Lokalizacja	Lokalisierung
 Credits/MarketingDirector	Text		Marketing Director	Dyrektor ds. marketingu	Marketing Director
 Credits/MarketingMaterial	Text		Marketing material	Materiały marketingowe	Marketingmaterial
 Credits/Music	Text		Music	Muzyka	Musik
-Credits/NarrativeAndPlot	Text	 [new]	Narrative and Plot		Erzählung und Handlung
+Credits/NarrativeAndPlot	Text	 [new]	Narrative and Plot	Narracja i fabuła	Erzählung und Handlung
 Credits/OperationsAssistantManager	Text		Operations Assistant Manager	Asystent kierownika ds. operacyjnych	Operations Assistant Manager
 Credits/OperationsManager	Text		Operations Manager	Kierownik operacyjny	Operations Manager
 Credits/PCFQA	Text		PC FQA	PC FQA	PC FQA
-Credits/PCLQA	Text	 [new]	PC LQA		PC-FQA
-Credits/PCandConsoleFQA	Text	 [new]	PC and Console FQA		PC- und Konsolen-FQA
-Credits/PCandConsoleQA	Text	 [new]	PC and Console QA		PC- und Konsolen-QA
+Credits/PCLQA	Text	 [new]	PC LQA	PC LQA	PC-FQA
+Credits/PCandConsoleFQA	Text	 [new]	PC and Console FQA	PC i Console FQA	PC- und Konsolen-FQA
+Credits/PCandConsoleQA	Text	 [new]	PC and Console QA	Kontrola jakości na komputerze i konsoli	PC- und Konsolen-QA
 Credits/PRAndCommunications	Text		PR and Communications	PR i komunikacja	PR und Kommunikation
 Credits/PartneredFireshine	Text	 [new]	"Partnered with Publisher
-Fireshine Games"		"In Partnerschaft mit dem Publisher
+Fireshine Games"	Współpraca z wydawcą Fireshine Games	"In Partnerschaft mit dem Publisher
 Fireshine"
-Credits/PartneredUnity	Text	 [new]	Partnered with Unity Technologies		In Partnerschaft mit Unity Technologies
-Credits/PortingProgrammers	Text	 [new]	Porting Programmers		Porting-Programmierer/innen
-Credits/PortugueseBrazilianLQATester	Text	 [new]	Portuguese Brazilian LQA Tester		LQA-Tester brasilianisches Portugiesisch
-Credits/Producer	Text	 [new]	Producer		Produzenten/in
-Credits/Producers	Text	 [new]	Producers		Produzenten/innen
+Credits/PartneredUnity	Text	 [new]	Partnered with Unity Technologies	Partnerstwo z Unity Technologies	In Partnerschaft mit Unity Technologies
+Credits/PortingProgrammers	Text	 [new]	Porting Programmers	Programiści portujący	Porting-Programmierer/innen
+Credits/PortugueseBrazilianLQATester	Text	 [new]	Portuguese Brazilian LQA Tester	Portugalski brazylijski LQA tester	LQA-Tester brasilianisches Portugiesisch
+Credits/Producer	Text	 [new]	Producer	Producent	Produzenten/in
+Credits/Producers	Text	 [new]	Producers	Producenci	Produzenten/innen
 Credits/ProductManager	Text		Product Manager	Menedżer produktu	Product Manager
-Credits/Production	Text	 [new]	Production		Produktion
+Credits/Production	Text	 [new]	Production	Produkcja	Produktion
 Credits/ProductionAssistant	Text		Production Assistant	Asystent produkcji	Production Assistant
 Credits/ProductionDirector	Text		Production Director	Dyrektor produkcji	Production Director
 Credits/ProductionSupport	Text		Production Support	Wsparcie produkcji	Unterstützung bei der Produktion
-Credits/Programmer	Text	 [new]	Programmer		Programmierer
+Credits/Programmer	Text	 [new]	Programmer	Programista	Programmierer
 Credits/Programming	Text		Programming	Programowanie	Programmierung
-Credits/ProgrammingConsultant	Text	 [new]	Programming Consultant		Berater für Programmierung
-Credits/ProjectManager	Text	 [new]	Project Manager		Projektmanager
+Credits/ProgrammingConsultant	Text	 [new]	Programming Consultant	Konsultant ds. programowania	Berater für Programmierung
+Credits/ProjectManager	Text	 [new]	Project Manager	Kierownik projektu	Projektmanager
 Credits/PublishedBy	Text		Published by	Wydane przez	Veröffentlicht von
-Credits/QADirector	Text	 [new]	QA Director		Leitung QA
-Credits/QATester	Text	 [new]	QA Tester		QA-Tester
+Credits/QADirector	Text	 [new]	QA Director	Dyrektor kontroli jakości	Leitung QA
+Credits/QATester	Text	 [new]	QA Tester	Tester kontroli jakości	QA-Tester
 Credits/QualityAssuranceCoordinator	Text		Quality Assurance Coordinator	Koordynator ds. zapewnienia jakości	Quality Assurance Coordinator
 Credits/ReleaseManager	Text		Release Manager	Menedżer wydania	Release Manager
-Credits/RenderingProgrammers	Text	 [new]	Rendering Programmers		Rendering-Programmierer/innen
+Credits/RenderingProgrammers	Text	 [new]	Rendering Programmers	Programiści renderowania	Rendering-Programmierer/innen
 Credits/SFX	Text		SFX	SFX	Soundeffekte
 Credits/SalesDirector	Text		Sales Director	Dyrektor sprzedaży	Sales Director
 Credits/SalesManager	Text		Sales Manager	Kierownik sprzedaży	Sales Manager
-Credits/SceneMakers	Text	 [new]	Scene Makers		Szenenersteller
+Credits/SceneMakers	Text	 [new]	Scene Makers	Twórcy scenerii	Szenenersteller
 Credits/SeniorBrandManager	Text		Senior Brand Manager	Starszy menedżer marki	Senior Brand Manager
-Credits/SeniorClientPartner	Text	 [new]	Senior Client Partner		Leitung Kundenpartnerschaft
-Credits/SeniorLQATestLead	Text	 [new]	LQA Senior Test Lead		Leitung LQA-Prüfung
+Credits/SeniorClientPartner	Text	 [new]	Senior Client Partner	Senior Client Partner	Leitung Kundenpartnerschaft
+Credits/SeniorLQATestLead	Text	 [new]	LQA Senior Test Lead	LQA Senior Test Lead	Leitung LQA-Prüfung
 Credits/SeniorProducer	Text		Senior Producer	Starszy producent	Senior Producer
 Credits/SeniorProductManager	Text		Senior Product Manager	Starszy menedżer produktu	Senior Product Manager
-Credits/SeniorProgrammeManager	Text	 [new]	Senior Programme Manager		Leitender Programm-Manager
-Credits/SeniorProjectManager	Text	 [new]	Senior Project Manager		Leitender Projektmanager
-Credits/SeniorQATester	Text	 [new]	Senior QA Tester		Senior QA-Tester
+Credits/SeniorProgrammeManager	Text	 [new]	Senior Programme Manager	Starszy kierownik programu	Leitender Programm-Manager
+Credits/SeniorProjectManager	Text	 [new]	Senior Project Manager	Starszy kierownik projektu	Leitender Projektmanager
+Credits/SeniorQATester	Text	 [new]	Senior QA Tester	Starszy tester jakości	Senior QA-Tester
 Credits/SeniorSalesManager	Text		Senior Sales Manager	Starszy kierownik sprzedaży	Verantwortlicher Vertriebsmanager
-Credits/SeniorSoftwareEngineer	Text	 [new]	Senior Software Engineer		Leitender Software Engineer
-Credits/SeniorTestDirector	Text	 [new]	Senior Test Director		Leitende/r Testdirektor/in
-Credits/SeniorTestManager	Text	 [new]	Senior Test Manager		Leitung Testmanagement
-Credits/SeniorTesters	Text	 [new]	Senior Testers		Leitende Tester
+Credits/SeniorSoftwareEngineer	Text	 [new]	Senior Software Engineer	Starszy inżynier oprogramowania	Leitender Software Engineer
+Credits/SeniorTestDirector	Text	 [new]	Senior Test Director	Starszy dyrektor ds. testów	Leitende/r Testdirektor/in
+Credits/SeniorTestManager	Text	 [new]	Senior Test Manager	Starszy kierownik ds. testów	Leitung Testmanagement
+Credits/SeniorTesters	Text	 [new]	Senior Testers	Starsi testerzy	Leitende Tester
 Credits/SeventyOneConsulting	Text		71 Consulting	71 Consulting	71 Consulting
 Credits/SocialMediaAndCommunityManager	Text		Social Media and Community Manager	Menedżer ds. mediów społecznościowych i społeczności	Social Media und Community Manager
-Credits/SoftwareEngineer	Text	 [new]	Software Engineer		Software Engineer
+Credits/SoftwareEngineer	Text	 [new]	Software Engineer	Inżynier oprogramowania	Software Engineer
 Credits/SpecialThanks	Text		Special thanks	Specjalne podziękowania	Mit besonderem Dank an
-Credits/Tech	Text	 [new]	Tech		Tech
-Credits/TechnicalArtists	Text	 [new]	Technical Artists		Technische Künstler
+Credits/Tech	Text	 [new]	Tech	Technika	Tech
+Credits/TechnicalArtists	Text	 [new]	Technical Artists	Artyści techniczni	Technische Künstler
 Credits/TechnicalDirector	Text		Technical Director	Dyrektor techniczny	Technical Director
-Credits/TechnicalLead	Text	 [new]	Technical Lead		Technische Leitung
-Credits/TechnicalProgrammers	Text	 [new]	Technical Programmers		Technische Programmierer/innen
-Credits/TestLeads	Text	 [new]	Test Leads		Test Leads
-Credits/Testers	Text	 [new]	Testers		Tester
+Credits/TechnicalLead	Text	 [new]	Technical Lead	Główny specjalista ds. technicznych	Technische Leitung
+Credits/TechnicalProgrammers	Text	 [new]	Technical Programmers	Programiści techniczni	Technische Programmierer/innen
+Credits/TestLeads	Text	 [new]	Test Leads	Kierownicy testów	Test Leads
+Credits/Testers	Text	 [new]	Testers	Testerzy	Tester
 Credits/ThaiFont	Text		Thai font	Thai font	Thai-Schriftart
-Credits/ThaiLQATester	Text	 [new]	Thai LQA Tester		LQA-Tester Thai
+Credits/ThaiLQATester	Text	 [new]	Thai LQA Tester	Tajski LQA tester	LQA-Tester Thai
 Credits/ThanksForPlaying	Text		Thanks for playing!	Dzięki za grę!	Danke fürs Spielen!
 Credits/UserTesting	Text		User testing	Testowanie przez użytkowników	Benutzertest
-Credits/Writers	Text	 [new]	Writers		Autoren
+Credits/Writers	Text	 [new]	Writers	Pisarze	Autoren
 Credits/Writing	Text		Writing	Pisanie	Texte
 CreditsNames/ACE	Text		ACE Agency	ACE Agency	ACE Agency
 CreditsNames/AdamBogun	Text	 [new]	Adam Bogun	Adam Bogun	Adam Bogun
@@ -905,42 +905,42 @@ CreditsNames/AdrianPfaffenhausen	Text	 [new]	Adrian Pfaffenhausen	Adrian Pfaffen
 CreditsNames/AgataPisarczyk	Text	 [new]	Agata Pisarczyk	Agata Pisarczyk	Agata Pisarczyk
 CreditsNames/AlexanderMa	Text		Alexander Ma	Alexander Ma	Alexander Ma
 CreditsNames/AlikBeckles	Text	 [new]	Alik Beckles	Alik Beckles	Alik Beckles
-CreditsNames/An7hen	Text	 [new]	An7hen		An7hen
-CreditsNames/AndreasAckermann	Text	 [new]	Andreas Ackermann		Andreas Ackermann
+CreditsNames/An7hen	Text	 [new]	An7hen	An7hen	An7hen
+CreditsNames/AndreasAckermann	Text	 [new]	Andreas Ackermann	Andreas Ackermann	Andreas Ackermann
 CreditsNames/AndreeaSandu	Text		Andreea Sandu	Andreea Sandu	Andreea Sandu
 CreditsNames/AndrewGlass	Text	 [new]	Andrew Glass	Andrew Glass	Andrew Glass
-CreditsNames/AndrewSaraev	Text	 [new]	Andrew Saraev		Andrew Saraev
+CreditsNames/AndrewSaraev	Text	 [new]	Andrew Saraev	Andrew Saraev	Andrew Saraev
 CreditsNames/AndyBrammal	Text	 [new]	Andy Brammal	Andy Brammal	Andy Brammal
 CreditsNames/AnkeFormann	Text	 [new]	Anke Formann	Anke Formann	Anke Formann
-CreditsNames/AnnaWeber	Text	 [new]	Anna Weber		Anna Weber
+CreditsNames/AnnaWeber	Text	 [new]	Anna Weber	Anna Weber	Anna Weber
 CreditsNames/AudreyAnnDesrosiersDrainville	Text	 [new]	Audrey-Ann Desrosiers Drainville	Audrey-Ann Desrosiers Drainville	Audrey-Ann Desrosiers Drainville
 CreditsNames/AustinEdwards	Text	 [new]	Austin Edwards	Austin Edwards	Austin Edwards
-CreditsNames/AxM	Text	 [new]	Ax M.		Ax M.
-CreditsNames/Az011	Text	 [new]	Az011		Az011
+CreditsNames/AxM	Text	 [new]	Ax M.	Ax M.	Ax M.
+CreditsNames/Az011	Text	 [new]	Az011	Az011	Az011
 CreditsNames/AzurDawn	Text		AzurDawn	AzurDawn	AzurDawn
 CreditsNames/Beach	Text		Beach	Beach	Beach
-CreditsNames/BettinaR	Text	 [new]	Bettina R.		Bettina R.
+CreditsNames/BettinaR	Text	 [new]	Bettina R.	Bettina R.	Bettina R.
 CreditsNames/BrandonCraigTurner	Text	 [new]	Brandon Craig-Turner	Brandon Craig-Turner	Brandon Craig-Turner
 CreditsNames/BridieDaniels	Text		Bridie Daniels	Bridie Daniels	Bridie Daniels
-CreditsNames/BugsyRabbit2004	Text	 [new]	BugsyRabbit2004		BugsyRabbit2004
+CreditsNames/BugsyRabbit2004	Text	 [new]	BugsyRabbit2004	BugsyRabbit2004	BugsyRabbit2004
 CreditsNames/Cedric	Text		Cedric	Cedric	Cedric
-CreditsNames/CedricSchmitt	Text	 [new]	Cedric Schmitt		Cedric Schmitt
+CreditsNames/CedricSchmitt	Text	 [new]	Cedric Schmitt	Cedric Schmitt	Cedric Schmitt
 CreditsNames/ChantelleLarmond	Text		Chantelle Larmond	Chantelle Larmond	Chantelle Larmond
 CreditsNames/CharlesFontaine	Text	 [new]	Charles Fontaine	Charles Fontaine	Charles Fontaine
 CreditsNames/CharlotteKelly	Text		Charlotte Kelly	Charlotte Kelly	Charlotte Kelly
-CreditsNames/ChiaNingLu	Text	 [new]	Chia-ning Lu		Chia-ning Lu
-CreditsNames/ChipNoe	Text	 [new]	ChipNoe		ChipNoe
+CreditsNames/ChiaNingLu	Text	 [new]	Chia-ning Lu	Chia-ning Lu	Chia-ning Lu
+CreditsNames/ChipNoe	Text	 [new]	ChipNoe	ChipNoe	ChipNoe
 CreditsNames/ChrisGlover	Text		Chris Glover	Chris Glover	Chris Glover
 CreditsNames/ChristaStewart	Text	 [new]	Christa Stewart	Christa Stewart	Christa Stewart
 CreditsNames/ChristianMarkowicz	Text		Christian Markowicz	Christian Markowicz	Christian Markowicz
-CreditsNames/ClaireMalette	Text	 [new]	Claire Malette		Claire Malette
+CreditsNames/ClaireMalette	Text	 [new]	Claire Malette	Claire Malette	Claire Malette
 CreditsNames/CormacBrennan	Text		Cormac Brennan	Cormac Brennan	Cormac Brennan
-CreditsNames/CrystalLiuReeder	Text	 [new]	Crystal Liu Reeder		Crystal Liu Reeder
-CreditsNames/DakonTheMad	Text	 [new]	Dakon The Mad		Dakon The Mad
-CreditsNames/DamianDomach	Text	 [new]	Damian Domach		Damian Domach
+CreditsNames/CrystalLiuReeder	Text	 [new]	Crystal Liu Reeder	Crystal Liu Reeder	Crystal Liu Reeder
+CreditsNames/DakonTheMad	Text	 [new]	Dakon The Mad	Dakon The Mad	Dakon The Mad
+CreditsNames/DamianDomach	Text	 [new]	Damian Domach	Damian Domach	Damian Domach
 CreditsNames/DamianHinds	Text	 [new]	Damian Hinds	Damian Hinds	Damian Hinds
 CreditsNames/DanJenkins	Text		Dan Jenkins	Dan Jenkins	Dan Jenkins
-CreditsNames/DanielCuevasSheu	Text	 [new]	Daniel Cuevas Sheu		Daniel Cuevas Sheu
+CreditsNames/DanielCuevasSheu	Text	 [new]	Daniel Cuevas Sheu	Daniel Cuevas Sheu	Daniel Cuevas Sheu
 CreditsNames/DanielDudek	Text	 [new]	Daniel Dudek	Daniel Dudek	Daniel Dudek
 CreditsNames/DanielPereira	Text		Daniel Pereira	Daniel Pereira	Daniel Pereira
 CreditsNames/DanielSmagowski	Text	 [new]	Daniel Smagowski	Daniel Smagowski	Daniel Smagowski
@@ -953,11 +953,11 @@ CreditsNames/DeanJones	Text	 [new]	Dean Jones	Dean Jones	Dean Jones
 CreditsNames/DominikaMazurek	Text	 [new]	Dominika Mazurek	Dominika Mazurek	Dominika Mazurek
 CreditsNames/DreamloopGames	Text	 [new]	Dreamloop Games	Dreamloop Games	Dreamloop Games
 CreditsNames/EetuHipponen	Text	 [new]	Eetu Hipponen	Eetu Hipponen	Eetu Hipponen
-CreditsNames/ElsaLi	Text	 [new]	Elsa Li		Elsa Li
+CreditsNames/ElsaLi	Text	 [new]	Elsa Li	Elsa Li	Elsa Li
 CreditsNames/Enchae	Text		Enchae	Enchae	Enchae
 CreditsNames/Enzyme	Text		Enzyme	Enzyme	Enzyme
-CreditsNames/EricRanki	Text	 [new]	Eric Ranki		Eric Ranki
-CreditsNames/EvgeniyaPrykaszczyk	Text	 [new]	Evgeniya Prykaszczyk		Evgeniya Prykaszczyk
+CreditsNames/EricRanki	Text	 [new]	Eric Ranki	Eric Ranki	Eric Ranki
+CreditsNames/EvgeniyaPrykaszczyk	Text	 [new]	Evgeniya Prykaszczyk	Evgeniya Prykaszczyk	Evgeniya Prykaszczyk
 CreditsNames/FelixWestin	Text		Felix Westin	Felix Westin	Felix Westin
 CreditsNames/Fireshine	Text		Fireshine Games	Fireshine Games	Fireshine Games
 CreditsNames/FrancoisFortier	Text	 [new]	Francois Fortier	Francois Fortier	Francois Fortier
@@ -966,15 +966,15 @@ CreditsNames/FriendsAndFamily	Text		Friends and Families	Friends and Families	Fr
 CreditsNames/FrédéricDussault	Text	 [new]	Frédéric Dussault	Frédéric Dussault	Frédéric Dussault
 CreditsNames/GarryWilliams	Text		Garry Williams	Garry Williams	Garry Williams
 CreditsNames/Genos	Text		Genos	Genos	Genos
-CreditsNames/GustavoBatista	Text	 [new]	Gustavo Batista		Gustavo Batista
-CreditsNames/HeewanShin	Text	 [new]	Heewan Shin		Heewan Shin
+CreditsNames/GustavoBatista	Text	 [new]	Gustavo Batista	Gustavo Batista	Gustavo Batista
+CreditsNames/HeewanShin	Text	 [new]	Heewan Shin	Heewan Shin	Heewan Shin
 CreditsNames/HermanAppelgren	Text		Herman Appelgren	Herman Appelgren	Herman Appelgren
-CreditsNames/HortenseGambino	Text	 [new]	Hortense Gambino		Hortense Gambino
-CreditsNames/Huabun	Text	 [new]	Huabun		Huabun
-CreditsNames/IbrarGhias	Text	 [new]	Ibrar Ghias		Ibrar Ghias
+CreditsNames/HortenseGambino	Text	 [new]	Hortense Gambino	Hortense Gambino	Hortense Gambino
+CreditsNames/Huabun	Text	 [new]	Huabun	Huabun	Huabun
+CreditsNames/IbrarGhias	Text	 [new]	Ibrar Ghias	Ibrar Ghias	Ibrar Ghias
 CreditsNames/IliyasJorio	Text	 [new]	Iliyas Jorio	Iliyas Jorio	Iliyas Jorio
 CreditsNames/ItipatTherdchitpaisarn	Text	 [new]	Itipat Therdchitpaisarn	Itipat Therdchitpaisarn	Itipat Therdchitpaisarn
-CreditsNames/Ivfivasu	Text	 [new]	Ivfivasu		Ivfivasu
+CreditsNames/Ivfivasu	Text	 [new]	Ivfivasu	Ivfivasu	Ivfivasu
 CreditsNames/JakubTucholski	Text	 [new]	Jakub Tucholski	Jakub Tucholski	Jakub Tucholski
 CreditsNames/JakubŁoboda	Text	 [new]	Jakub Łoboda	Jakub Łoboda	Jakub Łoboda
 CreditsNames/JamesCato	Text		James Cato	James Cato	James Cato
@@ -986,11 +986,11 @@ CreditsNames/JoeFazzino	Text	 [new]	Joe Fazzino	Joe Fazzino	Joe Fazzino
 CreditsNames/JohannesAhlström	Text		Johannes Ahlström	Johannes Ahlström	Johannes Ahlström
 CreditsNames/JonathanGeer	Text		Jonathan Geer	Jonathan Geer	Jonathan Geer
 CreditsNames/JoniLappalainen	Text	 [new]	Joni Lappalainen	Joni Lappalainen	Joni Lappalainen
-CreditsNames/Joor111	Text	 [new]	Joor111		Joor111
+CreditsNames/Joor111	Text	 [new]	Joor111	Joor111	Joor111
 CreditsNames/JoshuaForde	Text	 [new]	Joshua Forde	Joshua Forde	Joshua Forde
-CreditsNames/JoshuaGarrity	Text	 [new]	Joshua Garrity		Joshua Garrity
+CreditsNames/JoshuaGarrity	Text	 [new]	Joshua Garrity	Joshua Garrity	Joshua Garrity
 CreditsNames/JoshuaLowe	Text	 [new]	Joshua Lowe	Joshua Lowe	Joshua Lowe
-CreditsNames/Jp3r	Text	 [new]	Jp3r		Jp3r
+CreditsNames/Jp3r	Text	 [new]	Jp3r	Jp3r	Jp3r
 CreditsNames/JulianBird	Text		Julian Bird	Julian Bird	Julian Bird
 CreditsNames/JulianSeifertOlszewski	Text		Julian Seifert-Olszewski	Julian Seifert-Olszewski	Julian Seifert-Olszewski
 CreditsNames/JuneeYu	Text	 [new]	Junee Yu	Junee Yu	Junee Yu
@@ -998,8 +998,8 @@ CreditsNames/KacperOrzechowski	Text	 [new]	Kacper Orzechowski	Kacper Orzechowski
 CreditsNames/Karillya	Text		Karillya	Karillya	Karillya
 CreditsNames/KatarzynaCeglińska	Text	 [new]	Katarzyna Ceglińska	Katarzyna Ceglińska	Katarzyna Ceglińska
 CreditsNames/KeenanKnight	Text	 [new]	Keenan Knight	Keenan Knight	Keenan Knight
-CreditsNames/KevinBarile	Text	 [new]	Kevin Barile		Kevin Barile
-CreditsNames/KevinKjellén	Text	 [new]	Kevin Kjellén		Kevin Kjellén
+CreditsNames/KevinBarile	Text	 [new]	Kevin Barile	Kevin Barile	Kevin Barile
+CreditsNames/KevinKjellén	Text	 [new]	Kevin Kjellén	Kevin Kjellén	Kevin Kjellén
 CreditsNames/KeywordsIndia	Text		Keywords India	Keywords India	Keywords India
 CreditsNames/KimmoKaisla	Text	 [new]	Kimmo Kaisla	Kimmo Kaisla	Kimmo Kaisla
 CreditsNames/KishmarSmith	Text	 [new]	Kishmar Smith	Kishmar Smith	Kishmar Smith
@@ -1007,36 +1007,36 @@ CreditsNames/Kittco36	Text		Kittco36	Kittco36	Kittco36
 CreditsNames/KobeMarshall	Text	 [new]	Kobe Marshall	Kobe Marshall	Kobe Marshall
 CreditsNames/KristanWalcott	Text	 [new]	Kristan Walcott	Kristan Walcott	Kristan Walcott
 CreditsNames/KristianSivonen	Text	 [new]	Kristian Sivonen	Kristian Sivonen	Kristian Sivonen
-CreditsNames/KseniiaShurdumova	Text	 [new]	Kseniia Shurdumova		Kseniia Shurdumova
-CreditsNames/LauraPiest	Text	 [new]	Laura Piest		Laura Piest
+CreditsNames/KseniiaShurdumova	Text	 [new]	Kseniia Shurdumova	Kseniia Shurdumova	Kseniia Shurdumova
+CreditsNames/LauraPiest	Text	 [new]	Laura Piest	Laura Piest	Laura Piest
 CreditsNames/LaurentBenskin	Text	 [new]	Laurent Benskin	Laurent Benskin	Laurent Benskin
 CreditsNames/LauriKullas	Text	 [new]	Lauri Kullas	Lauri Kullas	Lauri Kullas
 CreditsNames/LeeOni	Text		Lee~ (Oni)	Lee~ (Oni)	Lee~ (Oni)
 CreditsNames/LetTheBodyFall	Text		LetTheBodyFall	LetTheBodyFall	LetTheBodyFall
 CreditsNames/Lionbridge	Text	 [new]	Lionbridge Games	Lionbridge Games	Lionbridge Games
-CreditsNames/LocalizeDirect	Text	 [new]	Localize Direct	LocalizeDirect	LocalizeDirect
-CreditsNames/LoïcDéan	Text	 [new]	Loïc Déan		Loïc Déan
+CreditsNames/LocalizeDirect	Text	 [new]	Localize Direct	Localize Direct	LocalizeDirect
+CreditsNames/LoïcDéan	Text	 [new]	Loïc Déan	Loïc Déan	Loïc Déan
 CreditsNames/MaciejKierszka	Text	 [new]	Maciej Kierszka	Maciej Kierszka	Maciej Kierszka
 CreditsNames/MaciejKołodziejczyk	Text	 [new]	Maciej Kołodziejczyk	Maciej Kołodziejczyk	Maciej Kołodziejczyk
 CreditsNames/MalikSpringer	Text	 [new]	Malik Springer	Malik Springer	Malik Springer
-CreditsNames/Marcel	Text	 [new]	Marcel		Marcel
+CreditsNames/Marcel	Text	 [new]	Marcel	Marcel	Marcel
 CreditsNames/MarianaChagas	Text		Mariana Chagas	Mariana Chagas	Mariana Chagas
-CreditsNames/Marine	Text	 [new]	Marine		Marine
+CreditsNames/Marine	Text	 [new]	Marine	Marine	Marine
 CreditsNames/MariuszGelnicki	Text	 [new]	Mariusz Gelnicki	Mariusz Gelnicki	Mariusz Gelnicki
 CreditsNames/MarkInman	Text		Mark Inman	Mark Inman	Mark Inman
 CreditsNames/MattieSu	Text	 [new]	Mattie Su	Mattie Su	Mattie Su
 CreditsNames/MaxHallden	Text		Max Halldén	Max Halldén	Max Halldén
 CreditsNames/MegSpencer	Text		Meg Spencer	Meg Spencer	Meg Spencer
-CreditsNames/MeowX	Text	 [new]	Meow_X		Meow_X
+CreditsNames/MeowX	Text	 [new]	Meow_X	Meow_X	Meow_X
 CreditsNames/MichałBłoński	Text	 [new]	Michał Błoński	Michał Błoński	Michał Błoński
-CreditsNames/MichelleLewis	Text	 [new]	Michelle Lewis		Michelle Lewis
+CreditsNames/MichelleLewis	Text	 [new]	Michelle Lewis	Michelle Lewis	Michelle Lewis
 CreditsNames/Mistry	Text		Mistry	Mistry	Mistry
 CreditsNames/MrVilo	Text		Mr Vilo	Mr Vilo	Mr Vilo
-CreditsNames/MushBerry7	Text	 [new]	MushBerry7		MushBerry7
-CreditsNames/MustacheMan	Text	 [new]	Mustache_Man		Mustache_Man
-CreditsNames/NAS	Text	 [new]	N.A.S		N.A.S
+CreditsNames/MushBerry7	Text	 [new]	MushBerry7	MushBerry7	MushBerry7
+CreditsNames/MustacheMan	Text	 [new]	Mustache_Man	Mustache_Man	Mustache_Man
+CreditsNames/NAS	Text	 [new]	N.A.S	N.A.S	N.A.S
 CreditsNames/NadjaBatdorf	Text	 [new]	Nadja Batdorf	Nadja Batdorf	Nadja Batdorf
-CreditsNames/NagataMai	Text	 [new]	Nagata Mai		Nagata Mai
+CreditsNames/NagataMai	Text	 [new]	Nagata Mai	Nagata Mai	Nagata Mai
 CreditsNames/NathanTull	Text	 [new]	Nathan Tull	Nathan Tull	Nathan Tull
 CreditsNames/Nebur7420	Text		Nebur7420	Nebur7420	Nebur7420
 CreditsNames/NickPayne	Text		Nick Payne	Nick Payne	Nick Payne
@@ -1045,24 +1045,24 @@ CreditsNames/NicolaSpinoni	Text	 [new]	Nicola Spinoni	Nicola Spinoni	Nicola Spin
 CreditsNames/NiklasWigertz	Text		Niklas Wigertz	Niklas Wigertz	Niklas Wigertz
 CreditsNames/NyronBahadur	Text	 [new]	Nyron Bahadur	Nyron Bahadur	Nyron Bahadur
 CreditsNames/Omnimetatron	Text		Omnimetatron	Omnimetatron	Omnimetatron
-CreditsNames/OrianDesfontaine	Text	 [new]	Orian Desfontaine		Orian Desfontaine
+CreditsNames/OrianDesfontaine	Text	 [new]	Orian Desfontaine	Orian Desfontaine	Orian Desfontaine
 CreditsNames/OskarBorecki	Text	 [new]	Oskar Borecki	Oskar Borecki	Oskar Borecki
 CreditsNames/OskarDobrowolski	Text	 [new]	Oskar Dobrowolski	Oskar Dobrowolski	Oskar Dobrowolski
 CreditsNames/OskarTengvall	Text		Oskar Tengvall	Oskar Tengvall	Oskar Tengvall
-CreditsNames/Owlunae	Text	 [new]	Owlunae		Owlunae
+CreditsNames/Owlunae	Text	 [new]	Owlunae	Owlunae	Owlunae
 CreditsNames/PatriciaCuetoGarcía	Text	 [new]	Patricia Cueto García	Patricia Cueto García	Patricia Cueto García
 CreditsNames/PatriciaRamónArias	Text	 [new]	Patricia Ramón Arias	Patricia Ramón Arias	Patricia Ramón Arias
 CreditsNames/PatrykNeubauer	Text	 [new]	Patryk Neubauer	Patryk Neubauer	Patryk Neubauer
 CreditsNames/PatrykWino	Text	 [new]	Patryk Wino	Patryk Wino	Patryk Wino
 CreditsNames/PatrykWróblewski	Text	 [new]	Patryk Wróblewski	Patryk Wróblewski	Patryk Wróblewski
 CreditsNames/PaulAndréRenaud	Text	 [new]	Paul-André Renaud	Paul-André Renaud	Paul-André Renaud
-CreditsNames/PaulinePloch	Text	 [new]	Pauline Ploch		Pauline Ploch
-CreditsNames/PawelWill	Text	 [new]	Pawel Will		Pawel Will
+CreditsNames/PaulinePloch	Text	 [new]	Pauline Ploch	Pauline Ploch	Pauline Ploch
+CreditsNames/PawelWill	Text	 [new]	Pawel Will	Pawel Will	Pawel Will
 CreditsNames/PekkaKaski	Text	 [new]	Pekka Kaski	Pekka Kaski	Pekka Kaski
 CreditsNames/Playtropic	Text		Playtropic Videogame Services	Playtropic Videogame Services	Playtropic
-CreditsNames/PopKnock	Text	 [new]	PopKnock		PopKnock
+CreditsNames/PopKnock	Text	 [new]	PopKnock	PopKnock	PopKnock
 CreditsNames/Pugstorm	Text		Pugstorm AB	Pugstorm AB	Pugstorm AB
-CreditsNames/PugstormProduction	Text	 [new]	A Pugstorm Production		Eine Pugstorm-Produktion
+CreditsNames/PugstormProduction	Text	 [new]	A Pugstorm Production	A Pugstorm Production	Eine Pugstorm-Produktion
 CreditsNames/RafaelNorville	Text	 [new]	Rafael Norville	Rafael Norville	Rafael Norville
 CreditsNames/RamonMarshall	Text	 [new]	Ramon Marshall	Ramon Marshall	Ramon Marshall
 CreditsNames/RanaldoJohn	Text	 [new]	Ranaldo John	Ranaldo John	Ranaldo John
@@ -1075,35 +1075,35 @@ CreditsNames/RicardoKnight	Text	 [new]	Ricardo Knight	Ricardo Knight	Ricardo Kni
 CreditsNames/RicjuanAlleyne	Text	 [new]	Ricjuan Alleyne	Ricjuan Alleyne	Ricjuan Alleyne
 CreditsNames/RobinForsstrom	Text		Robin Forsström	Robin Forsström	Robin Forsström
 CreditsNames/RonanTumelty	Text	 [new]	Ronan Tumelty	Ronan Tumelty	Ronan Tumelty
-CreditsNames/RosalinevanSchaik	Text	 [new]	Rosaline van Schaik		Rosaline van Schaik
+CreditsNames/RosalinevanSchaik	Text	 [new]	Rosaline van Schaik	Rosaline van Schaik	Rosaline van Schaik
 CreditsNames/RyanBurke	Text	 [new]	Ryan Burke	Ryan Burke	Ryan Burke
 CreditsNames/RyanTiller	Text	 [new]	Ryan Tiller	Ryan Tiller	Ryan Tiller
 CreditsNames/SaaraKorhonen	Text	 [new]	Saara Korhonen	Saara Korhonen	Saara Korhonen
 CreditsNames/SamMckie	Text		Sam Mckie	Sam Mckie	Sam Mckie
-CreditsNames/SamuelArzt	Text	 [new]	Samuel Arzt		Samuel Arzt
+CreditsNames/SamuelArzt	Text	 [new]	Samuel Arzt	Samuel Arzt	Samuel Arzt
 CreditsNames/SamuelSekandagu	Text		Samuel Sekandagu	Samuel Sekandagu	Samuel Sekandagu
-CreditsNames/SantiagoMesel	Text	 [new]	Santiago Mesel		Santiago Mesel
+CreditsNames/SantiagoMesel	Text	 [new]	Santiago Mesel	Santiago Mesel	Santiago Mesel
 CreditsNames/SarahDembet	Text	 [new]	Sarah Dembet	Sarah Dembet	Sarah Dembet
 CreditsNames/SarahFayMoineau	Text	 [new]	Sarah Fay Moineau	Sarah Fay Moineau	Sarah Fay Moineau
 CreditsNames/SarahHoeksma	Text		Sarah Hoeksma	Sarah Hoeksma	Sarah Hoeksma
 CreditsNames/SeanCampbell	Text		Sean Campbell	Sean Campbell	Sean Campbell
 CreditsNames/SeveriJokiperä	Text	 [new]	Severi Jokiperä	Severi Jokiperä	Severi Jokiperä
 CreditsNames/ShadwayneWilkinson	Text	 [new]	Shadwayne Wilkinson	Shadwayne Wilkinson	Shadwayne Wilkinson
-CreditsNames/ShahJamal	Text	 [new]	Shah Jamal		Shah Jamal
-CreditsNames/ShahrozAziz	Text	 [new]	Shahroz Aziz		Shahroz Aziz
+CreditsNames/ShahJamal	Text	 [new]	Shah Jamal	Shah Jamal	Shah Jamal
+CreditsNames/ShahrozAziz	Text	 [new]	Shahroz Aziz	Shahroz Aziz	Shahroz Aziz
 CreditsNames/SimonRicard	Text	 [new]	Simon Ricard	Simon Ricard	Simon Ricard
 CreditsNames/SoulWade	Text		Soul Wade	Soul Wade	Soul Wade
 CreditsNames/StefanLampinen	Text	 [new]	Stefan Lampinen	Stefan Lampinen	Stefan Lampinen
 CreditsNames/SteveStewart	Text	 [new]	Steve Stewart	Steve Stewart	Steve Stewart
-CreditsNames/SunNyang	Text	 [new]	Sun_Nyang		Sun_Nyang
+CreditsNames/SunNyang	Text	 [new]	Sun_Nyang	Sun_Nyang	Sun_Nyang
 CreditsNames/SvenThole	Text		Sven Thole	Sven Thole	Sven Thole
 CreditsNames/Svings	Text		Svings	Svings	Svings
 CreditsNames/SzymonStajszczak	Text	 [new]	Szymon Stajszczak	Szymon Stajszczak	Szymon Stajszczak
 CreditsNames/Testify	Text		Testify	Testify	Testify
 CreditsNames/Testronic	Text		Testronic	Testronic	Testronic
-CreditsNames/TheDemonQueen	Text	 [new]	The Demon Queen		The Demon Queen
-CreditsNames/ThomasBuck	Text	 [new]	Thomas Buck		Thomas Buck
-CreditsNames/ThomasHofer	Text	 [new]	Thomas Hofer		Thomas Hofer
+CreditsNames/TheDemonQueen	Text	 [new]	The Demon Queen	The Demon Queen	The Demon Queen
+CreditsNames/ThomasBuck	Text	 [new]	Thomas Buck	Thomas Buck	Thomas Buck
+CreditsNames/ThomasHofer	Text	 [new]	Thomas Hofer	Thomas Hofer	Thomas Hofer
 CreditsNames/ThomasLumeau	Text		Thomas Lumeau	Thomas Lumeau	Thomas Lumeau
 CreditsNames/TimSchipper	Text		Tim Schipper	Tim Schipper	Tim Schipper
 CreditsNames/TimothyMcDougall	Text	 [new]	Timothy McDougall	Timothy McDougall	Timothy McDougall
@@ -1111,35 +1111,35 @@ CreditsNames/TinaMoore	Text		Tina Moore	Tina Moore	Tina Moore
 CreditsNames/TomasAhlström	Text	 [new]	Tomas Ahlström	Tomas Ahlström	Tomas Ahlström
 CreditsNames/TommiVikstedt	Text	 [new]	Tommi Vikstedt	Tommi Vikstedt	Tommi Vikstedt
 CreditsNames/TonyEvans	Text		Tony Evans	Tony Evans	Tony Evans
-CreditsNames/UkitParakitsri	Text	 [new]	Ukit Parakitsri		Ukit Parakitsri
-CreditsNames/UltraLX	Text	 [new]	UltraLX		UltraLX
+CreditsNames/UkitParakitsri	Text	 [new]	Ukit Parakitsri	Ukit Parakitsri	Ukit Parakitsri
+CreditsNames/UltraLX	Text	 [new]	UltraLX	UltraLX	UltraLX
 CreditsNames/VictoriaKrizmanich	Text		Victoria K.	Victoria K.	Victoria K.
-CreditsNames/VincentBahnsen	Text	 [new]	Vincent Bahnsen		Vincent Bahnsen
+CreditsNames/VincentBahnsen	Text	 [new]	Vincent Bahnsen	Vincent Bahnsen	Vincent Bahnsen
 CreditsNames/VincentCoates	Text		Vincent Coates	Vincent Coates	Vincent Coates
-CreditsNames/VolodymyrBotvin	Text	 [new]	Volodymyr Botvin		Volodymyr Botvin
+CreditsNames/VolodymyrBotvin	Text	 [new]	Volodymyr Botvin	Volodymyr Botvin	Volodymyr Botvin
 CreditsNames/WilliamDouglas	Text	 [new]	William Douglas	William Douglas	William Douglas
-CreditsNames/Wither503	Text	 [new]	Wither503		Wither503
-CreditsNames/Wodehouse	Text	 [new]	Wodehouse		Wodehouse
+CreditsNames/Wither503	Text	 [new]	Wither503	Wither503	Wither503
+CreditsNames/Wodehouse	Text	 [new]	Wodehouse	Wodehouse	Wodehouse
 CreditsNames/WojciechKania	Text	 [new]	Wojciech Kania	Wojciech Kania	Wojciech Kania
 CreditsNames/YannickNaudThifault	Text	 [new]	Yannick Naud-Thifault	Yannick Naud-Thifault	Yannick Naud-Thifault
 CreditsNames/YaxinLuo	Text	 [new]	Yaxin Luo	Yaxin Luo	Yaxin Luo
 CreditsNames/YjariBeckles	Text	 [new]	Yjari Beckles	Yjari Beckles	Yjari Beckles
-CreditsNames/YulianTkachenko	Text	 [new]	Yulian Tkachenko		Yulian Tkachenko
-CreditsNames/YuparetJongsuk	Text	 [new]	Yuparet Jongsuk		Yuparet Jongsuk
+CreditsNames/YulianTkachenko	Text	 [new]	Yulian Tkachenko	Yulian Tkachenko	Yulian Tkachenko
+CreditsNames/YuparetJongsuk	Text	 [new]	Yuparet Jongsuk	Yuparet Jongsuk	Yuparet Jongsuk
 CreditsNames/YuriTanaka	Text	 [new]	Yuri Tanaka	Yuri Tanaka	Yuri Tanaka
 CreditsNames/Zar	Text		Zar	Zar	Zar
-CreditsNames/Zulander	Text	 [new]	Zulander		Zulander
-CreditsNames/aritsuki	Text	 [new]	aritsuki		aritsuki
+CreditsNames/Zulander	Text	 [new]	Zulander	Zulander	Zulander
+CreditsNames/aritsuki	Text	 [new]	aritsuki	aritsuki	aritsuki
 CreditsNames/bklyn	Text		bklyn	bklyn	bklyn
-CreditsNames/eralois	Text	 [new]	eralois		eralois
-CreditsNames/ienonakaniiru	Text	 [new]	ienonakaniiru		ienonakaniiru
+CreditsNames/eralois	Text	 [new]	eralois	eralois	eralois
+CreditsNames/ienonakaniiru	Text	 [new]	ienonakaniiru	ienonakaniiru	ienonakaniiru
 CreditsNames/ohCreative	Text		ohCreative	ohCreative	ohCreative
-CreditsNames/pictelated	Text	 [new]	pictelated		pictelated
-CreditsNames/启示立方体	Text	 [new]	启示立方体		启示立方体
-CreditsNames/袁讴诺	Text	 [new]	袁讴诺		袁讴诺
-CreditsNames/黎明踏梦	Text	 [new]	黎明踏梦		黎明踏梦
-CreditsNames/깅니아	Text	 [new]	깅니아		깅니아
-CreditsNames/최약창민	Text	 [new]	최약창민		최약창민
+CreditsNames/pictelated	Text	 [new]	pictelated	pictelated	pictelated
+CreditsNames/启示立方体	Text	 [new]	启示立方体	启示立方体	启示立方体
+CreditsNames/袁讴诺	Text	 [new]	袁讴诺	袁讴诺	袁讴诺
+CreditsNames/黎明踏梦	Text	 [new]	黎明踏梦	黎明踏梦	黎明踏梦
+CreditsNames/깅니아	Text	 [new]	깅니아	깅니아	깅니아
+CreditsNames/최약창민	Text	 [new]	최약창민	최약창민	최약창민
 DemoVersion	Text	{0} will be replaced by the version number	{0} Demo Version	{0} Wersja demonstracyjna	{0} Demo-Version
 DontOverrideSeason	Text		Don't override season	Nie nadpisuj sezonu	Saison nicht überschreiben
 EarlyAccess	Text		Early Access	Wczesny dostęp	Early Access
@@ -1167,7 +1167,7 @@ Emotes/NeedAncientForge	Text		I must be at the Ancient Forge	Muszę być w Prada
 Emotes/NeedHigherMiningSkill	Text		I need higher mining damage	Potrzebuję większych obrażeń górniczych	Ich brauche einen höheren Bergbauschaden
 Emotes/NoNearbyGroundToStandOn	Text		There's no nearby ground to stand on	Nie ma pobliskiego gruntu, na którym można by stanąć	Es ist kein Boden in der Nähe, auf dem man stehen kann
 Emotes/NoOtherPortals	Text	Shown when there are no other portals to teleport to	No other portals to teleport to	Brak innych portali, do których można się teleportować	Keine anderen Portale zum Teleportieren
-Emotes/NotEnoughMana	Text	 [new]	I'm out of mana		Kein Mana mehr
+Emotes/NotEnoughMana	Text	 [new]	I'm out of mana	Nie mam many	Kein Mana mehr
 Emotes/NotFullyCharged	Text	Shown when player tries to interact with a portal that is still charging up	It needs some time to charge up	Potrzebuje trochę czasu, aby się naładować	Es braucht einige Zeit zum Aufladen
 Emotes/NothingHappens	Text		Nothing happens	Nic się nie dzieje	Nichts passiert
 Emotes/NothingWasFound	Text		Nothing was found	Nic nie znaleziono	Nichts gefunden
@@ -1189,50 +1189,50 @@ Emotes/ThisWillTakeAWhile	Text		This will take a while...	To trochę potrwa...	D
 Emotes/ThisWillTakeForever	Text		This will take forever...	To zajmie wieczność...	Das wird ewig dauern ...
 Emotes/UnlockedInEarlyAccess	Text		Unlocked in Early Access	Odblokowane w ramach wczesnego dostępu	Im Early Access freigeschaltet
 Emotes/UnlocksAtLaunch	Text	 [new]	"Continue your exploration beyond the wall at 1.0,
-unlocks August 27th 2024."		"Setze die Erkundung jenseits der Wand mit 1.0 fort.
+unlocks August 27th 2024."	Kontynuuj eksplorację poza murem w wersji 1.0, zostanie odblokowana 27 sierpnia 2024 r.	"Setze die Erkundung jenseits der Wand mit 1.0 fort.
 Die Freischaltung erfolgt am 27. August 2024"
-Emotes/WaypointActivated	Text	 [new]	Waypoint activated		Wegpunkt aktiviert
-Error/Authenticating	Text	 [new]	Authenticating.		Authentifizierung läuft.
+Emotes/WaypointActivated	Text	 [new]	Waypoint activated	Punkt nawigacyjny aktywowany	Wegpunkt aktiviert
+Error/Authenticating	Text	 [new]	Authenticating.	Uwierzytelnianie.	Authentifizierung läuft.
 Error/AuthenticationFailed	Text		Authentication failed	Autoryzacja nie powiodła się	Authentifizierung fehlgeschlagen
 Error/BackingStorageFull	Text		Disk or cloud quota is full, try deleting some things	Limit na dysku lub w chmurze jest pełny, spróbuj usunąć niektóre rzeczy.	Festplatte oder Cloud-Kontingent ist voll – versuche es damit, einige Dinge zu löschen
-Error/BadInternet	Text	 [new]	Currently experiencing connection issues.		Es bestehen momentan Probleme mit der Verbindung.
+Error/BadInternet	Text	 [new]	Currently experiencing connection issues.	Obecnie występują problemy z połączeniem.	Es bestehen momentan Probleme mit der Verbindung.
 Error/BadProtocolVersion	Text		Game version mismatch	Niezgodność wersji gry	Falsche Spielversion
 Error/Canceled	Text		Operation was canceled	Operacja została anulowana	Vorgang wurde abgebrochen
-Error/CannotJoinSession	Text	 [new]	You cannot join this session.		Du kannst dieser Sitzung nicht beitreten.
+Error/CannotJoinSession	Text	 [new]	You cannot join this session.	Nie możesz dołączyć do tej sesji.	Du kannst dieser Sitzung nicht beitreten.
 Error/CharacterVersionTooHigh	Text		This character was created using a more recent game version. Please check for game updates.	Ta postać została stworzona przy użyciu nowszej wersji gry. Sprawdź aktualizacje gry.	Dieser Charakter wurde mit einer neueren Spielversion erstellt. Bitte prüfe, ob Spiel-Updates verfügbar sind.
 Error/CompileFailed	Text		Compilation failed	Kompilacja nie powiodła się	Kompilierung fehlgeschlagen
 Error/ConnectionClose	Text		Connection closed	Połączenie przerwanie	Verbindung geschlossen
-Error/ConnectionFailedWith	Text	 [new]	Connection failed:		Verbindung fehlgeschlagen:
-Error/ConnectionLost	Text	 [new]	Connection lost		Verbindung unterbrochen
-Error/CrossplayNotEnabled	Text	 [new]	Crossplay not enabled		Plattformübergreifendes Spielen deaktiviert
-Error/FailedToLoad	Text	 [new]	Failed to load		Konnte nicht geladen werden
+Error/ConnectionFailedWith	Text	 [new]	Connection failed:	Połączenie nie powiodło się:	Verbindung fehlgeschlagen:
+Error/ConnectionLost	Text	 [new]	Connection lost	Połączenie utracone	Verbindung unterbrochen
+Error/CrossplayNotEnabled	Text	 [new]	Crossplay not enabled	Crossplay nie został włączony	Plattformübergreifendes Spielen deaktiviert
+Error/FailedToLoad	Text	 [new]	Failed to load	Nie udało się załadować	Konnte nicht geladen werden
 Error/FileAccess	Text		Couldn't access file	Nie można uzyskać dostępu do pliku	Auf Datei konnte nicht zugegriffen werden
 Error/GameNotFound	Text		Could not find game	Nie można znaleźć gry	Spiel kann nicht gefunden werden
-Error/HostDisableCrossplay	Text	 [new]	There seems to be an issue with crossplay. You can ask the host to disable it in the gameplay settings.		Es scheint ein Problem mit dem plattformübergreifenden Spielen zu geben. Du kannst den Host darum bitten, diese Funktion in den Spieleinstellungen zu deaktivieren.
-Error/HostDoesNotAllowCrossplay	Text	 [new]	Host does not allow crossplay		Host gestattet kein plattformübergreifendes Spielen
-Error/HostIncompatiblePlatform	Text	 [new]	Host is incompatible with your platform since it does not support crossplay.		Deine Plattform und die Plattform des Hosts sind nicht kompatibel, da sie plattformübergreifendes Spielen nicht unterstützt.
+Error/HostDisableCrossplay	Text	 [new]	There seems to be an issue with crossplay. You can ask the host to disable it in the gameplay settings.	Wygląda na to, że występuje problem z crossplayem. Możesz poprosić hosta o jego wyłączenie w ustawieniach rozgrywki.	Es scheint ein Problem mit dem plattformübergreifenden Spielen zu geben. Du kannst den Host darum bitten, diese Funktion in den Spieleinstellungen zu deaktivieren.
+Error/HostDoesNotAllowCrossplay	Text	 [new]	Host does not allow crossplay	Host nie zezwala na crossplay	Host gestattet kein plattformübergreifendes Spielen
+Error/HostIncompatiblePlatform	Text	 [new]	Host is incompatible with your platform since it does not support crossplay.	Host jest niekompatybilny z twoją platformą, ponieważ nie obsługuje crossplay.	Deine Plattform und die Plattform des Hosts sind nicht kompatibel, da sie plattformübergreifendes Spielen nicht unterstützt.
 Error/HostNotReady	Text		Host is not ready	Host nie jest gotowy	Host ist nicht bereit
 Error/InternalError	Text		Internal error	Błąd wewnętrzny	Interner Fehler
 Error/InvalidAccess	Text		Invalid access	Nieprawidłowy dostęp	Ungültiger Zugriff
 Error/InvalidRpc	Text		Invalid network message	Nieprawidłowy komunikat sieciowy	Ungültige Netzwerkmeldung
 Error/MaxConnectionAttempts	Text		Connection failed after too many retries	Połączenie nie powiodło się po zbyt wielu próbach	Verbindung nach zu vielen Versuchen fehlgeschlagen
-Error/MaxSessionTimeReached	Text	 [new]	Maximum session time reached.		Maximale Sitzungszeit erreicht.
-Error/MultiplayerDisabledDueToError	Text	 [new]	Connection to the multiplayer backend was lost. To re-enable multiplayer, exit and reopen the game world.		Die Verbindung zum Multiplayer-Backend wurde unterbrochen. Um Multiplayer zu reaktiveren, musst du die Welt verlassen und neu öffnen.
-Error/MultiplayerNonSteamNotAvailable	Text	 [new]	Multiplayer with players outside of Steam is not available.		Der Multiplayer-Modus ist mit Nicht-Steam-Spielern nicht verfügbar.
-Error/MultiplayerNotAvailable	Text	 [new]	Multiplayer is not available.		Der Multiplayer-Modus ist nicht verfügbar.
-Error/NetworkInitFailed	Text	 [new]	Network initialization failed.		Netzwerk-Initialisierung fehlgeschlagen.
+Error/MaxSessionTimeReached	Text	 [new]	Maximum session time reached.	Osiągnięto maksymalny czas sesji.	Maximale Sitzungszeit erreicht.
+Error/MultiplayerDisabledDueToError	Text	 [new]	Connection to the multiplayer backend was lost. To re-enable multiplayer, exit and reopen the game world.	Połączenie z backendem trybu wieloosobowego zostało utracone. Aby ponownie włączyć tryb wieloosobowy, zamknij i ponownie otwórz świat gry.	Die Verbindung zum Multiplayer-Backend wurde unterbrochen. Um Multiplayer zu reaktiveren, musst du die Welt verlassen und neu öffnen.
+Error/MultiplayerNonSteamNotAvailable	Text	 [new]	Multiplayer with players outside of Steam is not available.	Tryb wieloosobowy z graczami spoza Steam nie jest dostępny.	Der Multiplayer-Modus ist mit Nicht-Steam-Spielern nicht verfügbar.
+Error/MultiplayerNotAvailable	Text	 [new]	Multiplayer is not available.	Tryb wieloosobowy nie jest dostępny.	Der Multiplayer-Modus ist nicht verfügbar.
+Error/NetworkInitFailed	Text	 [new]	Network initialization failed.	Inicjalizacja sieci nie powiodła się.	Netzwerk-Initialisierung fehlgeschlagen.
 Error/NoNetwork	Text		No network	Brak sieci	Kein Netzwerk
 Error/NoWorldWriteWarning	Text		There has been no auto save since {0} minutes. This probably means an error has occurred. Restarting the host is recommended to ensure all progress is saved.	Od {0} minut nie wykonano automatycznego zapisu. Prawdopodobnie oznacza to, że wystąpił błąd. Zaleca się ponowne uruchomienie hosta, aby upewnić się, że wszystkie postępy zostały zapisane.	Seit {0} Minuten fand keine automatische Speicherung statt. Das bedeutet wahrscheinlich, dass ein Fehler aufgetreten ist. Es wird empfohlen, den Host neu zu starten, um das Speichern aller Fortschritte sicherzustellen.
 Error/NoWorldWriteWarningEnd	Text		Auto save successful!	Pomyślne automatyczne zapisanie!	Automatisches Speichern erfolgreich!
-Error/PleaseWait	Text	 [new]	Please wait.		Bitte warten.
+Error/PleaseWait	Text	 [new]	Please wait.	Proszę czekać.	Bitte warten.
 Error/SaveFileCorrupt	Text		Could not read save file	Nie udało się odczytać pliku zapisu	Speicherdatei konnte nicht gelesen werden
-Error/SessionBlockedBy	Text	 [new]	You cannot join this session because it contains a user who has blocked you.		Du kannst dieser Sitzung nicht beitreten, weil ein Benutzer daran teilnimmt, der dich ausgeschlossen hat.
-Error/SessionContainsBlockedUser	Text	 [new]	You cannot join this session because it contains a user you have blocked.		Du kannst dieser Sitzung nicht beitreten, weil ein von dir ausgeschlossener Benutzer daran teilnimmt.
-Error/SessionJoinBanned	Text	 [new]	You cannot join this session because you have been banned by a session admin.		Du kannst dieser Sitzung nicht beitreten, weil du von einem Sitzungsadministrator ausgeschlossen wurdest.
+Error/SessionBlockedBy	Text	 [new]	You cannot join this session because it contains a user who has blocked you.	Nie możesz dołączyć do tej sesji, ponieważ zawiera ona użytkownika, który cię zablokował.	Du kannst dieser Sitzung nicht beitreten, weil ein Benutzer daran teilnimmt, der dich ausgeschlossen hat.
+Error/SessionContainsBlockedUser	Text	 [new]	You cannot join this session because it contains a user you have blocked.	Nie możesz dołączyć do tej sesji, ponieważ zawiera ona użytkownika, którego zablokowałeś.	Du kannst dieser Sitzung nicht beitreten, weil ein von dir ausgeschlossener Benutzer daran teilnimmt.
+Error/SessionJoinBanned	Text	 [new]	You cannot join this session because you have been banned by a session admin.	Nie możesz dołączyć do tej sesji, ponieważ zostałeś zablokowany przez administratora sesji.	Du kannst dieser Sitzung nicht beitreten, weil du von einem Sitzungsadministrator ausgeschlossen wurdest.
 Error/Timeout	Text		Connection timed out	Przekroczono limit czasu połączenia	Zeitüberschreitung bei der Verbindung
 Error/Unknown	Text		Unknown error	Nieznany błąd	Unbekannter Fehler
-Error/UserConnected	Text	 [new]	{0} connected.		{0} verbunden.
-Error/UserDisconnected	Text	 [new]	{0} disconnected.		{0} Verbindung getrennt.
+Error/UserConnected	Text	 [new]	{0} connected.	{0} podłączonych.	{0} verbunden.
+Error/UserDisconnected	Text	 [new]	{0} disconnected.	{0} rozłączonych.	{0} Verbindung getrennt.
 Error/WorldVersionTooHigh	Text		This world was created using a more recent game version. Please check for game updates.	Ten świat został stworzony przy użyciu nowszej wersji gry. Sprawdź aktualizacje gry.	Diese Welt wurde mit einer neueren Spielversion erstellt. Bitte prüfe, ob Spiel-Updates verfügbar sind.
 Error/reqFailNotificationGPU	Text		Warning: Your GPU does not meet the minimum requirements. Game visuals might not work correctly	Ostrzeżenie: Twój procesor graficzny nie spełnia minimalnych wymagań. Gra może nie działać poprawnie	Warnung: Dein Grafikprozessor entspricht nicht den Mindestanforderungen. Die Grafik des Spiels wird unter Umständen nicht richtig funktionieren.
 FollowTwitter	Text		Follow us on Twitter	Śledź nas na Twitterze	Folge uns auf Twitter
@@ -1302,9 +1302,9 @@ FoodAdjectives/DeepstalkerMale	Text		Glistening	Lśniący	Glimmernder
 FoodAdjectives/DevilWorm	Text		Devilish	Diabelskie	Teuflisches
 FoodAdjectives/DevilWormFemale	Text		Devilish	Diabelska	Teuflische
 FoodAdjectives/DevilWormMale	Text		Devilish	Diabelski	Teuflischer
-FoodAdjectives/Egg	Text	 [new]	Yummy		Leckeres
-FoodAdjectives/EggFemale	Text	 [new]	Yummy		Leckere
-FoodAdjectives/EggMale	Text	 [new]	Yummy		Leckerer
+FoodAdjectives/Egg	Text	 [new]	Yummy	Pyszne	Leckeres
+FoodAdjectives/EggFemale	Text	 [new]	Yummy	Pyszna	Leckere
+FoodAdjectives/EggMale	Text	 [new]	Yummy	Pyszny	Leckerer
 FoodAdjectives/ElderDragonfish	Text		Elder	Starsze	Älteres
 FoodAdjectives/ElderDragonfishFemale	Text		Elder	Starsza	Ältere
 FoodAdjectives/ElderDragonfishMale	Text		Elder	Starszy	Älterer
@@ -1338,7 +1338,7 @@ FoodAdjectives/GoldenTorrentDartMale	Text		Golden	Złoty	Goldener
 FoodAdjectives/GreenBlisterHead	Text		Green	Zielone	Grünes
 FoodAdjectives/GreenBlisterHeadFemale	Text		Green	Zielona	Grüne
 FoodAdjectives/GreenBlisterHeadMale	Text		Green	Zielony	Grüner
-FoodAdjectives/GreenhornPico	Text	 [new]	Sticky		Klebriger
+FoodAdjectives/GreenhornPico	Text	 [new]	Sticky	Lepki	Klebriger
 FoodAdjectives/GreyDuneTail	Text		Grey	Szare	Graues
 FoodAdjectives/GreyDuneTailFemale	Text		Grey	Szara	Graue
 FoodAdjectives/GreyDuneTailMale	Text		Grey	Szary	Grauer
@@ -1357,7 +1357,7 @@ FoodAdjectives/HeartBerryRareMale	Text		Delightful	Zachwycający	Köstlicher
 FoodAdjectives/LarvaMeat	Text		Gooey	Gęste	Klebriges
 FoodAdjectives/LarvaMeatFemale	Text		Gooey	Gęsta	Klebrige
 FoodAdjectives/LarvaMeatMale	Text		Gooey	Gęsty	Klebriger
-FoodAdjectives/LithoTrilobite	Text	 [new]	Brittle		Brüchiger
+FoodAdjectives/LithoTrilobite	Text	 [new]	Brittle	Kruchy	Brüchiger
 FoodAdjectives/Lunacorn	Text		Iridescent	Opalizujące	Schillerndes
 FoodAdjectives/LunacornFemale	Text		Iridescent	Opalizująca	Schillernde
 FoodAdjectives/LunacornMale	Text		Iridescent	Opalizujący	Schillernder
@@ -1394,14 +1394,14 @@ FoodAdjectives/PinkCoralotlMale	Text		Coral Red	Koralowo czerwony	Korallenroter
 FoodAdjectives/PinkPalaceFish	Text		Pink	Różowe	Pinkes
 FoodAdjectives/PinkPalaceFishFemale	Text		Pink	Różowa	Pinke
 FoodAdjectives/PinkPalaceFishMale	Text		Pink	Różowy	Pinker
-FoodAdjectives/PinkhornPico	Text	 [new]	Goopy		Glibberiger
+FoodAdjectives/PinkhornPico	Text	 [new]	Goopy	&	Glibberiger
 FoodAdjectives/Puffungi	Text		Puffy	Puchate	Puffiges
 FoodAdjectives/PuffungiFemale	Text		Puffy	Puchata	Puffige
 FoodAdjectives/PuffungiMale	Text		Puffy	Puchaty	Puffiger
 FoodAdjectives/PuffungiRare	Text		Musty	Stęchłe	Muffiges
 FoodAdjectives/PuffungiRareFemale	Text		Musty	Stęchła	Muffige
 FoodAdjectives/PuffungiRareMale	Text		Musty	Stęchły	Muffiger
-FoodAdjectives/RiftianLampfish	Text	 [new]	Abyssal		Abgründiger
+FoodAdjectives/RiftianLampfish	Text	 [new]	Abyssal	Głębinowa	Abgründiger
 FoodAdjectives/RockJaw	Text		Rocky	Skaliste	Steiniges
 FoodAdjectives/RockJawFemale	Text		Rocky	Skalista	Steinige
 FoodAdjectives/RockJawMale	Text		Rocky	Skalisty	Steiniger
@@ -1432,7 +1432,7 @@ FoodAdjectives/SunriceRareMale	Text		Dazzling	Olśniewający	Blendender
 FoodAdjectives/TealPalaceFish	Text		Teal	Turkusowe	Türkises
 FoodAdjectives/TealPalaceFishFemale	Text		Teal	Turkusowa	Türkise
 FoodAdjectives/TealPalaceFishMale	Text		Teal	Turkusowy	Türkiser
-FoodAdjectives/TerraTrilobite	Text	 [new]	Porous		Poröser
+FoodAdjectives/TerraTrilobite	Text	 [new]	Porous	Porowata	Poröser
 FoodAdjectives/TornisKingfish	Text		Royal	Królewskie	Königliches
 FoodAdjectives/TornisKingfishFemale	Text		Royal	Królewska	Königliche
 FoodAdjectives/TornisKingfishMale	Text		Royal	Królewski	Königlicher
@@ -1470,7 +1470,7 @@ FoodNouns/DaggerFin	Text		Fin	Płetwa	Flossen
 FoodNouns/DarkLavaEater	Text		Lava	Lawa	Lava
 FoodNouns/Deepstalker	Text		Hunter	Łowca	Jäger
 FoodNouns/DevilWorm	Text		Worm	Robak	Wurm
-FoodNouns/Egg	Text	 [new]	Cream		Creme
+FoodNouns/Egg	Text	 [new]	Cream	Kremowe	Creme
 FoodNouns/ElderDragonfish	Text		Dragon	Smok	Drachen
 FoodNouns/EmeraldFeatherFish	Text		Feather	Pióro	Feder
 FoodNouns/GemCrab	Text		Crab	Krab	Krabben
@@ -1482,14 +1482,14 @@ FoodNouns/GoldenDeepstalker	Text		Hunter	Łowca	Jäger
 FoodNouns/GoldenLarvaMeat	Text		Gold	Złoto	Gold
 FoodNouns/GoldenTorrentDart	Text		Dart	Strzałka	Pfeil
 FoodNouns/GreenBlisterHead	Text		Blister	Blister	Blasen
-FoodNouns/GreenhornPico	Text	 [new]	Goop		Glibber
+FoodNouns/GreenhornPico	Text	 [new]	Goop	&	Glibber
 FoodNouns/GreyDuneTail	Text		Dune	Wydma	Dünen
 FoodNouns/Grumpkin	Text		Lump	Kępa	Knollen
 FoodNouns/GrumpkinRare	Text		Goldlump	Złota kępa	Goldknollen
 FoodNouns/HeartBerry	Text		Berry	Jagoda	Beeren
 FoodNouns/HeartBerryRare	Text		Goldberry	Złota jagoda	Goldbeeren
 FoodNouns/LarvaMeat	Text		Meat	Mięso	Fleisch
-FoodNouns/LithoTrilobite	Text	 [new]	Fossil		Fossil
+FoodNouns/LithoTrilobite	Text	 [new]	Fossil	Skamieniałe 	Fossil
 FoodNouns/Lunacorn	Text		Moon	Księżyc	Mond
 FoodNouns/LunacornRare	Text		Goldmoon	Złoty księżyc	Goldmond
 FoodNouns/Meat	Text		Meat	Mięso	Fleisch
@@ -1502,10 +1502,10 @@ FoodNouns/Pinegrapple	Text		Tropics	Owoc tropikalny	Tropen
 FoodNouns/PinegrappleRare	Text		Goldtropics	Złote owoc tropikalny	Goldtropen
 FoodNouns/PinkCoralotl	Text		Coral	Koral	Korallen
 FoodNouns/PinkPalaceFish	Text		Palace	Pałac	Palast
-FoodNouns/PinkhornPico	Text	 [new]	Goop		Glibber
+FoodNouns/PinkhornPico	Text	 [new]	Goop	&	Glibber
 FoodNouns/Puffungi	Text		Mold	Pleśń	Schimmel
 FoodNouns/PuffungiRare	Text		Goldmold	Złota pleśń	Goldschimmel
-FoodNouns/RiftianLampfish	Text	 [new]	Rift		Riss
+FoodNouns/RiftianLampfish	Text	 [new]	Rift	&	Riss
 FoodNouns/RockJaw	Text		Jaw	Szczęka	Kiefer
 FoodNouns/RotFish	Text		Decay	Rozpad	Verfall
 FoodNouns/SandySpikeback	Text		Spike	Kolec	Stachel
@@ -1516,7 +1516,7 @@ FoodNouns/StarlightNautilus	Text		Starlight	Światło gwiazd	Sternlicht
 FoodNouns/Sunrice	Text		Sun	Słońce	Sonnen
 FoodNouns/SunriceRare	Text		Goldsun	Złote Słońce	Goldsonnen
 FoodNouns/TealPalaceFish	Text		Palace	Pałac	Palast
-FoodNouns/TerraTrilobite	Text	 [new]	Fossil		Fossil
+FoodNouns/TerraTrilobite	Text	 [new]	Fossil	Skamieniałe 	Fossil
 FoodNouns/TornisKingfish	Text		King	Król	König
 FoodNouns/VampireEel	Text		Eel	Węgorz	Aal
 FoodNouns/VerdantDragonfish	Text		Dragon	Smok	Drachen
@@ -1552,7 +1552,7 @@ ItemCategory/Creature_Enemy	Text		Enemy	Wrogowie	Feind
 ItemCategory/Creature_Merchant	Text		Merchant	Handlarz	Händler
 ItemCategory/Creature_Pet	Text		Pet	Zwierzaki	Haustier
 ItemCategory/Environment	Text		Environment	Środowiskowe	Umgebung
-ItemCategory/Environment_Block	Text	 [new]	Block		Block
+ItemCategory/Environment_Block	Text	 [new]	Block	Blok	Block
 ItemCategory/Environment_CityBiome	Text		City biome	Biom miejski	Stadt-Biom
 ItemCategory/Environment_ClayBiome	Text		Clay biome	Biom gliniasty	Lehm-Biom
 ItemCategory/Environment_CrystalBiome	Text		Crystal biome	Biom kryształowy	Kristall-Biom
@@ -1564,7 +1564,7 @@ ItemCategory/Environment_MeadowBiome	Text		Meadow biome	Biom łąki	Wiesen-Biom
 ItemCategory/Environment_MoldBiome	Text		Mold biome	Biom pleśni	Schimmel-Biom
 ItemCategory/Environment_NatureBiome	Text		Nature biome	Biom naturalny	Natur-Biom
 ItemCategory/Environment_OreBoulder	Text		Ore boulder	Głaz rudy	Erzblock
-ItemCategory/Environment_PassageBiome	Text	 [new]	Passage biome		Passagen-Biom
+ItemCategory/Environment_PassageBiome	Text	 [new]	Passage biome	Biom przejścia	Passagen-Biom
 ItemCategory/Environment_PitObject	Text		Pit object	Obiekt wykopu	Abgrund-Objekt
 ItemCategory/Environment_SeaBiome	Text		Sea biome	Biom morski	Meeres-Biom
 ItemCategory/Environment_SlimeBiome	Text		Slime biome	Biom szlamu	Schleim-Biom
@@ -1575,7 +1575,7 @@ ItemCategory/Equipment_Bag	Text		Bag	Bagaże	Tasche
 ItemCategory/Equipment_Bait	Text		Bait	Przynęty	Köder
 ItemCategory/Equipment_BreastArmor	Text		Breast armor	Napierśniki	Brustkleidung
 ItemCategory/Equipment_Helm	Text		Helm	Hełmy	Helm
-ItemCategory/Equipment_MagicWeapon	Text	 [new]	Magic weapon		Magische Waffe
+ItemCategory/Equipment_MagicWeapon	Text	 [new]	Magic weapon	Magiczna broń	Magische Waffe
 ItemCategory/Equipment_MeleeWeapon	Text		Melee weapon	Bronie do walki wręcz	Nahkampfwaffe
 ItemCategory/Equipment_Necklace	Text		Necklace	Naszyjniki	Halskette
 ItemCategory/Equipment_Offhand	Text		Offhand	Druga ręka	Zweithand
@@ -1592,7 +1592,7 @@ ItemCategory/Music	Text		Music	Muzyka	Musik
 ItemCategory/Music_Instrument	Text		Instrument	Instrumenty	Instrument
 ItemCategory/Music_MusicSheet	Text		Music sheet	Arkusze nutowe	Notenblatt
 ItemCategory/Other	Text		Other	Inne	Andere
-ItemCategory/Other_Currency	Text	 [new]	Currency		Währung
+ItemCategory/Other_Currency	Text	 [new]	Currency	Waluta	Währung
 ItemCategory/Other_KeyItem	Text		Key item	Element kluczowy	Schlüsselgegenstand
 ItemCategory/Other_Mods	Text	This category contains objects from mods	Mods	Mody	Mods
 ItemCategory/Other_OracleCard	Text		Oracle card	Karta wyroczni	Orakel-Karte
@@ -1679,8 +1679,8 @@ Items/Ammonite	Text		Ammonite	Amonit	Ammonit
 Items/AmmoniteDesc	Text		The petrified shell of an ancient sea creature.	Skamieniała skorupa pradawnego morskiego stworzenia.	Die versteinerte Hülle eines vorurzeitlichen Meeres-Lebewesens.
 Items/AmmoniteNecklace	Text		Ammonite Necklace	Naszyjnik z amonitem	Ammonit-Halskette
 Items/AmmoniteNecklaceDesc	Text		Simple but beautiful necklace featuring a fossil.	Prosty, ale piękny naszyjnik ze skamieliną.	Eine einfache, aber schöne Halskette, die aus einem Fossil gefertigt wurde.
-Items/AmoebaGiantSegment	Text	 [new]	Colossal Amoeba		Kolossale Amöbe
-Items/AmoebaWormSegment	Text	 [new]	Sulfur Worm		Schwefelwurm
+Items/AmoebaGiantSegment	Text	 [new]	Colossal Amoeba	Kolosalna ameba	Kolossale Amöbe
+Items/AmoebaWormSegment	Text	 [new]	Sulfur Worm	Robak siarkowy	Schwefelwurm
 Items/AnchorAxe	Text		Anchor Axe	Siekiera kotwiczna	Anker-Axt
 Items/AnchorAxeDesc	Text		This heavy weapon is actually just a ship anchor. Hits very hard and can throw enemies off.	Ta ciężka broń to tak naprawdę kotwica. Uderza bardzo mocno i może odrzucić wrogów.	Diese schwere Waffe ist eigentlich nur ein Schiffsanker. Trifft sehr hart und kann Feinde zurückdrängen.
 Items/AncientCoin	Text		Ancient Coin	Starożytna moneta	Antike Münze
@@ -1736,20 +1736,20 @@ Items/AnniversaryPartyHatRed	Text		Red Party Hat	Czerwona czapka imprezowa	Roter
 Items/AnniversaryPartyHatRedDesc	Text		This radical red party hat can be worn to celebrate a special anniversary.	Ta odlotowa czerwona czapka imprezowa może być noszona z okazji specjalnej rocznicy.	Dieser radikale rote Partyhut kann getragen werden, um einen besonderen Jahrestag zu feiern.
 Items/AntiqueBoardGame	Text		Antique Board Game	Antyczna gra planszowa	Antikes Brettspiel
 Items/AntiqueBoardGameDesc	Text		An ancient game for two players, there is no rulebook but apparently it was about shifting blocks around.	Starożytna gra dla dwóch graczy, nie ma żadnej instrukcji, ale najwyraźniej polegała na przesuwaniu bloków.	Ein altes Brettspiel für zwei Spieler. Es gibt kein Regelbuch, aber anscheinend ging es um Blöcke, die man verschieben musste.
-Items/ApprenticeBreastArmor	Text	 [new]	Apprentice Robe		Lehrlingsrobe
-Items/ApprenticeBreastArmorDesc	Text	 [new]	A plain robe worn by mages in training.		Ein schlichtes Gewand, das von Zauberern in der Ausbildung getragen wird.
-Items/ApprenticeHelm	Text	 [new]	Apprentice Hat		Lehrlingsmütze
-Items/ApprenticeHelmDesc	Text	 [new]	A humble wizard's hat.		Mütze eines bescheidenen Zauberers.
-Items/ApprenticePantsArmor	Text	 [new]	Apprentice Pants		Lehrling-Beinzeug
-Items/ApprenticePantsArmorDesc	Text	 [new]	Comfortable and breezy pants that aid in focus.		Bequeme, luftige Hosen, die die Konzentration fördern.
-Items/ArcaneMonkBreastArmor	Text	 [new]	Arcane Monk Cloak		Umhang des Arkanmönchs
-Items/ArcaneMonkBreastArmorDesc	Text	 [new]	A cloak with particular magical patterns woven in.		Ein Umhang, bestickt mit bestimmten magischen Mustern.
-Items/ArcaneMonkHelm	Text	 [new]	Arcane Monk Blindfold		Augenbinde des Arkanmönchs
-Items/ArcaneMonkHelmDesc	Text	 [new]	The magic energies around you let you see just as clearly as with your eyes.		Die magischen Energien um dich herum lassen dich mehr erkennen, als die Augen zu sehen vermögen.
-Items/ArcaneMonkPantsArmor	Text	 [new]	Arcane Monk Leggings		Beinlinge des Arkanmönchs
-Items/ArcaneMonkPantsArmorDesc	Text	 [new]	Both sturdy and light, these pants won't get in the way while casting spells.		Diese Hose ist robust und leicht, sodass sie beim Zaubern nicht im Weg ist.
-Items/ArcaneStaff	Text	 [new]	Arcane Staff		Arkaner Stab
-Items/ArcaneStaffDesc	Text	 [new]	Unleash a torrent of arcane energies.		Entfessle einen Strom arkaner Energien.
+Items/ApprenticeBreastArmor	Text	 [new]	Apprentice Robe	Szata praktykanta	Lehrlingsrobe
+Items/ApprenticeBreastArmorDesc	Text	 [new]	A plain robe worn by mages in training.	Zwykła szata noszona przez szkolących się magów.	Ein schlichtes Gewand, das von Zauberern in der Ausbildung getragen wird.
+Items/ApprenticeHelm	Text	 [new]	Apprentice Hat	Kapelusz praktykanta	Lehrlingsmütze
+Items/ApprenticeHelmDesc	Text	 [new]	A humble wizard's hat.	Skromny kapelusz czarodzieja.	Mütze eines bescheidenen Zauberers.
+Items/ApprenticePantsArmor	Text	 [new]	Apprentice Pants	Spodnie praktykanta	Lehrling-Beinzeug
+Items/ApprenticePantsArmorDesc	Text	 [new]	Comfortable and breezy pants that aid in focus.	Wygodne i przewiewne spodnie, które pomagają się skupić.	Bequeme, luftige Hosen, die die Konzentration fördern.
+Items/ArcaneMonkBreastArmor	Text	 [new]	Arcane Monk Cloak	Płaszcz mnicha magii	Umhang des Arkanmönchs
+Items/ArcaneMonkBreastArmorDesc	Text	 [new]	A cloak with particular magical patterns woven in.	Płaszcz z wplecionymi magicznymi wzorami.	Ein Umhang, bestickt mit bestimmten magischen Mustern.
+Items/ArcaneMonkHelm	Text	 [new]	Arcane Monk Blindfold	Opaska na oczy mnicha magii	Augenbinde des Arkanmönchs
+Items/ArcaneMonkHelmDesc	Text	 [new]	The magic energies around you let you see just as clearly as with your eyes.	Magiczne energie wokół ciebie pozwalają ci widzieć tak wyraźnie, jak własnymi oczami.	Die magischen Energien um dich herum lassen dich mehr erkennen, als die Augen zu sehen vermögen.
+Items/ArcaneMonkPantsArmor	Text	 [new]	Arcane Monk Leggings	Legginsy mnicha magii	Beinlinge des Arkanmönchs
+Items/ArcaneMonkPantsArmorDesc	Text	 [new]	Both sturdy and light, these pants won't get in the way while casting spells.	Wytrzymałe i lekkie spodnie, które nie będą przeszkadzać podczas rzucania zaklęć.	Diese Hose ist robust und leicht, sodass sie beim Zaubern nicht im Weg ist.
+Items/ArcaneStaff	Text	 [new]	Arcane Staff	Laska mocy	Arkaner Stab
+Items/ArcaneStaffDesc	Text	 [new]	Unleash a torrent of arcane energies.	Uwolnij strumień magicznej energii.	Entfessle einen Strom arkaner Energien.
 Items/ArcheologyHelm	Text		Explorer's Hat	Kapelusz odkrywcy	Entdecker-Hut
 Items/ArcheologyHelmDesc	Text		A hat that's made to go adventuring. Never falls off, even when a giant boulder is chasing behind.	Czapka stworzona do przeżywania przygód. Nigdy nie spada z głowy, nawet gdy goni cię gigantyczny głaz.	Ein Hut, der dafür gemacht wurde, Abenteuer zu erleben. Bleibt auf dem Kopf, selbst wenn man von einem riesigen rollenden Felsen verfolgt wird.
 Items/ArcheologyPants	Text		Explorer's Pants	Spodnie odkrywcy	Entdecker-Hose
@@ -1810,8 +1810,8 @@ Items/BaitOnAPole	Text		Bait Pillar	Przynęta słupowa	Ködersäule
 Items/BaitOnAPoleDesc	Text		Quite literally a crystal pillar with bait fixed to its top. Placing it in the waters of the Sunken Sea will make the true terror of the deep aware of your presence if close enough.	Dosłownie kryształowy słup z przynętą przymocowaną do jego szczytu. Umieszczenie go w wodach głębokiego morza sprawi, że prawdziwa groza głębin będzie świadoma twojej obecności, jeśli będziesz wystarczająco blisko.	Wortwörtlich eine Kristallsäule, an deren Spitze Köder befestigt sind. Wird sie im Wasser des Versunkenen Meeres platziert, macht sie den wahren Schrecken der Tiefe auf dich aufmerksam, wenn er in der Nähe ist.
 Items/BalloonSpore	Text		Balloon Spore	Balon zarodnika	Ballon-Spore
 Items/BalloonSporeDesc	Text		A fluffy giant spore. It's non-toxic but also not very useful.	Puszysty gigantyczny zarodnik. Jest nietoksyczny, ale też niezbyt użyteczny.	Eine fluffige riesige Spore. Sie ist ungiftig, aber auch nicht sonderlich nützlich.
-Items/BasicStaff	Text	 [new]	Simple Staff		Einfacher Stab
-Items/BasicStaffDesc	Text	 [new]	Commonly used by apprentice mages.		Wird für gewöhnlich von Zauberlehrlingen verwendet.
+Items/BasicStaff	Text	 [new]	Simple Staff	Prosta laska	Einfacher Stab
+Items/BasicStaffDesc	Text	 [new]	Commonly used by apprentice mages.	Powszechnie używana przez uczących się magów.	Wird für gewöhnlich von Zauberlehrlingen verwendet.
 Items/BattleAxe	Text		Battle Axe	Topór bojowy	Kriegsaxt
 Items/BattleAxeDesc	Text		A menacing weapon that swings wide and hits hard.	Groźna broń, która wymachuje szeroko i uderza mocno.	Eine bedrohlich wirkende Waffe, die weit schwingt und schwer trifft.
 Items/Bed	Text		Bed	Łóżko	Bett
@@ -1824,8 +1824,8 @@ Items/BigFloorTileGemstone	Text		"Stone tile ""Gemstone"""	"Płytka kamienna ""K
 Items/BigFloorTileGemstoneDesc	Text		A giant stone tile decorated with a deep blue glass. It depicts a glowing gemstone.	Olbrzymia kamienna płytka ozdobiona ciemnoniebieskim szkłem. Przedstawia świecący kamień szlachetny.	Eine große Steinfliese, dekoriert mit tiefblauem Glas. Sie zeigt einen leuchtenden Edelstein.
 Items/BigFloorTileScholar	Text		"Stone tile ""Scholar"""	"Płytka kamienna ""Uczony"""	Steinfliese „Gelehrter“
 Items/BigFloorTileScholarDesc	Text		A giant stone tile decorated with a deep blue glass. It depicts a robed caveling.	Olbrzymia kamienna płytka ozdobiona ciemnoniebieskim szkłem. Przedstawia odzianego w szatę jaskiniowca.	Eine große Steinfliese, dekoriert mit tiefblauem Glas. Es zeigt einen hochrangig bekleideten Grottling.
-Items/BigJungleTree	Text	 [new]	Paradise Tree		Paradiesbaum
-Items/BigJungleTreeDesc	Text	 [new]	A giant jungle tree that seems to have grown from the essence of life itself. A must have decoration.		Ein gewaltiger Dschungelbaum, der aus der Essenz des Lebens gewachsen zu sein scheint. Perfekt zum Dekorieren geeignet.
+Items/BigJungleTree	Text	 [new]	Paradise Tree	Rajskie drzewo	Paradiesbaum
+Items/BigJungleTreeDesc	Text	 [new]	A giant jungle tree that seems to have grown from the essence of life itself. A must have decoration.	Gigantyczne dżunglowe drzewo, które wydaje się wyrastać z samej esencji życia. Obowiązkowa dekoracja.	Ein gewaltiger Dschungelbaum, der aus der Essenz des Lebens gewachsen zu sein scheint. Perfekt zum Dekorieren geeignet.
 Items/BigLarva	Text		Big Larva	Duża larwa	Große Larve
 Items/BigLarvaTrophy	Text		Big Larva Figurine	Figurka dużej larwy	Große Larven-Figur
 Items/BigLarvaTrophyDesc	Text		A lifelike representation of a Big Larva.	Realistycznie odwzorowana duża larwa.	Eine lebensechte Nachbildung einer Großen Larve.
@@ -1908,8 +1908,8 @@ Items/BossChest	Text		Titan's Chest	Skrzynia Tytana	Titanen-Kiste
 Items/BossChestDesc	Text		A large, ancient chest crested with gemstones.	Duża, starożytna skrzynia wysadzana kamieniami szlachetnymi.	Eine große, antike Kiste bestückt mit Edelsteinen.
 Items/BottomTracer	Text		Bottom Tracer	Tropiciel denny	Seegrund-Sucher
 Items/BottomTracerDesc	Text		A bright yellow fish with long barbels that it drags along the sea floor in search for food.	Jasnożółta ryba z długimi wąsami, które ciągnie po dnie morza w poszukiwaniu pożywienia.	Ein hellgelber Fisch mit langen Barteln, die er am Seegrund entlangzieht, um nach Beute zu suchen.
-Items/BoundaryRing	Text	 [new]	Boundary Ring		Grenzring
-Items/BoundaryRingDesc	Text	 [new]	A simple ring that forms a magical veil.		Ein einfacher Ring, der einen magischen Schleier erzeugt.
+Items/BoundaryRing	Text	 [new]	Boundary Ring	Pierścień ochronny	Grenzring
+Items/BoundaryRingDesc	Text	 [new]	A simple ring that forms a magical veil.	Prosty pierścień tworzący magiczną zasłonę.	Ein einfacher Ring, der einen magischen Schleier erzeugt.
 Items/BoxOfChocolates	Text		Box of Chocolates	Pudełko czekoladek	Valentins-Pralinen
 Items/BoxOfChocolatesDesc	Text		These chocolates come in a nice gift box and are mouth and heart melting.	Te czekoladki są zapakowane w ładne ozdobne pudełko i rozpływają się w ustach jak i w sercu.	Diese Pralinen werden in einer schönen Geschenkschachtel gereicht und sind einfach zum Dahinschmelzen.
 Items/BrightLavaEater	Text		Bright Lava Eater	Jaskrawy pożeracz lawy	Heller Lavafresser
@@ -1960,8 +1960,8 @@ Items/ButterflyIcy	Text		Ice Wind	Lodowy wietrzyk	Eiswind
 Items/ButterflyIcyDesc	Text		This blue butterfly flaps its wings so fast that it creates cold air streams.	Ten niebieski motyl macha skrzydłami tak szybko, że wytwarza zimne strumienie powietrza.	Dieser blaue Schmetterling schlägt so schnell mit den Flügeln, dass er kühle Luftströme verursacht.
 Items/ButterflySunset	Text		Dusk Fairy	Wróżka zmierzchu	Fee der Dämmerung
 Items/ButterflySunsetDesc	Text		A tiny butterfly with very delicate wings. Catching it without harming them requires a lot of caution.	Malutki motyl o bardzo delikatnych skrzydłach. Złapanie go bez szkody dla nich wymaga dużej ostrożności.	Ein winziger Schmetterling mit sehr feinen Flügeln. Ihn unverletzt zu fangen ist nur möglich, wenn man sehr vorsichtig ist.
-Items/CalcifiedBone	Text	 [new]	Calcified Shell		Versteinerte Muschel
-Items/CalcifiedBoneDesc	Text	 [new]	A composite material of calcite and fossilized seashells.		Ein Verbundmaterial aus Kalzit und versteinerten Muscheln.
+Items/CalcifiedBone	Text	 [new]	Calcified Shell	Zwapniona muszla	Versteinerte Muschel
+Items/CalcifiedBoneDesc	Text	 [new]	A composite material of calcite and fossilized seashells.	Materiał złożony z kalcytu i skamieniałych muszli.	Ein Verbundmaterial aus Kalzit und versteinerten Muscheln.
 Items/Calendar	Text		Seasonal Calendar	Kalendarz sezonowy	Saison-Kalender
 Items/CalendarDesc	Text		A useful calendar that will attract a shady merchant when placed in a habitable room. Depending on the season, he will put on different costumes and offer new items.	Przydatny kalendarz, który zwabi podejrzanego handlarza, gdy zostanie umieszczony w pomieszczeniu mieszkalnym. W zależności od pory roku będzie on zakładał różne kostiumy i oferował nowe przedmioty.	Ein nützlicher Kalender, der einen zwielichtigen Händler anlockt, wenn er in einem bewohnbaren Raum platziert wird. Je nach Saison wird der Händler in Kostüme schlüpfen und neue Gegenstände anbieten.
 Items/Campfire	Text		Campfire	Ognisko	Lagerfeuer
@@ -2042,9 +2042,9 @@ Items/CavelingMedalDesc	Text		Minted medallion with a face relief. Has it been a
 Items/CavelingMerchant	Text		Cloaked Merchant	Zamaskowany handlarz	Verhüllter Händler
 Items/CavelingMothersRing	Text		Caveling Mother's Ring	Pierścień matki jaskiniowca	Grottlingmutter-Ring
 Items/CavelingMothersRingDesc	Text		An old crystal ring, holding it fills you with a sad feeling you can't describe.	Stary kryształowy pierścień, trzymanie go wypełnia cię smutnym uczuciem, którego nie potrafisz opisać.	Ein alter Kristallring. Wenn du ihn trägst, überkommt dich ein unbeschreiblich trauriges Gefühl.
-Items/CavelingMummy	Text	 [new]	Caveling Mummy		Grottlingmumie
-Items/CavelingMummyTrophy	Text	 [new]	Caveling Mummy Figurine		Grottlingmumien-Figur
-Items/CavelingMummyTrophyDesc	Text	 [new]	A lifelike representation of a Caveling Mummy.		Eine lebensechte Nachbildung einer Grottlingmumie.
+Items/CavelingMummy	Text	 [new]	Caveling Mummy	Mumia jaskiniowca	Grottlingmumie
+Items/CavelingMummyTrophy	Text	 [new]	Caveling Mummy Figurine	Figurka mumii jaskiniowca	Grottlingmumien-Figur
+Items/CavelingMummyTrophyDesc	Text	 [new]	A lifelike representation of a Caveling Mummy.	Realistycznie odwzorowana mumia jaskiniowca.	Eine lebensechte Nachbildung einer Grottlingmumie.
 Items/CavelingPantsArmor	Text		Caveling Pants	Nogawice jaskiniowe	Grottling-Lendenschurz
 Items/CavelingPantsArmorDesc	Text		These pants don't cover much but make your movement more elusive.	Te spodnie nie zakrywają zbyt wiele, ale sprawiają, że ruch jest bardziej nieuchwytny.	Dieses Kleidungsstück verhüllt nicht viel, aber vereinfacht das Ausweichen.
 Items/CavelingPerfume	Text		Caveling Perfume	Perfumy jaskiniowe	Grottling-Parfüm
@@ -2079,20 +2079,20 @@ Items/CavelingTrophy	Text		Caveling Figurine	Figurka jaskiniowca	Grottling-Figur
 Items/CavelingTrophyDesc	Text		A lifelike representation of a Caveling.	Realistyczna reprezentacja jaskiniowca.	Eine lebensechte Nachbildung eines Grottlings.
 Items/CeremonialFlute	Text		Ceremonial Flute	Ceremonialny flet	Zeremonielle Flöte
 Items/CeremonialFluteDesc	Text		An ancient, precious instrument but it is clogged.	Starożytny, cenny instrument, ale jest zatkany.	Ein antikes, wertvolles Instrument. Allerdings ist es verstopft.
-Items/ChaosStaff	Text	 [new]	Chaos Staff		Chaos-Stab
-Items/ChaosStaffDesc	Text	 [new]	An unpredictable, powerful weapon that weaves chaotic ancient energy into all kinds of projectiles. The enemy will never know what's coming for them.		Eine unberechenbare, mächtige Waffe, die chaotische uralte Energie in Geschosse aller Art fließen lässt. Der Feind wird nie wissen, was auf ihn zukommt.
+Items/ChaosStaff	Text	 [new]	Chaos Staff	Laska chaosu	Chaos-Stab
+Items/ChaosStaffDesc	Text	 [new]	An unpredictable, powerful weapon that weaves chaotic ancient energy into all kinds of projectiles. The enemy will never know what's coming for them.	Nieprzewidywalna, potężna broń, która splata chaotyczną starożytną energię we wszelkiego rodzaju pociski. Wróg nigdy nie będzie wiedział, co go czeka.	Eine unberechenbare, mächtige Waffe, die chaotische uralte Energie in Geschosse aller Art fließen lässt. Der Feind wird nie wissen, was auf ihn zukommt.
 Items/CharredCavelingSkull	Text		Charred Caveling Skull	Zwęglona czaszka jaskiniowca	Verkohlter Grottling-Schädel
 Items/CharredCavelingSkullDesc	Text		A small skull burnt dark to the marrow. Exposure to intense heat for a long time causes something like this to happen.	Mała czaszka wypalona do szpiku kości. Ekspozycja na intensywne ciepło przez długi czas powoduje coś takiego.	Ein kleiner Schädel, der bis aufs Mark verbrannt ist. Nur die Nähe von großer Hitze über einen langen Zeitraum kann dafür verantwortlich sein.
 Items/ChemicalRation	Text		Chemical Ration	Chemiczna racja żywnościowa	Chemische Ration
 Items/ChemicalRationDesc	Text		This box contains a strange, synthetic food source that doesn't appear safe for human consumption.	To pudełko zawiera dziwne, syntetyczne źródło żywności, które nie wydaje się być bezpieczne do spożycia przez ludzi.	Diese Box enthält eine merkwürdige synthetische Nahrungsquelle, die für den Verzehr durch Menschen nicht geeignet zu sein scheint.
 Items/ChewyConeCandy	Text		Chewy Cone Candy	Stożkowe cukierki do żucia	Zäher Zapfen-Weingummi
 Items/ChewyConeCandyDesc	Text		A super sweet candy that ends up in the gap of your teeth. And it's there to stay.	Super słodki cukierek, który ląduje w szczelinach między zębami. I już tam zostaje.	Ein supersüßer Weingummi, der zwischen den Zähnen stecken bleibt. Und so schnell wird er da nicht verschwinden.
-Items/ChieftainBreastArmor	Text	 [new]	Chieftain Tunic		Tunika des Häuptlings
-Items/ChieftainBreastArmorDesc	Text	 [new]	Made with some of the finest Bambuck wool.		Hergestellt aus feinster Bummbock-Wolle.
-Items/ChieftainHelm	Text	 [new]	Chieftain Headdress		Kopfschmuck des Häuptlings
-Items/ChieftainHelmDesc	Text	 [new]	This grand headdress shows clearly who's boss.		Dieser prächtige Kopfschmuck zeigt deutlich, wer hier der Boss ist.
-Items/ChieftainPantsArmor	Text	 [new]	Chieftain Shorts		Shorts des Häuptlings
-Items/ChieftainPantsArmorDesc	Text	 [new]	Fine shorts with plenty of jewelry, well suited for a leader.		Feine Shorts mit reichlich Zierrat, ideal für einen Anführer.
+Items/ChieftainBreastArmor	Text	 [new]	Chieftain Tunic	Tunika wodza	Tunika des Häuptlings
+Items/ChieftainBreastArmorDesc	Text	 [new]	Made with some of the finest Bambuck wool.	Wykonana z najlepszych gatunków wełny Bambucka.	Hergestellt aus feinster Bummbock-Wolle.
+Items/ChieftainHelm	Text	 [new]	Chieftain Headdress	Nakrycie głowy wodza	Kopfschmuck des Häuptlings
+Items/ChieftainHelmDesc	Text	 [new]	This grand headdress shows clearly who's boss.	To wspaniałe nakrycie głowy wyraźnie pokazuje, kto tu rządzi.	Dieser prächtige Kopfschmuck zeigt deutlich, wer hier der Boss ist.
+Items/ChieftainPantsArmor	Text	 [new]	Chieftain Shorts	Spodenki wodza	Shorts des Häuptlings
+Items/ChieftainPantsArmorDesc	Text	 [new]	Fine shorts with plenty of jewelry, well suited for a leader.	Wytworne szorty z dużą ilością biżuterii, odpowiednie dla przywódcy.	Feine Shorts mit reichlich Zierrat, ideal für einen Anführer.
 Items/ChineseCoin	Text		Lucky Coin	Szczęśliwa moneta	Glücksmünze
 Items/ChineseCoinDesc	Text		While this golden coin holds many favorable meanings, the most important one is that it can be spent at a certain merchant.	Chociaż ta złota moneta ma wiele korzystnych znaczeń, najważniejszym z nich jest to, że można ją wydać u określonego handlarza.	Diese goldene Münze hat viele Bedeutungen, die günstig ausgelegt werden können, aber die wichtigste ist, dass man sie bei einem bestimmten Händler ausgeben kann.
 Items/ChineseGuardianLion	Text		Guardian Beast Statue	Statuetka Bestii Strażnika	Wächterbestien-Statue
@@ -2169,8 +2169,8 @@ Items/CocoonTrophy	Text		Cocoon Figurine	Figurka kokonu	Kokon-Figur
 Items/CocoonTrophyDesc	Text		A lifelike representation of a cocoon.	Realistyczne odwzorowanie kokonu.	Eine lebensechte Nachbildung eines Kokons.
 Items/ColossCicada	Text		Colossal Cicada Husk	Kolosalny łuska cykady	Kolosszikaden-Hülle
 Items/ColossCicadaDesc	Text		The cast-off husk of a giant insect that lives dormant in the ground for centuries. When it emerges to take on its final form, heavy earthquakes occur.	Odrzucona łuska gigantycznego owada, który żyje uśpiony w ziemi przez wieki. Kiedy wyłania się, by przybrać swoją ostateczną formę, dochodzi do silnych trzęsień ziemi.	Der abgestoßene Panzer eines riesigen Insekts, das jahrhundertelang im Boden geschlummert hat. Wenn er hervorkommt und seine endgültige Form annimmt, wird es zu schweren Erdbeben kommen.
-Items/ColossalAmoebaTrophy	Text	 [new]	Colossal Amoeba Figurine		Kolossamöben-Figur
-Items/ColossalAmoebaTrophyDesc	Text	 [new]	A lifelike representation of a Colossal Amoeba.		Eine lebensechte Nachbildung einer Kolossamöbe.
+Items/ColossalAmoebaTrophy	Text	 [new]	Colossal Amoeba Figurine	Figurka kolosalnej ameby	Kolossamöben-Figur
+Items/ColossalAmoebaTrophyDesc	Text	 [new]	A lifelike representation of a Colossal Amoeba.	Realistyczne przedstawienie kolosalnej ameby.	Eine lebensechte Nachbildung einer Kolossamöbe.
 Items/ConceiledBlade	Text		Concealed Blade	Ukryte ostrze	Verhüllte Klinge
 Items/ConceiledBladeDesc	Text		A knife attached to a wrist band hidden among layers of fabric. It's perfect for an unsuspected stealth attack.	Nóż przymocowany do opaski na nadgarstek ukryty wśród warstw materiału. Idealny do niespodziewanego ataku z ukrycia.	Ein Messer, das an einem mit Stoff verhülltem Armband angebracht ist. Es ist perfekt für einen unerwarteten Hinterhalt.
 Items/ConchShellNecklace	Text		Conch Shell Necklace	Naszyjnik z konchy	Tritonshorn-Halskette
@@ -2183,7 +2183,7 @@ Items/CookPants	Text		Chef's Pants	Spodnie kucharskie	Koch-Hose
 Items/CookPantsDesc	Text		Sporting an apron, these pants are made to prove their worth in the steam and heat of a cave kitchen.	Wyposażone w fartuch, te spodnie są stworzone, aby udowodnić swoją wartość w parze i upale jaskiniowej kuchni.	Ausgestattet mit einer Schürze, ist diese Hose dafür gedacht, sich im Dampf und Feuer einer Höhlenküche zu bewähren.
 Items/CookShirt	Text		Chef's Jacket	Kurtka kucharska	Koch-Jacke
 Items/CookShirtDesc	Text		It's just a spotless, white jacket but the red neckerchief makes it official. Time to get cookin'!	To tylko nieskazitelnie biała marynarka, ale czerwona apaszka czyni ją oficjalną. Czas zacząć gotować!	Einfach nur eine makellose weiße Jacke, aber das rote Halstuch macht es offiziell. Zeit zu kochen!
-Items/CookedCake	Text	 [new]	Cake		Torte
+Items/CookedCake	Text	 [new]	Cake	Ciasto	Torte
 Items/CookedCereal	Text		Cereal	Płatki	Müsli
 Items/CookedCheese	Text		Cheese	Ser	Käse
 Items/CookedDipSnack	Text		Dip Snack	Przekąska z dipem	Dip-Snack
