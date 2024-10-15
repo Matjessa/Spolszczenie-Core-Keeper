@@ -5462,7 +5462,7 @@ experience	Text	{0} will be replaced with the current experience and {1} with th
 experienceGained	Text	{0} will be replaced with a number indicating the experience gained	+{0} xp	+{0} XP	+{0} XP
 explosiveDamage	Text		{0}-{1} explosive damage	{0}-{1} obrażeń od eksplozji	{0}-{1} Explosivschaden
 eyeColor	Text	Option to choose color of eyes	Eye color	Kolor oczu	Augenfarbe
-food	Text		Food	Jedzenie	Essen
+food	Text		Food	Głód	Essen
 foodFormat	Text	"{0} = food adjective,
 {1} = food noun,
 {2} = food type
