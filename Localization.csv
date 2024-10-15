@@ -157,7 +157,7 @@ BiomeNames/Slime	Text		The Undergrounds	Podziemia	Die Untergründe
 BiomeNames/Stone	Text		The Forgotten Ruins	Zapomniane Ruiny	Die Vergessenen Ruinen
 BreastVanitySlot	Text		Chest vanity slot	Okno wyglądu klatki piersiowej	Oberkörper-Eitelkeit-Slot
 CageCattle	Text		Capture a cattle	Złap bydło	Ein Nutztier fangen
-CanBePutIntoEnemySpawnerPlatform	Text	Shown when hovering the slot for Enemy spawners that must contain a figurine to spawn the corresponding enemy of that figurine	Figurine slot	Gniazdo na figurkę	Figuren-Slot
+CanBePutIntoEnemySpawnerPlatform	Text	Shown when hovering the slot for Enemy spawners that must contain a figurine to spawn the corresponding enemy of that figurine	Figurine slot	Slot na figurkę	Figuren-Slot
 CanBePutIntoEnemySpawnerPlatformDesc	Text		Putting a non-boss figurine in the slot and powering the Materializer with electricity will create a clone of the enemy represented by the figurine.	Umieszczenie figurki nie-bossa w slocie i zasilenie materializatora elektrycznością spowoduje stworzenie klona wroga reprezentowanego przez figurkę.	Wenn man eine Figur, die kein Boss ist, in den Slot setzt und den Materialisator mit Elektrizität versorgt, wird ein Klon des Feindes erschaffen, den die Figur darstellt.
 CardinalDirections/East	Text		east	wschód	östlich
 CardinalDirections/North	Text		north	północ	nördlich
@@ -593,16 +593,16 @@ ControlMapper/E5	Text		E5	E5	E5
 ControlMapper/EquipPreset1	Text		Equip loadout 1	Wyposażenie 1	Ausrüstungskombo 1 ausrüsten
 ControlMapper/EquipPreset2	Text		Equip loadout 2	Wyposażenie 2	Ausrüstungskombo 2 ausrüsten
 ControlMapper/EquipPreset3	Text		Equip loadout 3	Wyposażenie 3	Ausrüstungskombo 3 ausrüsten
-ControlMapper/EquipSlot1	Text		Equip slot 1	Gniazdo wyposażenia 1	Ausrüstungsslot 1
-ControlMapper/EquipSlot10	Text		Equip slot 10	Gniazdo wyposażenia 10	Ausrüstungsslot 10
-ControlMapper/EquipSlot2	Text		Equip slot 2	Gniazdo wyposażenia 2	Ausrüstungsslot 2
-ControlMapper/EquipSlot3	Text		Equip slot 3	Gniazdo wyposażenia 3	Ausrüstungsslot 3
-ControlMapper/EquipSlot4	Text		Equip slot 4	Gniazdo wyposażenia 4	Ausrüstungsslot 4
-ControlMapper/EquipSlot5	Text		Equip slot 5	Gniazdo wyposażenia 5	Ausrüstungsslot 5
-ControlMapper/EquipSlot6	Text		Equip slot 6	Gniazdo wyposażenia  6	Ausrüstungsslot 6
-ControlMapper/EquipSlot7	Text		Equip slot 7	Gniazdo wyposażenia  7	Ausrüstungsslot 7
-ControlMapper/EquipSlot8	Text		Equip slot 8	Gniazdo wyposażenia  8	Ausrüstungsslot 8
-ControlMapper/EquipSlot9	Text		Equip slot 9	Gniazdo wyposażenia 9	Ausrüstungsslot 9
+ControlMapper/EquipSlot1	Text		Equip slot 1	Slot wyposażenia 1	Ausrüstungsslot 1
+ControlMapper/EquipSlot10	Text		Equip slot 10	Slot wyposażenia 10	Ausrüstungsslot 10
+ControlMapper/EquipSlot2	Text		Equip slot 2	Slot wyposażenia 2	Ausrüstungsslot 2
+ControlMapper/EquipSlot3	Text		Equip slot 3	Slot wyposażenia 3	Ausrüstungsslot 3
+ControlMapper/EquipSlot4	Text		Equip slot 4	Slot wyposażenia 4	Ausrüstungsslot 4
+ControlMapper/EquipSlot5	Text		Equip slot 5	Slot wyposażenia 5	Ausrüstungsslot 5
+ControlMapper/EquipSlot6	Text		Equip slot 6	Slot wyposażenia  6	Ausrüstungsslot 6
+ControlMapper/EquipSlot7	Text		Equip slot 7	Slot wyposażenia  7	Ausrüstungsslot 7
+ControlMapper/EquipSlot8	Text		Equip slot 8	Slot wyposażenia  8	Ausrüstungsslot 8
+ControlMapper/EquipSlot9	Text		Equip slot 9	Slot wyposażenia 9	Ausrüstungsslot 9
 ControlMapper/F4	Text		F4	F4	F4
 ControlMapper/F4S	Text		F#4	F#4	F#4
 ControlMapper/F5	Text		F5	F5	F5
@@ -4787,7 +4787,7 @@ Menu/Brightness	Text		Brightness	Jasność	Helligkeit
 Menu/ButtonOpenProfile	Text	 [new]	Open Profile	Otwórz profil	Profil öffnen
 Menu/ButtonRefresh	Text	 [new]	Refresh	Odświeżanie	Aktualisieren
 Menu/CRTFilter	Text	 [new]	CRT filter	Filtr CRT	CRT-Filter
-Menu/CharacterSlot	Text		Character slot	Gniazdo na postać	Charakter-Slot
+Menu/CharacterSlot	Text		Character slot	Slot postaci	Charakter-Slot
 Menu/CharacterStuck	Text	Option in gameplay settings allowing player to kill themselves in order to get out of a stuck position	My character is stuck!	Moja postać utknęła!	Mein Charakter steckt fest!
 Menu/CharacterType	Text		Character type	Typ postaci	Charakter-Typ
 Menu/ClassicWorldFormat	Text	 [new]	{0} - Classic world	{0} - Klasyczny świat	{0} - Klassische Welt
@@ -4949,7 +4949,7 @@ Menu/WorldInfo	Text	 [new]	World info	Informacje o świecie	Welt-Info
 Menu/WorldName	Text		World: {0}	Świat: {0}	Welt: {0}
 Menu/WorldNameLabel	Text	 [new]	World name	Nazwa świata	Weltenname
 Menu/WorldSeedLabel	Text	 [new]	World seed	Ziarno świata	Welt-Seed
-Menu/WorldSlot	Text		World slot	Gniazdo świata	Welt-Slot
+Menu/WorldSlot	Text		World slot	Slot świata	Welt-Slot
 Menu/YourVersionIs	Text	 [new]	Your version: {0}	Twoja wersja: {0}	Deine Spielversion: {0}
 MinionCountDesc	Text	 [new]	You have {0} out of {1} current active minions.	Masz {0} z {1} aktualnie aktywnych sługusów.	Du hast {0} von {1} derzeit aktiven Unterlingen.
 MinionCountFormat	Text	 [new]	{0} / {1}	{0} / {1}	{0} / {1}
@@ -5002,7 +5002,7 @@ Outro/Slide4	Text	 [new]	A peculiar crystal, humming with energy. And then you r
 Outro/Slide5	Text	 [new]	...the unity you have experienced and the story you have to tell.	...jedność, której doświadczyłeś i historię, którą masz do opowiedzenia.	... an das Gemeinschaftsgefühl, das du erleben durftest und an die Geschichte, die es zu erzählen gibt.
 Outro/Slide6	Text	 [new]	Even if we are far apart, there is a path in our collective heart.	Nawet jeśli jesteśmy daleko od siebie, w naszym wspólnym sercu jest ścieżka.	Auch wenn die Ferne unendlich scheint, sind wir im Herzen doch vereint.
 Outro/Slide6OnSlideText	Text	 [new]	The End ******.*.*.*?	Koniec ******.*.*.*?	Ende ******.*.*.*?
-PantsVanitySlot	Text		Pants vanity slot	Gniazdo wyglądu spodni	Hosen-Eitelkeit-Slot
+PantsVanitySlot	Text		Pants vanity slot	Slot wyglądu spodni	Hosen-Eitelkeit-Slot
 PetTalents/ApplyBurnBuff	Text		Rising Phoenix	Wschodzący feniks	Aufsteigender Phönix
 PetTalents/ApplyBurnMelee	Text		Burning Anger	Płonący gniew	Brennende Wut
 PetTalents/ApplyBurnRange	Text		Burning Anger	Płonący gniew	Brennende Wut
@@ -5395,7 +5395,7 @@ changeProfile	Text		Change profile	Zmień profil	Profil wechseln
 character	Text		Character	Postać	Charakter
 characterBackground	Text	As in what type of character such as Miner, Explorer etc.	Background	Profesja	Hintergrund
 cheatDeath	Text		Cheated death!	Oszukana śmierć!	Den Tod betrogen!
-chestSlot	Text	Chest as in the breast armor slot	Chest slot	Gniazdo klatki piersiowej	Oberkörper-Slot
+chestSlot	Text	Chest as in the breast armor slot	Chest slot	Slot klatki piersiowej	Oberkörper-Slot
 classicWorldBlocked	Text	 [new]	Invalid access: Starting classic worlds is not available in the free version of the game.	Nieprawidłowy dostęp: Uruchamianie klasycznych światów nie jest dostępne w darmowej wersji gry.	Ungültiger Zugriff: Das Starten klassischer Welten ist in der kostenlosen Version des Spiels nicht möglich.
 click	Text		Click	Kliknij	Klicken
 clickToActivate	Text		Click to activate.	Kliknij, aby aktywować.	Zum Aktivieren klicken.
@@ -5411,7 +5411,7 @@ copyGameID	Text		Copy game ID	Kopiuj identyfikator gry	Spiel-ID kopieren
 crafting	Text	Shown as title in crafting window	Crafting	Tworzenie	Fertigung
 createCharacter	Text		Create character	Tworzenie postaci	Charakter erstellen
 creativeModeOptions	Text		Creative mode options	Opcje trybu kreatywnego	Kreativmodus-Einstellungen
-crystalSlot	Text	Used as hint when hovering a slot that needs a crystal	Crystal slot	Gniazdo na kryształ	Kristall-Slot
+crystalSlot	Text	Used as hint when hovering a slot that needs a crystal	Crystal slot	Slot na kryształ	Kristall-Slot
 currentlySaving	Text		Saving...	Zapisywanie...	Speichert ...
 damage	Text	"The damage of an item like a trap or a turret shown when hovering it, for example ""19-22 damage"""	{0}-{1} damage	{0}-{1} obrażeń	{0}-{1} Schaden
 dateFormat	Text	"{0} = year (number)
@@ -5445,7 +5445,7 @@ durationSec	Text	"Shown at end of buff text with a duration such as ""+2 health 
 {0} is replaced with  ""+2 health every sec"" and
 {1} is replaced with ""25"""	{0} for {1} sec	{0} na {1} sek	{0} für {1} Sek.
 electrictyIconHoverDesc	Text	Shown when hovering over the electricity icon in buildings that require it	This building requires electricity	Ten budynek wymaga energii elektrycznej	Dieses Gebäude benötigt Elektrizität
-emptySlot	Text		Empty slot	Puste gniazdo	Leerer Slot
+emptySlot	Text		Empty slot	Pusty slot	Leerer Slot
 enableGodMode	Text		Enable god mode	Włącz tryb boga	Gott-Modus aktivieren
 enableWorldSimulation	Text		World paused	Świat wstrzymany	Welt pausiert
 enterGameId	Text		Enter Game ID	Wprowadź identyfikator gry	Spiel-ID eingeben
@@ -5494,7 +5494,7 @@ graphicsAPIOption	Text	{0} will be replaced with the name of the graphics api	Pl
 hair	Text	Option to choose hair style	Hair	Włosy	Haar
 hairColor	Text	Option to choose hair color	Hair color	Kolor włosów	Haarfarbe
 hardcoreDeathMessage	Text		You died. Character has been lost.	Zginąłeś. Postać została utracona.	Du bist gestorben. Charakter ging verloren.
-helmSlot	Text		Helm slot	Gniazdo na hełm	Helm-Slot
+helmSlot	Text		Helm slot	Slot na hełm	Helm-Slot
 hideCreativeUI	Text	"""UI"" should also be called ""UI"" when translated, as the button space it is shown own should be kept small and short."	Hide Creative UI	Ukryj kreatywne UI	UI ausblenden
 high	Text		High	Wysoki	Hoch
 holdToSkip	Text	"{0} is replaced with a button/key so for example ""Hold SPACE to skip"". This is used in intro slides of the game."	Hold {0} to skip intro	Przytrzymaj {0} aby pominąć intro	Halte {0}, um das Intro zu überspringen
@@ -5519,7 +5519,7 @@ keySpace	Text		SPACE	SPACJA	LEERTASTE
 keyStart	Text	Name of the Start button on the gamepad	START	START	START
 keyTab	Text		Tab	Tab	Tab
 keyboard	Text		Keyboard	Klawiatura	Tastatur
-lanternSlot	Text		Lantern slot	Gniazdo na latarnię	Laternen-Slot
+lanternSlot	Text		Lantern slot	Slot na latarnię	Laternen-Slot
 leaveTheGame	Text		Leave	Wyjdź	Verlassen
 left	Text		Move left	Ruch w lewo	Nach links
 legalBlurb	Text		© 2021. Core Keeper is a trademark or registered trademark of Pugstorm AB. Published by Fireshine Games.	© 2021. Core Keeper jest znakiem towarowym lub zastrzeżonym znakiem towarowym Pugstorm AB. Wydany przez Fireshine Games.	© 2021 Core Keeper ist eine Marke oder eingetragene Marke von Pugstorm AB. Veröffentlicht von Fireshine Games.
@@ -5548,7 +5548,7 @@ The month will be placed into the 'dateFormat' string."	Jan Feb Mar Apr May Jun 
 multiplayer	Text		Multiplayer	Tryb wieloosobowy	Mehrspieler
 musicSheetItem	Text		Music sheet	Arkusz nutowy	Notenblatt
 nativeLang	Text	"should not translate ""english"" but should show the name of the language itself"	English	Polski	Deutsch
-necklaceSlot	Text		Necklace slot	Gniazdo na naszyjnik	Halsketten-Slot
+necklaceSlot	Text		Necklace slot	Slot na naszyjnik	Halsketten-Slot
 newGame	Text		New Game	Nowa Gra	Neues Spiel
 newItem	Text	"Shown when a new item is picked up, for example: ""New item: Apple"""	New item: {0}	Nowy przedmiot: {0}	Neuer Gegenstand: {0}
 newTalentPoint	Text	"Will for example say ""New talent point available in Fishing!"" in the chat window when player unlocks a new talent point"	New talent point available in {0}!	Nowy punkt umiejętności dostępny w {0}!	Neuer Talentpunkt verfügbar in {0}!
@@ -5569,7 +5569,7 @@ off	Text	"On/Off
 If your language doesn't have specific words for on/off, consider yes/no or enabled/disabled.
 This will be used with things like ""gamepad vibration: On/Off"""	Off	Wył	Aus
 offHandUse	Text		Off-hand use: {0}	Użycie drugiej ręki: {0}	Zweithand-Verwendung: {0}
-offhandSlot	Text		Off-hand slot	Gniazdo drugiej ręki	Zweithand-Slot
+offhandSlot	Text		Off-hand slot	Slot drugiej ręki	Zweithand-Slot
 ok	Text		Ok	Ok	Okay
 on	Text	"On/Off setting.
 If your language doesn't have specific words for on/off, consider yes/no or enabled/disabled.
@@ -5578,7 +5578,7 @@ oneTimeEffect	Text	Shown after buff texts on food for example that can only occu
 options	Text		Settings	Ustawienia	Einstellungen
 oxygen	Text		Oxygen	Tlen	Sauerstoff
 pants	Text	Option to choose pants style	Pants	Spodnie	Hose
-pantsSlot	Text		Pants slot	Gniazdo na spodnie	Hosen-Slot
+pantsSlot	Text		Pants slot	Slot na spodnie	Hosen-Slot
 parry	Text		parry	parowanie	parieren
 pauseWorldOptionDesc	Text		Pausing the world will stop creatures and objects from moving or doing any actions. Water spreading is also paused. This can only be toggled by admins.	Wstrzymanie świata spowoduje, że stworzenia i obiekty nie będą się poruszać ani wykonywać żadnych czynności. Rozprzestrzenianie się wody jest również wstrzymane. Może to być zmienione tylko przez adminów.	Wenn du die Welt pausierst, können sich Kreaturen und Objekte nicht mehr bewegen und keine Aktionen mehr ausführen. Dies kann nur von Admins eingestellt werden.
 paused	Text		Game Paused	Pauza Gry	Spiel pausiert
