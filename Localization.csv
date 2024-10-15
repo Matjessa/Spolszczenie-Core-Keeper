@@ -4813,7 +4813,7 @@ Menu/DontShowAgain	Text	 [new]	Don't show again	Nie pokazuj ponownie	Nicht wiede
 Menu/DynamicWater	Text		Dynamic water	Dynamiczna woda	Dynamisches Wasser
 Menu/Emulated	Text	 [new]	Emulated	Emulowany	Emuliert
 Menu/EnterSeed	Text	 [new]	Enter seed...	Wprowadź ziarno...	Seed eingeben ...
-Menu/EnterWorldName	Text		Enter world name...	Wprowadź nazwę świata...	Weltenname eingeben ...
+Menu/EnterWorldName	Text		Enter world name...	Wpisz nazwę świata...	Weltenname eingeben ...
 Menu/ExperimentalPopUp	Text		Core Keeper is currently running in experimental mode. This mode is using a separate set of save files. Your regular save files will still be there when you are back in non-experimental mode.	Core Keeper działa obecnie w trybie eksperymentalnym. Tryb ten korzysta z oddzielnego zestawu plików zapisu. Zwykłe pliki zapisu będą nadal dostępne po powrocie do trybu nieeksperymentalnego.	Core Keeper läuft derzeit im experimentellen Modus. In diesem Modus wird ein separater Satz von Speicherdateien verwendet. Deine regulären Speicherdateien bleiben erhalten, wenn du wieder in den nicht-experimentellen Modus zurückkehrst.
 Menu/ExportModPackage	Text	 [new]	Export world as MOD.IO package to desktop	Eksportuj świat jako pakiet MOD.IO na pulpit	Welt als MOD.IO-Paket auf den Desktop exportieren
 Menu/ExportToMod	Text	 [new]	Export to mod	Eksport do moda	In Mod exportieren
@@ -4835,7 +4835,7 @@ Menu/HostVersionIs	Text	 [new]	Host's version: {0}	Wersja hosta: {0}	Host-Versio
 Menu/Ignore	Text		Ignore	Ignoruj	Ignorieren
 Menu/IntegerScaling	Text	 [new]	Integer scaling	Skalowanie całkowite	Integer-Skalierung
 Menu/JoinGame	Text		Join Game	Dołącz do gry	Spiel beitreten
-Menu/LightQuality	Text		Light quality	Niska jakość	Lichtqualität
+Menu/LightQuality	Text		Light quality	Jakość światła	Lichtqualität
 Menu/LoadAnyway	Text		Load anyway	Załaduj mimo to	Trotzdem laden
 Menu/LoadFromMod	Text	 [new]	Load from mod	Załaduj z moda	Aus Mod laden
 Menu/LocalModMissingClientDialogue	Text		Required mod {0} is missing.	Brakuje wymaganej modyfikacji: {0}.	Benötigte Mod {0} fehlt.
@@ -4916,13 +4916,14 @@ Menu/SelectWorldFromMod	Text	 [new]	Load world from mod	Załaduj świat z moda	W
 Menu/SelectWorldMode	Text		Select world mode	Wybierz tryb świata	Weltmodus auswählen
 Menu/ServerSimulationDistance	Text		Server simulation distance	Odległość symulacji serwera	Server-Simulationsabstand
 Menu/ServerTickRate	Text		Server tick rate	Częstotliwość taktowania serwera	Server-Tickrate
-Menu/Settings	Text	 [new]	Settings	Ustawienia	Einstellungen
+Menu/Settings	Text	 [new]	Settings	Opcje	Einstellungen
 Menu/SettingsNotAvailableNote	Text		Some settings can only be changed in main menu	Niektóre ustawienia można zmienić tylko w menu głównym	Einige Einstellungen können nur im Hauptmenü geändert werden
 Menu/ShadowQuality	Text		Shadow quality	Jakość cieni	Schattenqualität
 Menu/ShowCharacterNames	Text		Show character names	Pokaż nazwy postaci	Charakternamen anzeigen
 Menu/ShowDamageNumbers	Text		Show damage numbers	Pokaż liczby obrażeń	Schadenszahlen anzeigen
 Menu/ShowGameID	Text		Show game ID	Pokaż identyfikator gry	Spiel-ID anzeigen
-Menu/ShowHotbarKeyboardNumbers	Text	 [new]	Show keyboard numbers on hotbar	Wyświetlanie numerów klawiatury na pasku skrótów	Tastaturnummern in Hotbar anzeigen
+Menu/ShowHotbarKeyboardNumbers	Text	 [new]	Show keyboard numbers on hotbar	"Wyświetlanie numerów 
+Klawiatury na pasku skrótów"	Tastaturnummern in Hotbar anzeigen
 Menu/ShowInGameUI	Text		Show in-game UI	Pokaż interfejs użytkownika w grze	Spielinterne UI anzeigen
 Menu/ShowKeyHints	Text		Show key hints	Pokaż kluczowe podpowiedzi	Tasten-Hinweise anzeigen
 Menu/ShowMinimap	Text		Show minimap	Pokaż minimapę	Minikarte anzeigen
@@ -4941,7 +4942,7 @@ Menu/UIOptions	Text		UI settings	Ustawienia interfejsu użytkownika	UI-Einstellu
 Menu/Version	Text		Version: {0} ({1})   |   © Pugstorm AB	Wersja: {0} ({1})   |   © Pugstorm AB	Version: {0} ({1})   |   © Pugstorm AB
 Menu/VersionsAreCompatibleButNotSameWarning	Text	 [new]	Versions are compatible, but minor changes may affect performance.	Wersje są kompatybilne, ale drobne zmiany mogą mieć wpływ na wydajność.	Die Versionen sind kompatibel, aber kleinere Änderungen können die Leistung beeinträchtigen.
 Menu/WarningVersionMismatch	Text	 [new]	Warning: Version Mismatch	Ostrzeżenie: Niezgodność wersji	Achtung: Falsche Spielversion
-Menu/WindowMode	Text		Window mode	Tryb okienkowy	Fenstermodus
+Menu/WindowMode	Text		Window mode	Typ wyświetlania	Fenstermodus
 Menu/Windowed	Text		Windowed	Okienkowy	Fenster
 Menu/WorldGeneration	Text	 [new]	World Generation	Generacja Świata	Weltgenerierung
 Menu/WorldGenerationLabel	Text	 [new]	World generation	Generacja świata	Weltgenerierung
@@ -5124,7 +5125,7 @@ Roles/NomadDesc	Text		An ordinary person without starting equipment but all the 
 Roles/Ranger	Text		Ranger	Strzelec	Jäger
 Roles/RangerDesc	Text		A swift fighter with a keen eye that's trained to hit enemies from far away.	Szybki wojownik z bystrym okiem, wyszkolony do trafiania wrogów z daleka.	Ein flinker Kämpfer mit scharfem Auge, der darauf trainiert ist, Gegner auf weite Distanz zu bekämpfen.
 Roles/Warlock	Text	 [new]	Warlock	Czarnoksiężnik	Hexenmeister
-Roles/WarlockDesc	Text	 [new]	An adept warlock who conjures dark minions to besiege and bewilder foes.	Adept czarnoksięstwa, który wyczarowuje mrocznych sługusów, by oblegać i dezorientować wrogów.	Ein erfahrener Hexenmeister, der finstere Schergen beschwört, um Feinde zu bedrängen und zu verwirren.
+Roles/WarlockDesc	Text	 [new]	An adept warlock who conjures dark minions to besiege and bewilder foes.	Adept czarnoksięstwa, który wyczarowuje mrocznych sługusów, by oblegać wrogów.	Ein erfahrener Hexenmeister, der finstere Schergen beschwört, um Feinde zu bedrängen und zu verwirren.
 SalvageButtonDesc	Text		Salvage tools, weapons and equipment to gain scrap parts and some of the crafting materials back. Items with less durability gives back less materials.	Złomowanie narzędzi, broni i sprzętu w celu odzyskania części złomu i niektórych materiałów rzemieślniczych. Przedmioty o mniejszej wytrzymałości zwracają mniej materiałów.	Berge Werkzeuge, Waffen und Ausrüstung, um Schrottteile und einen Teil der Fertigungsmaterialien zurückzugewinnen. Gegenstände mit geringerer Haltbarkeit geben weniger Materialien zurück.
 SalvageButtonTitle	Text		Salvage	Odzysk	Zurückgewinnen
 Salvaging	Text	"Shown as title in the salvage and repair UI
@@ -5212,12 +5213,12 @@ SkillTalents/MeleeDamageIncreaseOnHittingSameTarget	Text		Stubborn fighter	Upart
 SkillTalents/MiningDamageAsMeleeDamage	Text		Miner's strength	Siła górnika	Muskelschmalz
 SkillTalents/MiningDamagePercentage	Text		Efficient excavation	Wydajne kopanie	Effiziente Ausgrabung
 SkillTalents/MiningSpeedIncrease	Text		Mine, mine, mine!	Kopać, kopać, kopać!	Graben, graben, graben!
-SkillTalents/MinionAttackSpeed	Text	 [new]	Ferocious creatures	Ferocious creatures	Wilde Kreaturen
-SkillTalents/MinionCountAsMagicBarrier	Text	 [new]	Tough gang	Tough gang	Knallharte Gang
-SkillTalents/MinionCountAsMagicDamage	Text	 [new]	Group effort	Group effort	Gruppenleistung
-SkillTalents/MinionCritChance	Text	 [new]	Critical command	Critical command	Kritischer Befehl
-SkillTalents/MinionDespawnHealsPlayer	Text	 [new]	Proxy parasites	Proxy parasites	Ersatzparasiten
-SkillTalents/MinionLifespan	Text	 [new]	Longing for this world	Longing for this world	Sehnsucht nach dieser Welt
+SkillTalents/MinionAttackSpeed	Text	 [new]	Ferocious creatures	Okrutne stworzenia	Wilde Kreaturen
+SkillTalents/MinionCountAsMagicBarrier	Text	 [new]	Tough gang	Mocny gang	Knallharte Gang
+SkillTalents/MinionCountAsMagicDamage	Text	 [new]	Group effort	Wysiłek grupowy	Gruppenleistung
+SkillTalents/MinionCritChance	Text	 [new]	Critical command	Krytyczna komenda	Kritischer Befehl
+SkillTalents/MinionDespawnHealsPlayer	Text	 [new]	Proxy parasites	Pasożyty zastępcze	Ersatzparasiten
+SkillTalents/MinionLifespan	Text	 [new]	Longing for this world	Tęsknota za tym światem	Sehnsucht nach dieser Welt
 SkillTalents/MovementIncreaseAfterConsistentRunning	Text		Gotta go fast!	Jestem szybkością!	Bruder, muss los
 SkillTalents/MovementIncreaseAfterDodge	Text		On your toes	Na palcach	Ausweichsprinter
 SkillTalents/MovementIncreaseAfterMining	Text		Pick and run!	Bierz i uciekaj!	Nimm, was du kriegen kannst
@@ -5562,7 +5563,7 @@ noPermissionToRegenerateGameIDPrompt	Text		You don't have permission to regenera
 noPermissionToRemoveAdmin	Text		You don't have permission to remove players admin privileges.	Nie masz uprawnień do odbierania graczom uprawnień administratora.	Du hast keine Berechtigung, Spielern die Administratorrechte zu entziehen.
 noPermissionToUnBan	Text		You don't have permission to unban players.	Nie masz uprawnień do odbanowania graczy.	Du hast keine Berechtigung, Spieler zu entsperren.
 nonLocalizedPlaceholder	Text	No need to be translated, only exists in localization for devs convenience	{0}	{0}	{0}
-normal	Text		Normal	Normal	Normal
+normal	Text		Normal	Normalne	Normal
 numpadMinus	Text		NUMPAD -	NUMPAD -	NUMPAD -
 numpadPlus	Text		NUMPAD +	NUMPAD +	NUMPAD +
 off	Text	"On/Off
