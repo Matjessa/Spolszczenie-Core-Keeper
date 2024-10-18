@@ -69,7 +69,7 @@ AchievementsLockedDescription/DefeatRaAkar	Text		Defeat Ra-Akar the Sand Titan	P
 AchievementsLockedDescription/DefeatUrschleim	Text	 [new]	Defeat Urschleim	Pokonaj Urschleima	Bezwinge den Urschleim
 AchievementsLockedDescription/Discover100CookBookRecipes	Text		Discover 100 recipes in the cook book	Odkryj 100 przepisów w książce kucharskiej	100 Rezepte im Kochbuch entdecken
 AchievementsLockedDescription/EquipRingOfRockAndStone	Text		Equip the Ring of Rock and Ring of Stone	Wyposaż Pierścień Skały i Pierścień Kamienia	Ring der Felsen und Ring der Steine ausrüsten
-AchievementsLockedDescription/FeedCattle	Text		Feed cattle	Nakarm bydło	Füttere ein Nutztier
+AchievementsLockedDescription/FeedCattle	Text		Feed cattle	Nakarm zwierzę	Füttere ein Nutztier
 AchievementsLockedDescription/FirstPet	Text		Hatch your first pet from an egg	Wykluj swojego pierwszego zwierzaka z jajka	Brüte dein erstes Haustier aus einem Ei aus
 AchievementsLockedDescription/GainOver200MovementSpeed	Text		Gain over 200% movement speed	Uzyskaj ponad 200% prędkości ruchu	200 % Bewegungsgeschwindigkeit erhalten
 AchievementsLockedDescription/HarvestGoldenIngredient	Text		Harvest a golden plant	Zbierz złotą roślinę	Goldene Pflanze ernten
@@ -115,7 +115,7 @@ AchievementsUnlockedDescription/DefeatRaAkar	Text		Defeated Ra-Akar the Sand Tit
 AchievementsUnlockedDescription/DefeatUrschleim	Text	 [new]	Defeated Urschleim	Pokonano Urschleima	Urschleim bezwungen
 AchievementsUnlockedDescription/Discover100CookBookRecipes	Text		Discovered 100 recipes in the cook book	Odkryto 100 przepisów w książce kucharskiej	100 Rezepte wurden im Kochbuch entdeckt
 AchievementsUnlockedDescription/EquipRingOfRockAndStone	Text		Equipped the Ring of Rock and Ring of Stone	Wyposażono Pierścień Skały i Pierścień Kamienia	Ring der Felsen und Ring der Steine ausgerüstet
-AchievementsUnlockedDescription/FeedCattle	Text		Fed cattle	Nakarmiono bydło	Ein Nutztier gefüttert
+AchievementsUnlockedDescription/FeedCattle	Text		Fed cattle	Nakarmiono zwierzę	Ein Nutztier gefüttert
 AchievementsUnlockedDescription/FirstPet	Text		Hatched your first pet from an egg	Wykluto swojego pierwszego zwierzaka z jajka	Dein erstes Haustier aus einem Ei ausgebrütet
 AchievementsUnlockedDescription/GainOver200MovementSpeed	Text		Gained over 200% movement speed	Uzyskano ponad 200% prędkości ruchu	200 % Bewegungsgeschwindigkeit wurden erhalten
 AchievementsUnlockedDescription/HarvestGoldenIngredient	Text		Harvested a golden plant	Zebrano złotą roślinę	Goldene Pflanze geerntet
@@ -156,7 +156,7 @@ BiomeNames/Sea	Text		The Sunken Sea	Głębiny Morza	Das Versunkene Meer
 BiomeNames/Slime	Text		The Undergrounds	Podziemia	Die Untergründe
 BiomeNames/Stone	Text		The Forgotten Ruins	Zapomniane Ruiny	Die Vergessenen Ruinen
 BreastVanitySlot	Text		Chest vanity slot	Okno wyglądu klatki piersiowej	Oberkörper-Eitelkeit-Slot
-CageCattle	Text		Capture a cattle	Złap bydło	Ein Nutztier fangen
+CageCattle	Text		Capture a cattle	Złap zwierzę	Ein Nutztier fangen
 CanBePutIntoEnemySpawnerPlatform	Text	Shown when hovering the slot for Enemy spawners that must contain a figurine to spawn the corresponding enemy of that figurine	Figurine slot	Slot na figurkę	Figuren-Slot
 CanBePutIntoEnemySpawnerPlatformDesc	Text		Putting a non-boss figurine in the slot and powering the Materializer with electricity will create a clone of the enemy represented by the figurine.	Umieszczenie figurki nie-bossa w slocie i zasilenie materializatora elektrycznością spowoduje stworzenie klona wroga reprezentowanego przez figurkę.	Wenn man eine Figur, die kein Boss ist, in den Slot setzt und den Materialisator mit Elektrizität versorgt, wird ein Klon des Feindes erschaffen, den die Figur darstellt.
 CardinalDirections/East	Text		east	wschód	östlich
@@ -1546,7 +1546,7 @@ ItemCategory/Consumable_Ingredient	Text		Ingredient	Składniki	Zutat
 ItemCategory/Consumable_PetCandy	Text		Pet candy	Słodycze dla zwierząt	Leckerli
 ItemCategory/Consumable_Potion	Text		Potion	Mikstury	Trank
 ItemCategory/Creature	Text		Creature	Stwór	Kreatur
-ItemCategory/Creature_Cattle	Text		Cattle	Bydło	Nutztier
+ItemCategory/Creature_Cattle	Text		Cattle	Zwierzę	Nutztier
 ItemCategory/Creature_Critter	Text		Critter	Stworzenia	Kriechtier
 ItemCategory/Creature_Enemy	Text		Enemy	Wrogowie	Feind
 ItemCategory/Creature_Merchant	Text		Merchant	Handlarz	Händler
@@ -1987,7 +1987,7 @@ Items/CartographyTableDesc	Text		A table to share your map discoveries with othe
 Items/CatalystGemstone	Text		Catalyst Gemstone	Klejnot katalizujący	Katalyse-Edelstein
 Items/CatalystGemstoneDesc	Text		It looks like an Ancient Gemstone but seems to be extremely dense with energy. Has it been used to grow the Shimmering Frontier?	Wygląda jak starożytny kamień szlachetny, ale wydaje się być niezwykle nasycony energią. Czy został użyty do stworzenia Błyszczącej Granicy?	Sieht aus wie ein Antiker Edelstein, scheint aber eine hohe Energiedichte zu haben. Wurde er benutzt, um die Schimmernde Grenze zu schaffen?
 Items/CattleCage	Text		Cattle Transport Box	Skrzynia do transportu bydła	Nutztier-Transportbox
-Items/CattleCageDesc	Text		Useful, handy and secure: the box. One that cattle will feel comfortable to be carried around in and delivered right onto the doorstep of your next farm. Can only be used once.	Użyteczna, poręczna i bezpieczna: skrzynia. Taka, w której bydło będzie się czuło komfortowo, będąc przewożone i dostarczane pod drzwi kolejnego gospodarstwa. Może być użyta tylko raz.	Nützlich, handlich und sicher: die Kiste. Eine, in der Nutztiere komfortabel transportiert und direkt bis zur Türschwelle deiner nächsten Farm gebracht werden können. Kann nur einmal benutzt werden.
+Items/CattleCageDesc	Text		Useful, handy and secure: the box. One that cattle will feel comfortable to be carried around in and delivered right onto the doorstep of your next farm. Can only be used once.	Użyteczna, poręczna i bezpieczna: skrzynia. Taka, w której zwierzę będzie się czuło komfortowo, będąc przewożone i dostarczane pod drzwi kolejnego gospodarstwa. Może być użyta tylko raz.	Nützlich, handlich und sicher: die Kiste. Eine, in der Nutztiere komfortabel transportiert und direkt bis zur Türschwelle deiner nächsten Farm gebracht werden können. Kann nur einmal benutzt werden.
 Items/CattleFeedTray	Text		Feeding Tray	Taca do karmienia	Futtertrog
 Items/CattleFeedTrayDesc	Text		This useful tray can be filled to the brim with cattle feed to keep cattle fed and happy.	Ta przydatna taca może być wypełniona po brzegi paszą dla bydła, aby było ono najedzone i szczęśliwe.	Dieser nützliche Trog kann bis zum Rand mit Tiernahrung gefüllt werden, um Nutztiere satt und glücklich zu machen.
 Items/CattleWorkbench	Text		Livestock Workbench	Zwierzęcy stół warsztatowy	Viehzucht-Werkbank
@@ -2290,7 +2290,7 @@ Items/CosmicFormDesc	Text		A strange entity that is unlike any terrestrial sea l
 Items/Cow	Text		Moolin	Moolin	Muhline
 Items/CowBaby	Text		Moolin Calf	Cielę Moolin	Muhlinen-Kalb
 Items/CowBabyDesc	Text		The innocent juvenile of a Moolin, who has just learned how to stand on its own hoofs. It grows up faster than you think, so give it all the love you have.	Niewinny młody Moolin, który właśnie nauczył się stać na własnych kopytach. Dorasta szybciej niż myślisz, więc daj mu całą swoją miłość.	Das unschuldige Jungtier einer Muhline, das gerade erst gelernt hat, auf eigenen Hufen zu stehen. Es wird schneller erwachsen als du denkst, also gib ihm all die Liebe, die in dir steckt.
-Items/CowDesc	Text		Home to the meadows, this violet bovine is living its life away from danger, happily grazing all day and producing some of the finest milk.	To fioletowe bydło żyje z dala od niebezpieczeństw, szczęśliwie pasąc się przez cały dzień i produkując jedne z najlepszych rodzajów mleka.	Diese in den Wiesen beheimatete lilafarbene Rinderart führt ein Leben fernab jeglicher Gefahr, grast fröhlich und liefert die feinste Milch.
+Items/CowDesc	Text		Home to the meadows, this violet bovine is living its life away from danger, happily grazing all day and producing some of the finest milk.	To fioletowe zwierzę żyje z dala od niebezpieczeństw, szczęśliwie pasąc się przez cały dzień i produkując jedne z najlepszych rodzajów mleka.	Diese in den Wiesen beheimatete lilafarbene Rinderart führt ein Leben fernab jeglicher Gefahr, grast fröhlich und liefert die feinste Milch.
 Items/CrabEnemy	Text		Bubble Crab	Krab bąbelkowy	Blubberkrabbe
 Items/CrabTrophy	Text		Bubble Crab Figurine	Figurka kraba bąbelkowego	Blubberkrabben-Figur
 Items/CrabTrophyDesc	Text		A lifelike representation of a bubble crab.	Realistyczne odwzorowanie kraba bąbelkowego.	Eine lebensechte Nachbildung einer Blubberkrabbe.
@@ -3969,7 +3969,7 @@ Items/RolyPolyBaby	Text		Strolly Poly Nymph	Nimfa wolanki	Bummelkugler-Nymphe
 Items/RolyPolyBabyDesc	Text		The young version of a Strolly Poly. Unlike its grown up parents, this one is in constant danger of being stepped on or being mistaken for a larva by careless explorers.	Młoda wersja wolanki. W przeciwieństwie do swoich dorosłych rodziców, ten jest stale zagrożony byciem nadepniętym lub pomylonym z larwą przez nieostrożnych odkrywców.	Die junge Form eines Bummelkuglers. Anders als seine ausgewachsenen Eltern läuft es stets Gefahr, zertreten oder von unerfahrenen Forschern mit einer Larve verwechselt zu werden.
 Items/RolyPolyDesc	Text		Content with everything going on around it, this gentle giant waddles through the darkness, always in search of a skittering, crunchy snack. Did you know that it is not even an insect?	Zadowolony ze wszystkiego, co dzieje się wokół niego, ten łagodny olbrzym kroczy przez ciemność, zawsze w poszukiwaniu skrzeczącej, chrupiącej przekąski. Czy wiesz, że nie jest to nawet owad?	Zufrieden mit allem, was um ihn herum geschieht, watschelt dieser sanfte Riese durch die Dunkelheit, stets auf der Suche nach einem kriechenden, knusprigen Snack. Wusstest du, dass er kein Insekt ist?
 Items/RolyPolyPlate	Text	Item received from a big roly poly animal. Translations of said animal should refer to something correlating to a roly poly + slowness/wandering/strolling	Strolly Poly Plate	Płytka wolanki	Bummelkugler-Platte
-Items/RolyPolyPlateDesc	Text		A cast-off plate that makes up the hard armor of a Strolly Poly. Very sturdy and great for crafting.	Odrzucona płytka, która tworzy twardy korpus Strolly Poly. Jest bardzo wytrzymała i świetnie nadaje się do obróbki.	Eine abgeworfene Platte, aus der der harte Panzer eines Bummelkuglers besteht. Sehr beständig und großartig zum Weiterverarbeiten.
+Items/RolyPolyPlateDesc	Text		A cast-off plate that makes up the hard armor of a Strolly Poly. Very sturdy and great for crafting.	Odrzucona płytka, która tworzy twardy korpus wolanki. Jest bardzo wytrzymała i świetnie nadaje się do obróbki.	Eine abgeworfene Platte, aus der der harte Panzer eines Bummelkuglers besteht. Sehr beständig und großartig zum Weiterverarbeiten.
 Items/RoofingTool	Text		Roofing Gadget	Gadżet dachowy	Gewölbe-Apparat
 Items/RoofingToolDesc	Text		This strange gauntlet can create a roof light on a tile you're facing; or remove it. It is not able to let you escape, though.	Ta dziwna rękawica może stworzyć światło dachowe na płytce, przed którą stoisz; lub je usunąć. Nie jest jednak w stanie pozwolić ci uciec z tego miejsca.	Dieser merkwürdige Handschuh macht es möglich, Deckenlicht an einem Punkt vor dir zu erzeugen; oder es wieder zu entfernen. Leider kann er dir nicht zur Flucht verhelfen.
 Items/RootSeed	Text		Root Seed	Nasiono korzenia	Wurzel-Samen
@@ -5390,7 +5390,7 @@ cantBanYourself	Text		You cannot ban yourself	Nie możesz zbanować siebie	Du ka
 cantBeReinforced	Text		Cannot be reinforced	Nie można wzmocnić	Kann nicht verstärkt werden
 cantRemoveAdmin	Text		You cannot remove admin privileges from this player.	Nie można odebrać uprawnień administratora temu graczowi.	Du kannst diesem Spieler die Administratorrechte nicht entziehen.
 cantRemoveAdminFromYourself	Text		You cannot remove admin privileges from yourself.	Nie możesz odebrać sobie uprawnień administratora.	Du kannst dir die Administratorrechte nicht selbst entziehen.
-cattle	Text		Cattle	Bydło	Nutztier
+cattle	Text		Cattle	Zwierzę	Nutztier
 caughtItem	Text	Shown in chat when for example catching an item through fishing where {0} is the name of the item	Caught: {0}	Wyłowiono: {0}	Gefangen: {0}
 changeProfile	Text		Change profile	Zmień profil	Profil wechseln
 character	Text		Character	Postać	Charakter
