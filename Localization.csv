@@ -3240,7 +3240,7 @@ Items/LavaSlime	Text		Magma Slime	Magmowy szlam	Magmaschleim
 Items/LavaSlimeBlob	Text		Lava Slime	Lawowy szlam	Lavaschleim
 Items/LavaSlimeBossChest	Text		Igneous' Chest	Skrzynia Igneousa	Igneous' Kiste
 Items/LavaSlimeBossChestDesc	Text		A magma-covered chest reminiscent of the Molten Mass.	Pokryta magmą skrzynia przypominająca Stopioną Masę.	Eine schleimbedeckte Kiste, die an die Geschmolzene Masse erinnert.
-Items/LavaSlimeBossScanner	Text		Igneous the Molten Mass Scanner	Skaner Igneosa Stopionego	Igneous-Scanner
+Items/LavaSlimeBossScanner	Text		Igneous the Molten Mass Scanner	Skaner Igneosa Stopionej Masy	Igneous-Scanner
 Items/LavaSlimeBossScannerDesc	Text		Scans the world for Igneous the Molten Mass. Consumed on successful scan.	Skanuje świat w poszukiwaniu Igneosa Stopionego. Zużywany po udanym skanowaniu.	Scannt die Welt nach Igneous, der Geschmolzenen Masse. Wird bei erfolgreichem Scan verbraucht.
 Items/LavaSlimeDesc	Text		A dark blob of flaming slime. Can be further processed.	Ciemna kula płonącego szlamu. Może być dalej przetwarzany.	Ein dunkler Klumpen feurigen Schleims. Kann weiterverarbeitet werden.
 Items/LavaSlimeTrophy	Text		Lava Slime Figurine	Figurka lawowego szlamu	Lavaschleim-Figur
