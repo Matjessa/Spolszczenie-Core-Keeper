@@ -1845,7 +1845,7 @@ Items/BikiniPantsArmorRed	Text		Red Bikini Bottom	Czerwony dół od bikini	Rotes
 Items/BikiniPantsArmorRedDesc	Text		A red underwear piece that goes well with its top part. Get rid of unnecessary clothing and run free in the sun!	Czerwona bielizna, która dobrze komponuje się z górną częścią. Pozbądź się niepotrzebnych ubrań i biegaj swobodnie w słońcu!	Ein roter Slip, der gut zum Oberteil passt. Entledige dich überflüssiger Kleidung und laufe frei in der Sonne!
 Items/BindingString	Text		Thread of Fate	Nić przeznaczenia	Faden des Schicksals
 Items/BindingStringDesc	Text		A mysterious string woven from fine filaments. It can be used to bind a set of cards together.	Tajemniczy sznurek utkany z cienkich włókien. Może być używany do łączenia zestawu kart.	Ein mysteriöses Band, gewebt aus feinen Filamenten. Es kann genutzt werden, um ein Kartenset zusammenzubinden.
-Items/BirdBossScanner	Text		Azeos the Sky Titan Scanner	Skaner na Azeosa Podniebnego Tytana	Azeos-Scanner
+Items/BirdBossScanner	Text		Azeos the Sky Titan Scanner	Skaner Azeosa Podniebnego Tytana	Azeos-Scanner
 Items/BirdBossScannerDesc	Text		Scans the world for Azeos the Sky Titan. Consumed on successful scan.	Skanuje świat w poszukiwaniu podniebnego tytana Azeosa. Zużywa się po udanym skanowaniu.	Scannt die Welt nach Azeos, dem Himmelstitanen. Wird bei erfolgreichem Scan verbraucht.
 Items/BlackBubblePearl	Text		Black Bubble Pearl	Czarna perła bąbelkowa	Schwarze Blasen-Perle
 Items/BlackBubblePearlDesc	Text		A black variant of the bubble pearl, from certain angles it appears golden.	Czarny wariant perły bąbelkowej, pod pewnymi kątami wydaje się złoty.	Eine schwarze Version der Blasen-Perle, die aus bestimmten Winkeln golden schimmert.
@@ -3525,7 +3525,7 @@ Items/OctarineWorkbench	Text		Octarine Workbench	Oktarynowy stół warsztatowy	O
 Items/OctarineWorkbenchDesc	Text		Mystical workbench for creating extraordinary gear.	Mistyczny stół warsztatowy do tworzenia niezwykłego sprzętu.	Eine mystische Werkbank für die Fertigung überragender Ausrüstung.
 Items/OctopusBossChest	Text		Floating Titan's Chest	Skrzynia pływającego tytana	Schwimmende Titanen-Kiste
 Items/OctopusBossChestDesc	Text		A large, ancient chest crested with gemstones. Through air-filled growths at its bottom it can float on water.	Duża, starożytna skrzynia ozdobiona kamieniami szlachetnymi. Dzięki wypełnionym powietrzem naroślom na dnie może unosić się na wodzie.	Eine große, antike Kiste bestückt mit Edelsteinen. Durch luftgefüllte Wüchse an der Unterseite kann sie auch auf dem Wasser platziert werden.
-Items/OctopusBossScanner	Text		Omoroth the Sea Titan Scanner	Skaner Omorotha morskiego tytana	Omoroth-Scanner
+Items/OctopusBossScanner	Text		Omoroth the Sea Titan Scanner	Skaner Omorotha Morskiego Tytana	Omoroth-Scanner
 Items/OctopusBossScannerDesc	Text		Scans the world for Omoroth the Sea Titan. Consumed on successful scan.	Skanuje świat w poszukiwaniu morskiego tytana Omorotha. Zużywa się po udanym skanowaniu.	Scannt die Welt nach Omoroth, dem Meerestitanen. Wird bei erfolgreichem Scan verbraucht.
 Items/OctopusBreastArmor	Text		Omoroth's Chestplate	Napierśnik Omorotha	Omoroths Brustplatte
 Items/OctopusBreastArmorDesc	Text		A upper body armor reminiscent of the Sea Titan. There is a sleek cape attached to it.	Górna część pancerza przypominająca morskiego tytana. Dołączona jest do niej smukła peleryna.	Eine Oberkörper-Rüstung, die an den Meerestitanten erinnert. Ein eleganter Umhang ist daran befestigt.
@@ -3542,7 +3542,7 @@ Items/OldJournalDesc	Text		A leather-bound book with crumbly pages. It is writte
 Items/OldSporeMask	Text		Old Spore Mask	Stara zarodnikowa maska	Alte Sporenmaske
 Items/OldSporeMaskDesc	Text		An old mask protecting against air-borne spores. It's broken but may still fetch a good price.	Stara maska chroniąca przed zarodnikami przenoszonymi przez powietrze. Jest uszkodzona, ale wciąż może osiągnąć dobrą cenę.	Eine alte Maske, die gegen Sporen in der Luft schützen sollte. Sie ist undicht, sollte aber trotzdem noch gut zu verkaufen sein.
 Items/OmorothBeak	Text		Omoroth's Beak	Dziób Omorotha	Omoroths Schnabel
-Items/OmorothBeakDesc	Text		The sharp mouth piece of Omoroth, the Sea Titan. It seems to be able to crush every material.	Ostra paszcza Omorotha, morskiego tytana. Wydaje się, że jest w stanie zmiażdżyć każdy materiał.	Das messerscharfe Mundstück von Omoroth, dem Meerestitanen. Es scheint jedes Material zerbrechen zu können.
+Items/OmorothBeakDesc	Text		The sharp mouth piece of Omoroth, the Sea Titan. It seems to be able to crush every material.	Ostra paszcza Omorotha Morskiego Tytana. Wydaje się, że jest w stanie zmiażdżyć każdy materiał.	Das messerscharfe Mundstück von Omoroth, dem Meerestitanen. Es scheint jedes Material zerbrechen zu können.
 Items/OmorothCompass	Text		Omoroth Compass	Kompas Omorotha	Omoroth-Kompass
 Items/OmorothCompassDesc	Text		A splendid tool for seafaring created in honor of Omoroth, anyone possessing it will never feel lost at sea. A gift worthy of a king.	Wspaniałe narzędzie do żeglugi morskiej stworzone na cześć Omorotha, każdy, kto je posiada, nigdy nie poczuje się zagubiony na morzu. Prezent godny króla.	Ein prächtiges Werkzeug für die Seefahrt, das zu Ehren von Omoroth gefertigt wurde. Jeder, der ihn besitzt, wird stets seinen Weg auf See finden. Ein Geschenk, das eines Königs würdig ist.
 Items/OmorothNecklace	Text		Omoroth's Necklace	Naszyjnik Omorotha	Omoroths Halskette
@@ -3550,7 +3550,7 @@ Items/OmorothNecklaceDesc	Text		A piece of jewelry with a striking likeness to t
 Items/OmorothRing	Text		Omoroth's Ring	Pierścień Omorotha	Omoroths Ring
 Items/OmorothRingDesc	Text		A plated looping tentacle that wraps around your finger. Stemming from a titan, it enhances your might in fighting these giant monsters.	Powlekana macka, która owija się wokół palca. Pochodzi od tytana i zwiększa twoją siłę w walce z gigantycznymi potworami.	Ein gepanzerter Tentakel, der sich um deinen Finger wickelt. Da er von einem Titanen stammt, verstärkt er deine Kraft im Kampf mit diesen riesigen Kreaturen.
 Items/OmorothTrophy	Text		Omoroth Figurine	Figurka Omorotha	Omoroth-Figur
-Items/OmorothTrophyDesc	Text		A lifelike representation of Omoroth, the Sea Titan.	Realistycznie odwzorowany Omoroth, morski tytan.	Eine lebensechte Nachbildung von Omoroth, dem Meerestitanen.
+Items/OmorothTrophyDesc	Text		A lifelike representation of Omoroth, the Sea Titan.	Realistycznie odwzorowany Omoroth Morski Tytan.	Eine lebensechte Nachbildung von Omoroth, dem Meerestitanen.
 Items/OpabiniaFossil	Text		Opabinia Fossil	Skamielina Opabinii	Opabinia-Fossil
 Items/OpabiniaFossilDesc	Text		The petrified body of an prehistoric sea critter. They were one of the first apex predators to appear in the ancient oceans of earth.	Skamieniałe ciało prehistorycznego stworzenia morskiego. Były one jednymi z pierwszych drapieżników, które pojawiły się w starożytnych oceanach ziemi.	Der versteinerte Körper einer prähistorischen Meereskreatur. Sie war einst einer der ersten Apex-Jäger der urzeitlichen Meere der Erde.
 Items/OracleCardAzeos	Text		"Oracle Card ""Radiance"""	Karta wyroczni „Blask”	"""Orakel-Karte ""Glanz""""
@@ -4421,7 +4421,7 @@ Items/TempleGuardianStatueDesc	Text		This intimidating statue depicts an ancient
 Items/TempleGuardianStatueRaided	Text		Raided Temple Guardian Statue	Zniszczony posąg strażnika świątyni	Beschädigte Tempelwächter-Statue
 Items/TempleGuardianStatueRaidedDesc	Text		A statue wilfully destroyed by grave thiefs. It has been partially relieved of the green daggers in its stony clasp.	Posąg umyślnie zniszczony przez złodziei grobów. Został częściowo pozbawiony zielonych sztyletów w kamiennej klamrze.	Eine Statue, die mutwillig von Grabräubern zerstört wurde. Sie wurde teilweise von den grünen Dolchen in ihrem steinernen Griff erleichtert.
 Items/TempleOmorothUrn	Text		Omoroth Urn	Urna Omorotha	Omoroth-Urne
-Items/TempleOmorothUrnDesc	Text		This decorative vase has been made in honor of Omoroth, the Sea Titan.	Ta dekoracyjna waza została wykonana na cześć Omorotha, Morskiego Tytana.	Diese dekorative Vase wurde zu Ehren von Omoroth, dem Meerestitanen hergestellt.
+Items/TempleOmorothUrnDesc	Text		This decorative vase has been made in honor of Omoroth, the Sea Titan.	Ta dekoracyjna waza została wykonana na cześć Omorotha Morskiego Tytana.	Diese dekorative Vase wurde zu Ehren von Omoroth, dem Meerestitanen hergestellt.
 Items/TemplePedestal	Text		Temple Pedestal	Świątynny piedestał	Tempelsockel
 Items/TemplePedestalDesc	Text		An ancient golden stand that seems to have held royal belongings once.	Starożytny, złoty stojak, na którym niegdyś przechowywano królewskie rzeczy.	Ein uralter goldener Sockel, auf dem anscheinend einst königliche Besitztümer aufbewahrt wurden.
 Items/TemplePillar	Text		Temple Pillar	Filar świątynny	Tempelsäule
