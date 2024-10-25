@@ -1946,8 +1946,8 @@ Items/Bucket	Text		Bucket	Wiadro	Eimer
 Items/BucketDesc	Text		A bucket. The clever solution to transporting water.	Wiadro. Sprytne rozwiązanie do transportu wody.	Ein Eimer. Die schlaue Art, Wasser zu transportieren.
 Items/BugNet	Text		Bug Net	Siatka na robaki	Käfernetz
 Items/BugNetDesc	Text		This handy tool allows you to catch tiny critters instead of accidentally stepping on them.	Te poręczne narzędzie pozwala łapać małe stworzenia zamiast przypadkowo na nie stawać.	Dieses nützliche Werkzeug gestattet es, kleine Lebewesen einzufangen, anstatt aus Versehen draufzutreten.
-Items/Burnzooka	Text		Burnzooka	Burnzooka	Flammzooka
-Items/BurnzookaDesc	Text		This fiery weapon was modeled after the grubzooka but enhanced with lava rock shielding to contain its power. Can blast away stone walls and anything weaker.	Ta ognista broń jest wzorowana na grubzooce, ale wzmocniono ją osłoną ze skał lawowych, aby opanować jej moc. Może niszczyć kamienne ściany i wszystko, co słabsze.	Diese feurige Waffe wurde nach dem Modell der Larvzooka entworfen, aber mit Lavagestein ummantelt, um ihre Wucht zu lenken. Kann Steinwände und alles Schwächere durchschlagen.
+Items/Burnzooka	Text		Burnzooka	Ognistazooka	Flammzooka
+Items/BurnzookaDesc	Text		This fiery weapon was modeled after the grubzooka but enhanced with lava rock shielding to contain its power. Can blast away stone walls and anything weaker.	Ta ognista broń jest wzorowana na larwzooce, ale wzmocniono ją osłoną ze skał lawowych, aby opanować jej moc. Może niszczyć kamienne ściany i wszystko, co słabsze.	Diese feurige Waffe wurde nach dem Modell der Larvzooka entworfen, aber mit Lavagestein ummantelt, um ihre Wucht zu lenken. Kann Steinwände und alles Schwächere durchschlagen.
 Items/Bush	Text		Bush	Krzew	Büschel
 Items/BushDesc	Text		A stubby patch of grass to use as a decorative.	Kępka trawy do wykorzystania jako element dekoracyjny.	Ein stummeliger Grasbüschel. Kann zum Dekorieren verwendet werden.
 Items/ButterflyBase	Text		Crimson Wing	Karmazynowe skrzydło	Purpurflügel
