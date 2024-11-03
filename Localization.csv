@@ -425,7 +425,7 @@ Conditions/IncreasedMinionCountAsMagicDamagePercentage	Text	 [new]	{0}% magic da
 Conditions/IncreasedMinionCritChance	Text	 [new]	{0}% minion critical hit chance	{0}% szansy na trafienie krytyczne sługusa	{0} % der kritischen Trefferchance des Unterlings
 Conditions/IncreasedMinionDamage	Text	 [new]	{0} minion damage	{0} obrażeń sługusów	{0} Unterlingschaden
 Conditions/IncreasedMinionDamagePercentage	Text	 [new]	{0}% minion damage	{0}% obrażeń sługusów	{0} % Unterlingschaden
-Conditions/IncreasedMinionLifespanPercentage	Text	 [new]	{0}% minion lifespan	{0}% żywotności sługusów	{0} % Lebensspanne der Unterlinge
+Conditions/IncreasedMinionLifespanPercentage	Text	 [new]	{0}% minion lifespan	{0}% żywotności sługusów 	{0} % Lebensspanne der Unterlinge
 Conditions/IncreasedPickUpRadius	Text		{0}% pickup radius	{0}% zasięgu podnoszenia	{0} % Aufnahme-Radius
 Conditions/IncreasedRodRange	Text		{0}% fishing rod throw range	{0}% zasięgu zarzucania wędki	{0} % Angel-Auswurfreichweite
 Conditions/InfectedWithMold	Text		{0}% movement speed, increasingly slows down movement from mold infection	{0}% szybkości ruchu, znacznie spowalnia ruch od zakażenia pleśnią	{0} % Bewegungsgeschwindigkeit, verlangsamt zunehmend die Bewegung durch Schimmel-Infektionen
@@ -4996,8 +4996,7 @@ Menu/ShadowQuality	Text		Shadow quality	Jakość cieni	Schattenqualität
 Menu/ShowCharacterNames	Text		Show character names	Pokaż nazwy postaci	Charakternamen anzeigen
 Menu/ShowDamageNumbers	Text		Show damage numbers	Pokaż liczby obrażeń	Schadenszahlen anzeigen
 Menu/ShowGameID	Text		Show game ID	Pokaż identyfikator gry	Spiel-ID anzeigen
-Menu/ShowHotbarKeyboardNumbers	Text	 [new]	Show keyboard numbers on hotbar	"Wyświetlanie numerów 
-Klawiatury na pasku skrótów"	Tastaturnummern in Hotbar anzeigen
+Menu/ShowHotbarKeyboardNumbers	Text	 [new]	Show keyboard numbers on hotbar	Wyświetlanie cyfr na pasku skrótów	Tastaturnummern in Hotbar anzeigen
 Menu/ShowInGameUI	Text		Show in-game UI	Pokaż interfejs użytkownika w grze	Spielinterne UI anzeigen
 Menu/ShowKeyHints	Text		Show key hints	Pokaż kluczowe podpowiedzi	Tasten-Hinweise anzeigen
 Menu/ShowMinimap	Text		Show minimap	Pokaż minimapę	Minikarte anzeigen
@@ -5013,7 +5012,8 @@ Menu/ToggleGuestModeOn	Text		Enable guest mode	Włącz tryb gościa	Gastmodus ak
 Menu/TogglePvPOff	Text	 [new]	Disable PvP	Wyłącz PvP	PvP deaktivieren
 Menu/TogglePvPOn	Text	 [new]	Enable PvP	Włącz PvP	PvP aktivieren
 Menu/UIOptions	Text		UI settings	Ustawienia interfejsu użytkownika	UI-Einstellungen
-Menu/Version	Text		Version: {0} ({1})   |   © Pugstorm AB	Wersja: {0} ({1})   |   © Pugstorm AB	Version: {0} ({1})   |   © Pugstorm AB
+Menu/Version	Text		Version: {0} ({1})   |   © Pugstorm AB	"Wersja: {0} ({1})   |   © Pugstorm AB
+Wersja spolszczenia: 1.0.6"	Version: {0} ({1})   |   © Pugstorm AB
 Menu/VersionsAreCompatibleButNotSameWarning	Text	 [new]	Versions are compatible, but minor changes may affect performance.	Wersje są kompatybilne, ale drobne zmiany mogą mieć wpływ na wydajność.	Die Versionen sind kompatibel, aber kleinere Änderungen können die Leistung beeinträchtigen.
 Menu/WarningVersionMismatch	Text	 [new]	Warning: Version Mismatch	Ostrzeżenie: Niezgodność wersji	Achtung: Falsche Spielversion
 Menu/WindowMode	Text		Window mode	Typ wyświetlania	Fenstermodus
