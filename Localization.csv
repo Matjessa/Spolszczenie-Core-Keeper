@@ -5469,7 +5469,7 @@ cantBeReinforced	Text		Cannot be reinforced	Nie można wzmocnić	Kann nicht vers
 cantRemoveAdmin	Text		You cannot remove admin privileges from this player.	Nie można odebrać uprawnień administratora temu graczowi.	Du kannst diesem Spieler die Administratorrechte nicht entziehen.
 cantRemoveAdminFromYourself	Text		You cannot remove admin privileges from yourself.	Nie możesz odebrać sobie uprawnień administratora.	Du kannst dir die Administratorrechte nicht selbst entziehen.
 cattle	Text		Cattle	Zwierzę	Nutztier
-caughtItem	Text	Shown in chat when for example catching an item through fishing where {0} is the name of the item	Caught: {0}	Wyłowiono: {0}	Gefangen: {0}
+caughtItem	Text	Shown in chat when for example catching an item through fishing where {0} is the name of the item	Caught: {0}	Złapano: {0}	Gefangen: {0}
 changeProfile	Text		Change profile	Zmień profil	Profil wechseln
 character	Text		Character	Postać	Charakter
 characterBackground	Text	As in what type of character such as Miner, Explorer etc.	Background	Profesja	Hintergrund
