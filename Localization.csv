@@ -557,6 +557,7 @@ Consoles/ShowButtonHintsNintendo	Text	 [new]	Show button hints	Pokaż podpowiedz
 Consoles/ShowButtonHintsPlayStation	Text	 [new]	Show button hints	Pokaż podpowiedzi do przycisków	Tastenhinweise anzeigen
 Consoles/ShowButtonHintsXbox	Text	 [new]	Show button hints	Pokaż podpowiedzi do przycisków	Tastenhinweise anzeigen
 Consoles/StartGameOffline	Text	 [new]	Start offline game	Rozpocznij grę offline	Offline-Spiel starten
+Consoles/TriggerEffects	Text	 [new]	Trigger effect	Efekt spustu	Trigger-Effekt
 Consoles/UgcLastEditedBy	Text	 [new]	Author: {0}	Autor: {0}	Autor: {0}
 Consoles/XboxNetwork	Text	 [new]	Xbox network	sieć Xbox	Xbox-Netzwerk
 Consoles/clickToActivateConsoles	Text	 [new]	Press {0} to activate.	Naciśnij {0}, aby włączyć.	Zum Aktivieren {0} drücken.
@@ -749,48 +750,59 @@ Credits/Artists	Text	 [new]	Artists	Artyści	Künstler
 Credits/AssociateProducer	Text		Associate Producer	Współpracownik ds. produkcji	Associate Producer
 Credits/AssociateProductManager	Text		Associate Product Manager	Zastępca kierownika produktu	Associate Product Manager
 Credits/Association71Consulting	Text	 [new]	"In Association with Marketing & PR Studio
-71 Consulting"	We współpracy z Marketing & PR Studio 71 Consulting	"""In Zusammenarbeit mit Marketing- und PR-Studio
+71 Consulting"	We współpracy z Marketing & PR Studio 71 Consulting	"""""In Zusammenarbeit mit Marketing- und PR-Studio
 71 Consulting""
+""
 "
 Credits/AssociationAceAgency	Text	 [new]	"In Association with Localisation Studio
-ACE Agency"	We współpracy z agencją lokalizacyjną Studio ACE	"""In Zusammenarbeit mit der Lokalisierungsagentur
+ACE Agency"	We współpracy z agencją lokalizacyjną Studio ACE	"""""In Zusammenarbeit mit der Lokalisierungsagentur
 ACE Agency""
+""
 "
 Credits/AssociationDreamLoop	Text	 [new]	"In Association with Console Porting Studio
-Dreamloop Games"	We współpracy z konsolowym studiem portującym Dreamloop Games	"""In Zusammenarbeit mit dem Konsolen-Portierungsstudio
+Dreamloop Games"	We współpracy z konsolowym studiem portującym Dreamloop Games	"""""In Zusammenarbeit mit dem Konsolen-Portierungsstudio
 Dreamloop Games""
+""
 "
 Credits/AssociationEnzyme	Text	 [new]	"In Association with Compatibility Testing Studio
-Enzyme"	We współpracy z Studio Enzyme zajmującym się testowaniem kompatybilności	"""In Zusammenarbeit mit dem Studio für Kompatibilitätstests
+Enzyme"	We współpracy z Studio Enzyme zajmującym się testowaniem kompatybilności	"""""In Zusammenarbeit mit dem Studio für Kompatibilitätstests
 Enzyme""
+""
 "
 Credits/AssociationKeywordsIndia	Text	 [new]	"In Association with PC FQA Studio
-Keywords India"	We współpracy z PC FQA Studio Keywords India	"""In Zusammenarbeit mit dem Studio für PC-FQA
+Keywords India"	We współpracy z PC FQA Studio Keywords India	"""""In Zusammenarbeit mit dem Studio für PC-FQA
 Keywords India""
+""
 "
 Credits/AssociationLionbridge	Text	 [new]	"In Association with PC and Console QA Studio
-Lionbridge Games"	We współpracy z PC and Console QA Studio Lionbridge Games	"""In Zusammenarbeit mit dem Studio für PC- und Konsolen-QA
+Lionbridge Games"	We współpracy z PC and Console QA Studio Lionbridge Games	"""""In Zusammenarbeit mit dem Studio für PC- und Konsolen-QA
 Lionbridge Games""
+""
 "
 Credits/AssociationLionbridgeLQA	Text	 [new]	"In Association with PC and Console LQA Studio
-Lionbridge Games"	We współpracy z PC and Console LQA Studio Lionbridge Games	"""In Zusammenarbeit mit dem Studio für PC- und Konsolen-LQA
+Lionbridge Games"	We współpracy z PC and Console LQA Studio Lionbridge Games	"""""In Zusammenarbeit mit dem Studio für PC- und Konsolen-LQA
 Lionbridge Games""
+""
 "
 Credits/AssociationLocalizeDirect	Text	 [new]	"In Association with PC LQA Studio
-LocalizeDirect"	We współpracy z PC LQA Studio LocalizeDirect	"""In Zusammenarbeit mit dem Studio für PC-LQA
+LocalizeDirect"	We współpracy z PC LQA Studio LocalizeDirect	"""""In Zusammenarbeit mit dem Studio für PC-LQA
 LocalizeDirect""
+""
 "
 Credits/AssociationOhCreative	Text	 [new]	"In Association with Marketing Studio
-OH Creative"	We współpracy z Marketing Studio OH Creative	"""In Zusammenarbeit mit Marketingstudio
+OH Creative"	We współpracy z Marketing Studio OH Creative	"""""In Zusammenarbeit mit Marketingstudio
 OH Creative""
+""
 "
 Credits/AssociationPlaytropic	Text	 [new]	"In Association with PC and Console FQA Studio
-Playtropic Video Game Services"	We współpracy z PC and Console FQA Studio Playtropic Video Game Services	"""In Zusammenarbeit mit dem Studio für PC- und Konsolen-FQA
+Playtropic Video Game Services"	We współpracy z PC and Console FQA Studio Playtropic Video Game Services	"""""In Zusammenarbeit mit dem Studio für PC- und Konsolen-FQA
 Playtropic Videogame Services""
+""
 "
 Credits/AssociationTestify	Text	 [new]	"In Association with Testing Studio
-Testify"	We współpracy z testerskim Testify Studio 	"""In Zusammenarbeit mit dem Teststudio
+Testify"	We współpracy z testerskim Testify Studio 	"""""In Zusammenarbeit mit dem Teststudio
 Testify""
+""
 "
 Credits/AudioAndMusic	Text	 [new]	Audio and Music	Audio i muzyka	Audio und Musik
 Credits/AudioDesigners	Text	 [new]	Audio/Sound Designers	Projektanci dźwięku	Audio-/Sound-Designer
@@ -855,8 +867,9 @@ Credits/PCandConsoleFQA	Text	 [new]	PC and Console FQA	PC i Console FQA	PC- und 
 Credits/PCandConsoleQA	Text	 [new]	PC and Console QA	Kontrola jakości na komputerze i konsoli	PC- und Konsolen-QA
 Credits/PRAndCommunications	Text		PR and Communications	PR i komunikacja	PR und Kommunikation
 Credits/PartneredFireshine	Text	 [new]	"Partnered with Publisher
-Fireshine Games"	Współpraca z wydawcą Fireshine Games	"""In Partnerschaft mit dem Publisher
+Fireshine Games"	Współpraca z wydawcą Fireshine Games	"""""In Partnerschaft mit dem Publisher
 Fireshine""
+""
 "
 Credits/PartneredUnity	Text	 [new]	Partnered with Unity Technologies	Partnerstwo z Unity Technologies	In Partnerschaft mit Unity Technologies
 Credits/PortingProgrammers	Text	 [new]	Porting Programmers	Programiści portujący	Porting-Programmierer/innen
@@ -1205,8 +1218,9 @@ Emotes/ThisWillTakeAWhile	Text		This will take a while...	To trochę potrwa...	D
 Emotes/ThisWillTakeForever	Text		This will take forever...	To zajmie wieczność...	Das wird ewig dauern ...
 Emotes/UnlockedInEarlyAccess	Text		Unlocked in Early Access	Odblokowane w ramach wczesnego dostępu	Im Early Access freigeschaltet
 Emotes/UnlocksAtLaunch	Text	 [new]	"Continue your exploration beyond the wall at 1.0,
-unlocks August 27th 2024."	Kontynuuj eksplorację poza murem w wersji 1.0, zostanie odblokowana 27 sierpnia 2024 r.	"""Setze die Erkundung jenseits der Wand mit 1.0 fort.
+unlocks August 27th 2024."	Kontynuuj eksplorację poza murem w wersji 1.0, zostanie odblokowana 27 sierpnia 2024 r.	"""""Setze die Erkundung jenseits der Wand mit 1.0 fort.
 Die Freischaltung erfolgt am 27. August 2024""
+""
 "
 Emotes/WaypointActivated	Text	 [new]	Waypoint activated	Punkt nawigacyjny aktywowany	Wegpunkt aktiviert
 Error/Authenticating	Text	 [new]	Authenticating.	Uwierzytelnianie.	Authentifizierung läuft.
@@ -1251,8 +1265,9 @@ Error/ReconnectServerPlayer	Text	 [new]	waiting for host	oczekiwanie na hosta	wa
 Error/Reconnecting	Text	 [new]	"Trying to reconnect
 (Step {0}/{1}: {2})"	"Próba przywrócenia połączenia
 (Krok {0}/{1}: {2})
-"	"Es wird versucht, eine Verbindung wiederherzustellen
-(Schritt {0}/{1}: {2})"
+"	"""Es wird versucht, eine Verbindung wiederherzustellen
+(Schritt {0}/{1}: {2})""
+"
 Error/RecreateSession	Text	 [new]	recreating session	odtwarzanie sesji	Sitzung wird wiederhergestellt
 Error/SaveFileCorrupt	Text		Could not read save file	Nie udało się odczytać pliku zapisu	Speicherdatei konnte nicht gelesen werden
 Error/SessionBlockedBy	Text	 [new]	You cannot join this session because it contains a user who has blocked you.	Nie możesz dołączyć do tej sesji, ponieważ zawiera ona użytkownika, który cię zablokował.	Du kannst dieser Sitzung nicht beitreten, weil ein Benutzer daran teilnimmt, der dich ausgeschlossen hat.
@@ -1836,7 +1851,7 @@ Items/BaitFishBitesFasterAndIncreasedChanceToGetFish	Text		Green Bait	Zielona pr
 Items/BaitFishBitesFasterAndIncreasedChanceToGetFishDesc	Text		A pointy bait that can stick to fish from the outside to catch more and catch them faster.	Spiczasta przynęta, która może przylgnąć do ryby od zewnątrz, aby złapać ich więcej i szybciej.	Ein stacheliger Köder, der sich von außen an Fische anheftet, um sie noch schneller zu fangen.
 Items/BaitFishBitesFasterAndStartsCloserToBeReeledIn	Text		Red Bait	Czerwona przynęta	Roter Köder
 Items/BaitFishBitesFasterAndStartsCloserToBeReeledInDesc	Text		A wiggly bait that looks like a red worm, large enough to allow more than one fish to get caught sometimes. 	Ruchliwa przynęta, która wygląda jak czerwony robak, wystarczająco duża, aby umożliwić czasami złapanie więcej niż jednej ryby. 	Ein zappeliger Köder, der wie ein roter Wurm aussieht. Er lockt Fische näher an dich heran, bevor sie anbeißen.
-Items/BaitFishBitesFasterDesc	Text		A well-seasoned type of bait that attracts fish more quickly.	Dobrze doprawiony rodzaj przynęty, który szybciej przyciąga ryby.	Ein gut gewürzter Fischköder, der schneller und aus größerer Entfernung Fische anlockt.
+Items/BaitFishBitesFasterDesc	Text		A well-seasoned type of bait that attracts fish and other things more quickly. 	Dobrze doprawiony rodzaj przynęty, który szybciej przyciąga ryby i inne przedmioty.	Ein gut gewürzter Fischköder, der schneller und aus größerer Entfernung Fische anlockt.
 Items/BaitFishStartsCloserToBeReeledIn	Text		Sticky Bait	Lepka przynęta	Klebriger Köder
 Items/BaitFishStartsCloserToBeReeledInDesc	Text		An icky type of bait that may stick on to fish that didn't even bite. 	Lepki rodzaj przynęty, który może przykleić się do ryby, która nawet nie ugryzła. 	Ein pappiger Köder, der Fische zu dir heranzieht, bevor sie überhaupt angebissen haben.
 Items/BaitIncreaseChanceOfHigherRarityFish	Text		Purple Bait	Fioletowa przynęta	Violetter Köder
@@ -1984,7 +1999,7 @@ Items/BubblePearlDesc	Text		A beautiful, iridescent pearl. It seems to be hollow
 Items/BubblePearlNecklace	Text		Bubble Pearl Necklace	Naszyjnik z pereł bąbelkowych	Blasen-Perlenhalskette
 Items/BubblePearlNecklaceDesc	Text		Natural grown jewelry made from rare bubble pearls.	Naturalna biżuteria wykonana z rzadkich pereł bąbelkowych.	Ein natürlich entstandenes Schmuckstück aus seltenen Blasen-Perlen.
 Items/Bucket	Text		Bucket	Wiadro	Eimer
-Items/BucketDesc	Text		A bucket. The clever solution to transporting water.	Wiadro. Sprytne rozwiązanie do transportu wody.	Ein Eimer. Die schlaue Art, Wasser zu transportieren.
+Items/BucketDesc	Text		A bucket. The clever solution to transporting liquids. 	Wiadro. Sprytne rozwiązanie do transportu płynów.	Ein Eimer. Die schlaue Art, Wasser zu transportieren.
 Items/BugNet	Text		Bug Net	Siatka na robaki	Käfernetz
 Items/BugNetDesc	Text		This handy tool allows you to catch tiny critters instead of accidentally stepping on them.	Te poręczne narzędzie pozwala łapać małe stworzenia zamiast przypadkowo na nie stawać.	Dieses nützliche Werkzeug gestattet es, kleine Lebewesen einzufangen, anstatt aus Versehen draufzutreten.
 Items/Burnzooka	Text		Burnzooka	Ognistazooka	Flammzooka
@@ -2546,7 +2561,7 @@ Items/EasterEggcellentSuitDesc	Text	"Any translations of the word ""eggcellent""
 Items/EasterGarland	Text		Easter Garland	Girlanda wielkanocna	Oster-Girlande
 Items/EasterGarlandDesc	Text		This charming green garland is adorned with little daisies, making it a perfect addition to your Easter-themed walls.	Ta urocza zielona girlanda ozdobiona jest małymi stokrotkami, co czyni ją idealnym dodatkiem do ścian w tematyce wielkanocnej.	Diese reizende, grüne Girlande ist bestückt mit kleinen Gänseblümchen, die sie zu einer perfekten Ergänzung deiner österlichen Wandgestaltung machen.
 Items/EasterGoldenEgg	Text		Large Golden Egg	Duże złote jajko	Großes goldenes Ei
-Items/EasterGoldenEggDesc	Text		A golden crystalline egg. It might be used for something more than just decoration…	Złote, krystaliczne jajko. Może służyć do czegoś więcej niż tylko dekoracji…	Ein goldenes, kristallines Ei, es könnte für mehr als nur zur Dekoration verwendet werden ...
+Items/EasterGoldenEggDesc	Text		A golden crystalline egg. It might be used for something more than just decoration... 	Złote, krystaliczne jajko. Może służyć do czegoś więcej niż tylko dekoracji... 	Ein goldenes, kristallines Ei, es könnte für mehr als nur zur Dekoration verwendet werden ...
 Items/EasterMeadowStool	Text		Easter Meadow Stool	Łąkowy stołek wielkanocny	Osterwiesen-Hocker
 Items/EasterMeadowStoolDesc	Text		Sitting on this stool feels as if sitting on a freshly cut meadow. There is no better spot to place ones bottoms.	Siedząc na tym stołku można poczuć się jak gdyby siedziało się na świeżo skoszonej łące. Nie ma lepszego miejsca na umieszczenie pośladków.	Auf diesem Hocker zu sitzen ist, als sitze man auf einer frisch gemähten Wiese. Es gibt keinen besseren Ort, um sein Hinterteil zu platzieren.
 Items/EasterMeadowTable	Text		Easter Meadow Table	Łąkowy stół wielkanocny	Osterwiesen-Tisch
@@ -2776,7 +2791,8 @@ Items/GlassFloor	Text		Glass Floor	Szklana podłoga	Glasboden
 Items/GlassFloorDesc	Text		A see-through tile to provide a crystal-clear vision of the ground underneath.	Przezroczysta płytka zapewniająca krystalicznie czysty widok podłoża pod spodem.	Eine durchsichtige Fliese, die einen kristallklaren Blick auf den darunterliegenden Boden ermöglicht.
 Items/GlassSmelter	Text		Glass Smelter	Huta szkła	Glas-Schmelzofen
 Items/GlassSmelterDesc	Text		This handy furnace can turn any sand block into useful glass.	Ten poręczny piec może zamienić dowolny blok piasku w użyteczne szkło.	Dieser praktische Schmelzofen kann jede Art von Sandblock zu nützlichem Glas verarbeiten.
-Items/GlassStatuePrism	Text		"Glass Statue ""Octahedron"""	"Szklana rzeźba ""Ośmiościan"""	"""""Glas-Statue ""Oktaeder""""
+Items/GlassStatuePrism	Text		"Glass Statue ""Octahedron"""	"Szklana rzeźba ""Ośmiościan"""	"""""""Glas-Statue ""Oktaeder""""
+""
 ""
 "
 Items/GlassStatuePrismDesc	Text		This bold statue serves as an art piece that puts the shiny properties of glass on display.	Ta wyrazista rzeźba służy jako dzieło sztuki, które eksponuje błyszczące właściwości szkła.	Diese massive Statue dient als ein Kunstwerk, das die schillernden Eigenschaften von Glas zur Schau stellen soll.
@@ -3116,7 +3132,7 @@ Items/IntactGraveDesc	Text		This grave made from stone shows the relief of an an
 Items/InventoryAncientChest	Text		Ancient Chest	Starożytna skrzynia	Antike Kiste
 Items/InventoryAncientChestDesc	Text		This chest seems to be thousands of years old.	Ta skrzynia wydaje się mieć tysiące lat.	Diese Kiste scheint tausende von Jahren alt zu sein.
 Items/InventoryChest	Text		Chest	Skrzynia	Kiste
-Items/InventoryChestDesc	Text		Useful for storing lots of items. Items can be used while crafting if the chest is placed adjacent to the workbench.	Przydatna do przechowywania wielu przedmiotów. Przedmioty mogą być używane podczas tworzenia, jeśli skrzynia jest umieszczona obok stołu warsztatowego.	Nützlich, um Gegenstände darin aufzubewahren. Gegenstände können zur Fertigung benutzt werden, wenn die Kiste neben einer Werkbank steht.
+Items/InventoryChestDesc	Text		Useful for storing items and allows them to be used in crafting when placed nearby workbenches. 	Przydatna do przechowywania przedmiotów i pozwala na ich wykorzystanie w rzemiośle, gdy jest umieszczona w pobliżu stołów warsztatowych.	Nützlich, um Gegenstände darin aufzubewahren. Gegenstände können zur Fertigung benutzt werden, wenn die Kiste neben einer Werkbank steht.
 Items/InventoryDesertBiomeChest	Text		Golden Ancient Chest	Złota starożytna skrzynia	Antike Goldkiste
 Items/InventoryDesertBiomeChestDesc	Text		A golden version of the ancient chest which seems to be even older.	Złota wersja starożytnej skrzyni, która wydaje się być jeszcze starsza.	Die goldene Version einer antiken Kiste, sie scheint noch viel älter zu sein.
 Items/InventoryLarvaHiveChest	Text		Larva Hive Chest	Skrzynia ula larw	Larvennest-Kiste
@@ -3185,7 +3201,7 @@ Items/JewelryWorkBenchDesc	Text		Workbench for creating rings and necklaces.	St�
 Items/JingleJamCookie	Text		Jingle Jam Cookie	Ciasteczko Jingle Jam	Jingle-Jam-Keks
 Items/JingleJamCookieDesc	Text		A special gift for participating in the Jingle Jam charity event.	Specjalny prezent za udział w imprezie charytatywnej Jingle Jam.	Ein spezielles Geschenk fürs Teilnehmen im Jingle-Jam-Spendenevent.
 Items/JuteBag	Text		Belt Pocket	Kieszeń na pasek	Gürteltasche
-Items/JuteBagDesc	Text		A simple clip on belt pocket, made from smoothened bark.	Prosta kieszeń na pasek z klipsem, wykonana z wygładzonej kory.	Eine einfache Klipp-Gürteltasche, hergestellt aus geglätteter Rinde.
+Items/JuteBagDesc	Text		A simple clip-on belt pocket, made from smoothened bark. 	Prosta kieszeń na pasek z klipsem, wykonana z wygładzonej kory.	Eine einfache Klipp-Gürteltasche, hergestellt aus geglätteter Rinde.
 Items/KeenPotion	Text		Keen Potion	Mikstura zaciekłości	Fokus-Trank
 Items/KeenPotionDesc	Text		A cold elixir that focuses your senses and aim.	Zimny eliksir, który skupia zmysły i koncentracje.	Ein kühles Elixier, das die Sinne schärft und die Genauigkeit steigert.
 Items/KelpDumpling	Text		Kelp Dumpling	Pieróg z wodorostów	Seetang-Knödel
@@ -3231,7 +3247,7 @@ Items/LargeShinyGlimmeringObjectDesc	Text		A crystalline, egg-shaped object that
 Items/LargeTempleRug	Text		Large Temple Decor Rug	Duży dywan dekoracyjny świątyni	Großer Tempel-Dekorteppich
 Items/LargeTempleRugDesc	Text		A large, ancient rug with a very detailed design woven into it. It must once have been an expensive item and a sign of prosperity.	Duży, starożytny dywan z bardzo szczegółowym wzorem. Kiedyś musiał to być drogi przedmiot i oznaka dobrobytu.	Ein großer, alter Teppich mit einem sehr aufwendigen Webmuster. Er muss einst ein teurer Gegenstand und ein Zeichen von Wohlstand gewesen sein.
 Items/LargeWaterCan	Text		Large Watering Can	Duża konewka	Große Gießkanne
-Items/LargeWaterCanDesc	Text		Used to water seeds and soil. Holds more water than a regular watering can and covers an area of 2x2 tiles.	Służy do podlewania nasion i gleby. Mieści więcej wody niż zwykła konewka i pokrywa obszar 2x2 płytki.	Wird genutzt, um Böden und Samen zu bewässern. Fasst mehr Inhalt als eine herkömmliche Gießkanne und hat einen 2x2-Wirkungsradius.
+Items/LargeWaterCanDesc	Text		Used to water seeds and soil. It holds more water than a regular watering can and covers an area of up to 2x2 tiles. 	Służy do podlewania nasion i gleby. Mieści więcej wody niż zwykła konewka i pokrywa obszar 2x2 płytki.	Wird genutzt, um Böden und Samen zu bewässern. Fasst mehr Inhalt als eine herkömmliche Gießkanne und hat einen 2x2-Wirkungsradius.
 Items/Larva	Text		Larva	Larwa	Larve
 Items/LarvaBBQ	Text		Roast Firepit	Ognisko do pieczenia	Grill-Feuerstelle
 Items/LarvaBBQDesc	Text		Part fireplace, part barbecue. It is a great place to huddle together and enjoy some burned pieces of larva meat. 	Po części ognisko, po części grill. Jest to świetne miejsce, aby zebrać się razem i cieszyć się spalonymi kawałkami mięsa larw.	Teils Feuerstelle, teils Grill und ein toller Ort, um gemeinsam ein paar angebrannte Stücke Larvenfleisch zu genießen.
@@ -3320,7 +3336,7 @@ Items/LegendaryMiningPickParchmentDesc	Text		An unusually well preserved scroll 
 Items/LegendarySword	Text		Rune Song	Runiczna pieśń	Runenlied
 Items/LegendarySwordBlade	Text		Chipped Blade	Wyszczerbione ostrze	Gebrochene Klinge
 Items/LegendarySwordBladeDesc	Text		A piece of an ancient weapon. Its glass-like appearance makes it look fragile but it's harder than any material you've seen.	Fragment starożytnej broni. Jego szklany wygląd sprawia, że wygląda na kruchy, ale jest twardszy niż jakikolwiek materiał, który widziałeś.	Bruchteil einer antiken Waffe. Ihre glasähnliche Erscheinung verleiht ihr ein empfindliches Aussehen, aber sie ist härter als jedes Material, das du kennst.
-Items/LegendarySwordDesc	Text		A legendary sword that hums when swung through the air. Its durability is a sign of extraordinary craftsmanship and it has the power to defeat enemies in one strike.	Legendarny miecz, który wibruje w powietrzu. Jego wytrzymałość jest oznaką niezwykłego kunsztu i ma moc pokonywania wrogów jednym uderzeniem.	Ein legendäres Schwert, das summt, wenn es geschwungen wird. Seine Haltbarkeit ist ein Zeichen außergewöhnlicher Handwerkskunst und es kann Feinde mit einem Schlag vernichten.
+Items/LegendarySwordDesc	Text		A legendary sword that hums when swung through the air. Its durability is a testament to extraordinary craftsmanship, said to carry the whispers of ancient battles within its blade. 	Legendarny miecz, który wibruje w powietrzu. Jego wytrzymałość jest świadectwem niezwykłego kunsztu i mówi się, że w jego ostrzu słychać szepty starożytnych bitew.	Ein legendäres Schwert, das summt, wenn es geschwungen wird. Seine Haltbarkeit ist ein Zeichen außergewöhnlicher Handwerkskunst und es kann Feinde mit einem Schlag vernichten.
 Items/LegendarySwordGemstone	Text		Clear Gemstone	Przezroczysty klejnot	Klarer Edelstein
 Items/LegendarySwordGemstoneDesc	Text		A piece of an ancient weapon. Even though it is of the same material as ancient gemstones, this one feels unnaturally clear and infused with a strange energy.	Fragment starożytnej broni. Mimo że jest wykonany z tego samego materiału co starożytne kamienie szlachetne, ten wydaje się nienaturalnie przejrzysty i przepełniony dziwną energią.	Bruchteil einer antiken Waffe. Obwohl er aus dem gleichen Material wie die Antiken Edelsteine besteht, ist dieser unnatürlich rein und mit einer mysteriösen Energie geladen.
 Items/LegendarySwordParchment	Text		Rune Parchment	Pergamin runiczny	Runen-Pergament
@@ -3601,7 +3617,8 @@ Items/OmorothTrophy	Text		Omoroth Figurine	Figurka Omorotha	Omoroth-Figur
 Items/OmorothTrophyDesc	Text		A lifelike representation of Omoroth, the Sea Titan.	Realistycznie odwzorowany Omoroth Morski Tytan.	Eine lebensechte Nachbildung von Omoroth, dem Meerestitanen.
 Items/OpabiniaFossil	Text		Opabinia Fossil	Skamielina Opabinii	Opabinia-Fossil
 Items/OpabiniaFossilDesc	Text		The petrified body of an prehistoric sea critter. They were one of the first apex predators to appear in the ancient oceans of earth.	Skamieniałe ciało prehistorycznego stworzenia morskiego. Były one jednymi z pierwszych drapieżników, które pojawiły się w starożytnych oceanach ziemi.	Der versteinerte Körper einer prähistorischen Meereskreatur. Sie war einst einer der ersten Apex-Jäger der urzeitlichen Meere der Erde.
-Items/OracleCardAzeos	Text		"Oracle Card ""Radiance"""	"Karta wyroczni ""Blask"""	"""""Orakel-Karte ""Glanz""""
+Items/OracleCardAzeos	Text		"Oracle Card ""Radiance"""	"Karta wyroczni ""Blask"""	"""""""Orakel-Karte ""Glanz""""
+""
 ""
 "
 Items/OracleCardAzeosDesc	Text		A scratched card with golden borders and an image of the sky titan. Looks like it's part of a set.	Porysowana karta ze złotymi ramkami i wizerunkiem podniebnego tytana. Wygląda na część zestawu.	Eine zerkratzte Karte mit Goldrand und einem Bildnis des Himmelstitans. Scheint Teil eines Sets zu sein.
@@ -3615,11 +3632,13 @@ Items/OracleCardGem	Text		"Oracle Card ""Aura"""	"Karta wyroczni ""Aura"""	Orake
 Items/OracleCardGemDesc	Text		A ripped card with golden borders and an image of an ancient gemstone. Looks like it's part of a set.	Podarta karta ze złotymi ramkami i wizerunkiem starożytnego kamienia szlachetnego. Wygląda na część zestawu.	Eine gerissene Karte mit Goldrand und einem Bildnis eines Antiken Edelsteins. Scheint Teil eines Sets zu sein.
 Items/OracleCardLeader	Text		"Oracle Card ""Inspiration"""	"Karta Oracle ""Inspiracja"""	Orakel-Karte „Inspiration“
 Items/OracleCardLeaderDesc	Text		Half of a card with golden borders and an image of a golden mask. Looks like it's part of a set.	Połowa karty ze złotymi ramkami i wizerunkiem złotej maski. Wygląda na część zestawu.	Die Hälfte einer Karte mit Goldrand und einem Bildnis einer goldenen Maske. Scheint Teil eines Sets zu sein.
-Items/OracleCardOmoroth	Text		"Oracle Card ""Temperance"""	"Karta wyroczni ""Powściągliwość"""	"""""Orakel-Karte ""Mäßigkeit""""
+Items/OracleCardOmoroth	Text		"Oracle Card ""Temperance"""	"Karta wyroczni ""Powściągliwość"""	"""""""Orakel-Karte ""Mäßigkeit""""
+""
 ""
 "
 Items/OracleCardOmorothDesc	Text		A faded card with golden borders and an image of the sea titan. Looks like it's part of a set.	Wyblakła karta ze złotymi obwódkami i wizerunkiem morskiego tytana. Wygląda na część zestawu.	Eine verblassende Karte mit Goldrand und einem Bildnis des Meerestitans. Scheint Teil eines Sets zu sein.
-Items/OracleCardRaAkar	Text		"Oracle Card ""Endurance"""	"Karta wyroczni ""Wytrzymałość"""	"""""Orakel-Karte ""Standhaftigkeit""""
+Items/OracleCardRaAkar	Text		"Oracle Card ""Endurance"""	"Karta wyroczni ""Wytrzymałość"""	"""""""Orakel-Karte ""Standhaftigkeit""""
+""
 ""
 "
 Items/OracleCardRaAkarDesc	Text		A crumbling card with golden borders and an image of the sand titan. Looks like it's part of a set.	Rozpadająca się karta ze złotym obramowaniem i wizerunkiem piaskowego tytana. Wygląda na część zestawu.	Eine zerfallende Karte mit Goldrand und einem Bildnis des Sandtitans. Scheint Teil eines Sets zu sein.
@@ -4022,7 +4041,7 @@ Items/RolyPolyDesc	Text		Content with everything going on around it, this gentle
 Items/RolyPolyPlate	Text	Item received from a big roly poly animal. Translations of said animal should refer to something correlating to a roly poly + slowness/wandering/strolling	Strolly Poly Plate	Płytka wolanki	Bummelkugler-Platte
 Items/RolyPolyPlateDesc	Text		A cast-off plate that makes up the hard armor of a Strolly Poly. Very sturdy and great for crafting.	Odrzucona płytka, która tworzy twardy korpus wolanki. Jest bardzo wytrzymała i świetnie nadaje się do obróbki.	Eine abgeworfene Platte, aus der der harte Panzer eines Bummelkuglers besteht. Sehr beständig und großartig zum Weiterverarbeiten.
 Items/RoofingTool	Text		Roofing Gadget	Gadżet dachowy	Gewölbe-Apparat
-Items/RoofingToolDesc	Text		This strange gauntlet can create a roof light on a tile you're facing; or remove it. It is not able to let you escape, though.	Ta dziwna rękawica może stworzyć światło dachowe na płytce, przed którą stoisz; lub je usunąć. Nie jest jednak w stanie pozwolić ci uciec z tego miejsca.	Dieser merkwürdige Handschuh macht es möglich, Deckenlicht an einem Punkt vor dir zu erzeugen; oder es wieder zu entfernen. Leider kann er dir nicht zur Flucht verhelfen.
+Items/RoofingToolDesc	Text		This strange gauntlet can create or remove a roof light on a tile you are facing, and its size can be adjusted. Yet, it cannot aid in your escape. 	Ta dziwna rękawica może stworzyć lub usunąć światło dachowe na płytce, przed którą stoisz, a jego rozmiar można regulować. Nie jest jednak w stanie pozwolić ci uciec z tego miejsca.	Dieser merkwürdige Handschuh macht es möglich, Deckenlicht an einem Punkt vor dir zu erzeugen; oder es wieder zu entfernen. Leider kann er dir nicht zur Flucht verhelfen.
 Items/RootSeed	Text		Root Seed	Nasiono korzenia	Wurzel-Samen
 Items/RootSeedDesc	Text		Once planted it spreads roots in every direction.	Po zasadzeniu rozprzestrzenia korzenie w każdym kierunku.	Wurzeln breiten sich in jede Richtung aus, wenn er gepflanzt wird.
 Items/RoseWater	Text		Rose Water	Woda różana	Rosenwasser
@@ -4195,8 +4214,9 @@ Items/SignArrow	Text		Arrow Sign	Znak strzałki	Richtungsschild
 Items/SignArrowDesc	Text		Don't know where to go? Just look at it! 	Nie wiesz, gdzie iść? Wystarczy na niego spojrzeć!	Keine Ahnung wo’s lang geht? Einfach draufschauen!
 Items/SignBrute	Text		Brute Sign	Znak brutala	Schläger-Schild
 Items/SignBruteDesc	Text		"Someone put all their artistic efforts into painting this sign and left it as a warning.
-Caveling Brutes or worse ahead."	Ktoś włożył cały swój artystyczny wysiłek w namalowanie tego znaku i zostawił go jako ostrzeżenie. Przed jaskiniowymi brutalami lub czymś gorszym.	"""""Jemand hat all sein künstlerisches Talent in die Gestaltung dieses Schildes gesteckt und es als Warnung hinterlassen.
+Caveling Brutes or worse ahead."	Ktoś włożył cały swój artystyczny wysiłek w namalowanie tego znaku i zostawił go jako ostrzeżenie. Przed jaskiniowymi brutalami lub czymś gorszym.	"""""""Jemand hat all sein künstlerisches Talent in die Gestaltung dieses Schildes gesteckt und es als Warnung hinterlassen.
 Grottling-Schläger oder Schlimmeres voraus.""
+""
 ""
 "
 Items/SignSkull	Text		Skull Effigy	Czaszka na kiju	Schädel-Schild
@@ -4263,10 +4283,12 @@ Items/SmallCrystalGrass	Text		Crystal Grass	Kryształowa trawa	Kristallgras
 Items/SmallCrystalGrassDesc	Text		A strange growth that consists of broad, transparent leaves.	Dziwna roślinka składająca się z szerokich, przezroczystych liści.	Ein merkwürdiges Gewächs, das aus breiten, transparenten Blättern besteht.
 Items/SmallFeatherTree	Text	 [new]	Small Purple Feather Tree	Małe fioletowe drzewo piórowe	Kleiner Purpurfeder-Baum
 Items/SmallFeatherTreeCyan	Text	 [new]	Small Cyan Feather Tree	Małe cyjanowe drzewo piórkowe	Kleiner Türkisfeder-Baum
-Items/SmallFeatherTreeCyanDesc	Text	 [new]	Not a tree at all, but an invertebrate feeding on floating particles with its arms. It hasn't fully matured yet.	Nie jest to w ogóle drzewo, ale bezkręgowiec żywiący się pływającymi cząsteczkami za pomocą ramion. Nie jest jeszcze w pełni dojrzałe.	"""Das ist gar kein Baum, sondern ein großes wirbelloses Tier, das sich mit seinen Armen von Schwebeteilchen ernährt. Noch nicht voll ausgewachsen.
+Items/SmallFeatherTreeCyanDesc	Text	 [new]	Not a tree at all, but an invertebrate feeding on floating particles with its arms. It hasn't fully matured yet.	Nie jest to w ogóle drzewo, ale bezkręgowiec żywiący się pływającymi cząsteczkami za pomocą ramion. Nie jest jeszcze w pełni dojrzałe.	"""""Das ist gar kein Baum, sondern ein großes wirbelloses Tier, das sich mit seinen Armen von Schwebeteilchen ernährt. Noch nicht voll ausgewachsen.
+""
 ""
 "
-Items/SmallFeatherTreeDesc	Text	 [new]	Not a tree at all, but an invertebrate feeding on floating particles with its arms. It hasn't fully matured yet.	Nie jest to w ogóle drzewo, ale bezkręgowiec żywiący się pływającymi cząsteczkami za pomocą ramion. Nie jest jeszcze w pełni dojrzałe.	"""Das ist gar kein Baum, sondern ein großes wirbelloses Tier, das sich mit seinen Armen von Schwebeteilchen ernährt. Noch nicht voll ausgewachsen.
+Items/SmallFeatherTreeDesc	Text	 [new]	Not a tree at all, but an invertebrate feeding on floating particles with its arms. It hasn't fully matured yet.	Nie jest to w ogóle drzewo, ale bezkręgowiec żywiący się pływającymi cząsteczkami za pomocą ramion. Nie jest jeszcze w pełni dojrzałe.	"""""Das ist gar kein Baum, sondern ein großes wirbelloses Tier, das sich mit seinen Armen von Schwebeteilchen ernährt. Noch nicht voll ausgewachsen.
+""
 ""
 "
 Items/SmallLantern	Text		Small Lantern	Mała latarnia	Kleine Laterne
@@ -4501,7 +4523,8 @@ Items/TerrariumBeach	Text	 [new]	Beach Terrarium	Plażowe terrarium	Strand-Terra
 Items/TerrariumBeachDesc	Text	 [new]	A humid enclosure with sandy terrain.	Wilgotne środowisko z piaszczystym podłożem.	Ein Feuchtgehege mit sandigem Boden.
 Items/TerrariumCrystal	Text	 [new]	Crystal Terrarium	Kryształowe terrarium	Kristallterrarium
 Items/TerrariumCrystalDesc	Text	 [new]	A cool enclosure full of glistening crystals.	Chłodne środowisko pełne błyszczących kryształów.	Ein kühles Gehege voller glitzernder Kristalle.
-Items/TerrariumDesc	Text	 [new]	A simple enclosure for all kinds of crawling and fluttering critters.	Proste środowisko dla wszelkiego rodzaju pełzających i fruwających stworzeń.	"Ein schlichtes Gehege für allerlei kriechendes und geflügeltes Getier.
+Items/TerrariumDesc	Text	 [new]	A simple enclosure for all kinds of crawling and fluttering critters.	Proste środowisko dla wszelkiego rodzaju pełzających i fruwających stworzeń.	"""Ein schlichtes Gehege für allerlei kriechendes und geflügeltes Getier.
+""
 "
 Items/TerrariumDesert	Text	 [new]	Desert Terrarium	Pustynne terrarium	Wüsten-Terrarium
 Items/TerrariumDesertDesc	Text	 [new]	A warm enclosure with dry, rocky terrain.	Ciepłe środowisko z suchym, skalistym terenem.	Ein warmes Gehege mit trockenem, felsigem Terrain.
@@ -4557,11 +4580,11 @@ Items/TomeOfFireDesc	Text	 [new]	Reaks of sulfur and is hot to the touch.	Wydzie
 Items/TomeOfMelee	Text	 [new]	Tome of the Dead	Księga umarłych	Foliant der Toten
 Items/TomeOfMeleeDesc	Text	 [new]	A vile treatise on the conjuring of dark spirits.	Nikczemny traktat o zaklinaniu mrocznych duchów.	Eine abscheuliche Abhandlung über die Beschwörung von Geistern der Finsternis.
 Items/TomeOfOrbit	Text	 [new]	Tome of the Deep	Księga głębin	Foliant der Tiefen
-Items/TomeOfOrbitDesc	Text	 [new]	Powerful incantions barely utterable by the human tongue.	Potężne zaklęcia ledwie możliwe do wypowiedzenia ludzkim językiem.	Mächtige Beschwörungen, die die menschliche Zunge kaum auszusprechen vermag.
+Items/TomeOfOrbitDesc	Text	 [new]	A tome that contains powerful incantions barely utterable by the human tongue. 	Księga, która zawiera potężne inkantacje ledwie możliwe do wypowiedzenia ludzkim językiem.	Mächtige Beschwörungen, die die menschliche Zunge kaum auszusprechen vermag.
 Items/TomeOfPoison	Text	 [new]	Tome of Pestilence	Księga zarazy	Foliant der Pestilenz
 Items/TomeOfPoisonDesc	Text	 [new]	The pages are moldy and barely legible.	Strony są spleśniałe i ledwo czytelne.	Die Seiten sind verschimmelt und kaum lesbar.
 Items/TomeOfRadiation	Text	 [new]	Tome of Decay	Księga rozkładu	Foliant der Verwesung
-Items/TomeOfRadiationDesc	Text	 [new]	Flipping through the pages causes your fingers to go numb.	Przerzucanie jej stron powoduje drętwienie palców.	Beim Durchblättern der Seiten werden die Finger taub.
+Items/TomeOfRadiationDesc	Text	 [new]	Flipping through its pages causes your fingers to go numb. 	Przerzucanie jej kolejnych stron powoduje drętwienie palców.	Beim Durchblättern der Seiten werden die Finger taub.
 Items/TomeOfRange	Text	 [new]	Tome of the Dark	Księga mroku	Foliant der Dunkelheit
 Items/TomeOfRangeDesc	Text	 [new]	More of a pamphlet, beginners guide to shadowmancy.	Bardziej broszura, przewodnik dla początkujących na temat zaklinania cieni.	Eher ein Pamphlet, ein Anfängerhandbuch für Schattenmagie.
 Items/TopazRing	Text		Topaz Ring	Pierścień z topazem	Topaz-Ring
@@ -4865,6 +4888,7 @@ Menu/CharacterStuck	Text	Option in gameplay settings allowing player to kill the
 Menu/CharacterType	Text		Character type	Typ postaci	Charakter-Typ
 Menu/ClassicWorldFormat	Text	 [new]	{0} - Classic world	{0} - Klasyczny świat	{0} - Klassische Welt
 Menu/ColorOutput	Text		Color output 	Kolor wyjściowy	Farbausgabe
+Menu/ConnectText	Text	 [new]	Connect	Połącz	Verbinden
 Menu/ConnectedPlayers	Text		Connected players:	Połączeni gracze:	Verbundene Spieler:
 Menu/ConnectedPlayersWarning	Text		More than {0} players connected. This may cause issues.	Połączono więcej niż {0} graczy. Może to powodować problemy.	Mehr als {0} Spieler verbunden. Das könnte Probleme verursachen.
 Menu/CreateWorld	Text		Create world	Utwórz świat	Welt erschaffen
@@ -4880,6 +4904,7 @@ Menu/DeleteWorldsMenu	Text		Delete worlds menu	Menu usuwania światów	Menü zum
 Menu/Disable	Text		Disable	Wyłącz	Deaktivieren
 Menu/DisableCrossplay	Text	 [new]	There seems to be an issue with crossplay. Would you like to disable it?	Wygląda na to, że wystąpił problem z trybem crossplay. Czy chcesz go wyłączyć?	Es scheint ein Problem mit dem plattformübergreifenden Spielen zu geben. Möchtest du das plattformübergreifende Spielen deaktivieren?
 Menu/DiscardChangesDialog	Text	 [new]	Discard changes?	Odrzucić zmiany?	Änderungen verwerfen?
+Menu/DisconnectText	Text	 [new]	Disconnect	Rozłącz	Verbindung trennen
 Menu/DiscordOnboarding	Text	 [new]	Discord / Bugs / Feedback	Discord / Błędy / Opinie	Discord/Fehler/Feedback
 Menu/DisplayOptions	Text		Display settings	Ustawienia ekranu	Anzeigeeinstellungen
 Menu/DontShowAgain	Text	 [new]	Don't show again	Nie pokazuj ponownie	Nicht wieder anzeigen
@@ -4929,10 +4954,11 @@ Mods with Elevated Access:
 {0}"	"Uwaga: Modyfikacje o podwyższonym dostępie mają zwiększony dostęp do zasobów poza grą, takich jak pliki użytkownika i internet. Aby uzyskać najlepsze doświadczenie, instaluj je tylko z renomowanych źródeł.
 
 Mody z podwyższonym dostępem:
-{0}"	"""""Vorsicht: Mods mit „erweitertem Zugriff“ haben erweiterten Zugriff auf Ressourcen außerhalb des Spiels wie Benutzerdateien und Internet. Für ein optimales Spielerlebnis solltest du nur Mods aus seriösen Quellen installieren.
+{0}"	"""""""Vorsicht: Mods mit „erweitertem Zugriff“ haben erweiterten Zugriff auf Ressourcen außerhalb des Spiels wie Benutzerdateien und Internet. Für ein optimales Spielerlebnis solltest du nur Mods aus seriösen Quellen installieren.
 
 Mods mit erweitertem Zugriff:
 {0}""
+""
 ""
 "
 Menu/ModsLoaded	Text		{0} Mods Loaded	{0} Modyfikacje załadowane	{0} Mods geladen
@@ -5013,7 +5039,7 @@ Menu/TogglePvPOff	Text	 [new]	Disable PvP	Wyłącz PvP	PvP deaktivieren
 Menu/TogglePvPOn	Text	 [new]	Enable PvP	Włącz PvP	PvP aktivieren
 Menu/UIOptions	Text		UI settings	Ustawienia interfejsu użytkownika	UI-Einstellungen
 Menu/Version	Text		Version: {0} ({1})   |   © Pugstorm AB	"Wersja: {0} ({1})   |   © Pugstorm AB
-Wersja spolszczenia: 1.0.6"	Version: {0} ({1})   |   © Pugstorm AB
+Wersja spolszczenia: 1.0.7"	Version: {0} ({1})   |   © Pugstorm AB
 Menu/VersionsAreCompatibleButNotSameWarning	Text	 [new]	Versions are compatible, but minor changes may affect performance.	Wersje są kompatybilne, ale drobne zmiany mogą mieć wpływ na wydajność.	Die Versionen sind kompatibel, aber kleinere Änderungen können die Leistung beeinträchtigen.
 Menu/WarningVersionMismatch	Text	 [new]	Warning: Version Mismatch	Ostrzeżenie: Niezgodność wersji	Achtung: Falsche Spielversion
 Menu/WindowMode	Text		Window mode	Typ wyświetlania	Fenstermodus
@@ -5369,6 +5395,28 @@ Stats/MagicBarrier	Text	 [new]	Barrier	Bariera	Barriere
 Stats/Mana	Text	 [new]	Mana	Mana	Mana
 Stats/Minions	Text	 [new]	Minions	Sługusy	Unterlinge
 Stats/Offense	Text		Offense	Ofensywa	Angriff
+StreamIntegration/BilibiliConnectDesc	Text	 [new]	Connect to bilibili	Połącz z bilibili	
+StreamIntegration/BilibiliIdentityCodeDesc	Text	 [new]	Enter bilibili identity code	Wprowadź kod identyfikacyjny bilibili	
+StreamIntegration/BilibiliStreamInteractionInformation	Text	 [new]	A safe zone is located in a radius of 40 tiles around the core. While exploring within the safe zone, incoming subscriptions and gifts are being queued and danmu commands and likes will be disabled. Queued gifts will trigger 5 seconds after leaving the safe zone and danmu commands and likes will be enabled again.	Bezpieczna strefa znajduje się w promieniu 40 pól wokół rdzenia. Podczas eksploracji w bezpiecznej strefie przychodzące subskrypcje i prezenty są kolejkowane, a polecenia danmu i polubienia zostaną wyłączone. Prezenty w kolejce zostaną uruchomione 5 sekund po opuszczeniu bezpiecznej strefy, a polecenia danmu i polubienia zostaną ponownie włączone.	
+StreamIntegration/CommandKillAllEnemies	Text	 [new]	{0} used {1} to clear all nearby enemies around {3}.	{0} użył {1} do pozbycia się wszystkich pobliskich wrogów wokół {3}.	{0} hat {1} benutzt, um alle Feinde in der Nähe von {3} zu beseitigen.
+StreamIntegration/CommandRestoreHealth	Text	 [new]	{0} restores {1} health and {2} mana for {3} with likes.	{0} przywraca {1} zdrowia i {2} many na {3} za pomocą polubień.	{0} hat mit Likes {1} Gesundheit und {2} Mana für {3} regeneriert.
+StreamIntegration/CommandSubscribe	Text	 [new]	{0} subscribed to clear all nearby enemies around {3}.	{0} subskrybuje aby usunąć wszystkich pobliskich wrogów wokół {3}.	{0} hat abonniert, um alle Feinde in der Nähe von {3} zu beseitigen.
+StreamIntegration/CommandSuperman	Text	 [new]	Superhero	Superbohater	Superheld
+StreamIntegration/ConnectToBilibiliFailedDesc	Text	 [new]	Connection to bilibili failed	Połączenie z bilibili nie powiodło się	
+StreamIntegration/ConnectToBilibiliSuccessDesc	Text	 [new]	Connection to bilibili was successful	Połączenie z bilibili powiodło się	
+StreamIntegration/DanmuCommandBuff	Text	 [new]	{0} buff was applied to all players by a danmu command.	Wzmocnienie {0} zostało nałożone na wszystkich graczy za pomocą komendy danmu.	
+StreamIntegration/DanmuCommandDebuff	Text	 [new]	{0} debuff was applied to all players by a danmu command.	Debuff {0} został nałożony na wszystkich graczy za pomocą polecenia danmu.	
+StreamIntegration/DanmuCommandSummon	Text	 [new]	{0} was summoned near {1} by a danmu command.	{0} został przywołany w pobliże {1} przez polecenie danmu.	
+StreamIntegration/GiftCommandBuff	Text	 [new]	{0} used {1} to apply {2} buff to all players.	{0} użył {1}, aby zastosować {2} dla wszystkich graczy.	{0} hat {1} benutzt, um einen {2}-Buff bei allen Spielern anzuwenden.
+StreamIntegration/GiftCommandDebuff	Text	 [new]	{0} used {1} to apply {2} debuff to all players.	{0} użył {1}, aby zastosować {2} dla wszystkich graczy.	{0} hat {1} benutzt, um einen {2}-Debuff bei allen Spielern anzuwenden.
+StreamIntegration/GiftCommandSummon	Text	 [new]	{0} used {1} to summon {2} at {3}.	{0} użył {1} do przywołania {2} w {3}.	{0} hat {1} benutzt, um {2} bei {3} zu beschwören.
+StreamIntegration/GiftQueueDesc	Text	 [new]	Gifts queued: {0}	Prezenty w kolejce: {0}	Geschenke in Warteschlange: {0}
+StreamIntegration/InteractionStreamDisconnectedDesc	Text	 [new]	Stream interaction has been disconnected	Interakcja ze strumieniem została przerwana	
+StreamIntegration/StreamInteractionActiveDesc	Text	 [new]	Stream interaction is active	Interakcja ze strumieniem jest aktywna	Stream-Interaktion ist aktiv
+StreamIntegration/StreamInteractionNotActivatedByHost	Text	 [new]	Stream interaction is not enabled by the host	Interakcja strumieniowa nie jest włączona przez hosta	
+StreamIntegration/StreamInteractionPausedDesc	Text	 [new]	Stream interaction is paused	Interakcja ze strumieniem jest wstrzymana	Stream-Interaktion ist pausiert
+StreamIntegration/StreamerLeavingSafeZoneDesc	Text	 [new]	Leaving the safe zone, stream interaction will start in 5 seconds	Po opuszczeniu bezpiecznej strefy interakcja strumieniowa rozpocznie się za 5 sekund.	
+StreamIntegration/StreamerSafeZoneDesc	Text	 [new]	Located in the safe zone, stream interaction is paused	Znajdując się w bezpiecznej strefie, interakcja strumienia jest wstrzymana	
 SummonEntity	Text	 [new]	Summon entity	Przywołaj jednostkę	Entität beschwören
 TeleportToCore	Text		Teleport to the Core	Teleportuj do rdzenia	Zum Kern teleportieren
 TheCore/ActivationSentence1	Text		Thou hast awakened us...	Tyś nas wybudził...	Ihr habt uns erweckt...
@@ -5389,7 +5437,7 @@ TheCore/CoreBossIntroSentence4	Text	 [new]	Thanks to thee, 'tis finally accompli
 TheCore/CoreBossIntroSentence5	Text	 [new]	Yet there exists no room for thee in our rekindled society.	Jednak nie ma dla ciebie miejsca w naszym odrodzonym społeczeństwie.	Und doch, gibt es keinen Platz für Euch in unserem neu belebten Reich.
 TheCore/CoreBossOutroSentence1	Text	 [new]	Another world... which hath expelled us.	Inny świat... który nas wyrzucił.	Eine weitere Welt ... die uns verstoßen hat.
 TheCore/CoreBossOutroSentence2	Text	 [new]	Or... was it the unity of its inhabitants?	A może... to była jedność jego mieszkańców?	Oder ... war es der Zusammenhalt ihrer Bewohner?
-TheCore/CoreBossPhaseSentence1	Text	 [new]	Thee strength is why thy must perish!	Twoja siła jest powodem, dla którego musisz zginąć!	Eure Stärke ist der Grund Eures Untergangs!
+TheCore/CoreBossPhaseSentence1	Text	 [new]	Thy strength is why thou must perish! 	Twoja siła jest powodem, dla którego musisz zginąć!	Eure Stärke ist der Grund Eures Untergangs!
 TheCore/CoreCoreBossDesertHint1	Text	 [new]	...come to us ...the barren place far to the {0}...	...przybądź do nas...do jałowego miejsca daleko na {0}...	... komm zu uns ... an den kargen Ort weit {0} von hier ...
 TheCore/CoreCoreBossDesertHint2	Text	 [new]	...find us at the origin of this world...	...znajdź nas u początków tego świata...	... finde uns am Ursprung dieser Welt ...
 TheCore/CoreCoreBossSentence1	Text	 [new]	Thou hast achieved the seeming impossible.	Osiągnąłeś pozornie niemożliwe.	Ihr habt das scheinbar Unmögliche erreicht.
@@ -5436,7 +5484,7 @@ WeaponSecondary/MinionLifespan	Text	 [new]	Minion lifespan: {0} sec	Żywotność
 WeaponSecondary/OrbitingMinion	Text	 [new]	Summons an orbiting jellyfish minion dealing damage on impact.	Przywołuje orbitującego sługusa meduzę zadającego obrażenia przy uderzeniu.	Beschwört einen kreisenden Quallen-Unterling, der beim Aufprall Schaden verursacht.
 WeaponSecondary/PiercingShot	Text		Piercing Shot	Przebijający strzał	Durchdringender Schuss
 WeaponSecondary/PoisonMinion	Text	 [new]	Summons a ranged plant minion.	Przywołuje roślinnego sługusa dystansowego.	Beschwört einen Pflanzen-Unterling für den Fernkampf.
-WeaponSecondary/RadiatingMinion	Text	 [new]	Summons a radioactive minion.	Przywołuje radioaktywnego sługusa.	Beschwört einen radioaktiven Unterling.
+WeaponSecondary/RadiatingMinion	Text	 [new]	Summons an orbiting, radioactive spectral-hand minion that deals damage on impact. 	Przywołuje orbitującego, radioaktywnego sługusa o widmowej ręce, który zadaje obrażenia przy uderzeniu.	Beschwört einen radioaktiven Unterling.
 WeaponSecondary/TrailingCrystals	Text		Trailing Crystals	Kryształy smugowe	Schleppkristalle
 WeaponSecondary/TrailingSong	Text	 [new]	Trailing Melody	Podążająca melodia	Verzögerte Melodie
 WeaponSpeed	Text		{0} attacks per second	{0} ataku na sekundę	{0} Angriffe pro Sekunde
@@ -5510,7 +5558,8 @@ done	Text		Done	Zrobione	Fertig
 dontShowAgain	Text		Don't show again	Nie pokazuj ponownie	Nicht wieder anzeigen
 down	Text		Move down	Ruch w dół	Nach unten
 dresser	Text		Dresser	Komoda	Kommode
-dropToWorld	Text		Drop item: 	Upuść przedmiot:	"""""Gegenstand ablegen:""
+dropToWorld	Text		Drop item: 	Upuść przedmiot:	"""""""Gegenstand ablegen:""
+""
 "
 durability	Text	"For example ""Durability 159/500"""	Durability: {0}/{1}	Wytrzymałość: {0}/{1}	Haltbarkeit: {0}/{1}
 durabilityLost	Text		Some durability on equipment was lost.	Wytrzymałość jakiegoś wyposażenia spadła.	Die Ausrüstung hat ein wenig Haltbarkeit verloren.
@@ -5563,12 +5612,13 @@ godModeOptionDesc	Text		"God mode features:
 - Gracz może niszczyć obiekty jednym uderzeniem
 - Przedmioty nie wypadają ze zniszczonych obiektów
 - Gracz może szybciej umieszczać obiekty
-- Obiekty nie są zużywane podczas używania"	"""""Funktionen im Gott-Modus:
+- Obiekty nie są zużywane podczas używania"	"""""""Funktionen im Gott-Modus:
 - Spieler kann sich durch Objekte hindurch bewegen
 - Spieler kann Objekte mit einem Schlag zerstören
 - Gegenstände droppen nicht von zerstörten Objekten
 - Spieler kann Objekte schneller platzieren
 - Objekte werden beim Benutzen nicht verbraucht""
+""
 ""
 "
 graphicsAPIOption	Text	{0} will be replaced with the name of the graphics api	Play Core Keeper using {0}	Zagraj w Core Keeper używając {0}	Spiele Core Keeper mit {0}
@@ -5672,12 +5722,14 @@ petLeveledUp	Text	"{0} will be replaced with the level number
 "	Pet reached level {0}!	Zwierzak osiągnął poziom {0}!	Haustier hat Level {0} erreicht!
 petSlot	Text		Pet slot	Slot na zwierzaka	Haustier-Slot
 physicalWeaponDamage	Text	 [new]	{0}-{1} physical damage	{0}-{1} obrażeń fizycznych	{0}-{1} physischer Schaden
-pickUpHalf	Text		Pick up half:	Podnieś pół:	"""""Hälfte aufheben:
+pickUpHalf	Text		Pick up half:	Podnieś pół:	"""""""Hälfte aufheben:
 {0}""
 ""
+""
 "
-pickUpOne	Text	{0} will be replaced with the input player needs to use to perform the action, note that the breakline is intended and should be used in the localizations too	Pick up one:	Podnieś jeden:	"""""Einen aufheben:
+pickUpOne	Text	{0} will be replaced with the input player needs to use to perform the action, note that the breakline is intended and should be used in the localizations too	Pick up one:	Podnieś jeden:	"""""""Einen aufheben:
 {0}""
+""
 ""
 "
 piercingProjectiles	Text	Shown as description on weapons that shoots piercing projectiles	Projectiles pierces through enemies	Pociski przebijają wrogów	Projektile durchdringen Feinde
@@ -5689,8 +5741,9 @@ pressAnyButtonPS4	Text		Press any button	Naciśnij dowolny przycisk	Drücke eine
 pressAnyButtonXbox	Text		Press any button	Naciśnij dowolny przycisk	Drücke eine Taste
 price	Text		Price: {0}	Cena: {0}	Preis: {0}
 primary	Text	Shown as category for red, yellow, blue and green painting colors	Primary	Podstawowy	Primär
-quickMove	Text		Quick stash:	Szybki skład:	"""""Schnell-Ablage:
+quickMove	Text		Quick stash:	Szybki skład:	"""""""Schnell-Ablage:
 {0}""
+""
 ""
 "
 quickStack	Text	Shown when hovering a button that uses the quick stack function	Quick stack	Szybki skład	Schnellstapeln
