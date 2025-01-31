@@ -750,58 +750,69 @@ Credits/Artists	Text	 [new]	Artists	Artyści	Künstler
 Credits/AssociateProducer	Text		Associate Producer	Współpracownik ds. produkcji	Associate Producer
 Credits/AssociateProductManager	Text		Associate Product Manager	Zastępca kierownika produktu	Associate Product Manager
 Credits/Association71Consulting	Text	 [new]	"In Association with Marketing & PR Studio
-71 Consulting"	We współpracy z Marketing & PR Studio 71 Consulting	"""""In Zusammenarbeit mit Marketing- und PR-Studio
+71 Consulting"	We współpracy z Marketing & PR Studio 71 Consulting	"""""""In Zusammenarbeit mit Marketing- und PR-Studio
 71 Consulting""
+""
 ""
 "
 Credits/AssociationAceAgency	Text	 [new]	"In Association with Localisation Studio
-ACE Agency"	We współpracy z agencją lokalizacyjną Studio ACE	"""""In Zusammenarbeit mit der Lokalisierungsagentur
+ACE Agency"	We współpracy z agencją lokalizacyjną Studio ACE	"""""""In Zusammenarbeit mit der Lokalisierungsagentur
 ACE Agency""
+""
 ""
 "
 Credits/AssociationDreamLoop	Text	 [new]	"In Association with Console Porting Studio
-Dreamloop Games"	We współpracy z konsolowym studiem portującym Dreamloop Games	"""""In Zusammenarbeit mit dem Konsolen-Portierungsstudio
+Dreamloop Games"	We współpracy z konsolowym studiem portującym Dreamloop Games	"""""""In Zusammenarbeit mit dem Konsolen-Portierungsstudio
 Dreamloop Games""
+""
 ""
 "
 Credits/AssociationEnzyme	Text	 [new]	"In Association with Compatibility Testing Studio
-Enzyme"	We współpracy z Studio Enzyme zajmującym się testowaniem kompatybilności	"""""In Zusammenarbeit mit dem Studio für Kompatibilitätstests
+Enzyme"	We współpracy z Studio Enzyme zajmującym się testowaniem kompatybilności	"""""""In Zusammenarbeit mit dem Studio für Kompatibilitätstests
 Enzyme""
+""
 ""
 "
 Credits/AssociationKeywordsIndia	Text	 [new]	"In Association with PC FQA Studio
-Keywords India"	We współpracy z PC FQA Studio Keywords India	"""""In Zusammenarbeit mit dem Studio für PC-FQA
+Keywords India"	We współpracy z PC FQA Studio Keywords India	"""""""In Zusammenarbeit mit dem Studio für PC-FQA
 Keywords India""
+""
 ""
 "
 Credits/AssociationLionbridge	Text	 [new]	"In Association with PC and Console QA Studio
-Lionbridge Games"	We współpracy z PC and Console QA Studio Lionbridge Games	"""""In Zusammenarbeit mit dem Studio für PC- und Konsolen-QA
+Lionbridge Games"	We współpracy z PC and Console QA Studio Lionbridge Games	"""""""In Zusammenarbeit mit dem Studio für PC- und Konsolen-QA
 Lionbridge Games""
+""
 ""
 "
 Credits/AssociationLionbridgeLQA	Text	 [new]	"In Association with PC and Console LQA Studio
-Lionbridge Games"	We współpracy z PC and Console LQA Studio Lionbridge Games	"""""In Zusammenarbeit mit dem Studio für PC- und Konsolen-LQA
+Lionbridge Games"	We współpracy z PC and Console LQA Studio Lionbridge Games	"""""""In Zusammenarbeit mit dem Studio für PC- und Konsolen-LQA
 Lionbridge Games""
+""
 ""
 "
 Credits/AssociationLocalizeDirect	Text	 [new]	"In Association with PC LQA Studio
-LocalizeDirect"	We współpracy z PC LQA Studio LocalizeDirect	"""""In Zusammenarbeit mit dem Studio für PC-LQA
+LocalizeDirect"	We współpracy z PC LQA Studio LocalizeDirect	"""""""In Zusammenarbeit mit dem Studio für PC-LQA
 LocalizeDirect""
+""
 ""
 "
 Credits/AssociationOhCreative	Text	 [new]	"In Association with Marketing Studio
-OH Creative"	We współpracy z Marketing Studio OH Creative	"""""In Zusammenarbeit mit Marketingstudio
+OH Creative"	We współpracy z Marketing Studio OH Creative	"""""""In Zusammenarbeit mit Marketingstudio
 OH Creative""
+""
 ""
 "
 Credits/AssociationPlaytropic	Text	 [new]	"In Association with PC and Console FQA Studio
-Playtropic Video Game Services"	We współpracy z PC and Console FQA Studio Playtropic Video Game Services	"""""In Zusammenarbeit mit dem Studio für PC- und Konsolen-FQA
+Playtropic Video Game Services"	We współpracy z PC and Console FQA Studio Playtropic Video Game Services	"""""""In Zusammenarbeit mit dem Studio für PC- und Konsolen-FQA
 Playtropic Videogame Services""
+""
 ""
 "
 Credits/AssociationTestify	Text	 [new]	"In Association with Testing Studio
-Testify"	We współpracy z testerskim Testify Studio 	"""""In Zusammenarbeit mit dem Teststudio
+Testify"	We współpracy z testerskim Testify Studio 	"""""""In Zusammenarbeit mit dem Teststudio
 Testify""
+""
 ""
 "
 Credits/AudioAndMusic	Text	 [new]	Audio and Music	Audio i muzyka	Audio und Musik
@@ -867,8 +878,9 @@ Credits/PCandConsoleFQA	Text	 [new]	PC and Console FQA	PC i Console FQA	PC- und 
 Credits/PCandConsoleQA	Text	 [new]	PC and Console QA	Kontrola jakości na komputerze i konsoli	PC- und Konsolen-QA
 Credits/PRAndCommunications	Text		PR and Communications	PR i komunikacja	PR und Kommunikation
 Credits/PartneredFireshine	Text	 [new]	"Partnered with Publisher
-Fireshine Games"	Współpraca z wydawcą Fireshine Games	"""""In Partnerschaft mit dem Publisher
+Fireshine Games"	Współpraca z wydawcą Fireshine Games	"""""""In Partnerschaft mit dem Publisher
 Fireshine""
+""
 ""
 "
 Credits/PartneredUnity	Text	 [new]	Partnered with Unity Technologies	Partnerstwo z Unity Technologies	In Partnerschaft mit Unity Technologies
@@ -1218,8 +1230,9 @@ Emotes/ThisWillTakeAWhile	Text		This will take a while...	To trochę potrwa...	D
 Emotes/ThisWillTakeForever	Text		This will take forever...	To zajmie wieczność...	Das wird ewig dauern ...
 Emotes/UnlockedInEarlyAccess	Text		Unlocked in Early Access	Odblokowane w ramach wczesnego dostępu	Im Early Access freigeschaltet
 Emotes/UnlocksAtLaunch	Text	 [new]	"Continue your exploration beyond the wall at 1.0,
-unlocks August 27th 2024."	Kontynuuj eksplorację poza murem w wersji 1.0, zostanie odblokowana 27 sierpnia 2024 r.	"""""Setze die Erkundung jenseits der Wand mit 1.0 fort.
+unlocks August 27th 2024."	Kontynuuj eksplorację poza murem w wersji 1.0, zostanie odblokowana 27 sierpnia 2024 r.	"""""""Setze die Erkundung jenseits der Wand mit 1.0 fort.
 Die Freischaltung erfolgt am 27. August 2024""
+""
 ""
 "
 Emotes/WaypointActivated	Text	 [new]	Waypoint activated	Punkt nawigacyjny aktywowany	Wegpunkt aktiviert
@@ -1265,8 +1278,9 @@ Error/ReconnectServerPlayer	Text	 [new]	waiting for host	oczekiwanie na hosta	wa
 Error/Reconnecting	Text	 [new]	"Trying to reconnect
 (Step {0}/{1}: {2})"	"Próba przywrócenia połączenia
 (Krok {0}/{1}: {2})
-"	"""Es wird versucht, eine Verbindung wiederherzustellen
+"	"""""Es wird versucht, eine Verbindung wiederherzustellen
 (Schritt {0}/{1}: {2})""
+""
 "
 Error/RecreateSession	Text	 [new]	recreating session	odtwarzanie sesji	Sitzung wird wiederhergestellt
 Error/SaveFileCorrupt	Text		Could not read save file	Nie udało się odczytać pliku zapisu	Speicherdatei konnte nicht gelesen werden
@@ -2151,6 +2165,8 @@ Items/ChieftainPantsArmor	Text	 [new]	Chieftain Shorts	Spodenki wodza	Shorts des
 Items/ChieftainPantsArmorDesc	Text	 [new]	Fine shorts with plenty of jewelry, well suited for a leader.	Wytworne szorty z dużą ilością biżuterii, odpowiednie dla przywódcy.	Feine Shorts mit reichlich Zierrat, ideal für einen Anführer.
 Items/ChineseCoin	Text		Lucky Coin	Szczęśliwa moneta	Glücksmünze
 Items/ChineseCoinDesc	Text		While this golden coin holds many favorable meanings, the most important one is that it can be spent at a certain merchant.	Chociaż ta złota moneta ma wiele korzystnych znaczeń, najważniejszym z nich jest to, że można ją wydać u określonego handlarza.	Diese goldene Münze hat viele Bedeutungen, die günstig ausgelegt werden können, aber die wichtigste ist, dass man sie bei einem bestimmten Händler ausgeben kann.
+Items/ChineseFoldingScreen	Text	 [new]	Folding Screen	Składana osłona	Wandschirm
+Items/ChineseFoldingScreenDesc	Text	 [new]	A stylish set of panels. Great for dividing spaces or hiding your secret stash.	Stylowy zestaw paneli. Świetny do dzielenia przestrzeni lub ukrywania tajnych schowków.	Ein stilvolles Gestell. Eignet sich hervorragend als Raumteiler oder Versteck für deine Wertgegenstände.
 Items/ChineseGuardianLion	Text		Guardian Beast Statue	Statuetka Bestii Strażnika	Wächterbestien-Statue
 Items/ChineseGuardianLionDesc	Text		An imposing monument to be placed in front of entrances, meant to keep figures with ill intent away.	Imponujący pomnik umieszczany przed wejściami, mający odstraszać postacie o złych zamiarach.	Ein imposantes Monument zum Platzieren vor Eingängen, um finsteren Gesellen den Eintritt zu verwehren.
 Items/ChineseKnot	Text		Mystic Knot Tassel	Mistyczny węzeł z frędzlami	Mystischer Knoten-Quaste
@@ -2791,7 +2807,8 @@ Items/GlassFloor	Text		Glass Floor	Szklana podłoga	Glasboden
 Items/GlassFloorDesc	Text		A see-through tile to provide a crystal-clear vision of the ground underneath.	Przezroczysta płytka zapewniająca krystalicznie czysty widok podłoża pod spodem.	Eine durchsichtige Fliese, die einen kristallklaren Blick auf den darunterliegenden Boden ermöglicht.
 Items/GlassSmelter	Text		Glass Smelter	Huta szkła	Glas-Schmelzofen
 Items/GlassSmelterDesc	Text		This handy furnace can turn any sand block into useful glass.	Ten poręczny piec może zamienić dowolny blok piasku w użyteczne szkło.	Dieser praktische Schmelzofen kann jede Art von Sandblock zu nützlichem Glas verarbeiten.
-Items/GlassStatuePrism	Text		"Glass Statue ""Octahedron"""	"Szklana rzeźba ""Ośmiościan"""	"""""""Glas-Statue ""Oktaeder""""
+Items/GlassStatuePrism	Text		"Glass Statue ""Octahedron"""	"Szklana rzeźba ""Ośmiościan"""	"""""""""Glas-Statue ""Oktaeder""""
+""
 ""
 ""
 "
@@ -3378,6 +3395,8 @@ Items/LostPaddle	Text		Lost Paddle	Zagubione wiosło	Verlorenes Paddel
 Items/LostPaddleDesc	Text		Somewhere someone must paddle around in circles.	Gdzieś ktoś musi wiosłować w kółko.	Irgendwo rudert irgendjemand im Kreis.
 Items/LucentOakTree	Text		Lucent Oak	Błyszczący dąb	Schiller-Eiche
 Items/LucentOakTreeDesc	Text		What once seemed to have been a normal tree got permeated by crystals, turning it into a living work of art.	To, co kiedyś wydawało się zwykłym drzewem, zostało przeniknięte przez kryształy, zamieniając je w żywe dzieło sztuki.	Dieser einst gewöhnliche Baum wurde von Kristallen durchdrungen, die ihn in ein lebendiges Kunstwerk verwandelt haben.
+Items/LuckyCat	Text	 [new]	Lucky Cat	Kot szczęścia 	Glückskatze
+Items/LuckyCatDesc	Text	 [new]	"When powered with electricity, this ceramic charmer waves its paw as if to say, ""Fortune favors the feline!"""	"Po zasileniu energią elektryczną ten ceramiczny zaklinacz macha łapą, jakby chciał powiedzieć: ""Fortuna sprzyja kotom!""."	Wenn dieser keramische Charmeur mit Elektrizität versorgt wird, winkt er mit seiner Pfote, als wolle er sagen: „Das Glück gebührt den Katzen!“
 Items/LuckyRing	Text		Lucky Ring	Szczęśliwy pierścień	Glücksring
 Items/LuckyRingDesc	Text		A cheaply made ring from a vending machine. If you believe hard enough you may feel more lucky.	Tandetnie wykonany pierścionek z automatu. Jeśli uwierzysz wystarczająco mocno, możesz poczuć przypływ szczęścia.	Ein billiger Ring aus einem Automaten. Wenn du fest genug dran glaubst, hast du vielleicht wirklich mehr Glück.
 Items/LumpOfCoal	Text		Lump of Coal	Bryła węgla	Kohleklumpen
@@ -3617,7 +3636,8 @@ Items/OmorothTrophy	Text		Omoroth Figurine	Figurka Omorotha	Omoroth-Figur
 Items/OmorothTrophyDesc	Text		A lifelike representation of Omoroth, the Sea Titan.	Realistycznie odwzorowany Omoroth Morski Tytan.	Eine lebensechte Nachbildung von Omoroth, dem Meerestitanen.
 Items/OpabiniaFossil	Text		Opabinia Fossil	Skamielina Opabinii	Opabinia-Fossil
 Items/OpabiniaFossilDesc	Text		The petrified body of an prehistoric sea critter. They were one of the first apex predators to appear in the ancient oceans of earth.	Skamieniałe ciało prehistorycznego stworzenia morskiego. Były one jednymi z pierwszych drapieżników, które pojawiły się w starożytnych oceanach ziemi.	Der versteinerte Körper einer prähistorischen Meereskreatur. Sie war einst einer der ersten Apex-Jäger der urzeitlichen Meere der Erde.
-Items/OracleCardAzeos	Text		"Oracle Card ""Radiance"""	"Karta wyroczni ""Blask"""	"""""""Orakel-Karte ""Glanz""""
+Items/OracleCardAzeos	Text		"Oracle Card ""Radiance"""	"Karta wyroczni ""Blask"""	"""""""""Orakel-Karte ""Glanz""""
+""
 ""
 ""
 "
@@ -3632,12 +3652,14 @@ Items/OracleCardGem	Text		"Oracle Card ""Aura"""	"Karta wyroczni ""Aura"""	Orake
 Items/OracleCardGemDesc	Text		A ripped card with golden borders and an image of an ancient gemstone. Looks like it's part of a set.	Podarta karta ze złotymi ramkami i wizerunkiem starożytnego kamienia szlachetnego. Wygląda na część zestawu.	Eine gerissene Karte mit Goldrand und einem Bildnis eines Antiken Edelsteins. Scheint Teil eines Sets zu sein.
 Items/OracleCardLeader	Text		"Oracle Card ""Inspiration"""	"Karta Oracle ""Inspiracja"""	Orakel-Karte „Inspiration“
 Items/OracleCardLeaderDesc	Text		Half of a card with golden borders and an image of a golden mask. Looks like it's part of a set.	Połowa karty ze złotymi ramkami i wizerunkiem złotej maski. Wygląda na część zestawu.	Die Hälfte einer Karte mit Goldrand und einem Bildnis einer goldenen Maske. Scheint Teil eines Sets zu sein.
-Items/OracleCardOmoroth	Text		"Oracle Card ""Temperance"""	"Karta wyroczni ""Powściągliwość"""	"""""""Orakel-Karte ""Mäßigkeit""""
+Items/OracleCardOmoroth	Text		"Oracle Card ""Temperance"""	"Karta wyroczni ""Powściągliwość"""	"""""""""Orakel-Karte ""Mäßigkeit""""
+""
 ""
 ""
 "
 Items/OracleCardOmorothDesc	Text		A faded card with golden borders and an image of the sea titan. Looks like it's part of a set.	Wyblakła karta ze złotymi obwódkami i wizerunkiem morskiego tytana. Wygląda na część zestawu.	Eine verblassende Karte mit Goldrand und einem Bildnis des Meerestitans. Scheint Teil eines Sets zu sein.
-Items/OracleCardRaAkar	Text		"Oracle Card ""Endurance"""	"Karta wyroczni ""Wytrzymałość"""	"""""""Orakel-Karte ""Standhaftigkeit""""
+Items/OracleCardRaAkar	Text		"Oracle Card ""Endurance"""	"Karta wyroczni ""Wytrzymałość"""	"""""""""Orakel-Karte ""Standhaftigkeit""""
+""
 ""
 ""
 "
@@ -3907,6 +3929,8 @@ Items/PottedAlienFlower	Text		Potted Alien Flower	Kwiat obcych w doniczce	Einget
 Items/PottedAlienFlowerDesc	Text		It is not an actual flower but a hologram of one. Is it proof of a dying world where nothing grew anymore?	Nie jest to prawdziwy kwiat, ale jego hologram. Czy jest to dowód umierającego świata, w którym nic już nie rośnie?	Keine richtige Blume, sondern nur ein holografisches Abbild. Zeugt es von einer sterbenden Welt, in der nichts mehr wachsen konnte?
 Items/PottedCherryTree	Text		Potted Cherry Tree	Drzewo wiśni w doniczce	Eingetopfter Kirschbaum
 Items/PottedCherryTreeDesc	Text		A bonsai-sized offshoot of the common cherry tree, planted in a decorative vase.	Odmiana drzewa wiśni wielkości drzewka bonsai, posadzona w ozdobnym wazonie.	Ein bonsai-großer Ableger des normalen Kirschbaums, eingepflanzt in einem dekorativen Topf.
+Items/PottedEnvelopeTree	Text	 [new]	Potted Tree with Red Envelopes	Drzewko w doniczce z czerwonymi kopertami	Eingetopfter Baum mit roten Umschlägen
+Items/PottedEnvelopeTreeDesc	Text	 [new]	A small tree in a pot with decorative red envelopes hanging from the branches.	Małe drzewko w doniczce z ozdobnymi czerwonymi kopertami zwisającymi z gałęzi.	Ein kleiner Baum in einem Topf mit dekorativen roten Umschlägen, die von seinen Ästen hängen.
 Items/PottedFlowerTree	Text		Potted Bloom Tree	Kwitnące drzewo w doniczce	Eingetopfter Blütenbaum
 Items/PottedFlowerTreeDesc	Text		A potted shrub on which beautiful flowers grow. It seems to only exist in this form.	Krzew doniczkowy, na którym rosną piękne kwiaty. Wydaje się, że istnieje tylko w tej formie.	Ein eingetopfter Strauch, an dem wunderschöne Blüten wachsen. Er scheint nur noch in dieser Form zu existieren.
 Items/PottedGlowberryTree	Text		Potted Moonbell Tree	Drzewko księżycowe w doniczce	Eingetopfter Mondglocken-Baum
@@ -4214,8 +4238,9 @@ Items/SignArrow	Text		Arrow Sign	Znak strzałki	Richtungsschild
 Items/SignArrowDesc	Text		Don't know where to go? Just look at it! 	Nie wiesz, gdzie iść? Wystarczy na niego spojrzeć!	Keine Ahnung wo’s lang geht? Einfach draufschauen!
 Items/SignBrute	Text		Brute Sign	Znak brutala	Schläger-Schild
 Items/SignBruteDesc	Text		"Someone put all their artistic efforts into painting this sign and left it as a warning.
-Caveling Brutes or worse ahead."	Ktoś włożył cały swój artystyczny wysiłek w namalowanie tego znaku i zostawił go jako ostrzeżenie. Przed jaskiniowymi brutalami lub czymś gorszym.	"""""""Jemand hat all sein künstlerisches Talent in die Gestaltung dieses Schildes gesteckt und es als Warnung hinterlassen.
+Caveling Brutes or worse ahead."	Ktoś włożył cały swój artystyczny wysiłek w namalowanie tego znaku i zostawił go jako ostrzeżenie. Przed jaskiniowymi brutalami lub czymś gorszym.	"""""""""Jemand hat all sein künstlerisches Talent in die Gestaltung dieses Schildes gesteckt und es als Warnung hinterlassen.
 Grottling-Schläger oder Schlimmeres voraus.""
+""
 ""
 ""
 "
@@ -4283,11 +4308,13 @@ Items/SmallCrystalGrass	Text		Crystal Grass	Kryształowa trawa	Kristallgras
 Items/SmallCrystalGrassDesc	Text		A strange growth that consists of broad, transparent leaves.	Dziwna roślinka składająca się z szerokich, przezroczystych liści.	Ein merkwürdiges Gewächs, das aus breiten, transparenten Blättern besteht.
 Items/SmallFeatherTree	Text	 [new]	Small Purple Feather Tree	Małe fioletowe drzewo piórowe	Kleiner Purpurfeder-Baum
 Items/SmallFeatherTreeCyan	Text	 [new]	Small Cyan Feather Tree	Małe cyjanowe drzewo piórkowe	Kleiner Türkisfeder-Baum
-Items/SmallFeatherTreeCyanDesc	Text	 [new]	Not a tree at all, but an invertebrate feeding on floating particles with its arms. It hasn't fully matured yet.	Nie jest to w ogóle drzewo, ale bezkręgowiec żywiący się pływającymi cząsteczkami za pomocą ramion. Nie jest jeszcze w pełni dojrzałe.	"""""Das ist gar kein Baum, sondern ein großes wirbelloses Tier, das sich mit seinen Armen von Schwebeteilchen ernährt. Noch nicht voll ausgewachsen.
+Items/SmallFeatherTreeCyanDesc	Text	 [new]	Not a tree at all, but an invertebrate feeding on floating particles with its arms. It hasn't fully matured yet.	Nie jest to w ogóle drzewo, ale bezkręgowiec żywiący się pływającymi cząsteczkami za pomocą ramion. Nie jest jeszcze w pełni dojrzałe.	"""""""Das ist gar kein Baum, sondern ein großes wirbelloses Tier, das sich mit seinen Armen von Schwebeteilchen ernährt. Noch nicht voll ausgewachsen.
+""
 ""
 ""
 "
-Items/SmallFeatherTreeDesc	Text	 [new]	Not a tree at all, but an invertebrate feeding on floating particles with its arms. It hasn't fully matured yet.	Nie jest to w ogóle drzewo, ale bezkręgowiec żywiący się pływającymi cząsteczkami za pomocą ramion. Nie jest jeszcze w pełni dojrzałe.	"""""Das ist gar kein Baum, sondern ein großes wirbelloses Tier, das sich mit seinen Armen von Schwebeteilchen ernährt. Noch nicht voll ausgewachsen.
+Items/SmallFeatherTreeDesc	Text	 [new]	Not a tree at all, but an invertebrate feeding on floating particles with its arms. It hasn't fully matured yet.	Nie jest to w ogóle drzewo, ale bezkręgowiec żywiący się pływającymi cząsteczkami za pomocą ramion. Nie jest jeszcze w pełni dojrzałe.	"""""""Das ist gar kein Baum, sondern ein großes wirbelloses Tier, das sich mit seinen Armen von Schwebeteilchen ernährt. Noch nicht voll ausgewachsen.
+""
 ""
 ""
 "
@@ -4523,7 +4550,8 @@ Items/TerrariumBeach	Text	 [new]	Beach Terrarium	Plażowe terrarium	Strand-Terra
 Items/TerrariumBeachDesc	Text	 [new]	A humid enclosure with sandy terrain.	Wilgotne środowisko z piaszczystym podłożem.	Ein Feuchtgehege mit sandigem Boden.
 Items/TerrariumCrystal	Text	 [new]	Crystal Terrarium	Kryształowe terrarium	Kristallterrarium
 Items/TerrariumCrystalDesc	Text	 [new]	A cool enclosure full of glistening crystals.	Chłodne środowisko pełne błyszczących kryształów.	Ein kühles Gehege voller glitzernder Kristalle.
-Items/TerrariumDesc	Text	 [new]	A simple enclosure for all kinds of crawling and fluttering critters.	Proste środowisko dla wszelkiego rodzaju pełzających i fruwających stworzeń.	"""Ein schlichtes Gehege für allerlei kriechendes und geflügeltes Getier.
+Items/TerrariumDesc	Text	 [new]	A simple enclosure for all kinds of crawling and fluttering critters.	Proste środowisko dla wszelkiego rodzaju pełzających i fruwających stworzeń.	"""""Ein schlichtes Gehege für allerlei kriechendes und geflügeltes Getier.
+""
 ""
 "
 Items/TerrariumDesert	Text	 [new]	Desert Terrarium	Pustynne terrarium	Wüsten-Terrarium
@@ -4954,10 +4982,11 @@ Mods with Elevated Access:
 {0}"	"Uwaga: Modyfikacje o podwyższonym dostępie mają zwiększony dostęp do zasobów poza grą, takich jak pliki użytkownika i internet. Aby uzyskać najlepsze doświadczenie, instaluj je tylko z renomowanych źródeł.
 
 Mody z podwyższonym dostępem:
-{0}"	"""""""Vorsicht: Mods mit „erweitertem Zugriff“ haben erweiterten Zugriff auf Ressourcen außerhalb des Spiels wie Benutzerdateien und Internet. Für ein optimales Spielerlebnis solltest du nur Mods aus seriösen Quellen installieren.
+{0}"	"""""""""Vorsicht: Mods mit „erweitertem Zugriff“ haben erweiterten Zugriff auf Ressourcen außerhalb des Spiels wie Benutzerdateien und Internet. Für ein optimales Spielerlebnis solltest du nur Mods aus seriösen Quellen installieren.
 
 Mods mit erweitertem Zugriff:
 {0}""
+""
 ""
 ""
 "
@@ -5039,7 +5068,7 @@ Menu/TogglePvPOff	Text	 [new]	Disable PvP	Wyłącz PvP	PvP deaktivieren
 Menu/TogglePvPOn	Text	 [new]	Enable PvP	Włącz PvP	PvP aktivieren
 Menu/UIOptions	Text		UI settings	Ustawienia interfejsu użytkownika	UI-Einstellungen
 Menu/Version	Text		Version: {0} ({1})   |   © Pugstorm AB	"Wersja: {0} ({1})   |   © Pugstorm AB
-Wersja spolszczenia: 1.0.7"	Version: {0} ({1})   |   © Pugstorm AB
+Wersja spolszczenia: 1.0.6"	Version: {0} ({1})   |   © Pugstorm AB
 Menu/VersionsAreCompatibleButNotSameWarning	Text	 [new]	Versions are compatible, but minor changes may affect performance.	Wersje są kompatybilne, ale drobne zmiany mogą mieć wpływ na wydajność.	Die Versionen sind kompatibel, aber kleinere Änderungen können die Leistung beeinträchtigen.
 Menu/WarningVersionMismatch	Text	 [new]	Warning: Version Mismatch	Ostrzeżenie: Niezgodność wersji	Achtung: Falsche Spielversion
 Menu/WindowMode	Text		Window mode	Typ wyświetlania	Fenstermodus
@@ -5558,7 +5587,8 @@ done	Text		Done	Zrobione	Fertig
 dontShowAgain	Text		Don't show again	Nie pokazuj ponownie	Nicht wieder anzeigen
 down	Text		Move down	Ruch w dół	Nach unten
 dresser	Text		Dresser	Komoda	Kommode
-dropToWorld	Text		Drop item: 	Upuść przedmiot:	"""""""Gegenstand ablegen:""
+dropToWorld	Text		Drop item: 	Upuść przedmiot:	"""""""""Gegenstand ablegen:""
+""
 ""
 "
 durability	Text	"For example ""Durability 159/500"""	Durability: {0}/{1}	Wytrzymałość: {0}/{1}	Haltbarkeit: {0}/{1}
@@ -5612,12 +5642,13 @@ godModeOptionDesc	Text		"God mode features:
 - Gracz może niszczyć obiekty jednym uderzeniem
 - Przedmioty nie wypadają ze zniszczonych obiektów
 - Gracz może szybciej umieszczać obiekty
-- Obiekty nie są zużywane podczas używania"	"""""""Funktionen im Gott-Modus:
+- Obiekty nie są zużywane podczas używania"	"""""""""Funktionen im Gott-Modus:
 - Spieler kann sich durch Objekte hindurch bewegen
 - Spieler kann Objekte mit einem Schlag zerstören
 - Gegenstände droppen nicht von zerstörten Objekten
 - Spieler kann Objekte schneller platzieren
 - Objekte werden beim Benutzen nicht verbraucht""
+""
 ""
 ""
 "
@@ -5722,13 +5753,15 @@ petLeveledUp	Text	"{0} will be replaced with the level number
 "	Pet reached level {0}!	Zwierzak osiągnął poziom {0}!	Haustier hat Level {0} erreicht!
 petSlot	Text		Pet slot	Slot na zwierzaka	Haustier-Slot
 physicalWeaponDamage	Text	 [new]	{0}-{1} physical damage	{0}-{1} obrażeń fizycznych	{0}-{1} physischer Schaden
-pickUpHalf	Text		Pick up half:	Podnieś pół:	"""""""Hälfte aufheben:
+pickUpHalf	Text		Pick up half:	Podnieś pół:	"""""""""Hälfte aufheben:
 {0}""
+""
 ""
 ""
 "
-pickUpOne	Text	{0} will be replaced with the input player needs to use to perform the action, note that the breakline is intended and should be used in the localizations too	Pick up one:	Podnieś jeden:	"""""""Einen aufheben:
+pickUpOne	Text	{0} will be replaced with the input player needs to use to perform the action, note that the breakline is intended and should be used in the localizations too	Pick up one:	Podnieś jeden:	"""""""""Einen aufheben:
 {0}""
+""
 ""
 ""
 "
@@ -5741,8 +5774,9 @@ pressAnyButtonPS4	Text		Press any button	Naciśnij dowolny przycisk	Drücke eine
 pressAnyButtonXbox	Text		Press any button	Naciśnij dowolny przycisk	Drücke eine Taste
 price	Text		Price: {0}	Cena: {0}	Preis: {0}
 primary	Text	Shown as category for red, yellow, blue and green painting colors	Primary	Podstawowy	Primär
-quickMove	Text		Quick stash:	Szybki skład:	"""""""Schnell-Ablage:
+quickMove	Text		Quick stash:	Szybki skład:	"""""""""Schnell-Ablage:
 {0}""
+""
 ""
 ""
 "
