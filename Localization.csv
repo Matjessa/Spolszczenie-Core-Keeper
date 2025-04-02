@@ -398,6 +398,7 @@ Conditions/GainRangeDamageFromShooting	Text		Gain 2% range damage every time an 
 Conditions/GainRangeDamageIncreaseFromStandingStill	Text		{0}% range damage after standing still for a short duration	{0}% obrażeń zasięgowych po pozostaniu w bezruchu przez krótki czas.	{0} % kurzfristiger Fernkampfschaden nach dem Stillstehen
 Conditions/GainRemainingManaAsMagicDamagePercentage	Text		Up to {0}% magic damage based on your remaining mana	Do {0}% obrażeń magicznych bazujących na pozostałej ilości many.	Bis zu {0} % Magieschaden basiert auf deiner verbleibenden Mana
 Conditions/GodMode	Text		You are in god mode	Jesteś w trybie boga	Du bist im Gott-Modus
+Conditions/GreenGlow	Text		{0} green glow	{0} zielonej poświaty	{0} grüne Schimmer
 Conditions/HealOnMinionDespawn	Text		Minions heal you for {0}% health when they despawn	Sługusy leczą cię za {0}% zdrowia, gdy znikną.	Unterlinge heilen dich um {0} % Gesundheit, wenn sie verschwinden
 Conditions/HealOverTime	Text	"For example ""+5 health every second"""	{0} health every sec	{0} zdrowia co sekundę	{0} Gesundheit jede Sekunde
 Conditions/HealOverTimePercentage	Text	"For example ""+5% health every second"""	{0}% health every sec	{0}% zdrowia co sekundę	{0} % Gesundheit pro Sekunde
@@ -607,17 +608,31 @@ ControlMapper/A4S	Text		A#4	A#4	A#4
 ControlMapper/A5	Text		A5	A5	A5
 ControlMapper/A5S	Text		A#5	A#5	A#5
 ControlMapper/AccelerateVehicle	Text		Accelerate vehicle	Przyspieszenie pojazdu	Fahrzeug beschleunigen
+ControlMapper/Assign	Text		Assign	Przypisz	Zuweisen
+ControlMapper/AssignJoystickMessagePC	Text		Press any button or move an axis to assign it to {0}.	Naciśnij dowolny przycisk lub przesuń drążek, aby przypisać go do {0}.	Drücke eine beliebige Taste oder bewege eine Achse, um sie {0} zuzuweisen.
+ControlMapper/AssignJoystickMessagePlaystation	Text		Press any button or move an axis to assign it to {0}.	Naciśnij dowolny przycisk lub przesuń drążek, aby przypisać go do {0}.	Drücke eine beliebige Taste oder bewege eine Achse, um sie {0} zuzuweisen.
+ControlMapper/AssignJoystickMessageSwitch	Text		Press any button or move an axis to assign it to {0}.	Naciśnij dowolny przycisk lub przesuń drążek, aby przypisać go do {0}.	Drücke eine beliebige Taste oder bewege eine Achse, um sie {0} zuzuweisen.
+ControlMapper/AssignJoystickMessageXbox	Text		Press any button or move an axis to assign it to {0}.	Naciśnij dowolny przycisk lub przesuń drążek, aby przypisać go do {0}.	Drücke eine beliebige Taste oder bewege eine Achse, um sie {0} zuzuweisen.
 ControlMapper/B4	Text		B4	B4	H4
 ControlMapper/B5	Text		B5	B5	H5
 ControlMapper/C4	Text		C4	C4	C4
 ControlMapper/C4S	Text		C#4	C#4	C#4
 ControlMapper/C5	Text		C5	C5	C5
 ControlMapper/C5S	Text		C#5	C#5	C#5
+ControlMapper/CharacterAimDown	Text		Aim down	Celuj w dół	Nach unten zielen
+ControlMapper/CharacterAimLeft	Text		Aim left	Celuj w lewo	Nach links zielen
+ControlMapper/CharacterAimRight	Text		Aim right	Celuj w prawo	Nach rechts zielen
+ControlMapper/CharacterAimUp	Text		Aim up	Celuj w górę	Nach oben zielen
+ControlMapper/CharacterMoveDown	Text		Move character down	Przesunięcie postaci w dół	Charakter nach unten bewegen
+ControlMapper/CharacterMoveLeft	Text		Move character left	Przesunięcie postaci w lewo	Charakter nach links bewegen
+ControlMapper/CharacterMoveRight	Text		Move character right	Przesunięcie postaci w lewo	Charakter nach rechts bewegen
+ControlMapper/CharacterMoveUp	Text		Move character up	Przesunięcie postaci w górę	Charakter nach oben bewegen
 ControlMapper/D4	Text		D4	D4	D4
 ControlMapper/D4S	Text		D#4	D#4	D#4
 ControlMapper/D5	Text		D5	D5	D5
 ControlMapper/D5S	Text		D#5	D#5	D#5
 ControlMapper/DefaultCategory	Text		Default	Domyślny	Standard
+ControlMapper/DefaultDescription	Text		Common actions used in various places in the game	Typowe akcje używane w różnych miejscach w grze	Allgemeine Aktionen, die an diversen Stellen im Spiel ausgeführt werden
 ControlMapper/DropSelectedItem	Text		Drop item to world	Upuszczasz przedmioty na ziemie	Gegenstand in der Welt erscheinen lassen
 ControlMapper/E4	Text		E4	E4	E4
 ControlMapper/E5	Text		E5	E5	E5
@@ -653,7 +668,23 @@ ControlMapper/GameX	Text		Left joystick X-axis	Lewy drążek Oś X	Linker Stick 
 ControlMapper/GameY	Text		Left joystick Y-axis	Lewy drążek Oś Y	Linker Stick Y-Achse
 ControlMapper/Honk	Text		Vehicle honk	Trąbienie pojazdu	Fahrzeughupe
 ControlMapper/HotbarSwapModifier	Text		Hotbar swap modifier	Modyfikator zamiany paska narzędzi	Hotbar-Wechsel-Modifikator
+ControlMapper/HotbarSwapModifierPC	Text		Hotbar swap modifier	Modyfikator zamiany paska narzędzi	Hotbar-Wechsel-Modifikator
+ControlMapper/HotbarSwapModifierPlaystation	Text		Hotbar swap modifier	Modyfikator zamiany paska narzędzi	Hotbar-Wechsel-Modifikator
+ControlMapper/HotbarSwapModifierSwitch	Text		Hotbar swap modifier	Modyfikator zamiany paska narzędzi	Hotbar-Wechsel-Modifikator
+ControlMapper/HotbarSwapModifierXbox	Text		Hotbar swap modifier	Modyfikator zamiany paska narzędzi	Hotbar-Wechsel-Modifikator
+ControlMapper/IngameCategory	Text		Gameplay	Rozgrywka	Gameplay
+ControlMapper/IngameDescription	Text		Actions used during normal gameplay	Akcje używane podczas normalnej rozgrywki	Aktionen, die im herkömmlichen Gameplay ausgeführt werden
+ControlMapper/InventoryCategory	Text		Inventory	Ekwipunek	Inventar
+ControlMapper/InventoryDescription	Text		Inventory management actions	Działania związane z zarządzaniem ekwipunkiem	Inventar-Management-Aktionen
+ControlMapper/MapMoveDown	Text		Move down on the map	Przesuń w dół na mapie	Auf der Karte nach unten bewegen
+ControlMapper/MapMoveLeft	Text		Move left on the map	Przesuń w lewo na mapie	Auf der Karte nach links bewegen
+ControlMapper/MapMoveRight	Text		Move right on the map	Przesuń w prawo na mapie	Auf der Karte nach rechts bewegen
+ControlMapper/MapMoveUp	Text		Move up on the map	Przesuń w górę na mapie	Auf der Karte nach oben bewegen
+ControlMapper/MapNextMarker	Text		Select next map marker	Wybór następnego znacznika mapy	Nächste Kartenmarkierung auswählen
 ControlMapper/MapPing	Text		Ping map	Ping mapa	Karte anpingen
+ControlMapper/MapPreviousMarker	Text		Select previous map marker	Wybór poprzedniego znacznika mapy	Vorige Kartenmarkierung auswählen
+ControlMapper/MapViewCategory	Text		Map	Mapa	Karte
+ControlMapper/MapViewDescription	Text		Fullscreen map controls	Pełnoekranowe sterowanie mapą	Vollbild-Kartensteuerung
 ControlMapper/MenuDown	Text		In-game UI down	Interfejs w grze - dół	Spiel-UI unten
 ControlMapper/MenuLeft	Text		In-game UI left	Interfejs w grze - lewo	Spiel-UI links
 ControlMapper/MenuRight	Text		In-game UI right	Interfejs w grze - prawo	Spiel-UI rechts
@@ -665,6 +696,7 @@ ControlMapper/MoveLeft	Text		Move left	Ruch w lewo	Nach links
 ControlMapper/MoveRight	Text		Move right	Ruch w prawo	Nach rechts
 ControlMapper/MoveUp	Text		Move forward	Ruch do przodu	Nach vorne
 ControlMapper/MusicInstrumentCategory	Text		Instrument	Instrument	Instrument
+ControlMapper/MusicInstrumentDescription	Text		Used to play notes on various music instruments	Służy do grania nut na różnych instrumentach muzycznych	Zum Spielen von Noten auf diversen Musikinstrumenten
 ControlMapper/ObjectInteract	Text		Interact with object	Interakcja z obiektem	Mit Objekt interagieren
 ControlMapper/OctaveChange	Text		Increase octave on controller	Zwiększenie oktawy na kontrolerze	Oktave auf dem Controller erhöhen
 ControlMapper/OpenChat	Text		Open chat	Otwieranie czatu	Chat öffnen
@@ -675,6 +707,10 @@ ControlMapper/PickUpItems	Text		Pick up / drop item	Podnieś / upuść przedmiot
 ControlMapper/QuickMoveItems	Text		Move item to other inventory or equip	Przeniesienie przedmiotu do innego ekwipunku lub na wyposażenie	Gegenstand in anderes Inventar verschieben oder ausrüsten
 ControlMapper/QuickStack	Text		Quick stack 	Szybki stos	Bereits vorhandene Gegenstände ins Lager verschieben
 ControlMapper/QuickSwapTorch	Text		Swap to torch temporarily	Tymczasowa zamiana na pochodnię	Vorübergehend auf Fackel umstellen
+ControlMapper/ReassignRemoveMessage	Text		Do you want to reassign or remove this assignment?	Czy chcesz ponownie przypisać lub usunąć to przypisanie?	Möchtest du diese Zuweisung neu zuweisen oder entfernen?
+ControlMapper/ReassignRemoveTitle	Text		Reassign or Remove	Przydziel ponownie lub usuń	Neu zuweisen oder entfernen
+ControlMapper/RemoveAssignmentMessage	Text		Are you sure you want to remove {0} assignment from {1}?	Czy na pewno chcesz usunąć przypisanie {0} z {1}?	Möchtest du die {0}-Zuweisung von {1} entfernen?
+ControlMapper/ResetNotification	Text		Your input settings have been reset to default. Please set up your preferred controls in the Controls menu.	Twoje przypisanie przycisków zostało zresetowane do wartości domyślnych. Skonfiguruj preferowane ustawienia sterowania w menu Sterowanie.	Steuerungszuweisungen wurden auf ihre Standardeinstellungen zurückgesetzt. Bitte stelle benutzerdefinierte Steuerungszuweisungen im Menü [STEUERUNG] neu ein.
 ControlMapper/ReverseVehicle	Text		Reverse vehicle	Cofanie pojazdu	Fahrzeug im Rückwärtsgang
 ControlMapper/RightJoyStickX	Text		Right joystick X-axis	Prawy drążek Oś X	Rechter Stick X-Achse
 ControlMapper/RightJoyStickY	Text		Right joystick Y-axis	Prawy drążek Oś Y	Rechter Stick Y-Achse
@@ -686,17 +722,26 @@ ControlMapper/Rotate	Text		Rotate / resize 	Obracanie / zmiana rozmiaru	Rotieren
 ControlMapper/Sort	Text		Sort inventory	Sortowanie ekwipunku	Inventar sortieren
 ControlMapper/SplitStack	Text		Split item stack	Podział stosu przedmiotów	Gegenstandstapel teilen
 ControlMapper/StopPlayingInstrument	Text		Stop playing	Przerwij grę	Nicht mehr spielen
+ControlMapper/Timeout	Text		Time left	Pozostały czas	Verbleibende Zeit
 ControlMapper/ToggleInventory	Text		Toggle inventory	Przełączanie ekwipunku	Inventar umschalten
 ControlMapper/ToggleLocking	Text		Toggle locking mode	Przełączanie trybu blokady	Sperrmodus umschalten
 ControlMapper/ToggleMap	Text		Toggle map	Przełączanie mapy	Karte umschalten
 ControlMapper/ToggleShortCutsWindow	Text		Toggle shortcuts window	Włączanie okna skrótów	Fenster der Abkürzungen umschalten
+ControlMapper/ToggleShortCutsWindowPC	Text		Toggle shortcuts window	Włączanie okna skrótów	Tastenkürzel-Fenster umschalten
+ControlMapper/ToggleShortCutsWindowPlaystation	Text		Toggle shortcuts window	Włączanie okna skrótów	Tastenkürzel-Fenster umschalten
+ControlMapper/ToggleShortCutsWindowSwitch	Text		Toggle shortcuts window	Włączanie okna skrótów	Tastenkürzel-Fenster umschalten
+ControlMapper/ToggleShortCutsWindowXbox	Text		Toggle shortcuts window	Włączanie okna skrótów	Tastenkürzel-Fenster umschalten
 ControlMapper/ToggleSpectatedPlayer	Text	Toggles which player is being spectated. Can be used after dying as hard core character.	Toggle spectated player	Przełączanie obserwowanego gracza	Beobachteten Spieler umschalten
 ControlMapper/ToggleUI	Text		Toggle in-game UI	Przełączanie interfejsu w grze	Spiel-UI umschalten
 ControlMapper/TrashItem	Text		Trash selected item	Wyrzuć wybrany przedmiot	Ausgewählten Gegenstand entsorgen
 ControlMapper/UIInteract	Text		UI interact	Interakcja interfejsu	UI-Interaktion
 ControlMapper/UIModifierKeys	Text		Inventory UI modifiers, use together with pick up / drop item actions	Modyfikatory interfejsu użytkownika, używane razem z akcjami podnoszenia/upuszczania przedmiotów	UI-Modifikatoren des Inventars, zusammen mit Aktionen zum Aufnehmen / Ablegen von Gegenständen verwenden
+ControlMapper/UIModifierKeysCategory	Text		Inventory UI modifiers	Modyfikatory UI ekwipunku	Inventar-UI-Modifikatoren
+ControlMapper/UIModifierKeysDescription	Text		Use together with pick up / drop item actions	Używaj razem z akcjami podnoszenia/upuszczania przedmiotów	Verwendung mit Aktionen zum Aufnehmen / Ablegen von Gegenständen
 ControlMapper/UISecondInteract	Text		UI second interact	Druga interakcja interfejsu	Zweite UI-Interaktion
 ControlMapper/UseOffHand	Text		Use off-hand	Użyj drugiej ręki	Zweithand benutzen
+ControlMapper/VehicleCategory	Text		Vehicle	Pojazd	Fahrzeug
+ControlMapper/VehicleDescription	Text		Used to control go-karts and other similar vehicles	Służy do sterowania gokartami i innymi podobnymi pojazdami.	Für die Steuerung von Go-Karts und vergleichbaren Fahrzeugen
 ControlMapper/ZoomInMap	Text		Zoom in map	Powiększanie mapy	Karte vergrößern
 ControlMapper/ZoomOutMap	Text		Zoom out map	Pomniejszanie mapy	Karte verkleinern
 ControlMapper/actionColumnLabel	Text		Actions	Akcja	Aktionen
@@ -780,78 +825,100 @@ Credits/Artists	Text		Artists	Artyści	Künstler
 Credits/AssociateProducer	Text		Associate Producer	Współpracownik ds. produkcji	Associate Producer
 Credits/AssociateProductManager	Text		Associate Product Manager	Zastępca kierownika produktu	Associate Product Manager
 Credits/Association71Consulting	Text		"In Association with Marketing & PR Studio
-71 Consulting"	We współpracy z Marketing & PR Studio 71 Consulting	"""""""""In Zusammenarbeit mit Marketing- und PR-Studio
+71 Consulting"	We współpracy z Marketing & PR Studio 71 Consulting	"""""""""""""In Zusammenarbeit mit Marketing- und PR-Studio
 71 Consulting""
+""
+""
 ""
 ""
 ""
 "
 Credits/AssociationAceAgency	Text		"In Association with Localisation Studio
-ACE Agency"	We współpracy z agencją lokalizacyjną Studio ACE	"""""""""In Zusammenarbeit mit der Lokalisierungsagentur
+ACE Agency"	We współpracy z agencją lokalizacyjną Studio ACE	"""""""""""""In Zusammenarbeit mit der Lokalisierungsagentur
 ACE Agency""
+""
+""
 ""
 ""
 ""
 "
 Credits/AssociationDreamLoop	Text		"In Association with Console Porting Studio
-Dreamloop Games"	We współpracy z konsolowym studiem portującym Dreamloop Games	"""""""""In Zusammenarbeit mit dem Konsolen-Portierungsstudio
+Dreamloop Games"	We współpracy z konsolowym studiem portującym Dreamloop Games	"""""""""""""In Zusammenarbeit mit dem Konsolen-Portierungsstudio
 Dreamloop Games""
+""
+""
 ""
 ""
 ""
 "
 Credits/AssociationEnzyme	Text		"In Association with Compatibility Testing Studio
-Enzyme"	We współpracy z Studio Enzyme zajmującym się testowaniem kompatybilności	"""""""""In Zusammenarbeit mit dem Studio für Kompatibilitätstests
+Enzyme"	We współpracy z Studio Enzyme zajmującym się testowaniem kompatybilności	"""""""""""""In Zusammenarbeit mit dem Studio für Kompatibilitätstests
 Enzyme""
+""
+""
 ""
 ""
 ""
 "
 Credits/AssociationKeywordsIndia	Text		"In Association with PC FQA Studio
-Keywords India"	We współpracy z PC FQA Studio Keywords India	"""""""""In Zusammenarbeit mit dem Studio für PC-FQA
+Keywords India"	We współpracy z PC FQA Studio Keywords India	"""""""""""""In Zusammenarbeit mit dem Studio für PC-FQA
 Keywords India""
+""
+""
 ""
 ""
 ""
 "
 Credits/AssociationLionbridge	Text		"In Association with PC and Console QA Studio
-Lionbridge Games"	We współpracy z PC and Console QA Studio Lionbridge Games	"""""""""In Zusammenarbeit mit dem Studio für PC- und Konsolen-QA
+Lionbridge Games"	We współpracy z PC and Console QA Studio Lionbridge Games	"""""""""""""In Zusammenarbeit mit dem Studio für PC- und Konsolen-QA
 Lionbridge Games""
+""
+""
 ""
 ""
 ""
 "
 Credits/AssociationLionbridgeLQA	Text		"In Association with PC and Console LQA Studio
-Lionbridge Games"	We współpracy z PC and Console LQA Studio Lionbridge Games	"""""""""In Zusammenarbeit mit dem Studio für PC- und Konsolen-LQA
+Lionbridge Games"	We współpracy z PC and Console LQA Studio Lionbridge Games	"""""""""""""In Zusammenarbeit mit dem Studio für PC- und Konsolen-LQA
 Lionbridge Games""
+""
+""
 ""
 ""
 ""
 "
 Credits/AssociationLocalizeDirect	Text		"In Association with PC LQA Studio
-LocalizeDirect"	We współpracy z PC LQA Studio LocalizeDirect	"""""""""In Zusammenarbeit mit dem Studio für PC-LQA
+LocalizeDirect"	We współpracy z PC LQA Studio LocalizeDirect	"""""""""""""In Zusammenarbeit mit dem Studio für PC-LQA
 LocalizeDirect""
+""
+""
 ""
 ""
 ""
 "
 Credits/AssociationOhCreative	Text		"In Association with Marketing Studio
-OH Creative"	We współpracy z Marketing Studio OH Creative	"""""""""In Zusammenarbeit mit Marketingstudio
+OH Creative"	We współpracy z Marketing Studio OH Creative	"""""""""""""In Zusammenarbeit mit Marketingstudio
 OH Creative""
+""
+""
 ""
 ""
 ""
 "
 Credits/AssociationPlaytropic	Text		"In Association with PC and Console FQA Studio
-Playtropic Video Game Services"	We współpracy z PC and Console FQA Studio Playtropic Video Game Services	"""""""""In Zusammenarbeit mit dem Studio für PC- und Konsolen-FQA
+Playtropic Video Game Services"	We współpracy z PC and Console FQA Studio Playtropic Video Game Services	"""""""""""""In Zusammenarbeit mit dem Studio für PC- und Konsolen-FQA
 Playtropic Videogame Services""
+""
+""
 ""
 ""
 ""
 "
 Credits/AssociationTestify	Text		"In Association with Testing Studio
-Testify"	We współpracy z testerskim Testify Studio 	"""""""""In Zusammenarbeit mit dem Teststudio
+Testify"	We współpracy z testerskim Testify Studio 	"""""""""""""In Zusammenarbeit mit dem Teststudio
 Testify""
+""
+""
 ""
 ""
 ""
@@ -919,8 +986,10 @@ Credits/PCandConsoleFQA	Text		PC and Console FQA	PC i Console FQA	PC- und Konsol
 Credits/PCandConsoleQA	Text		PC and Console QA	Kontrola jakości na komputerze i konsoli	PC- und Konsolen-QA
 Credits/PRAndCommunications	Text		PR and Communications	PR i komunikacja	PR und Kommunikation
 Credits/PartneredFireshine	Text		"Partnered with Publisher
-Fireshine Games"	Współpraca z wydawcą Fireshine Games	"""""""""In Partnerschaft mit dem Publisher
+Fireshine Games"	Współpraca z wydawcą Fireshine Games	"""""""""""""In Partnerschaft mit dem Publisher
 Fireshine""
+""
+""
 ""
 ""
 ""
@@ -1006,7 +1075,9 @@ CreditsNames/BettinaR	Text		Bettina R.	Bettina R.	Bettina R.
 CreditsNames/BrandonCraigTurner	Text		Brandon Craig-Turner	Brandon Craig-Turner	Brandon Craig-Turner
 CreditsNames/BridieDaniels	Text		Bridie Daniels	Bridie Daniels	Bridie Daniels
 CreditsNames/BugsyRabbit2004	Text		BugsyRabbit2004	BugsyRabbit2004	BugsyRabbit2004
-CreditsNames/CarriganTessSevedge	Text		"Carrigan ""Tess"" Sevedge"	"Carrigan ""Tess"" Sevedge"	"Carrigan ""Tess"" Sevedge"
+CreditsNames/CarriganTessSevedge	Text		"Carrigan ""Tess"" Sevedge"	"Carrigan ""Tess"" Sevedge"	"""""Carrigan ""Tess"" Sevedge""
+""
+"
 CreditsNames/Cedric	Text		Cedric	Cedric	Cedric
 CreditsNames/CedricSchmitt	Text		Cedric Schmitt	Cedric Schmitt	Cedric Schmitt
 CreditsNames/ChantelleLarmond	Text		Chantelle Larmond	Chantelle Larmond	Chantelle Larmond
@@ -1283,8 +1354,10 @@ Emotes/TutorialCraftWorkbench	Text		I could craft more complex tools if I had a 
 Emotes/TutorialSmeltOre	Text		This ore isn't very useful unless I smelt it down...	Ta ruda nie jest zbyt użyteczna, chyba że ją przetopię...	Dieses Erz hat keinen großen Nutzen, solange ich es nicht einschmelze ...
 Emotes/UnlockedInEarlyAccess	Text		Unlocked in Early Access	Odblokowane w ramach wczesnego dostępu	Im Early Access freigeschaltet
 Emotes/UnlocksAtLaunch	Text		"Continue your exploration beyond the wall at 1.0,
-unlocks August 27th 2024."	Kontynuuj eksplorację poza murem w wersji 1.0, zostanie odblokowana 27 sierpnia 2024 r.	"""""""""Setze die Erkundung jenseits der Wand mit 1.0 fort.
+unlocks August 27th 2024."	Kontynuuj eksplorację poza murem w wersji 1.0, zostanie odblokowana 27 sierpnia 2024 r.	"""""""""""""Setze die Erkundung jenseits der Wand mit 1.0 fort.
 Die Freischaltung erfolgt am 27. August 2024""
+""
+""
 ""
 ""
 ""
@@ -1332,8 +1405,10 @@ Error/ReconnectServerPlayer	Text		waiting for host	oczekiwanie na hosta	warte au
 Error/Reconnecting	Text		"Trying to reconnect
 (Step {0}/{1}: {2})"	"Próba przywrócenia połączenia
 (Krok {0}/{1}: {2})
-"	"""""""Es wird versucht, eine Verbindung wiederherzustellen
+"	"""""""""""Es wird versucht, eine Verbindung wiederherzustellen
 (Schritt {0}/{1}: {2})""
+""
+""
 ""
 ""
 "
@@ -1665,6 +1740,7 @@ ItemCategory/Creature_Enemy	Text		Enemy	Wrogowie	Feind
 ItemCategory/Creature_Merchant	Text		Merchant	Handlarz	Händler
 ItemCategory/Creature_Pet	Text		Pet	Zwierzaki	Haustier
 ItemCategory/Environment	Text		Environment	Środowiskowe	Umgebung
+ItemCategory/Environment_AbioticFactorBiome	Text	&	Abiotic Factor	Abiotic Factor	Abiotic Factor
 ItemCategory/Environment_Block	Text	As in a piece of block used for building a wall or ground	Block	Blok	Block
 ItemCategory/Environment_CityBiome	Text		City biome	Biom miejski	Stadt-Biom
 ItemCategory/Environment_ClayBiome	Text		Clay biome	Biom gliniasty	Lehm-Biom
@@ -1743,6 +1819,46 @@ ItemCategory/Valuable_SeaBiome	Text		Sea biome	Biom morski	Meeres-Biom
 ItemCategory/Valuable_StoneBiome	Text		Stone biome	Biom kamienny	Stein-Biom
 ItemCategory/Valuable_Trophy	Text		Figurine	Figurka	Figur
 ItemLevel	Text		Item level {0}	Poziom przedmiotu {0}	Gegenstandsstufe {0}
+Items/AFBottledAnomaly	Text		Bottled Anomaly	Anomalia w butelce	Flaschen-Anomalie
+Items/AFBottledAnomalyDesc	Text		An indecipherable entity that appears to respond to glass.	Niezrozumiała istota, która wydaje się reagować na szkło.	Ein geheimnisvolles Wesen, das auf Glas zu reagieren scheint.
+Items/AFDrink1	Text		Vit	Vit	Vit
+Items/AFDrink1Desc	Text		A grape-flavored soda.	Napój gazowany o smaku winogronowym.	Eine Limonade mit Traubengeschmack.
+Items/AFDrink2	Text		Rootbear	Korzenny miś	Rootbär
+Items/AFDrink2Desc	Text		This soda tastes like licorice, or something worse.	Ta soda smakuje jak lukrecja lub coś gorszego.	Diese Limonade schmeckt nach Lakritze oder Schlimmerem.
+Items/AFDrink3	Text		Skip	Skip	Skip
+Items/AFDrink3Desc	Text		A well-preserved sugar cookie from a plastic bag.	Dobrze zachowane cukrowe ciasteczko z plastikowej torebki.	Ein gut erhaltenes Zuckergebäck aus einer Plastiktüte.
+Items/AFDrink4	Text		Slushie	Słodzik	Slushy
+Items/AFDrink4Desc	Text		An ice cold beverage with a kick of flavor. May cause a slight chill.	Lodowaty napój o intensywnym smaku. Może powodować lekkie dreszcze.	Ein eisgekühltes Getränk mit einem kräftigen Geschmack. Kann ein leichtes Frösteln verursachen.
+Items/AFDrink5	Text		Mug of Coffee	Kubek kawy	Tasse Kaffee
+Items/AFDrink5Desc	Text		A highly caffeinated drink. Sure to knock some fatigue off.	Napój o wysokiej zawartości kofeiny. Z pewnością usunie zmęczenie.	Ein stark koffeinhaltiges Getränk. Macht sicher etwas munterer.
+Items/AFDrink6	Text		Kizz Cola	Kola Kizz	Kizz Cola
+Items/AFDrink6Desc	Text		A strange soda, from a strange vending machine.	Dziwny napój gazowany z dziwnego automatu.	Eine seltsame Limonade, aus einem seltsamen Automaten.
+Items/AFLargeWoodenDestructible	Text		Large Office Crate	Duża skrzynia biurowa	Große Bürokiste
+Items/AFLargeWoodenDestructibleDesc	Text		A large box arbitrarily stocked with research items.	Duża skrzynia arbitralnie wypełniona przedmiotami badawczymi.	Eine große, penibel mit Forschungsgegenständen gefüllte Box.
+Items/AFPestElectric	Text		Electro-Pest	Elektroszkodnik	Elektroschädling
+Items/AFPestElectricDesc	Text		IS-0173-B is a cybernetically augmented Pest (IS-0173), a spiky, loaf-shaped juvenile creature. It lunges to pierce prey with its jaws, quills, and its now inadvertent electricity.	IS-0173-B to cybernetycznie ulepszony Szkodnik (IS-0173), kolczaste, młode stworzenie w kształcie bochenka. Rzuca się, by przebić ofiarę szczękami, kolcami i mimowolnie elektrycznością.	IS-0173-B ist ein kybernetisch verstärkter Schädling (IS-0173); eine stachelige, jugendliche Kreatur in Form eines Laibs. Es stürzt hervor, um Beute mit seinen Kiefern, Kielen und seiner nun unbeabsichtigten Elektrizität anzugreifen.
+Items/AFPestElectricTrophy	Text		Electro-Pest Figurine	Figurka elektroszkodnika	Elektroschädling-Figur
+Items/AFPestElectricTrophyDesc	Text		A lifelike representation of an Electro-Pest.	Realistycznie odwzorowany elektroszkodnik.	Eine lebensechte Nachbildung eines Elektroschädlings.
+Items/AFPipeClub	Text		Pipe Club	Rurowy kij	Rohrkeule
+Items/AFPipeClubDesc	Text		A hefty pipe with a gauge on the end for added weight.	Potężna rura ze wskaźnikiem na końcu dla zwiększenia wagi.	Ein stabiles Rohr mit einem Messgerät am Ende, das das Gewicht erhöht.
+Items/AFPortal	Text		Anteverse Portal	Portal Anteverse	Anteversum-Portal
+Items/AFPortalDesc	Text		"Gadgetry labeled ""GATE"" that suspends a humming entryway. The rims of its rift depict a laboratorial place of origin, which has been eclipsed by a tether to the Core."	"Gadżet z napisem ""BRAMA"", który podtrzymuje brzęczące wejście. Obrzeża portalu przedstawiają laboratoryjne miejsce pochodzenia, które zostało przyćmione przez połączenie z Rdzeniem."	Eine mit „GATE“ markierte Apparatur, die einen surrenden Eingang aufrechterhält. Von den Rändern des Risses zeichnet sich eine Art Labor als Ursprungsort ab, welches durch eine Verbindung zum Kern verdunkelt wird.
+Items/AFQuillRifle	Text		Quill Rifle	Wyrzutnia piór	Kielgewehr
+Items/AFQuillRifleDesc	Text		A re-engineered bioweapon, discharging quills as deadly bolts.	Przeprojektowana broń biologiczna, wystrzeliwująca pióra jako śmiercionośne pociski.	Eine überarbeitete Biowaffe, die Federkiele entlädt, als wären sie tödliche Bolzen.
+Items/AFScienceBreastArmor	Text		Researcher Coat	Płaszcz badacza	Laborkittel
+Items/AFScienceBreastArmorDesc	Text		A specialized labcoat with a faint, probably harmless, radioactive tinge.	Specjalistyczny fartuch laboratoryjny o słabym, prawdopodobnie nieszkodliwym, radioaktywnym zabarwieniu.	Ein fachlicher Laborkittel mit einer schwachen radioaktiven Färbung, die wahrscheinlich harmlos ist.
+Items/AFScienceHelm	Text		Makeshift NVGs	Prowizoryczne noktowizory	Provisorisches NSG
+Items/AFScienceHelmDesc	Text		Monocular night vision made from various scientific gadgetry.	Monokular noktowizyjny wykonany z różnych gadżetów naukowych.	Monokulares Nachtsichtgerät, das aus verschiedenen wissenschaftlichen Geräten gefertigt wurde.
+Items/AFSciencePantsArmor	Text		Researcher Pants	Spodnie badacza	Laborhose
+Items/AFSciencePantsArmorDesc	Text		A pair of pale leggings designed to idle on office chairs, yet perfectly fit for outrunning extradimensional horrors.	Para jasnych legginsów zaprojektowanych do siedzenia na krześle biurowym, ale idealnie nadających się do ucieczki przed pozawymiarowymi horrorami.	Ein blasses Beinkleid mit dem Zweck, auf Bürostühlen zu sitzen. Gleichzeitig ist es perfekt dazu geeignet, vor extradimensionalen Schrecken wegzulaufen.
+Items/AFVendingMachine	Text		Snacks Vending Machine	Automat z przekąskami	Snackautomat
+Items/AFVendingMachineDesc	Text		A snack dispenser with contents in surprisingly fresh condition.	Automat z przekąskami o zaskakująco świeżej zawartości.	Ein Snackautomat, dessen Inhalt überraschend frisch ist.
+Items/AFWaterCooler	Text		Water Cooler	Chłodziarka do wody	Wasserkühler
+Items/AFWaterCoolerDesc	Text		A jug-based water cooler, great for holding and dispensing liquids.	Chłodziarka do wody na bazie dzbanka, świetna do przechowywania i dozowania płynów.	Ein Wasserkühler auf Basis eines Kruges, der sich hervorragend zur Aufnahme und Abgabe von Flüssigkeiten eignet.
+Items/AFWhiteBoard	Text		Whiteboard	Biała tablica	Whiteboard
+Items/AFWhiteBoardDesc	Text		A whiteboard covered with convoluted, scribbled equations.	Tablica pokryta zawiłymi, nabazgranymi równaniami.	Ein Whiteboard mit komplizierten, hingekritzelten Gleichungen.
+Items/AFWoodenDestructible	Text		Office Crate	Skrzynia biurowa	Bürokiste
+Items/AFWoodenDestructibleDesc	Text		A box arbitrarily stocked with research items.	Pudełko dowolnie wypełnione przedmiotami do badań.	Eine penibel mit Forschungsgegenständen gefüllte Box.
 Items/AbandonedCampMatress	Text		Camp Matress	Materac kempingowy	Alte Rollmatratze
 Items/AbandonedCampMatressDesc	Text		The resting place of a former adventurer?	Miejsce spoczynku byłego poszukiwacza przygód?	Der Ruheort eines ehemaligen Abenteurers?
 Items/AbandonedCampTent	Text		Camp Tent	Namiot kempingowy	Altes Zelt
@@ -2922,7 +3038,9 @@ Items/GlassFloor	Text		Glass Floor	Szklana podłoga	Glasboden
 Items/GlassFloorDesc	Text		A see-through tile to provide a crystal-clear vision of the ground underneath.	Przezroczysta płytka zapewniająca krystalicznie czysty widok podłoża pod spodem.	Eine durchsichtige Fliese, die einen kristallklaren Blick auf den darunterliegenden Boden ermöglicht.
 Items/GlassSmelter	Text		Glass Smelter	Huta szkła	Glas-Schmelzofen
 Items/GlassSmelterDesc	Text		This handy furnace can turn any sand block into useful glass.	Ten poręczny piec może zamienić dowolny blok piasku w użyteczne szkło.	Dieser praktische Schmelzofen kann jede Art von Sandblock zu nützlichem Glas verarbeiten.
-Items/GlassStatuePrism	Text		"Glass Statue ""Octahedron"""	"Szklana rzeźba ""Ośmiościan"""	"""""""""""Glas-Statue ""Oktaeder""""
+Items/GlassStatuePrism	Text		"Glass Statue ""Octahedron"""	"Szklana rzeźba ""Ośmiościan"""	"""""""""""""""Glas-Statue ""Oktaeder""""
+""
+""
 ""
 ""
 ""
@@ -3796,7 +3914,9 @@ Items/OmorothTrophy	Text		Omoroth Figurine	Figurka Omorotha	Omoroth-Figur
 Items/OmorothTrophyDesc	Text		A lifelike representation of Omoroth, the Sea Titan.	Realistycznie odwzorowany Omoroth Morski Tytan.	Eine lebensechte Nachbildung von Omoroth, dem Meerestitanen.
 Items/OpabiniaFossil	Text		Opabinia Fossil	Skamielina Opabinii	Opabinia-Fossil
 Items/OpabiniaFossilDesc	Text		The petrified body of an prehistoric sea critter. They were one of the first apex predators to appear in the ancient oceans of earth.	Skamieniałe ciało prehistorycznego stworzenia morskiego. Były one jednymi z pierwszych drapieżników, które pojawiły się w starożytnych oceanach ziemi.	Der versteinerte Körper einer prähistorischen Meereskreatur. Sie war einst einer der ersten Apex-Jäger der urzeitlichen Meere der Erde.
-Items/OracleCardAzeos	Text		"Oracle Card ""Radiance"""	"Karta wyroczni ""Blask"""	"""""""""""Orakel-Karte ""Glanz""""
+Items/OracleCardAzeos	Text		"Oracle Card ""Radiance"""	"Karta wyroczni ""Blask"""	"""""""""""""""Orakel-Karte ""Glanz""""
+""
+""
 ""
 ""
 ""
@@ -3813,14 +3933,18 @@ Items/OracleCardGem	Text		"Oracle Card ""Aura"""	"Karta wyroczni ""Aura"""	Orake
 Items/OracleCardGemDesc	Text		A ripped card with golden borders and an image of an ancient gemstone. Looks like it's part of a set.	Podarta karta ze złotymi ramkami i wizerunkiem starożytnego kamienia szlachetnego. Wygląda na część zestawu.	Eine gerissene Karte mit Goldrand und einem Bildnis eines Antiken Edelsteins. Scheint Teil eines Sets zu sein.
 Items/OracleCardLeader	Text		"Oracle Card ""Inspiration"""	"Karta Oracle ""Inspiracja"""	Orakel-Karte „Inspiration“
 Items/OracleCardLeaderDesc	Text		Half of a card with golden borders and an image of a golden mask. Looks like it's part of a set.	Połowa karty ze złotymi ramkami i wizerunkiem złotej maski. Wygląda na część zestawu.	Die Hälfte einer Karte mit Goldrand und einem Bildnis einer goldenen Maske. Scheint Teil eines Sets zu sein.
-Items/OracleCardOmoroth	Text		"Oracle Card ""Temperance"""	"Karta wyroczni ""Powściągliwość"""	"""""""""""Orakel-Karte ""Mäßigkeit""""
+Items/OracleCardOmoroth	Text		"Oracle Card ""Temperance"""	"Karta wyroczni ""Powściągliwość"""	"""""""""""""""Orakel-Karte ""Mäßigkeit""""
+""
+""
 ""
 ""
 ""
 ""
 "
 Items/OracleCardOmorothDesc	Text		A faded card with golden borders and an image of the sea titan. Looks like it's part of a set.	Wyblakła karta ze złotymi obwódkami i wizerunkiem morskiego tytana. Wygląda na część zestawu.	Eine verblassende Karte mit Goldrand und einem Bildnis des Meerestitans. Scheint Teil eines Sets zu sein.
-Items/OracleCardRaAkar	Text		"Oracle Card ""Endurance"""	"Karta wyroczni ""Wytrzymałość"""	"""""""""""Orakel-Karte ""Standhaftigkeit""""
+Items/OracleCardRaAkar	Text		"Oracle Card ""Endurance"""	"Karta wyroczni ""Wytrzymałość"""	"""""""""""""""Orakel-Karte ""Standhaftigkeit""""
+""
+""
 ""
 ""
 ""
@@ -3948,6 +4072,12 @@ Items/PetDogEgg	Text		Loyal Egg	Lojalne jajko	Treues Ei
 Items/PetDogEggCracked	Text		Cracked Loyal Egg	Pęknięte lojalne jajko	Angeknackstes treues Ei
 Items/PetDogEggCrackedDesc	Text		A mysterious, pointy-eared egg that is about to hatch.	Tajemnicze, spiczasto uszne jajo, które wkrótce się wykluje.	Ein geheimnisvolles Ei mit spitzen Ohren, das kurz davor ist, auszuschlüpfen.
 Items/PetDogEggDesc	Text		A mysterious, pointy-eared egg that seems to react to your presence. Is there a way to hatch it?	Tajemnicze, spiczasto uszne jajo, które zdaje się reagować na twoją obecność. Czy istnieje sposób na jego wyklucie?	Ein geheimnisvolles Ei mit spitzen Ohren, das auf deine Nähe zu reagieren scheint. Gibt es einen Weg, es auszubrüten?
+Items/PetElectric	Text		Electro-Pet	Elektrozwierzak	Elektrohaustier
+Items/PetElectricDesc	Text		A tamed Electro-Pest. This spiky, otherwordly loaf of a predator is supplemented with electric coils. Its blue visor indicates friendliness to its owner.	Oswojony elektroszkodnik. Ten kolczasty, nieziemski drapieżnik jest wyposażony w elektryczne cewki. Jego niebieski wizjer wskazuje na przyjazne nastawienie do właściciela.	Ein gezähmter Elektroschädling. Dieser stachelige, laibförmige Jäger wirkt mit seinen angelegten Stromspulen wie aus einer anderen Welt. Sein blaues Monokel weist darauf hin, dass es freundlich zu seinem Besitzer ist.
+Items/PetElectricEgg	Text		Pest Egg	Jajo szkodnika	Schädlings-Ei
+Items/PetElectricEggCracked	Text		Cracked Pest Egg	Pęknięte jajo szkodnika	Angeknackstes Schädlings-Ei
+Items/PetElectricEggCrackedDesc	Text		A mysterious, cybernetic egg that is about to hatch.	Tajemnicze, cybernetyczne jajo, które wkrótce się wykluje.	Ein kybernetisches Ei, das kurz davor ist, auszuschlüpfen.
+Items/PetElectricEggDesc	Text		A cybernetic egg that seems to react to your presence. Is there a way to hatch it?	Cybernetyczne jajo, które wydaje się reagować na twoją obecność. Czy istnieje sposób na jego wyklucie?	Ein kybernetisches Ei, das auf deine Anwesenheit zu reagieren scheint. Gibt es eine Möglichkeit, es auszubrüten?
 Items/PetLavaSlimeBlob	Text		Jr. Lava Slime	Młody lawowy szlam	Junior-Lavaschleim
 Items/PetLavaSlimeBlobDesc	Text		A scorching little friend that is ready for adventures underground.	Gorący mały przyjaciel, który jest gotowy na przygody pod ziemią.	Ein glühend heißer kleiner Freund, der bereit für Abenteuer im Untergrund ist.
 Items/PetLavaSlimeBlobEgg	Text		Oozy Lava Egg	Śluzowate lawowe jajko	Glitschiges Lava-Ei
@@ -4419,8 +4549,10 @@ Items/SignArrow	Text		Arrow Sign	Znak strzałki	Richtungsschild
 Items/SignArrowDesc	Text		Don't know where to go? Just look at it! 	Nie wiesz, gdzie iść? Wystarczy na niego spojrzeć!	Keine Ahnung wo’s lang geht? Einfach draufschauen!
 Items/SignBrute	Text		Brute Sign	Znak brutala	Schläger-Schild
 Items/SignBruteDesc	Text		"Someone put all their artistic efforts into painting this sign and left it as a warning.
-Caveling Brutes or worse ahead."	Ktoś włożył cały swój artystyczny wysiłek w namalowanie tego znaku i zostawił go jako ostrzeżenie. Przed jaskiniowymi brutalami lub czymś gorszym.	"""""""""""Jemand hat all sein künstlerisches Talent in die Gestaltung dieses Schildes gesteckt und es als Warnung hinterlassen.
+Caveling Brutes or worse ahead."	Ktoś włożył cały swój artystyczny wysiłek w namalowanie tego znaku i zostawił go jako ostrzeżenie. Przed jaskiniowymi brutalami lub czymś gorszym.	"""""""""""""""Jemand hat all sein künstlerisches Talent in die Gestaltung dieses Schildes gesteckt und es als Warnung hinterlassen.
 Grottling-Schläger oder Schlimmeres voraus.""
+""
+""
 ""
 ""
 ""
@@ -4491,13 +4623,17 @@ Items/SmallCrystalGrass	Text		Crystal Grass	Kryształowa trawa	Kristallgras
 Items/SmallCrystalGrassDesc	Text		A strange growth that consists of broad, transparent leaves.	Dziwna roślinka składająca się z szerokich, przezroczystych liści.	Ein merkwürdiges Gewächs, das aus breiten, transparenten Blättern besteht.
 Items/SmallFeatherTree	Text		Small Purple Feather Tree	Małe fioletowe drzewo piórowe	Kleiner Purpurfeder-Baum
 Items/SmallFeatherTreeCyan	Text		Small Cyan Feather Tree	Małe cyjanowe drzewo piórkowe	Kleiner Türkisfeder-Baum
-Items/SmallFeatherTreeCyanDesc	Text		Not a tree at all, but an invertebrate feeding on floating particles with its arms. It hasn't fully matured yet.	Nie jest to w ogóle drzewo, ale bezkręgowiec żywiący się pływającymi cząsteczkami za pomocą ramion. Nie jest jeszcze w pełni dojrzałe.	"""""""""Das ist gar kein Baum, sondern ein großes wirbelloses Tier, das sich mit seinen Armen von Schwebeteilchen ernährt. Noch nicht voll ausgewachsen.
+Items/SmallFeatherTreeCyanDesc	Text		Not a tree at all, but an invertebrate feeding on floating particles with its arms. It hasn't fully matured yet.	Nie jest to w ogóle drzewo, ale bezkręgowiec żywiący się pływającymi cząsteczkami za pomocą ramion. Nie jest jeszcze w pełni dojrzałe.	"""""""""""""Das ist gar kein Baum, sondern ein großes wirbelloses Tier, das sich mit seinen Armen von Schwebeteilchen ernährt. Noch nicht voll ausgewachsen.
+""
+""
 ""
 ""
 ""
 ""
 "
-Items/SmallFeatherTreeDesc	Text		Not a tree at all, but an invertebrate feeding on floating particles with its arms. It hasn't fully matured yet.	Nie jest to w ogóle drzewo, ale bezkręgowiec żywiący się pływającymi cząsteczkami za pomocą ramion. Nie jest jeszcze w pełni dojrzałe.	"""""""""Das ist gar kein Baum, sondern ein großes wirbelloses Tier, das sich mit seinen Armen von Schwebeteilchen ernährt. Noch nicht voll ausgewachsen.
+Items/SmallFeatherTreeDesc	Text		Not a tree at all, but an invertebrate feeding on floating particles with its arms. It hasn't fully matured yet.	Nie jest to w ogóle drzewo, ale bezkręgowiec żywiący się pływającymi cząsteczkami za pomocą ramion. Nie jest jeszcze w pełni dojrzałe.	"""""""""""""Das ist gar kein Baum, sondern ein großes wirbelloses Tier, das sich mit seinen Armen von Schwebeteilchen ernährt. Noch nicht voll ausgewachsen.
+""
+""
 ""
 ""
 ""
@@ -4747,7 +4883,9 @@ Items/TerrariumBeach	Text		Beach Terrarium	Plażowe terrarium	Strand-Terrarium
 Items/TerrariumBeachDesc	Text		A humid enclosure with sandy terrain.	Wilgotne środowisko z piaszczystym podłożem.	Ein Feuchtgehege mit sandigem Boden.
 Items/TerrariumCrystal	Text		Crystal Terrarium	Kryształowe terrarium	Kristallterrarium
 Items/TerrariumCrystalDesc	Text		A cool enclosure full of glistening crystals.	Chłodne środowisko pełne błyszczących kryształów.	Ein kühles Gehege voller glitzernder Kristalle.
-Items/TerrariumDesc	Text		A simple enclosure for all kinds of crawling and fluttering critters.	Proste środowisko dla wszelkiego rodzaju pełzających i fruwających stworzeń.	"""""""Ein schlichtes Gehege für allerlei kriechendes und geflügeltes Getier.
+Items/TerrariumDesc	Text		A simple enclosure for all kinds of crawling and fluttering critters.	Proste środowisko dla wszelkiego rodzaju pełzających i fruwających stworzeń.	"""""""""""Ein schlichtes Gehege für allerlei kriechendes und geflügeltes Getier.
+""
+""
 ""
 ""
 ""
@@ -5135,6 +5273,8 @@ Menu/ConfirmStartWithoutNewContent	Text		There is new content available in this 
 Menu/ConnectText	Text		Connect	Połącz	Verbinden
 Menu/ConnectedPlayers	Text		Connected players:	Połączeni gracze:	Verbundene Spieler:
 Menu/ConnectedPlayersWarning	Text		More than {0} players connected. This may cause issues.	Połączono więcej niż {0} graczy. Może to powodować problemy.	Mehr als {0} Spieler verbunden. Das könnte Probleme verursachen.
+Menu/ContentBundleAbioticFactorDesc	Text		A fragment of a research facility has appeared through an extradimensional rift! Adding it may overwrite an already explored area in the Forgotten Ruins.	Fragment placówki badawczej pojawił się w pozawymiarowej szczelinie! Dodanie go może nadpisać już zbadany obszar w Zapomnianych Ruinach.	Ein Abschnitt einer angeschlagenen Forschungseinrichtung ist aus einem extradimensionalen Riss aufgetaucht! Wird sie hinzugefügt, könnte ein bereits erforschtes Gebiet in den Vergessenen Ruinen überschrieben werden.
+Menu/ContentBundleAbioticFactorTitle	Text		Abiotic Factor Collab	Kolaboracja z Abiotic Factor	Kollaboration mit Abiotic Factor
 Menu/ContentBundleGiantCicadaBossDungeonDesc	Text		A dangerous enemy has appeared! Adding them may overwrite some already explored areas in the Desert of Beginnings.	Pojawił się niebezpieczny wróg! Dodanie go może nadpisać niektóre już zbadane obszary na Pustyni Początków.	Ein gefährlicher Feind ist aufgetaucht! Wird er hinzugefügt, könnten einige bereits erforschte Gebiete in der Wüste der Anfänge überschrieben werden.
 Menu/ContentBundleGiantCicadaBossDungeonTitle	Text		Queen of the Burrowed Sands	Królowa Zasypanych Piasków	Königin der Verborgenen Sande
 Menu/ContentBundleGuaranteedOasesDesc	Text		Adding this bundle guarantees that this world gets at least a few Oases biomes in the Desert of Beginnings, even if it has already been fully explored. Doing so will overwrite everything in the areas where they appear.	Dodanie tego pakietu gwarantuje, że ten świat otrzyma co najmniej kilka biomów Oaz na Pustyni Początków, nawet jeśli został już w pełni zbadany. Spowoduje to nadpisanie wszystkich obszarów, w których się pojawią.	Wird dieses Paket hinzugefügt, werden in dieser Welt wenigstens ein paar Oasen-Biome garantiert in die Wüste der Anfänge eingeführt, auch wenn sie bereits komplett erforscht wurde. Sie überschreiben alles in den Gebieten, in denen sie auftauchen.
@@ -5165,6 +5305,9 @@ Menu/DontShowAgain	Text		Don't show again	Nie pokazuj ponownie	Nicht wieder anze
 Menu/DynamicWater	Text		Dynamic water	Dynamiczna woda	Dynamisches Wasser
 Menu/Emulated	Text		Emulated	Emulowany	Emuliert
 Menu/EnableTutorial	Text		In-game hints	Wskazówki w grze	Spielinterne Hinweise
+Menu/EnterIP	Text		Enter IP	Wprowadź adres IP	IP eingeben
+Menu/EnterPassword	Text		Enter Password	Wprowadź hasło	Passwort eingeben
+Menu/EnterPort	Text		Enter Port	Wprowadź port	Port eingeben
 Menu/EnterSeed	Text		Enter seed...	Wprowadź ziarno...	Seed eingeben ...
 Menu/EnterWorldName	Text		Enter world name...	Wpisz nazwę świata...	Weltenname eingeben ...
 Menu/ExperimentalPopUp	Text		Core Keeper is currently running in experimental mode. This mode is using a separate set of save files. Your regular save files will still be there when you are back in non-experimental mode.	Core Keeper działa obecnie w trybie eksperymentalnym. Tryb ten korzysta z oddzielnego zestawu plików zapisu. Zwykłe pliki zapisu będą nadal dostępne po powrocie do trybu nieeksperymentalnego.	Core Keeper läuft derzeit im experimentellen Modus. In diesem Modus wird ein separater Satz von Speicherdateien verwendet. Deine regulären Speicherdateien bleiben erhalten, wenn du wieder in den nicht-experimentellen Modus zurückkehrst.
@@ -5186,9 +5329,12 @@ Menu/HardcoreDesc	Text		Hardcore characters are permanently lost when they die a
 Menu/HasBeenCreatedOnDesktop	Text		{0} has been created on the desktop	{0} został utworzony na pulpicie	{0} wurde auf dem Desktop erstellt
 Menu/HideGameID	Text		Hide game ID	Ukryj identyfikator gry	Spiel-ID ausblenden
 Menu/HostVersionIs	Text		Host's version: {0}	Wersja hosta: {0}	Host-Version: {0}
+Menu/IP	Text		IP	IP	IP
 Menu/Ignore	Text		Ignore	Ignoruj	Ignorieren
 Menu/IntegerScaling	Text		Integer scaling	Skalowanie całkowite	Integer-Skalierung
 Menu/JoinGame	Text		Join Game	Dołącz do gry	Spiel beitreten
+Menu/JoinWithGameID	Text		Join With Game ID	Dołącz przy użyciu identyfikatora gry	Mit Spiel-ID beitreten
+Menu/JoinWithIP	Text		Join With IP	Dołącz z użyciem adresu IP	Mit IP beitreten
 Menu/LightQuality	Text		Light quality	Jakość światła	Lichtqualität
 Menu/LoadAnyway	Text		Load anyway	Załaduj mimo to	Trotzdem laden
 Menu/LoadBenchmark	Text		Benchmark	Benchmark	Benchmark
@@ -5212,10 +5358,12 @@ Mods with Elevated Access:
 {0}"	"Uwaga: Modyfikacje o podwyższonym dostępie mają zwiększony dostęp do zasobów poza grą, takich jak pliki użytkownika i internet. Aby uzyskać najlepsze doświadczenie, instaluj je tylko z renomowanych źródeł.
 
 Mody z podwyższonym dostępem:
-{0}"	"""""""""""Vorsicht: Mods mit „erweitertem Zugriff“ haben erweiterten Zugriff auf Ressourcen außerhalb des Spiels wie Benutzerdateien und Internet. Für ein optimales Spielerlebnis solltest du nur Mods aus seriösen Quellen installieren.
+{0}"	"""""""""""""""Vorsicht: Mods mit „erweitertem Zugriff“ haben erweiterten Zugriff auf Ressourcen außerhalb des Spiels wie Benutzerdateien und Internet. Für ein optimales Spielerlebnis solltest du nur Mods aus seriösen Quellen installieren.
 
 Mods mit erweitertem Zugriff:
 {0}""
+""
+""
 ""
 ""
 ""
@@ -5258,9 +5406,11 @@ Menu/ParamSeed	Text		Seed	Ziarno	Seed
 Menu/ParamTunnels	Text		Tunnels	Tunele	Tunnel
 Menu/ParamTunnelsDesc	Text		Frequency and reach of tunnel networks.	Częstotliwość i zasięg sieci tuneli.	Häufigkeit und Reichweite der Tunnelnetzwerke.
 Menu/ParticlesQuality	Text		Particles quality	Jakość cząstek	Partikelqualität
+Menu/Password	Text		Password	Hasło	Passwort
 Menu/PendingChanges	Text	Ping to server, shown in pause menu	*Pending changes	*Oczekuje na zmiany	*Anstehende Änderungen
 Menu/PerformanceOptions	Text	Shown under the minimap ingame to indicate that pvp is currently active, if pvp is off the text shows nothing	Performance settings	Ustawienia wydajności	Leistungseinstellungen
 Menu/Ping	Text		Ping: {0} ms	Ping: {0} ms	Ping: {0} ms
+Menu/Port	Text		Port	Port	Port
 Menu/PvPEnabled	Text		PvP enabled!	PvP włączone!	PvP aktiviert!
 Menu/Quit	Text		Quit	Wyjście	Beenden
 Menu/RecommendedDialog	Text		The default settings are recommended for the best first experience.	Domyślne ustawienia są zalecane, aby zapewnić najlepsze wrażenia przy pierwszej rozgrywce.	Die Standardeinstellungen werden für das beste erste Erlebnis empfohlen.
@@ -5285,7 +5435,12 @@ Menu/ShowCharacterNames	Text		Show character names	Pokaż nazwy postaci	Charakte
 Menu/ShowContent	Text		Show content	Pokaż zawartość	Inhalte anzeigen
 Menu/ShowDamageNumbers	Text		Show damage numbers	Pokaż liczby obrażeń	Schadenszahlen anzeigen
 Menu/ShowGameID	Text		Show game ID	Pokaż identyfikator gry	Spiel-ID anzeigen
+Menu/ShowHotbarArrows	Text		Show hotbar arrows	Pokaż strzałki paska skrótów	Hotbar-Pfeile anzeigen
 Menu/ShowHotbarKeyboardNumbers	Text		Show keyboard numbers on hotbar	Wyświetlanie cyfr na pasku skrótów	Tastaturnummern in Hotbar anzeigen
+Menu/ShowHotbarKeyboardNumbersPC	Text		Show keyboard numbers on hotbar	Wyświetlanie cyfr na pasku skrótów	Tastaturziffern in Hotbar anzeigen
+Menu/ShowHotbarKeyboardNumbersPlaystation	Text		Show keyboard numbers on hotbar	Wyświetlanie cyfr na pasku skrótów	Tastaturziffern in Hotbar anzeigen
+Menu/ShowHotbarKeyboardNumbersSwitch	Text		Show keyboard numbers on hotbar	Wyświetlanie cyfr na pasku skrótów	Tastaturziffern in Hotbar anzeigen
+Menu/ShowHotbarKeyboardNumbersXbox	Text		Show keyboard numbers on hotbar	Wyświetlanie cyfr na pasku skrótów	Tastaturziffern in Hotbar anzeigen
 Menu/ShowInGameUI	Text		Show in-game UI	Pokaż interfejs użytkownika w grze	Spielinterne UI anzeigen
 Menu/ShowKeyHints	Text		Show key hints	Pokaż kluczowe podpowiedzi	Tasten-Hinweise anzeigen
 Menu/ShowMinimap	Text	This option allows player to toggle off bugs being squashed when player walks on them in game	Show minimap	Pokaż minimapę	Minikarte anzeigen
@@ -5302,7 +5457,7 @@ Menu/TogglePvPOff	Text		Disable PvP	Wyłącz PvP	PvP deaktivieren
 Menu/TogglePvPOn	Text		Enable PvP	Włącz PvP	PvP aktivieren
 Menu/UIOptions	Text		UI settings	Ustawienia interfejsu użytkownika	UI-Einstellungen
 Menu/Version	Text		Version: {0} ({1})   |   © Pugstorm AB	"Wersja: {0} ({1})   |   © Pugstorm AB
-Wersja spolszczenia: 1.1"	Version: {0} ({1})   |   © Pugstorm AB
+Wersja spolszczenia: 1.1.1"	Version: {0} ({1})   |   © Pugstorm AB
 Menu/VersionsAreCompatibleButNotSameWarning	Text		Versions are compatible, but minor changes may affect performance.	Wersje są kompatybilne, ale drobne zmiany mogą mieć wpływ na wydajność.	Die Versionen sind kompatibel, aber kleinere Änderungen können die Leistung beeinträchtigen.
 Menu/WarningVersionMismatch	Text		Warning: Version Mismatch	Ostrzeżenie: Niezgodność wersji	Achtung: Falsche Spielversion
 Menu/WindowMode	Text		Window mode	Typ wyświetlania	Fenstermodus
@@ -5378,6 +5533,9 @@ PetTalents/ApplyBurnRange	Text		Burning Anger	Płonący gniew	Brennende Wut
 PetTalents/ApplyPoisonBuff	Text		Vile Droppings	Ohydne odchody	Üble Hinterlassenschaften
 PetTalents/ApplyPoisonMelee	Text		Bite Wound Infection	Infekcja rany po ugryzieniu	Bisswunden-Infektion
 PetTalents/ApplyPoisonRange	Text		Bite Wound Infection	Infekcja rany po ugryzieniu	Bisswunden-Infektion
+PetTalents/ApplyRadiationDamageBuff	Text		Irradiated Scent	Napromieniowany zapach	Bestrahlter Geruch
+PetTalents/ApplyRadiationDamageMelee	Text		Territorial Fallout	Opad terytorialny	Territorialer Fall-out
+PetTalents/ApplyRadiationDamageRange	Text		Territorial Fallout	Opad terytorialny	Territorialer Fall-out
 PetTalents/ApplySlimeBuff	Text		Mucus Missile	Pocisk śluzowy	Rotzrakete
 PetTalents/ApplySlimeMelee	Text		Sticky Toy	Lepka zabawka	Verklebtes Spielzeug
 PetTalents/ApplySlimeRange	Text		Sticky Toy	Lepka zabawka	Verklebtes Spielzeug
@@ -5512,6 +5670,10 @@ Seasons/LunarNewYear	Text		Lunar New Year	Księżycowy Nowy Rok	Mondneujahr
 Seasons/None	Text		None	Brak	Keines
 Seasons/Valentine	Text		Valentine	Walentynki	Valentinstag
 ShortCut	Text		Shortcut: {0}	Skrót: {0}	Tastenkürzel: {0}
+ShortCutPC	Text		Shortcut: {0}	Skrót: {0}	Tastenkürzel: {0}
+ShortCutPlaystation	Text		Shortcut: {0}	Skrót: {0}	Tastenkürzel: {0}
+ShortCutSwitch	Text		Shortcut: {0}	Skrót: {0}	Tastenkürzel: {0}
+ShortCutXbox	Text		Shortcut: {0}	Skrót: {0}	Tastenkürzel: {0}
 Simple	Text		Simple	Proste	Einfach
 SkillIncrease/Cooking	Text		+ {0} cooking	+ {0} gotowania	+ {0} Kochen
 SkillIncrease/Crafting	Text		+ {0} crafting	+ {0} rzemiosła	+ {0} Fertigung
@@ -5706,8 +5868,20 @@ StreamIntegration/StreamerLeavingSafeZoneDesc	Text		Leaving the safe zone, strea
 StreamIntegration/StreamerSafeZoneDesc	Text		Located in the safe zone, stream interaction is paused	Znajdując się w bezpiecznej strefie, interakcja strumienia jest wstrzymana	
 SummonEntity	Text		Summon entity	Przywołaj jednostkę	Entität beschwören
 SwapHotbarShortCut	Text		Shortcut: {0}+{1}	Skrót: {0}+{1}	Tastenkürzel: {0}+{1}
+SwapHotbarShortCutPC	Text		Shortcut: {0}+{1}	Skrót: {0}+{1}	Tastenkürzel: {0}+{1}
+SwapHotbarShortCutPlaystation	Text		Shortcut: {0}+{1}	Skrót: {0}+{1}	Tastenkürzel: {0}+{1}
+SwapHotbarShortCutSwitch	Text		Shortcut: {0}+{1}	Skrót: {0}+{1}	Tastenkürzel: {0}+{1}
+SwapHotbarShortCutXbox	Text		Shortcut: {0}+{1}	Skrót: {0}+{1}	Tastenkürzel: {0}+{1}
 SwapNextHotbar	Text		Swap hotbar up	Zamiana paska szybkiego dostępu w górę	Hotbar aufwärts wechseln
+SwapNextHotbarPC	Text		Swap hotbar up	Zamiana paska szybkiego dostępu w górę	Hotbar aufwärts wechseln
+SwapNextHotbarPlaystation	Text		Swap hotbar up	Zamiana paska szybkiego dostępu w górę	Hotbar aufwärts wechseln
+SwapNextHotbarSwitch	Text		Swap hotbar up	Zamiana paska szybkiego dostępu w górę	Hotbar aufwärts wechseln
+SwapNextHotbarXbox	Text		Swap hotbar up	Zamiana paska szybkiego dostępu w górę	Hotbar aufwärts wechseln
 SwapPreviousHotbar	Text		Swap hotbar down	Zamiana paska szybkiego dostępu w dół	Hotbar abwärts wechseln
+SwapPreviousHotbarPC	Text		Swap hotbar down	Zamiana paska szybkiego dostępu w dół	Hotbar abwärts wechseln
+SwapPreviousHotbarPlaystation	Text		Swap hotbar down	Zamiana paska szybkiego dostępu w dół	Hotbar abwärts wechseln
+SwapPreviousHotbarSwitch	Text		Swap hotbar down	Zamiana paska szybkiego dostępu w dół	Hotbar abwärts wechseln
+SwapPreviousHotbarXbox	Text		Swap hotbar down	Zamiana paska szybkiego dostępu w dół	Hotbar abwärts wechseln
 TeleportToCore	Text		Teleport to the Core	Teleportuj do rdzenia	Zum Kern teleportieren
 TheCore/ActivationSentence1	Text		Thou hast awakened us...	Tyś nas wybudził...	Ihr habt uns erweckt...
 TheCore/ActivationSentence10	Text		In return,* thou shalt be able to go back to whence thou camest.	W zamian,* będziesz mógł wrócić do miejsca, z którego przybyłeś.	Im Gegenzug* soll es Euch möglich sein, dahin zurückzukehren, von wo Ihr kamt.
@@ -5855,7 +6029,9 @@ done	Text		Done	Zrobione	Fertig
 dontShowAgain	Text		Don't show again	Nie pokazuj ponownie	Nicht wieder anzeigen
 down	Text		Move down	Ruch w dół	Nach unten
 dresser	Text		Dresser	Komoda	Kommode
-dropToWorld	Text		Drop item: 	Upuść przedmiot:	"""""""""""Gegenstand ablegen:""
+dropToWorld	Text		Drop item: 	Upuść przedmiot:	"""""""""""""""Gegenstand ablegen:""
+""
+""
 ""
 ""
 ""
@@ -5912,12 +6088,14 @@ godModeOptionDesc	Text		"God mode features:
 - Gracz może niszczyć obiekty jednym uderzeniem
 - Przedmioty nie wypadają ze zniszczonych obiektów
 - Gracz może szybciej umieszczać obiekty
-- Obiekty nie są zużywane podczas używania"	"""""""""""Funktionen im Gott-Modus:
+- Obiekty nie są zużywane podczas używania"	"""""""""""""""Funktionen im Gott-Modus:
 - Spieler kann sich durch Objekte hindurch bewegen
 - Spieler kann Objekte mit einem Schlag zerstören
 - Gegenstände droppen nicht von zerstörten Objekten
 - Spieler kann Objekte schneller platzieren
 - Objekte werden beim Benutzen nicht verbraucht""
+""
+""
 ""
 ""
 ""
@@ -5983,7 +6161,7 @@ separate each month by an ASCII space.
 The month will be placed into the 'dateFormat' string."	Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec	Sty Lut Mar Kwi Maj Cze Lip Sie Wrz Paź Lis Gru	Jan. Feb. Mrz. Apr. Mai Jun. Jul. Aug. Sep. Okt. Nov. Dez.
 multiplayer	Text		Multiplayer	Tryb wieloosobowy	Mehrspieler
 musicSheetItem	Text		Music sheet	Arkusz nutowy	Notenblatt
-nativeLang	Text	"should not translate ""english"" but should show the name of the language itself"	English	Polski (v 1.1)	Deutsch
+nativeLang	Text	"should not translate ""english"" but should show the name of the language itself"	English	Polski (v 1.1.1)	Deutsch
 necklaceSlot	Text		Necklace slot	Slot na naszyjnik	Halsketten-Slot
 newGame	Text		New Game	Nowa Gra	Neues Spiel
 newItem	Text	"Shown when a new item is picked up, for example: ""New item: Apple"""	New item: {0}	Nowy przedmiot: {0}	Neuer Gegenstand: {0}
@@ -6027,15 +6205,19 @@ petLeveledUp	Text	"{0} will be replaced with the level number
 "	Pet reached level {0}!	Zwierzak osiągnął poziom {0}!	Haustier hat Level {0} erreicht!
 petSlot	Text		Pet slot	Slot na zwierzaka	Haustier-Slot
 physicalWeaponDamage	Text		{0}-{1} physical damage	{0}-{1} obrażeń fizycznych	{0}-{1} physischer Schaden
-pickUpHalf	Text		Pick up half:	Podnieś pół:	"""""""""""Hälfte aufheben:
+pickUpHalf	Text		Pick up half:	Podnieś pół:	"""""""""""""""Hälfte aufheben:
 {0}""
+""
+""
 ""
 ""
 ""
 ""
 "
-pickUpOne	Text	{0} will be replaced with the input player needs to use to perform the action, note that the breakline is intended and should be used in the localizations too	Pick up one:	Podnieś jeden:	"""""""""""Einen aufheben:
+pickUpOne	Text	{0} will be replaced with the input player needs to use to perform the action, note that the breakline is intended and should be used in the localizations too	Pick up one:	Podnieś jeden:	"""""""""""""""Einen aufheben:
 {0}""
+""
+""
 ""
 ""
 ""
@@ -6053,8 +6235,10 @@ pressAnyButtonPS4	Text		Press any button	Naciśnij dowolny przycisk	Drücke eine
 pressAnyButtonXbox	Text		Press any button	Naciśnij dowolny przycisk	Drücke eine Taste
 price	Text		Price: {0}	Cena: {0}	Preis: {0}
 primary	Text	Shown as category for red, yellow, blue and green painting colors	Primary	Podstawowy	Primär
-quickMove	Text		Quick stash:	Szybki skład:	"""""""""""Schnell-Ablage:
+quickMove	Text		Quick stash:	Szybki skład:	"""""""""""""""Schnell-Ablage:
 {0}""
+""
+""
 ""
 ""
 ""
@@ -6113,6 +6297,10 @@ settingVibrationXbox	Text		Vibration	Wibracja	Vibration
 sheets	Text	Refers to Music sheets/notes	Sheets	Arkusze	Notenblätter
 shirt	Text	Option to choose shirt style	Shirt	Koszulka	Hemd
 shortcuts	Text		Shortcuts	Skróty klawiszowe	Abkürzungen
+shortcutsPC	Text		Shortcuts	Skróty klawiszowe	Tastenkürzel
+shortcutsPlaystation	Text		Shortcuts	Skróty klawiszowe	Tastenkürzel
+shortcutsSwitch	Text		Shortcuts	Skróty klawiszowe	Tastenkürzel
+shortcutsXbox	Text		Shortcuts	Skróty klawiszowe	Tastenkürzel
 showCreativeUI	Text	"""UI"" should also be called ""UI"" when translated, as the button space it is shown own should be kept small and short."	Show Creative UI	Pokaż kreatywne UI	UI anzeigen
 showOutroDialogue	Text		Do you want to show the ending again?	Chcesz pokazać zakończenie jeszcze raz?	Soll das Ende noch einmal gezeigt werden?
 signedOutWarning	Text		Warning!\Your profile has\been signed out.	Ostrzeżenie!\Twój profil\został wylogowany.	HOPPLA!\Dein Profil\wurde abgemeldet.
