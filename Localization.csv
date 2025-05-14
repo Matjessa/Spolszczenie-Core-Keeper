@@ -837,7 +837,7 @@ Credits/AssociateProducer	Text		Associate Producer	Współpracownik ds. produkcj
 Credits/AssociateProductManager	Text		Associate Product Manager	Zastępca kierownika produktu	Associate Product Manager
 Credits/Association71Consulting	Text		"In Association with Marketing & PR Studio
 71 Consulting"	"We współpracy z Marketing & PR Studio
-71 Consulting"	"""""""""""""""In Zusammenarbeit mit Marketing- und PR-Studio			
+71 Consulting"	"""""""""""""""""In Zusammenarbeit mit Marketing- und PR-Studio			
 71 Consulting""					
 ""					
 ""					
@@ -845,10 +845,10 @@ Credits/Association71Consulting	Text		"In Association with Marketing & PR Studio
 ""					
 ""					
 ""
-"
+"""
 Credits/AssociationAceAgency	Text		"In Association with Localisation Studio
 ACE Agency"	"We współpracy z agencją lokalizacyjną
-Studio ACE"	"""""""""""""""In Zusammenarbeit mit der Lokalisierungsagentur			
+Studio ACE"	"""""""""""""""""In Zusammenarbeit mit der Lokalisierungsagentur			
 ACE Agency""					
 ""					
 ""					
@@ -856,10 +856,10 @@ ACE Agency""
 ""					
 ""					
 ""
-"
+"""
 Credits/AssociationDreamLoop	Text		"In Association with Console Porting Studio
 Dreamloop Games"	"We współpracy z konsolowym studiem portującym
-Dreamloop Games"	"""""""""""""""In Zusammenarbeit mit dem Konsolen-Portierungsstudio			
+Dreamloop Games"	"""""""""""""""""In Zusammenarbeit mit dem Konsolen-Portierungsstudio			
 Dreamloop Games""					
 ""					
 ""					
@@ -867,10 +867,10 @@ Dreamloop Games""
 ""					
 ""					
 ""
-"
+"""
 Credits/AssociationEnzyme	Text		"In Association with Compatibility Testing Studio
 Enzyme"	"We współpracy z Studio Enzyme
-Zajmującym się testowaniem kompatybilności"	"""""""""""""""In Zusammenarbeit mit dem Studio für Kompatibilitätstests			
+Zajmującym się testowaniem kompatybilności"	"""""""""""""""""In Zusammenarbeit mit dem Studio für Kompatibilitätstests			
 Enzyme""					
 ""					
 ""					
@@ -878,10 +878,10 @@ Enzyme""
 ""					
 ""					
 ""
-"
+"""
 Credits/AssociationKeywordsIndia	Text		"In Association with PC FQA Studio
 Keywords India"	"We współpracy z PC FQA Studio
-Keywords India"	"""""""""""""""In Zusammenarbeit mit dem Studio für PC-FQA			
+Keywords India"	"""""""""""""""""In Zusammenarbeit mit dem Studio für PC-FQA			
 Keywords India""					
 ""					
 ""					
@@ -889,10 +889,10 @@ Keywords India""
 ""					
 ""					
 ""
-"
+"""
 Credits/AssociationLionbridge	Text		"In Association with PC and Console QA Studio
 Lionbridge Games"	"We współpracy z PC and Console QA Studio
-Lionbridge Games"	"""""""""""""""In Zusammenarbeit mit dem Studio für PC- und Konsolen-QA			
+Lionbridge Games"	"""""""""""""""""In Zusammenarbeit mit dem Studio für PC- und Konsolen-QA			
 Lionbridge Games""					
 ""					
 ""					
@@ -900,10 +900,10 @@ Lionbridge Games""
 ""					
 ""					
 ""
-"
+"""
 Credits/AssociationLionbridgeLQA	Text		"In Association with PC and Console LQA Studio
 Lionbridge Games"	"We współpracy z PC and Console LQA Studio
-Lionbridge Games"	"""""""""""""""In Zusammenarbeit mit dem Studio für PC- und Konsolen-LQA			
+Lionbridge Games"	"""""""""""""""""In Zusammenarbeit mit dem Studio für PC- und Konsolen-LQA			
 Lionbridge Games""					
 ""					
 ""					
@@ -911,10 +911,10 @@ Lionbridge Games""
 ""					
 ""					
 ""
-"
+"""
 Credits/AssociationLocalizeDirect	Text		"In Association with PC LQA Studio
 LocalizeDirect"	"We współpracy z PC LQA Studio
-LocalizeDirect"	"""""""""""""""In Zusammenarbeit mit dem Studio für PC-LQA			
+LocalizeDirect"	"""""""""""""""""In Zusammenarbeit mit dem Studio für PC-LQA			
 LocalizeDirect""					
 ""					
 ""					
@@ -922,10 +922,10 @@ LocalizeDirect""
 ""					
 ""					
 ""
-"
+"""
 Credits/AssociationOhCreative	Text		"In Association with Marketing Studio
 OH Creative"	"We współpracy z Marketing Studio
-OH Creative"	"""""""""""""""In Zusammenarbeit mit Marketingstudio			
+OH Creative"	"""""""""""""""""In Zusammenarbeit mit Marketingstudio			
 OH Creative""					
 ""					
 ""					
@@ -933,10 +933,10 @@ OH Creative""
 ""					
 ""					
 ""
-"
+"""
 Credits/AssociationPlaytropic	Text		"In Association with PC and Console FQA Studio
 Playtropic Video Game Services"	"We współpracy z PC and Console FQA Studio
-Playtropic Video Game Services"	"""""""""""""""In Zusammenarbeit mit dem Studio für PC- und Konsolen-FQA			
+Playtropic Video Game Services"	"""""""""""""""""In Zusammenarbeit mit dem Studio für PC- und Konsolen-FQA			
 Playtropic Videogame Services""					
 ""					
 ""					
@@ -944,10 +944,10 @@ Playtropic Videogame Services""
 ""					
 ""					
 ""
-"
+"""
 Credits/AssociationTestify	Text		"In Association with Testing Studio
 Testify"	"We współpracy z testerskim
-Testify Studio "	"""""""""""""""In Zusammenarbeit mit dem Teststudio			
+Testify Studio "	"""""""""""""""""In Zusammenarbeit mit dem Teststudio			
 Testify""					
 ""					
 ""					
@@ -955,7 +955,7 @@ Testify""
 ""					
 ""					
 ""
-"
+"""
 Credits/AudioAndMusic	Text		Audio and Music	Audio i muzyka	Audio und Musik
 Credits/AudioDesigners	Text		Audio/Sound Designers	Projektanci dźwięku	Audio-/Sound-Designer
 Credits/CEO	Text		CEO	DYREKTOR GENERALNY	CEO
@@ -1025,7 +1025,7 @@ Credits/PCandConsoleQA	Text		PC and Console QA	Kontrola jakości na komputerze i
 Credits/PRAndCommunications	Text		PR and Communications	PR i komunikacja	PR und Kommunikation
 Credits/PartneredFireshine	Text		"Partnered with Publisher
 Fireshine Games "	"Współpraca z wydawcą
-Fireshine Games"	"""""""""""""""In Partnerschaft mit dem Publisher			
+Fireshine Games"	"""""""""""""""""In Partnerschaft mit dem Publisher			
 Fireshine""					
 ""					
 ""					
@@ -1033,7 +1033,7 @@ Fireshine""
 ""					
 ""					
 ""
-"
+"""
 Credits/PartneredUnity	Text		Partnered with Unity Technologies	Partnerstwo z Unity Technologies	In Partnerschaft mit Unity Technologies
 Credits/PortingProgrammers	Text		Porting Programmers	Programiści portujący	Porting-Programmierer/innen
 Credits/PortugueseBrazilianLQATester	Text		Portuguese Brazilian LQA Tester	Portugalski brazylijski LQA tester	LQA-Tester brasilianisches Portugiesisch
@@ -1126,10 +1126,10 @@ CreditsNames/BettinaR	Text		Bettina R.	Bettina R.	Bettina R.
 CreditsNames/BrandonCraigTurner	Text		Brandon Craig-Turner	Brandon Craig-Turner	Brandon Craig-Turner
 CreditsNames/BridieDaniels	Text		Bridie Daniels	Bridie Daniels	Bridie Daniels
 CreditsNames/BugsyRabbit2004	Text		BugsyRabbit2004	BugsyRabbit2004	BugsyRabbit2004
-CreditsNames/CarriganTessSevedge	Text		"Carrigan ""Tess"" Sevedge"	"Carrigan ""Tess"" Sevedge"	"""""""Carrigan ""Tess"" Sevedge""
+CreditsNames/CarriganTessSevedge	Text		"Carrigan ""Tess"" Sevedge"	"Carrigan ""Tess"" Sevedge"	"""""""""Carrigan ""Tess"" Sevedge""
 ""					
 ""
-"
+"""
 CreditsNames/Cedric	Text		Cedric	Cedric	Cedric
 CreditsNames/CedricSchmitt	Text		Cedric Schmitt	Cedric Schmitt	Cedric Schmitt
 CreditsNames/ChantelleLarmond	Text		Chantelle Larmond	Chantelle Larmond	Chantelle Larmond
@@ -1419,7 +1419,7 @@ Emotes/TutorialSmeltOre	Text		This ore isn't very useful unless I smelt it down.
 Emotes/UnlockedInEarlyAccess	Text		Unlocked in Early Access	Odblokowane w ramach wczesnego dostępu	Im Early Access freigeschaltet
 Emotes/UnlocksAtLaunch	Text		"Continue your exploration beyond the wall at 1.0,
 unlocks August 27th 2024. "	"Kontynuuj eksplorację poza murem w wersji 1.0,
-Zostanie odblokowana 27 sierpnia 2024 r."	"""""""""""""""Setze die Erkundung jenseits der Wand mit 1.0 fort.			
+Zostanie odblokowana 27 sierpnia 2024 r."	"""""""""""""""""Setze die Erkundung jenseits der Wand mit 1.0 fort.			
 Die Freischaltung erfolgt am 27. August 2024""					
 ""					
 ""					
@@ -1427,7 +1427,7 @@ Die Freischaltung erfolgt am 27. August 2024""
 ""					
 ""					
 ""
-"
+"""
 Emotes/WaypointActivated	Text		Waypoint activated	Punkt nawigacyjny aktywowany	Wegpunkt aktiviert
 Error/Authenticating	Text		Authenticating.	Uwierzytelnianie.	Authentifizierung läuft.
 Error/AuthenticationFailed	Text		Authentication failed	Autoryzacja nie powiodła się	Authentifizierung fehlgeschlagen
@@ -1472,14 +1472,14 @@ Error/Reconnecting	Text		"Trying to reconnect
 (Step {0}/{1}: {2})
 "	"Próba przywrócenia połączenia				
 (Krok {0}/{1}: {2})					
-"	"""""""""""""Es wird versucht, eine Verbindung wiederherzustellen				
+"	"""""""""""""""Es wird versucht, eine Verbindung wiederherzustellen				
 (Schritt {0}/{1}: {2})""					
 ""					
 ""					
 ""					
 ""					
 ""
-"
+"""
 Error/RecreateSession	Text		recreating session	odtwarzanie sesji	Sitzung wird wiederhergestellt
 Error/SaveFileCorrupt	Text		Could not read save file	Nie udało się odczytać pliku zapisu	Speicherdatei konnte nicht gelesen werden
 Error/SessionBlockedBy	Text	Used to denote a session which cannot be entered due to the presence of a player who has blocked the user.	You cannot join this session because it contains a user who has blocked you.	Nie możesz dołączyć do tej sesji, ponieważ zawiera ona użytkownika, który cię zablokował.	Du kannst dieser Sitzung nicht beitreten, weil ein Benutzer daran teilnimmt, der dich ausgeschlossen hat.
@@ -3107,7 +3107,7 @@ Items/GlassFloor	Text		Glass Floor	Szklana podłoga	Glasboden
 Items/GlassFloorDesc	Text		A see-through tile to provide a crystal-clear vision of the ground underneath.	Przezroczysta płytka zapewniająca krystalicznie czysty widok podłoża pod spodem.	Eine durchsichtige Fliese, die einen kristallklaren Blick auf den darunterliegenden Boden ermöglicht.
 Items/GlassSmelter	Text		Glass Smelter	Huta szkła	Glas-Schmelzofen
 Items/GlassSmelterDesc	Text		This handy furnace can turn any sand block into useful glass.	Ten poręczny piec może zamienić dowolny blok piasku w użyteczne szkło.	Dieser praktische Schmelzofen kann jede Art von Sandblock zu nützlichem Glas verarbeiten.
-Items/GlassStatuePrism	Text		"Glass Statue ""Octahedron"""	"Szklana rzeźba ""Ośmiościan"""	"""""""""""""""""Glas-Statue ""Oktaeder""""
+Items/GlassStatuePrism	Text		"Glass Statue ""Octahedron"""	"Szklana rzeźba ""Ośmiościan"""	"""""""""""""""""""Glas-Statue ""Oktaeder""""
 ""					
 ""					
 ""					
@@ -3115,7 +3115,7 @@ Items/GlassStatuePrism	Text		"Glass Statue ""Octahedron"""	"Szklana rzeźba ""O�
 ""					
 ""					
 ""
-"
+"""
 Items/GlassStatuePrismDesc	Text		This bold statue serves as an art piece that puts the shiny properties of glass on display.	Ta wyrazista rzeźba służy jako dzieło sztuki, które eksponuje błyszczące właściwości szkła.	Diese massive Statue dient als ein Kunstwerk, das die schillernden Eigenschaften von Glas zur Schau stellen soll.
 Items/GlassWorkbench	Text		Glass Workbench	Szklany stół warsztatowy	Glas-Werkbank
 Items/GlassWorkbenchDesc	Text		This workbench makes it possible to form glass into more advanced objects to add to your base.	Ten stół warsztatowy umożliwia formowanie szkła w bardziej zaawansowane obiekty, które można dodać do bazy.	Dieser Werkbank ermöglicht es, aus Glas fortschrittlichere Bauteile für deine Basis herzustellen.
@@ -3986,7 +3986,7 @@ Items/OmorothTrophy	Text		Omoroth Figurine	Figurka Omorotha	Omoroth-Figur
 Items/OmorothTrophyDesc	Text		A lifelike representation of Omoroth, the Sea Titan.	Realistycznie odwzorowany Omoroth Morski Tytan.	Eine lebensechte Nachbildung von Omoroth, dem Meerestitanen.
 Items/OpabiniaFossil	Text		Opabinia Fossil	Skamielina Opabinii	Opabinia-Fossil
 Items/OpabiniaFossilDesc	Text		The petrified body of an prehistoric sea critter. They were one of the first apex predators to appear in the ancient oceans of earth.	Skamieniałe ciało prehistorycznego stworzenia morskiego. Były one jednymi z pierwszych drapieżników, które pojawiły się w starożytnych oceanach ziemi.	Der versteinerte Körper einer prähistorischen Meereskreatur. Sie war einst einer der ersten Apex-Jäger der urzeitlichen Meere der Erde.
-Items/OracleCardAzeos	Text		"Oracle Card ""Radiance"""	"Karta wyroczni ""Blask"""	"""""""""""""""""Orakel-Karte ""Glanz""""
+Items/OracleCardAzeos	Text		"Oracle Card ""Radiance"""	"Karta wyroczni ""Blask"""	"""""""""""""""""""Orakel-Karte ""Glanz""""
 ""					
 ""					
 ""					
@@ -3994,7 +3994,7 @@ Items/OracleCardAzeos	Text		"Oracle Card ""Radiance"""	"Karta wyroczni ""Blask""
 ""					
 ""					
 ""
-"
+"""
 Items/OracleCardAzeosDesc	Text		A scratched card with golden borders and an image of the sky titan. Looks like it's part of a set.	Porysowana karta ze złotymi ramkami i wizerunkiem podniebnego tytana. Wygląda na część zestawu.	Eine zerkratzte Karte mit Goldrand und einem Bildnis des Himmelstitans. Scheint Teil eines Sets zu sein.
 Items/OracleCardCity	Text		"Oracle Card ""Metropolis"""	"Karta wyroczni ""Metropolis"""	Orakel-Karte „Metropolis“
 Items/OracleCardCityDesc	Text		A card in mint condition with golden borders and an image of an ancient city. Looks like it's part of a set.	Karta w idealnym stanie ze złotymi ramkami i wizerunkiem starożytnego miasta. Wygląda na część zestawu.	Eine perfekt erhaltene Karte mit Goldrand und einem Bildnis einer antiken Stadt. Scheint Teil eines Sets zu sein.
@@ -4006,7 +4006,7 @@ Items/OracleCardGem	Text		"Oracle Card ""Aura"""	"Karta wyroczni ""Aura"""	Orake
 Items/OracleCardGemDesc	Text		A ripped card with golden borders and an image of an ancient gemstone. Looks like it's part of a set.	Podarta karta ze złotymi ramkami i wizerunkiem starożytnego kamienia szlachetnego. Wygląda na część zestawu.	Eine gerissene Karte mit Goldrand und einem Bildnis eines Antiken Edelsteins. Scheint Teil eines Sets zu sein.
 Items/OracleCardLeader	Text		"Oracle Card ""Inspiration"""	"Karta Oracle ""Inspiracja"""	Orakel-Karte „Inspiration“
 Items/OracleCardLeaderDesc	Text		Half of a card with golden borders and an image of a golden mask. Looks like it's part of a set.	Połowa karty ze złotymi ramkami i wizerunkiem złotej maski. Wygląda na część zestawu.	Die Hälfte einer Karte mit Goldrand und einem Bildnis einer goldenen Maske. Scheint Teil eines Sets zu sein.
-Items/OracleCardOmoroth	Text		"Oracle Card ""Temperance"""	"Karta wyroczni ""Powściągliwość"""	"""""""""""""""""Orakel-Karte ""Mäßigkeit""""
+Items/OracleCardOmoroth	Text		"Oracle Card ""Temperance"""	"Karta wyroczni ""Powściągliwość"""	"""""""""""""""""""Orakel-Karte ""Mäßigkeit""""
 ""					
 ""					
 ""					
@@ -4014,9 +4014,9 @@ Items/OracleCardOmoroth	Text		"Oracle Card ""Temperance"""	"Karta wyroczni ""Pow
 ""					
 ""					
 ""
-"
+"""
 Items/OracleCardOmorothDesc	Text		A faded card with golden borders and an image of the sea titan. Looks like it's part of a set.	Wyblakła karta ze złotymi obwódkami i wizerunkiem morskiego tytana. Wygląda na część zestawu.	Eine verblassende Karte mit Goldrand und einem Bildnis des Meerestitans. Scheint Teil eines Sets zu sein.
-Items/OracleCardRaAkar	Text		"Oracle Card ""Endurance"""	"Karta wyroczni ""Wytrzymałość"""	"""""""""""""""""Orakel-Karte ""Standhaftigkeit""""
+Items/OracleCardRaAkar	Text		"Oracle Card ""Endurance"""	"Karta wyroczni ""Wytrzymałość"""	"""""""""""""""""""Orakel-Karte ""Standhaftigkeit""""
 ""					
 ""					
 ""					
@@ -4024,7 +4024,7 @@ Items/OracleCardRaAkar	Text		"Oracle Card ""Endurance"""	"Karta wyroczni ""Wytrz
 ""					
 ""					
 ""
-"
+"""
 Items/OracleCardRaAkarDesc	Text		A crumbling card with golden borders and an image of the sand titan. Looks like it's part of a set.	Rozpadająca się karta ze złotym obramowaniem i wizerunkiem piaskowego tytana. Wygląda na część zestawu.	Eine zerfallende Karte mit Goldrand und einem Bildnis des Sandtitans. Scheint Teil eines Sets zu sein.
 Items/OracleCardScholar	Text		"Oracle Card ""Wisdom"""	"Karta wyroczni ""Mądrość"""	Orakel-Karte „Weisheit“
 Items/OracleCardScholarDesc	Text		A soaked card with golden borders and an image of a caveling scholar. Looks like it's part of a set.	Przemoczona karta ze złotymi ramkami i wizerunkiem uczonego jaskiniowca. Wygląda na część zestawu.	Eine durchnässte Karte mit Goldrand und einem Bildnis eines Grottling-Gelehrten. Scheint Teil eines Sets zu sein.
@@ -4639,7 +4639,7 @@ Items/SignBrute	Text		Brute Sign	Znak brutala	Schläger-Schild
 Items/SignBruteDesc	Text		"Someone put all their artistic efforts into painting this sign and left it as a warning.
 Caveling Brutes or worse ahead. "	"Ktoś włożył cały swój artystyczny wysiłek w namalowanie
 tego znaku i zostawił go jako ostrzeżenie.
-Przed jaskiniowymi brutalami lub czymś gorszym."	"""""""""""""""""Jemand hat all sein künstlerisches Talent in die Gestaltung dieses Schildes gesteckt und es als Warnung hinterlassen.			
+Przed jaskiniowymi brutalami lub czymś gorszym."	"""""""""""""""""""Jemand hat all sein künstlerisches Talent in die Gestaltung dieses Schildes gesteckt und es als Warnung hinterlassen.			
 Grottling-Schläger oder Schlimmeres voraus.""					
 ""					
 ""					
@@ -4648,7 +4648,7 @@ Grottling-Schläger oder Schlimmeres voraus.""
 ""					
 ""					
 ""
-"
+"""
 Items/SignSkull	Text		Skull Effigy	Czaszka na kiju	Schädel-Schild
 Items/SignSkullDesc	Text		There is no clearer warning than a skull on a stake. Better keep out.	Nie ma wyraźniejszego ostrzeżenia niż czaszka na palu. Lepiej trzymać się z daleka.	Es gibt keine deutlichere Warnung als ein Schädel auf einem Pfahl. Lieber nicht betreten.
 Items/SignText	Text		Sign	Znak	Schild
@@ -4714,7 +4714,7 @@ Items/SmallCrystalGrass	Text		Crystal Grass	Kryształowa trawa	Kristallgras
 Items/SmallCrystalGrassDesc	Text		A strange growth that consists of broad, transparent leaves.	Dziwna roślinka składająca się z szerokich, przezroczystych liści.	Ein merkwürdiges Gewächs, das aus breiten, transparenten Blättern besteht.
 Items/SmallFeatherTree	Text		Small Purple Feather Tree	Małe fioletowe drzewo piórowe	Kleiner Purpurfeder-Baum
 Items/SmallFeatherTreeCyan	Text		Small Cyan Feather Tree	Małe cyjanowe drzewo piórkowe	Kleiner Türkisfeder-Baum
-Items/SmallFeatherTreeCyanDesc	Text		Not a tree at all, but an invertebrate feeding on floating particles with its arms. It hasn't fully matured yet.	Nie jest to w ogóle drzewo, ale bezkręgowiec żywiący się pływającymi cząsteczkami za pomocą ramion. Nie jest jeszcze w pełni dojrzałe.	"""""""""""""""Das ist gar kein Baum, sondern ein großes wirbelloses Tier, das sich mit seinen Armen von Schwebeteilchen ernährt. Noch nicht voll ausgewachsen.
+Items/SmallFeatherTreeCyanDesc	Text		Not a tree at all, but an invertebrate feeding on floating particles with its arms. It hasn't fully matured yet.	Nie jest to w ogóle drzewo, ale bezkręgowiec żywiący się pływającymi cząsteczkami za pomocą ramion. Nie jest jeszcze w pełni dojrzałe.	"""""""""""""""""Das ist gar kein Baum, sondern ein großes wirbelloses Tier, das sich mit seinen Armen von Schwebeteilchen ernährt. Noch nicht voll ausgewachsen.
 ""					
 ""					
 ""					
@@ -4722,8 +4722,8 @@ Items/SmallFeatherTreeCyanDesc	Text		Not a tree at all, but an invertebrate feed
 ""					
 ""					
 ""
-"
-Items/SmallFeatherTreeDesc	Text		Not a tree at all, but an invertebrate feeding on floating particles with its arms. It hasn't fully matured yet.	Nie jest to w ogóle drzewo, ale bezkręgowiec żywiący się pływającymi cząsteczkami za pomocą ramion. Nie jest jeszcze w pełni dojrzałe.	"""""""""""""""Das ist gar kein Baum, sondern ein großes wirbelloses Tier, das sich mit seinen Armen von Schwebeteilchen ernährt. Noch nicht voll ausgewachsen.
+"""
+Items/SmallFeatherTreeDesc	Text		Not a tree at all, but an invertebrate feeding on floating particles with its arms. It hasn't fully matured yet.	Nie jest to w ogóle drzewo, ale bezkręgowiec żywiący się pływającymi cząsteczkami za pomocą ramion. Nie jest jeszcze w pełni dojrzałe.	"""""""""""""""""Das ist gar kein Baum, sondern ein großes wirbelloses Tier, das sich mit seinen Armen von Schwebeteilchen ernährt. Noch nicht voll ausgewachsen.
 ""					
 ""					
 ""					
@@ -4731,7 +4731,7 @@ Items/SmallFeatherTreeDesc	Text		Not a tree at all, but an invertebrate feeding 
 ""					
 ""					
 ""
-"
+"""
 Items/SmallLantern	Text		Small Lantern	Mała latarnia	Kleine Laterne
 Items/SmallLanternDesc	Text		A weak light to attach to your belt.	Słaba latarka, którą można przypiąć do paska.	Ein schwaches Licht für den Gürtel.
 Items/SmallPandoriumCrystal	Text		Small Pandorium Crystal	Mały kryształ pandorium	Kleiner Pandorium-Kristall
@@ -4978,14 +4978,14 @@ Items/TerrariumBeach	Text		Beach Terrarium	Plażowe terrarium	Strand-Terrarium
 Items/TerrariumBeachDesc	Text		A humid enclosure with sandy terrain.	Wilgotne środowisko z piaszczystym podłożem.	Ein Feuchtgehege mit sandigem Boden.
 Items/TerrariumCrystal	Text		Crystal Terrarium	Kryształowe terrarium	Kristallterrarium
 Items/TerrariumCrystalDesc	Text		A cool enclosure full of glistening crystals.	Chłodne środowisko pełne błyszczących kryształów.	Ein kühles Gehege voller glitzernder Kristalle.
-Items/TerrariumDesc	Text		A simple enclosure for all kinds of crawling and fluttering critters.	Proste środowisko dla wszelkiego rodzaju pełzających i fruwających stworzeń.	"""""""""""""Ein schlichtes Gehege für allerlei kriechendes und geflügeltes Getier.
+Items/TerrariumDesc	Text		A simple enclosure for all kinds of crawling and fluttering critters.	Proste środowisko dla wszelkiego rodzaju pełzających i fruwających stworzeń.	"""""""""""""""Ein schlichtes Gehege für allerlei kriechendes und geflügeltes Getier.
 ""					
 ""					
 ""					
 ""					
 ""					
 ""
-"
+"""
 Items/TerrariumDesert	Text		Desert Terrarium	Pustynne terrarium	Wüsten-Terrarium
 Items/TerrariumDesertDesc	Text		A warm enclosure with dry, rocky terrain.	Ciepłe środowisko z suchym, skalistym terenem.	Ein warmes Gehege mit trockenem, felsigem Terrain.
 Items/TerrariumNature	Text		Wilderness Terrarium	Dzikie terrarium	Wildnis-Terrarium
@@ -5455,7 +5455,7 @@ Mods with Elevated Access:
 {0} "	"Uwaga: Modyfikacje o podwyższonym dostępie mają zwiększony dostęp do zasobów poza grą, takich jak pliki użytkownika i internet. Aby uzyskać najlepsze doświadczenie, instaluj je tylko z renomowanych źródeł.				
 					
 Mody z podwyższonym dostępem:					
-{0}"	"""""""""""""""""Vorsicht: Mods mit „erweitertem Zugriff“ haben erweiterten Zugriff auf Ressourcen außerhalb des Spiels wie Benutzerdateien und Internet. Für ein optimales Spielerlebnis solltest du nur Mods aus seriösen Quellen installieren.				
+{0}"	"""""""""""""""""""Vorsicht: Mods mit „erweitertem Zugriff“ haben erweiterten Zugriff auf Ressourcen außerhalb des Spiels wie Benutzerdateien und Internet. Für ein optimales Spielerlebnis solltest du nur Mods aus seriösen Quellen installieren.				
 					
 Mods mit erweitertem Zugriff:					
 {0}""					
@@ -5466,7 +5466,7 @@ Mods mit erweitertem Zugriff:
 ""					
 ""					
 ""
-"
+"""
 Menu/ModsLoaded	Text		{0} Mods Loaded	{0} Modyfikacje załadowane	{0} Mods geladen
 Menu/MoreInfo	Text	Button/prompt to create a new world	More info	Więcej informacji	Mehr Info
 Menu/NewContentAvailableTooltip	Text		You can add new content to this world!	Możesz dodać nową zawartość do tego świata!	Du kannst dieser Welt neue Inhalte hinzufügen!
@@ -6139,14 +6139,14 @@ done	Text		Done	Zrobione	Fertig
 dontShowAgain	Text		Don't show again	Nie pokazuj ponownie	Nicht wieder anzeigen
 down	Text		Move down	Ruch w dół	Nach unten
 dresser	Text		Dresser	Komoda	Kommode
-dropToWorld	Text		Drop item: 	Upuść przedmiot:	"""""""""""""""""Gegenstand ablegen:""
+dropToWorld	Text		Drop item: 	Upuść przedmiot:	"""""""""""""""""""Gegenstand ablegen:""
 ""					
 ""					
 ""					
 ""					
 ""					
 ""
-"
+"""
 durability	Text	"For example ""Durability 159/500"""	Durability: {0}/{1}	Wytrzymałość: {0}/{1}	Haltbarkeit: {0}/{1}
 durabilityLost	Text		Some durability on equipment was lost.	Wytrzymałość jakiegoś wyposażenia spadła.	Die Ausrüstung hat ein wenig Haltbarkeit verloren.
 durationMin	Text	"Shown at end of buff text with a duration such as ""+2 health every sec for 1 min"" where			
@@ -6199,7 +6199,7 @@ godModeOptionDesc	Text		"God mode features:
 - Gracz może niszczyć obiekty jednym uderzeniem					
 - Przedmioty nie wypadają ze zniszczonych obiektów					
 - Gracz może szybciej umieszczać obiekty					
-- Obiekty nie są zużywane podczas używania"	"""""""""""""""""Funktionen im Gott-Modus:				
+- Obiekty nie są zużywane podczas używania"	"""""""""""""""""""Funktionen im Gott-Modus:				
 - Spieler kann sich durch Objekte hindurch bewegen					
 - Spieler kann Objekte mit einem Schlag zerstören					
 - Gegenstände droppen nicht von zerstörten Objekten					
@@ -6212,7 +6212,7 @@ godModeOptionDesc	Text		"God mode features:
 ""					
 ""					
 ""
-"
+"""
 graphicsAPIOption	Text	{0} will be replaced with the name of the graphics api	Play Core Keeper using {0}	Zagraj w Core Keeper używając {0}	Spiele Core Keeper mit {0}
 grenades	Text		Grenades	Granaty	Granaten
 habitableIdol	Text		Place in a habitable room	Umieścić w pomieszczeniu mieszkalnym	Platzierbar in einem bewohnbaren Raum
@@ -6317,7 +6317,7 @@ petLeveledUp	Text	"{0} will be replaced with the level number
 "	Pet reached level {0}!	Zwierzak osiągnął poziom {0}!	Haustier hat Level {0} erreicht!
 petSlot	Text		Pet slot	Slot na zwierzaka	Haustier-Slot
 physicalWeaponDamage	Text		{0}-{1} physical damage	{0}-{1} obrażeń fizycznych	{0}-{1} physischer Schaden
-pickUpHalf	Text		Pick up half:	Podnieś pół:	"""""""""""""""""Hälfte aufheben:
+pickUpHalf	Text		Pick up half:	Podnieś pół:	"""""""""""""""""""Hälfte aufheben:
 {0}""					
 ""					
 ""					
@@ -6326,8 +6326,8 @@ pickUpHalf	Text		Pick up half:	Podnieś pół:	"""""""""""""""""Hälfte aufheben
 ""					
 ""					
 ""
-"
-pickUpOne	Text	{0} will be replaced with the input player needs to use to perform the action, note that the breakline is intended and should be used in the localizations too	Pick up one:	Podnieś jeden:	"""""""""""""""""Einen aufheben:
+"""
+pickUpOne	Text	{0} will be replaced with the input player needs to use to perform the action, note that the breakline is intended and should be used in the localizations too	Pick up one:	Podnieś jeden:	"""""""""""""""""""Einen aufheben:
 {0}""					
 ""					
 ""					
@@ -6336,7 +6336,7 @@ pickUpOne	Text	{0} will be replaced with the input player needs to use to perfor
 ""					
 ""					
 ""
-"
+"""
 piercingProjectiles	Text	Shown as description on weapons that shoots piercing projectiles	Projectiles pierces through enemies	Pociski przebijają wrogów	Projektile durchdringen Feinde
 points	Text		Points: {0}	Punkty: {0}	Punkte: {0}
 potions	Text		Potions	Mikstury	Tränke
@@ -6349,7 +6349,7 @@ pressAnyButtonPS4	Text		Press any button	Naciśnij dowolny przycisk	Drücke eine
 pressAnyButtonXbox	Text		Press any button	Naciśnij dowolny przycisk	Drücke eine Taste
 price	Text		Price: {0}	Cena: {0}	Preis: {0}
 primary	Text	Shown as category for red, yellow, blue and green painting colors	Primary	Podstawowy	Primär
-quickMove	Text		Quick stash:	Szybki skład:	"""""""""""""""""Schnell-Ablage:
+quickMove	Text		Quick stash:	Szybki skład:	"""""""""""""""""""Schnell-Ablage:
 {0}""					
 ""					
 ""					
@@ -6358,7 +6358,7 @@ quickMove	Text		Quick stash:	Szybki skład:	"""""""""""""""""Schnell-Ablage:
 ""					
 ""					
 ""
-"
+"""
 quickStack	Text	Shown when hovering a button that uses the quick stack function	Quick stack	Szybki skład	Schnellstapeln
 quickStackDesc	Text		Moves already existing items in the chest from your inventory to the chest.	Przenosi przedmioty znajdujące się już w skrzyni z ekwipunku do skrzyni.	Verschiebt bereits in der Kiste vorhandene Gegenstände aus deinem Inventar in die Kiste.
 quitToDesktop	Text		Quit	Wyjdź	Beenden
