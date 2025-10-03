@@ -185,15 +185,15 @@ CardinalDirections/Undefined	Text		undefined	nieokreślony	unbestimmt
 CardinalDirections/West	Text		west	na zachód	westlich
 CasualMode	Text		Casual	Prosty	Einfach
 CasualModeDesc	Text		Encounter gentler monsters in a relaxed, enjoyable setting.	Spotkaj łagodniejsze potwory w relaksującym, przyjemnym otoczeniu.	Begegne sanfteren Monstern in einer entspannten, angenehmen Umgebung.
-CattleStatus/Full	Text		The animal is very happy, full and producing.	Zwierzę jest bardzo szczęśliwe, najedzone i produktywne.	Das Tier ist überglücklich, satt und erzeugt etwas.
-CattleStatus/FullBaby	Text		The young animal is very happy and full.	Młode zwierzę jest bardzo szczęśliwe i najedzone.	Das Jungtier ist überglücklich und satt.
+CattleStatus/Full	Text		The animal is very happy, full and producing.	Zwierzę jest bardzo szczęśliwe i produktywne.	Das Tier ist überglücklich, satt und erzeugt etwas.
+CattleStatus/FullBaby	Text		The young animal is very happy and full.	Młode zwierzę jest bardzo szczęśliwe i produktywne.	Das Jungtier ist überglücklich und satt.
 CattleStatus/HungryCattleKelpFood	Text		The animal is hungry for kelp.	Zwierzę pragnie wodorostów.	Das Tier hat Hunger auf Seetang.
 CattleStatus/HungryCattlePlantFood	Text		The animal is hungry for crops.	Zwierzę pragnie plonów.	Das Tier hat Hunger auf Feldfrüchte.
 CattleStatus/HungryInsect	Text		The animal is hungry for small insects.	Zwierzę pragnie małych owadów.	Das Tier hat Hunger auf kleine Insekten.
 CattleStatus/MediumHungry	Text		The animal is happy, fairly full and producing.	Zwierzę jest szczęśliwe, dość syte i produktywne.	Das Tier ist glücklich, fast satt und erzeugt etwas.
 CattleStatus/MediumHungryBaby	Text		The young animal is happy and fairly full.	Młode zwierzę jest szczęśliwe i dość syte.	Das Jungtier ist glücklich und fast satt.
-CattleStatus/NameFull	Text	{0} will be replaced with the name that the player has given to the cattle creature	{0} is very happy, full and producing.	{0} jest bardzo szczęśliwy, najedzone i produktywny.	{0} ist überglücklich, satt und erzeugt etwas.
-CattleStatus/NameFullBaby	Text		{0} is very happy and full.	{0} jest bardzo szczęśliwy i najedzone.	{0} ist überglücklich und satt.
+CattleStatus/NameFull	Text	{0} will be replaced with the name that the player has given to the cattle creature	{0} is very happy, full and producing.	{0} jest bardzo szczęśliwy i produktywny.	{0} ist überglücklich, satt und erzeugt etwas.
+CattleStatus/NameFullBaby	Text		{0} is very happy and full.	{0} jest bardzo szczęśliwy i najedzony.	{0} ist überglücklich und satt.
 CattleStatus/NameHungryCattleKelpFood	Text		{0} is hungry for kelp.	{0} pragnie wodorostów.	{0} hat Hunger auf Seetang.
 CattleStatus/NameHungryCattlePlantFood	Text	{0} will be replaced with the name that the player has given to the cattle creature	{0} is hungry for crops.	{0} pragnie plonów.	{0} hat Hunger auf Feldfrüchte.
 CattleStatus/NameHungryInsect	Text	{0} will be replaced with the name that the player has given to the cattle creature	{0} is hungry for small insects.	{0} pragnie małych owadów.	{0} hat Hunger auf kleine Insekten.
@@ -271,7 +271,7 @@ ConditionEffectDesc/MaxMinions	Text		You can have up to {0} summoned minions.	Mo
 ConditionEffectDesc/MeleeAttackSpeed	Text		You hit {0}% faster with melee weapons.	Trafiasz {0}% szybciej bronią do walki wręcz.	Du triffst {0} % schneller mit Nahkampfwaffen.
 ConditionEffectDesc/MeleeDamage	Text		Melee attacks deal {0}. 	Ataki wręcz zadają {0}	Nahkampfangriffe verursachen {0}-{1} Schaden.
 ConditionEffectDesc/MeleeDamageFormat	Text	"{0} is replaced with the values and type of damage, i.e physical or magic. So for example:			
-Melee attacks deal 12-15 magic damage."	Melee attacks deal {0}.	Ataki wręcz zadają {0}.	Nahkampfangriffe verursachen {0}.
+Melee attacks deal 12-15 magic damage."	Melee attacks deal {0}.	Ataki wręcz zadają {0}.	Nahkampfangriffe verursachen {0}.		
 ConditionEffectDesc/Mining	Text		Deals {0} damage to walls and objects that require mining to be destroyed.	Zadaje {0} obrażeń ścianom i obiektom, których zniszczenie wymaga kopania.	Verursacht {0} Schaden an Wänden und Objekten, bei denen für die Zerstörung ein Bergbau erforderlich ist.
 ConditionEffectDesc/MiningSpeed	Text		You hit {0}% faster with pickaxes.	Uderzasz {0}% szybciej kilofami.	Du triffst {0} % schneller mit Spitzhacken.
 ConditionEffectDesc/MinionAttackSpeed	Text		Minions attack {0}% faster.	Sługusy atakują o {0}% szybciej.	Unterlinge greifen {0} % schneller an.
@@ -835,127 +835,138 @@ Credits/ArtDirector	Text		Art Director	Dyrektor artystyczny	Art Director
 Credits/Artists	Text		Artists	Artyści	Künstler
 Credits/AssociateProducer	Text		Associate Producer	Współpracownik ds. produkcji	Associate Producer
 Credits/AssociateProductManager	Text		Associate Product Manager	Zastępca kierownika produktu	Associate Product Manager
-Credits/Association71Consulting	Text		"In Association with Marketing & PR Studio
-71 Consulting"	"We współpracy z Marketing & PR Studio
-71 Consulting"	"""""""""""""""""In Zusammenarbeit mit Marketing- und PR-Studio			
+Credits/Association71Consulting	Text		"In Association with Marketing & PR Studio		
+71 Consulting"	"We współpracy z Marketing & PR Studio				
+71 Consulting"	"""""""""""""""""In Zusammenarbeit mit Marketing- und PR-Studio				
 71 Consulting""					
 ""					
 ""					
 ""					
 ""					
 ""					
-""
-"""
-Credits/AssociationAceAgency	Text		"In Association with Localisation Studio
-ACE Agency"	"We współpracy z agencją lokalizacyjną
-Studio ACE"	"""""""""""""""""In Zusammenarbeit mit der Lokalisierungsagentur			
+""					
+""					
+"					
+Credits/AssociationAceAgency	Text		"In Association with Localisation Studio		
+ACE Agency"	"We współpracy z agencją lokalizacyjną				
+Studio ACE"	"""""""""""""""""In Zusammenarbeit mit der Lokalisierungsagentur				
 ACE Agency""					
 ""					
 ""					
 ""					
 ""					
 ""					
-""
-"""
-Credits/AssociationDreamLoop	Text		"In Association with Console Porting Studio
-Dreamloop Games"	"We współpracy z konsolowym studiem portującym
-Dreamloop Games"	"""""""""""""""""In Zusammenarbeit mit dem Konsolen-Portierungsstudio			
+""					
+""					
+"					
+Credits/AssociationDreamLoop	Text		"In Association with Console Porting Studio		
+Dreamloop Games"	"We współpracy z konsolowym studiem portującym				
+Dreamloop Games"	"""""""""""""""""In Zusammenarbeit mit dem Konsolen-Portierungsstudio				
 Dreamloop Games""					
 ""					
 ""					
 ""					
 ""					
 ""					
-""
-"""
-Credits/AssociationEnzyme	Text		"In Association with Compatibility Testing Studio
-Enzyme"	"We współpracy z Studio Enzyme
-Zajmującym się testowaniem kompatybilności"	"""""""""""""""""In Zusammenarbeit mit dem Studio für Kompatibilitätstests			
+""					
+""					
+"					
+Credits/AssociationEnzyme	Text		"In Association with Compatibility Testing Studio		
+Enzyme"	"We współpracy z Studio Enzyme				
+Zajmującym się testowaniem kompatybilności"	"""""""""""""""""In Zusammenarbeit mit dem Studio für Kompatibilitätstests				
 Enzyme""					
 ""					
 ""					
 ""					
 ""					
 ""					
-""
-"""
-Credits/AssociationKeywordsIndia	Text		"In Association with PC FQA Studio
-Keywords India"	"We współpracy z PC FQA Studio
-Keywords India"	"""""""""""""""""In Zusammenarbeit mit dem Studio für PC-FQA			
+""					
+""					
+"					
+Credits/AssociationKeywordsIndia	Text		"In Association with PC FQA Studio		
+Keywords India"	"We współpracy z PC FQA Studio				
+Keywords India"	"""""""""""""""""In Zusammenarbeit mit dem Studio für PC-FQA				
 Keywords India""					
 ""					
 ""					
 ""					
 ""					
 ""					
-""
-"""
-Credits/AssociationLionbridge	Text		"In Association with PC and Console QA Studio
-Lionbridge Games"	"We współpracy z PC and Console QA Studio
-Lionbridge Games"	"""""""""""""""""In Zusammenarbeit mit dem Studio für PC- und Konsolen-QA			
+""					
+""					
+"					
+Credits/AssociationLionbridge	Text		"In Association with PC and Console QA Studio		
+Lionbridge Games"	"We współpracy z PC and Console QA Studio				
+Lionbridge Games"	"""""""""""""""""In Zusammenarbeit mit dem Studio für PC- und Konsolen-QA				
 Lionbridge Games""					
 ""					
 ""					
 ""					
 ""					
 ""					
-""
-"""
-Credits/AssociationLionbridgeLQA	Text		"In Association with PC and Console LQA Studio
-Lionbridge Games"	"We współpracy z PC and Console LQA Studio
-Lionbridge Games"	"""""""""""""""""In Zusammenarbeit mit dem Studio für PC- und Konsolen-LQA			
+""					
+""					
+"					
+Credits/AssociationLionbridgeLQA	Text		"In Association with PC and Console LQA Studio		
+Lionbridge Games"	"We współpracy z PC and Console LQA Studio				
+Lionbridge Games"	"""""""""""""""""In Zusammenarbeit mit dem Studio für PC- und Konsolen-LQA				
 Lionbridge Games""					
 ""					
 ""					
 ""					
 ""					
 ""					
-""
-"""
-Credits/AssociationLocalizeDirect	Text		"In Association with PC LQA Studio
-LocalizeDirect"	"We współpracy z PC LQA Studio
-LocalizeDirect"	"""""""""""""""""In Zusammenarbeit mit dem Studio für PC-LQA			
+""					
+""					
+"					
+Credits/AssociationLocalizeDirect	Text		"In Association with PC LQA Studio		
+LocalizeDirect"	"We współpracy z PC LQA Studio				
+LocalizeDirect"	"""""""""""""""""In Zusammenarbeit mit dem Studio für PC-LQA				
 LocalizeDirect""					
 ""					
 ""					
 ""					
 ""					
 ""					
-""
-"""
-Credits/AssociationOhCreative	Text		"In Association with Marketing Studio
-OH Creative"	"We współpracy z Marketing Studio
-OH Creative"	"""""""""""""""""In Zusammenarbeit mit Marketingstudio			
+""					
+""					
+"					
+Credits/AssociationOhCreative	Text		"In Association with Marketing Studio		
+OH Creative"	"We współpracy z Marketing Studio				
+OH Creative"	"""""""""""""""""In Zusammenarbeit mit Marketingstudio				
 OH Creative""					
 ""					
 ""					
 ""					
 ""					
 ""					
-""
-"""
-Credits/AssociationPlaytropic	Text		"In Association with PC and Console FQA Studio
-Playtropic Video Game Services"	"We współpracy z PC and Console FQA Studio
-Playtropic Video Game Services"	"""""""""""""""""In Zusammenarbeit mit dem Studio für PC- und Konsolen-FQA			
+""					
+""					
+"					
+Credits/AssociationPlaytropic	Text		"In Association with PC and Console FQA Studio		
+Playtropic Video Game Services"	"We współpracy z PC and Console FQA Studio				
+Playtropic Video Game Services"	"""""""""""""""""In Zusammenarbeit mit dem Studio für PC- und Konsolen-FQA				
 Playtropic Videogame Services""					
 ""					
 ""					
 ""					
 ""					
 ""					
-""
-"""
-Credits/AssociationTestify	Text		"In Association with Testing Studio
-Testify"	"We współpracy z testerskim
-Testify Studio "	"""""""""""""""""In Zusammenarbeit mit dem Teststudio			
+""					
+""					
+"					
+Credits/AssociationTestify	Text		"In Association with Testing Studio		
+Testify"	"We współpracy z testerskim				
+Testify Studio "	"""""""""""""""""In Zusammenarbeit mit dem Teststudio				
 Testify""					
 ""					
 ""					
 ""					
 ""					
 ""					
-""
-"""
+""					
+""					
+"					
 Credits/AudioAndMusic	Text		Audio and Music	Audio i muzyka	Audio und Musik
 Credits/AudioDesigners	Text		Audio/Sound Designers	Projektanci dźwięku	Audio-/Sound-Designer
 Credits/CEO	Text		CEO	DYREKTOR GENERALNY	CEO
@@ -1023,17 +1034,18 @@ Credits/PCLQA	Text		PC LQA	PC LQA	PC-FQA
 Credits/PCandConsoleFQA	Text		PC and Console FQA	PC i Console FQA	PC- und Konsolen-FQA
 Credits/PCandConsoleQA	Text		PC and Console QA	Kontrola jakości na komputerze i konsoli	PC- und Konsolen-QA
 Credits/PRAndCommunications	Text		PR and Communications	PR i komunikacja	PR und Kommunikation
-Credits/PartneredFireshine	Text		"Partnered with Publisher
-Fireshine Games "	"Współpraca z wydawcą
-Fireshine Games"	"""""""""""""""""In Partnerschaft mit dem Publisher			
+Credits/PartneredFireshine	Text		"Partnered with Publisher		
+Fireshine Games "	"Współpraca z wydawcą				
+Fireshine Games"	"""""""""""""""""In Partnerschaft mit dem Publisher				
 Fireshine""					
 ""					
 ""					
 ""					
 ""					
 ""					
-""
-"""
+""					
+""					
+"					
 Credits/PartneredUnity	Text		Partnered with Unity Technologies	Partnerstwo z Unity Technologies	In Partnerschaft mit Unity Technologies
 Credits/PortingProgrammers	Text		Porting Programmers	Programiści portujący	Porting-Programmierer/innen
 Credits/PortugueseBrazilianLQATester	Text		Portuguese Brazilian LQA Tester	Portugalski brazylijski LQA tester	LQA-Tester brasilianisches Portugiesisch
@@ -1128,8 +1140,9 @@ CreditsNames/BridieDaniels	Text		Bridie Daniels	Bridie Daniels	Bridie Daniels
 CreditsNames/BugsyRabbit2004	Text		BugsyRabbit2004	BugsyRabbit2004	BugsyRabbit2004
 CreditsNames/CarriganTessSevedge	Text		"Carrigan ""Tess"" Sevedge"	"Carrigan ""Tess"" Sevedge"	"""""""""Carrigan ""Tess"" Sevedge""
 ""					
-""
-"""
+""					
+""					
+"					
 CreditsNames/Cedric	Text		Cedric	Cedric	Cedric
 CreditsNames/CedricSchmitt	Text		Cedric Schmitt	Cedric Schmitt	Cedric Schmitt
 CreditsNames/ChantelleLarmond	Text		Chantelle Larmond	Chantelle Larmond	Chantelle Larmond
@@ -1417,17 +1430,18 @@ Emotes/TutorialCraftTorch	Text		I wish I had a light source...	Chciałabym mieć
 Emotes/TutorialCraftWorkbench	Text		I could craft more complex tools if I had a place to tinker...	Mógłbym tworzyć bardziej złożone narzędzia, gdybym miał gdzie majsterkować...	Mit einem Platz für Handwerk könnte ich komplexere Werkzeuge herstellen ...
 Emotes/TutorialSmeltOre	Text		This ore isn't very useful unless I smelt it down...	Ta ruda nie jest zbyt użyteczna, chyba że ją przetopię...	Dieses Erz hat keinen großen Nutzen, solange ich es nicht einschmelze ...
 Emotes/UnlockedInEarlyAccess	Text		Unlocked in Early Access	Odblokowane w ramach wczesnego dostępu	Im Early Access freigeschaltet
-Emotes/UnlocksAtLaunch	Text		"Continue your exploration beyond the wall at 1.0,
-unlocks August 27th 2024. "	"Kontynuuj eksplorację poza murem w wersji 1.0,
-Zostanie odblokowana 27 sierpnia 2024 r."	"""""""""""""""""Setze die Erkundung jenseits der Wand mit 1.0 fort.			
+Emotes/UnlocksAtLaunch	Text		"Continue your exploration beyond the wall at 1.0,		
+unlocks August 27th 2024. "	"Kontynuuj eksplorację poza murem w wersji 1.0,				
+Zostanie odblokowana 27 sierpnia 2024 r."	"""""""""""""""""Setze die Erkundung jenseits der Wand mit 1.0 fort.				
 Die Freischaltung erfolgt am 27. August 2024""					
 ""					
 ""					
 ""					
 ""					
 ""					
-""
-"""
+""					
+""					
+"					
 Emotes/WaypointActivated	Text		Waypoint activated	Punkt nawigacyjny aktywowany	Wegpunkt aktiviert
 Error/Authenticating	Text		Authenticating.	Uwierzytelnianie.	Authentifizierung läuft.
 Error/AuthenticationFailed	Text		Authentication failed	Autoryzacja nie powiodła się	Authentifizierung fehlgeschlagen
@@ -1468,8 +1482,8 @@ Error/ReconnectNetwork	Text		checking internet connection	sprawdzanie połączen
 Error/ReconnectPlatformSession	Text		joining platform session	dołączanie do sesji platformy	Beitritt zur Plattform-Sitzung
 Error/ReconnectPlayFabNetwork	Text		joining network	dołączanie do sieci	Netzwerk-Beitritt
 Error/ReconnectServerPlayer	Text		waiting for host	oczekiwanie na hosta	warte auf Host
-Error/Reconnecting	Text		"Trying to reconnect
-(Step {0}/{1}: {2})
+Error/Reconnecting	Text		"Trying to reconnect		
+(Step {0}/{1}: {2})					
 "	"Próba przywrócenia połączenia				
 (Krok {0}/{1}: {2})					
 "	"""""""""""""""Es wird versucht, eine Verbindung wiederherzustellen				
@@ -1478,8 +1492,9 @@ Error/Reconnecting	Text		"Trying to reconnect
 ""					
 ""					
 ""					
-""
-"""
+""					
+""					
+"					
 Error/RecreateSession	Text		recreating session	odtwarzanie sesji	Sitzung wird wiederhergestellt
 Error/SaveFileCorrupt	Text		Could not read save file	Nie udało się odczytać pliku zapisu	Speicherdatei konnte nicht gelesen werden
 Error/SessionBlockedBy	Text	Used to denote a session which cannot be entered due to the presence of a player who has blocked the user.	You cannot join this session because it contains a user who has blocked you.	Nie możesz dołączyć do tej sesji, ponieważ zawiera ona użytkownika, który cię zablokował.	Du kannst dieser Sitzung nicht beitreten, weil ein Benutzer daran teilnimmt, der dich ausgeschlossen hat.
@@ -3114,8 +3129,9 @@ Items/GlassStatuePrism	Text		"Glass Statue ""Octahedron"""	"Szklana rzeźba ""O�
 ""					
 ""					
 ""					
-""
-"""
+""					
+""					
+"					
 Items/GlassStatuePrismDesc	Text		This bold statue serves as an art piece that puts the shiny properties of glass on display.	Ta wyrazista rzeźba służy jako dzieło sztuki, które eksponuje błyszczące właściwości szkła.	Diese massive Statue dient als ein Kunstwerk, das die schillernden Eigenschaften von Glas zur Schau stellen soll.
 Items/GlassWorkbench	Text		Glass Workbench	Szklany stół warsztatowy	Glas-Werkbank
 Items/GlassWorkbenchDesc	Text		This workbench makes it possible to form glass into more advanced objects to add to your base.	Ten stół warsztatowy umożliwia formowanie szkła w bardziej zaawansowane obiekty, które można dodać do bazy.	Dieser Werkbank ermöglicht es, aus Glas fortschrittlichere Bauteile für deine Basis herzustellen.
@@ -3993,8 +4009,9 @@ Items/OracleCardAzeos	Text		"Oracle Card ""Radiance"""	"Karta wyroczni ""Blask""
 ""					
 ""					
 ""					
-""
-"""
+""					
+""					
+"					
 Items/OracleCardAzeosDesc	Text		A scratched card with golden borders and an image of the sky titan. Looks like it's part of a set.	Porysowana karta ze złotymi ramkami i wizerunkiem podniebnego tytana. Wygląda na część zestawu.	Eine zerkratzte Karte mit Goldrand und einem Bildnis des Himmelstitans. Scheint Teil eines Sets zu sein.
 Items/OracleCardCity	Text		"Oracle Card ""Metropolis"""	"Karta wyroczni ""Metropolis"""	Orakel-Karte „Metropolis“
 Items/OracleCardCityDesc	Text		A card in mint condition with golden borders and an image of an ancient city. Looks like it's part of a set.	Karta w idealnym stanie ze złotymi ramkami i wizerunkiem starożytnego miasta. Wygląda na część zestawu.	Eine perfekt erhaltene Karte mit Goldrand und einem Bildnis einer antiken Stadt. Scheint Teil eines Sets zu sein.
@@ -4013,8 +4030,9 @@ Items/OracleCardOmoroth	Text		"Oracle Card ""Temperance"""	"Karta wyroczni ""Pow
 ""					
 ""					
 ""					
-""
-"""
+""					
+""					
+"					
 Items/OracleCardOmorothDesc	Text		A faded card with golden borders and an image of the sea titan. Looks like it's part of a set.	Wyblakła karta ze złotymi obwódkami i wizerunkiem morskiego tytana. Wygląda na część zestawu.	Eine verblassende Karte mit Goldrand und einem Bildnis des Meerestitans. Scheint Teil eines Sets zu sein.
 Items/OracleCardRaAkar	Text		"Oracle Card ""Endurance"""	"Karta wyroczni ""Wytrzymałość"""	"""""""""""""""""""Orakel-Karte ""Standhaftigkeit""""
 ""					
@@ -4023,8 +4041,9 @@ Items/OracleCardRaAkar	Text		"Oracle Card ""Endurance"""	"Karta wyroczni ""Wytrz
 ""					
 ""					
 ""					
-""
-"""
+""					
+""					
+"					
 Items/OracleCardRaAkarDesc	Text		A crumbling card with golden borders and an image of the sand titan. Looks like it's part of a set.	Rozpadająca się karta ze złotym obramowaniem i wizerunkiem piaskowego tytana. Wygląda na część zestawu.	Eine zerfallende Karte mit Goldrand und einem Bildnis des Sandtitans. Scheint Teil eines Sets zu sein.
 Items/OracleCardScholar	Text		"Oracle Card ""Wisdom"""	"Karta wyroczni ""Mądrość"""	Orakel-Karte „Weisheit“
 Items/OracleCardScholarDesc	Text		A soaked card with golden borders and an image of a caveling scholar. Looks like it's part of a set.	Przemoczona karta ze złotymi ramkami i wizerunkiem uczonego jaskiniowca. Wygląda na część zestawu.	Eine durchnässte Karte mit Goldrand und einem Bildnis eines Grottling-Gelehrten. Scheint Teil eines Sets zu sein.
@@ -4636,10 +4655,10 @@ Items/ShroomanBruteTrophyDesc	Text		A lifelike representation of a Shrooman Brut
 Items/SignArrow	Text		Arrow Sign	Znak strzałki	Richtungsschild
 Items/SignArrowDesc	Text		Don't know where to go? Just look at it! 	Nie wiesz, gdzie iść? Wystarczy na niego spojrzeć!	Keine Ahnung wo’s lang geht? Einfach draufschauen!
 Items/SignBrute	Text		Brute Sign	Znak brutala	Schläger-Schild
-Items/SignBruteDesc	Text		"Someone put all their artistic efforts into painting this sign and left it as a warning.
-Caveling Brutes or worse ahead. "	"Ktoś włożył cały swój artystyczny wysiłek w namalowanie
-tego znaku i zostawił go jako ostrzeżenie.
-Przed jaskiniowymi brutalami lub czymś gorszym."	"""""""""""""""""""Jemand hat all sein künstlerisches Talent in die Gestaltung dieses Schildes gesteckt und es als Warnung hinterlassen.			
+Items/SignBruteDesc	Text		"Someone put all their artistic efforts into painting this sign and left it as a warning.		
+Caveling Brutes or worse ahead. "	"Ktoś włożył cały swój artystyczny wysiłek w namalowanie				
+tego znaku i zostawił go jako ostrzeżenie.					
+Przed jaskiniowymi brutalami lub czymś gorszym."	"""""""""""""""""""Jemand hat all sein künstlerisches Talent in die Gestaltung dieses Schildes gesteckt und es als Warnung hinterlassen.				
 Grottling-Schläger oder Schlimmeres voraus.""					
 ""					
 ""					
@@ -4647,8 +4666,9 @@ Grottling-Schläger oder Schlimmeres voraus.""
 ""					
 ""					
 ""					
-""
-"""
+""					
+""					
+"					
 Items/SignSkull	Text		Skull Effigy	Czaszka na kiju	Schädel-Schild
 Items/SignSkullDesc	Text		There is no clearer warning than a skull on a stake. Better keep out.	Nie ma wyraźniejszego ostrzeżenia niż czaszka na palu. Lepiej trzymać się z daleka.	Es gibt keine deutlichere Warnung als ein Schädel auf einem Pfahl. Lieber nicht betreten.
 Items/SignText	Text		Sign	Znak	Schild
@@ -4721,8 +4741,9 @@ Items/SmallFeatherTreeCyanDesc	Text		Not a tree at all, but an invertebrate feed
 ""					
 ""					
 ""					
-""
-"""
+""					
+""					
+"					
 Items/SmallFeatherTreeDesc	Text		Not a tree at all, but an invertebrate feeding on floating particles with its arms. It hasn't fully matured yet.	Nie jest to w ogóle drzewo, ale bezkręgowiec żywiący się pływającymi cząsteczkami za pomocą ramion. Nie jest jeszcze w pełni dojrzałe.	"""""""""""""""""Das ist gar kein Baum, sondern ein großes wirbelloses Tier, das sich mit seinen Armen von Schwebeteilchen ernährt. Noch nicht voll ausgewachsen.
 ""					
 ""					
@@ -4730,8 +4751,9 @@ Items/SmallFeatherTreeDesc	Text		Not a tree at all, but an invertebrate feeding 
 ""					
 ""					
 ""					
-""
-"""
+""					
+""					
+"					
 Items/SmallLantern	Text		Small Lantern	Mała latarnia	Kleine Laterne
 Items/SmallLanternDesc	Text		A weak light to attach to your belt.	Słaba latarka, którą można przypiąć do paska.	Ein schwaches Licht für den Gürtel.
 Items/SmallPandoriumCrystal	Text		Small Pandorium Crystal	Mały kryształ pandorium	Kleiner Pandorium-Kristall
@@ -4984,8 +5006,9 @@ Items/TerrariumDesc	Text		A simple enclosure for all kinds of crawling and flutt
 ""					
 ""					
 ""					
-""
-"""
+""					
+""					
+"					
 Items/TerrariumDesert	Text		Desert Terrarium	Pustynne terrarium	Wüsten-Terrarium
 Items/TerrariumDesertDesc	Text		A warm enclosure with dry, rocky terrain.	Ciepłe środowisko z suchym, skalistym terenem.	Ein warmes Gehege mit trockenem, felsigem Terrain.
 Items/TerrariumNature	Text		Wilderness Terrarium	Dzikie terrarium	Wildnis-Terrarium
@@ -5421,7 +5444,7 @@ Menu/GetOutOfStuckPositionDialogue	Text		Do you want to kill your character to g
 Menu/GiveFeedback	Text		Report bugs / feedback	Zgłaszanie błędów / opinie	Fehler melden / Feedback
 Menu/GraphicsOptions	Text		Graphics settings	Ustawienia grafiki	Grafikeinstellungen
 Menu/Hardcore	Text	"""desktop"" is the user's desktop folder on PC			
-"	Hardcore	Hardcore	Hardcore
+"	Hardcore	Hardcore	Hardcore		
 Menu/HardcoreDesc	Text		Hardcore characters are permanently lost when they die and cannot be revived.	Postacie w trybie hardcore są trwale tracone po śmierci i nie można ich odzyskać.	Hardcore-Charaktere gehen bei ihrem Tod dauerhaft verloren und können nicht wiederbelebt werden.
 Menu/HasBeenCreatedOnDesktop	Text		{0} has been created on the desktop	{0} został utworzony na pulpicie	{0} wurde auf dem Desktop erstellt
 Menu/HideGameID	Text		Hide game ID	Ukryj identyfikator gry	Spiel-ID ausblenden
@@ -5449,9 +5472,9 @@ Menu/ModMenuPopUp	Text		Mods are developed by members of the community. They ope
 Menu/ModMissingClientDialogue	Text		Required mod {0} is missing. Do you want to install it (needs restart)?	Brakuje wymaganej modyfikacji {0}. Czy chcesz go zainstalować (wymaga restartu)?	Benötigte Mod {0} fehlt. Möchtest du die Mod installieren? (Neustart erforderlich)
 Menu/ModMissingServerDialogue	Text		Required mod {0} is missing from server. Do you want to disable it (needs restart)?	Na serwerze brakuje wymaganej modyfikacji {0}. Czy chcesz go wyłączyć (wymaga restartu)?	Benötigte Mod {0} fehlt auf dem Server. Möchtest du die Mod deaktivieren? (Neustart erforderlich)
 Menu/Mods	Text		Mods	Mody	Mods
-Menu/ModsAddedWithEnhancedAccess	Text		"Caution: 'Elevated Access' mods have increased access to resources outside the game like user files and internet. For the best experience, install only from reputable sources.
-
-Mods with Elevated Access:
+Menu/ModsAddedWithEnhancedAccess	Text		"Caution: 'Elevated Access' mods have increased access to resources outside the game like user files and internet. For the best experience, install only from reputable sources.		
+					
+Mods with Elevated Access:					
 {0} "	"Uwaga: Modyfikacje o podwyższonym dostępie mają zwiększony dostęp do zasobów poza grą, takich jak pliki użytkownika i internet. Aby uzyskać najlepsze doświadczenie, instaluj je tylko z renomowanych źródeł.				
 					
 Mody z podwyższonym dostępem:					
@@ -5465,8 +5488,9 @@ Mods mit erweitertem Zugriff:
 ""					
 ""					
 ""					
-""
-"""
+""					
+""					
+"					
 Menu/ModsLoaded	Text		{0} Mods Loaded	{0} Modyfikacje załadowane	{0} Mods geladen
 Menu/MoreInfo	Text	Button/prompt to create a new world	More info	Więcej informacji	Mehr Info
 Menu/NewContentAvailableTooltip	Text		You can add new content to this world!	Możesz dodać nową zawartość do tego świata!	Du kannst dieser Welt neue Inhalte hinzufügen!
@@ -5556,7 +5580,7 @@ Menu/TogglePvPOff	Text		Disable PvP	Wyłącz PvP	PvP deaktivieren
 Menu/TogglePvPOn	Text		Enable PvP	Włącz PvP	PvP aktivieren
 Menu/UIOptions	Text		UI settings	Ustawienia interfejsu użytkownika	UI-Einstellungen
 Menu/Version	Text		Version: {0} ({1})   |   © Pugstorm AB	"Wersja: {0} ({1})   |   © Pugstorm AB	
-Wersja spolszczenia: 1.1.2"	Version: {0} ({1})   |   © Pugstorm AB
+Wersja spolszczenia: 1.1.2"	Version: {0} ({1})   |   © Pugstorm AB				
 Menu/VersionsAreCompatibleButNotSameWarning	Text		Versions are compatible, but minor changes may affect performance.	Wersje są kompatybilne, ale drobne zmiany mogą mieć wpływ na wydajność.	Die Versionen sind kompatibel, aber kleinere Änderungen können die Leistung beeinträchtigen.
 Menu/WarningVersionMismatch	Text		Warning: Version Mismatch	Ostrzeżenie: Niezgodność wersji	Achtung: Falsche Spielversion
 Menu/WindowMode	Text		Window mode	Typ wyświetlania	Fenstermodus
@@ -5720,7 +5744,7 @@ Rarity/RareFemale	Text		Rare	Rzadka	Seltene
 Rarity/RareMale	Text		Rare	Rzadki	Seltener
 Rarity/Uncommon	Text		Uncommon	Niezwykłe	Ungewöhnliches
 Rarity/UncommonFemale	Text	"Title for recipes of foods, {0} will be replaced with a number indicating the current amount of known recipes			
-"	Uncommon	Niezwykła	Ungewöhnliche
+"	Uncommon	Niezwykła	Ungewöhnliche		
 Rarity/UncommonMale	Text		Uncommon	Niezwykły	Ungewöhnlicher
 Recipes	Text		Recipes ({0})	Przepisy ({0})	Rezepte ({0})
 ReinforceButtonDesc	Text		Toggle to reinforce tools, weapons and equipment. Reinforcing will improve the stats of the item by a small amount and also extend the durability.	Przełącz, aby wzmocnić narzędzia, broń i wyposażenie. Wzmocnienie poprawi statystyki przedmiotu o niewielką wartość, a także zwiększy jego trwałość.	Umschalten, um Werkzeuge, Waffen und Ausrüstung zu verstärken. Die Verstärkung verbessert die Werte des Gegenstands um einen kleinen Betrag und verlängert zudem seine Haltbarkeit.
@@ -5766,7 +5790,7 @@ Roles/RangerDesc	Text		A swift fighter with a keen eye that's trained to hit ene
 Roles/Warlock	Text		Warlock	Czarnoksiężnik	Hexenmeister
 Roles/WarlockDesc	Text		An adept warlock who conjures dark minions to besiege and bewilder foes.	Adept czarnoksięstwa, który wyczarowuje mrocznych sługusów, by oblegać wrogów.	Ein erfahrener Hexenmeister, der finstere Schergen beschwört, um Feinde zu bedrängen und zu verwirren.
 SalvageButtonDesc	Text	"Shown as title in the salvage and repair UI			
-"	Salvage tools, weapons and equipment to gain scrap parts and some of the crafting materials back. Items with less durability gives back less materials.	Złomowanie narzędzi, broni i sprzętu w celu odzyskania części złomu i niektórych materiałów rzemieślniczych. Przedmioty o mniejszej wytrzymałości zwracają mniej materiałów.	Berge Werkzeuge, Waffen und Ausrüstung, um Schrottteile und einen Teil der Fertigungsmaterialien zurückzugewinnen. Gegenstände mit geringerer Haltbarkeit geben weniger Materialien zurück.
+"	Salvage tools, weapons and equipment to gain scrap parts and some of the crafting materials back. Items with less durability gives back less materials.	Złomowanie narzędzi, broni i sprzętu w celu odzyskania części złomu i niektórych materiałów rzemieślniczych. Przedmioty o mniejszej wytrzymałości zwracają mniej materiałów.	Berge Werkzeuge, Waffen und Ausrüstung, um Schrottteile und einen Teil der Fertigungsmaterialien zurückzugewinnen. Gegenstände mit geringerer Haltbarkeit geben weniger Materialien zurück.		
 SalvageButtonTitle	Text		Salvage	Odzysk	Zurückgewinnen
 Salvaging	Text		Salvaging	Przywracanie	Zurückgewinnen
 ScanWorld	Text		Scan the world	Skanuj świat	Welt scannen
@@ -6125,7 +6149,7 @@ dateFormat	Text	"{0} = year (number)
 {1} = day (number)					
 {2} = month (word) (please see the ""months"" string)					
  					
-e.g. for english: May 25, 1991"	{2} {1}, {0}	{1} {2} {0}	{2} {1}, {0}
+e.g. for english: May 25, 1991"	{2} {1}, {0}	{1} {2} {0}	{2} {1}, {0}		
 delete	Text		Delete	Usuń	Löschen
 deleteCharacter	Text		Delete character	Usuń postać	Charakter löschen
 deleteCharactersMenu	Text		Delete characters menu	Usuń menu postaci	Menü zum Löschen von Charakteren
@@ -6145,20 +6169,21 @@ dropToWorld	Text		Drop item: 	Upuść przedmiot:	"""""""""""""""""""Gegenstand a
 ""					
 ""					
 ""					
-""
-"""
+""					
+""					
+"					
 durability	Text	"For example ""Durability 159/500"""	Durability: {0}/{1}	Wytrzymałość: {0}/{1}	Haltbarkeit: {0}/{1}
 durabilityLost	Text		Some durability on equipment was lost.	Wytrzymałość jakiegoś wyposażenia spadła.	Die Ausrüstung hat ein wenig Haltbarkeit verloren.
 durationMin	Text	"Shown at end of buff text with a duration such as ""+2 health every sec for 1 min"" where			
 {0} is replaced with  ""+2 health every sec"" and					
-{1} is replaced with ""1"""	{0} for {1} min	{0} na {1} min	{0} für {1} Min.
+{1} is replaced with ""1"""	{0} for {1} min	{0} na {1} min	{0} für {1} Min.		
 durationMinSec	Text	"Shown at end of buff text with a duration such as ""+2 health every sec for 1 min 15 sec"" where			
 {0} is replaced with  ""+2 health every sec"" and					
 {1} is replaced with ""1""					
-{2} is replaced ""15"""	{0} for {1} min {2} sec	{0} na {1} min {2} sek	{0} für {1} Min. {2} Sek.
+{2} is replaced ""15"""	{0} for {1} min {2} sec	{0} na {1} min {2} sek	{0} für {1} Min. {2} Sek.		
 durationSec	Text	"Shown at end of buff text with a duration such as ""+2 health every sec for 25 sec"" where			
 {0} is replaced with  ""+2 health every sec"" and					
-{1} is replaced with ""25"""	{0} for {1} sec	{0} na {1} sek	{0} für {1} Sek.
+{1} is replaced with ""25"""	{0} for {1} sec	{0} na {1} sek	{0} für {1} Sek.		
 electrictyIconHoverDesc	Text	Shown when hovering over the electricity icon in buildings that require it	This building requires electricity	Ten budynek wymaga energii elektrycznej	Dieses Gebäude benötigt Elektrizität
 emptySlot	Text		Empty slot	Pusty slot	Leerer Slot
 enableGodMode	Text		Enable god mode	Włącz tryb boga	Gott-Modus aktivieren
@@ -6182,18 +6207,18 @@ food	Text		Food	Głód	Essen
 foodFormat	Text	"{0} = food adjective,			
 {1} = food noun,					
 {2} = food type					
-Turns into for example ""Hearty Mushroom Soup"" when cooking Heart berries with mushrooms in the cooking pot."	{0} {1} {2}	{0} {1} {2}	{0} {1}-{2}
+Turns into for example ""Hearty Mushroom Soup"" when cooking Heart berries with mushrooms in the cooking pot."	{0} {1} {2}	{0} {1} {2}	{0} {1}-{2}		
 fullness	Text	"For example ""Fullness 159/500"", shown on items like water can"	Fullness: {0}/{1}	Wypełnienie: {0}/{1}	Inhalt: {0}/{1}
 gainedItem	Text	Shown in chat when for example gaining a polished version of a ring when crafting where {0} is the name of the item	Gained {0}!	Zdobyto {0}!	{0} erhalten!
 gainedSoul	Text		Gained soul of {0}!	Zdobyto duszę {0}!	Seele von {0} erhalten!
 gameMenu	Text	Shown as title when opening the pause menu in game	Game Menu	Menu Gry	Spielmenü
 gamepad	Text		Gamepad	Kontroler	Controller
 gear	Text	As in equipment and tools, should be one word	Gear	Sprzęt	Zubehör
-godModeOptionDesc	Text		"God mode features:
-- Player can move through objects
-- Player can destroy objects in one hit
-- Items don't drop from destroyed objects
-- Player can place objects faster
+godModeOptionDesc	Text		"God mode features:		
+- Player can move through objects					
+- Player can destroy objects in one hit					
+- Items don't drop from destroyed objects					
+- Player can place objects faster					
 - Objects are not consumed when used "	"Cechy trybu Boga:				
 - Gracz może przechodzić przez obiekty					
 - Gracz może niszczyć obiekty jednym uderzeniem					
@@ -6211,8 +6236,9 @@ godModeOptionDesc	Text		"God mode features:
 ""					
 ""					
 ""					
-""
-"""
+""					
+""					
+"					
 graphicsAPIOption	Text	{0} will be replaced with the name of the graphics api	Play Core Keeper using {0}	Zagraj w Core Keeper używając {0}	Spiele Core Keeper mit {0}
 grenades	Text		Grenades	Granaty	Granaten
 habitableIdol	Text		Place in a habitable room	Umieścić w pomieszczeniu mieszkalnym	Platzierbar in einem bewohnbaren Raum
@@ -6260,7 +6286,7 @@ maxLevel	Text	{0} will be replaced with the level number	Level: {0} (Max)	Poziom
 maximumMapMarkersPlaced	Text		You have already placed the maximum amount of map markers.	Umieściłeś już maksymalną liczbę znaczników na mapie.	Du hast schon die max. Anzahl an Kartenmarkierungen gesetzt.
 medium	Text		Medium	Średni	Mittel
 meleeWeapon	Text	"{0} will be replaced by the content in either magicWeaponDamage or physicalWeaponDamage so end result will for example be:			
-45-68 magic damage (melee)"	{0} (melee)	{0} (wręcz)	{0} (Nahkampf)
+45-68 magic damage (melee)"	{0} (melee)	{0} (wręcz)	{0} (Nahkampf)		
 menu	Text		Menu	Menu	Menü
 menuButtonActivate	Text		Activate	Aktywuj	Aktivieren
 menuButtonBack	Text		Back	Wstecz	Zurück
@@ -6270,7 +6296,7 @@ menuButtonSelect	Text		Select	Wybierz	Auswählen
 missingScrapParts	Text		Missing scrap parts	Brakujące części złomu	Fehlende Schrottteile
 months	Text	"Please give the short form of a month, for each month, and			
 separate each month by an ASCII space.					
-The month will be placed into the 'dateFormat' string."	Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec	Sty Lut Mar Kwi Maj Cze Lip Sie Wrz Paź Lis Gru	Jan. Feb. Mrz. Apr. Mai Jun. Jul. Aug. Sep. Okt. Nov. Dez.
+The month will be placed into the 'dateFormat' string."	Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec	Sty Lut Mar Kwi Maj Cze Lip Sie Wrz Paź Lis Gru	Jan. Feb. Mrz. Apr. Mai Jun. Jul. Aug. Sep. Okt. Nov. Dez.		
 multiplayer	Text		Multiplayer	Tryb wieloosobowy	Mehrspieler
 musicSheetItem	Text		Music sheet	Arkusz nutowy	Notenblatt
 nativeLang	Text	"should not translate ""english"" but should show the name of the language itself"	English	Polski (v 1.1.2)	Deutsch
@@ -6293,13 +6319,13 @@ numpadMinus	Text		NUMPAD -	NUMPAD -	NUMPAD -
 numpadPlus	Text		NUMPAD +	NUMPAD +	NUMPAD +
 off	Text	"On/Off			
 If your language doesn't have specific words for on/off, consider yes/no or enabled/disabled.					
-This will be used with things like ""gamepad vibration: On/Off"""	Off	Wył	Aus
+This will be used with things like ""gamepad vibration: On/Off"""	Off	Wył	Aus		
 offHandUse	Text		Off-hand use: {0}	Użycie drugiej ręki: {0}	Zweithand-Verwendung: {0}
 offhandSlot	Text		Off-hand slot	Slot drugiej ręki	Zweithand-Slot
 ok	Text		Ok	Ok	Okay
 on	Text	"On/Off setting.			
 If your language doesn't have specific words for on/off, consider yes/no or enabled/disabled.					
-This will be used with things like ""gamepad vibration: On/Off"""	On	Wł	An
+This will be used with things like ""gamepad vibration: On/Off"""	On	Wł	An		
 oneTimeEffect	Text	Shown after buff texts on food for example that can only occur one time, should be kept short	(only once)	(tylko raz)	(nur einmal)
 options	Text		Settings	Ustawienia	Einstellungen
 oxygen	Text		Oxygen	Tlen	Sauerstoff
@@ -6312,9 +6338,9 @@ permanentWhenEaten	Text	Shown above list of buffs gained from eating food	Perman
 petCandy	Text		Use: Feed this to your equipped pet to boost its experience by {0}. 	Użycie: Nakarm tym swojego wyposażonego zwierzaka, aby zwiększyć jego doświadczenie o {0}.	Verwenden: Verfüttere dies an dein Haustier, um seine Erfahrung um {0} zu erhöhen.
 petEgg	Text		Hatchable	Możliwość wyklucia	Ausbrütbar
 petInfo	Text	"Shown as a header for a window showing information about a pet. Try to keep it short and avoid writing ""info"" as ""information"" for example			
-"	Pet info	Info o zwierzaku	Haustier-Info
+"	Pet info	Info o zwierzaku	Haustier-Info		
 petLeveledUp	Text	"{0} will be replaced with the level number			
-"	Pet reached level {0}!	Zwierzak osiągnął poziom {0}!	Haustier hat Level {0} erreicht!
+"	Pet reached level {0}!	Zwierzak osiągnął poziom {0}!	Haustier hat Level {0} erreicht!		
 petSlot	Text		Pet slot	Slot na zwierzaka	Haustier-Slot
 physicalWeaponDamage	Text		{0}-{1} physical damage	{0}-{1} obrażeń fizycznych	{0}-{1} physischer Schaden
 pickUpHalf	Text		Pick up half:	Podnieś pół:	"""""""""""""""""""Hälfte aufheben:
@@ -6325,8 +6351,9 @@ pickUpHalf	Text		Pick up half:	Podnieś pół:	"""""""""""""""""""Hälfte aufheb
 ""					
 ""					
 ""					
-""
-"""
+""					
+""					
+"					
 pickUpOne	Text	{0} will be replaced with the input player needs to use to perform the action, note that the breakline is intended and should be used in the localizations too	Pick up one:	Podnieś jeden:	"""""""""""""""""""Einen aufheben:
 {0}""					
 ""					
@@ -6335,8 +6362,9 @@ pickUpOne	Text	{0} will be replaced with the input player needs to use to perfor
 ""					
 ""					
 ""					
-""
-"""
+""					
+""					
+"					
 piercingProjectiles	Text	Shown as description on weapons that shoots piercing projectiles	Projectiles pierces through enemies	Pociski przebijają wrogów	Projektile durchdringen Feinde
 points	Text		Points: {0}	Punkty: {0}	Punkte: {0}
 potions	Text		Potions	Mikstury	Tränke
@@ -6357,15 +6385,16 @@ quickMove	Text		Quick stash:	Szybki skład:	"""""""""""""""""""Schnell-Ablage:
 ""					
 ""					
 ""					
-""
-"""
+""					
+""					
+"					
 quickStack	Text	Shown when hovering a button that uses the quick stack function	Quick stack	Szybki skład	Schnellstapeln
 quickStackDesc	Text		Moves already existing items in the chest from your inventory to the chest.	Przenosi przedmioty znajdujące się już w skrzyni z ekwipunku do skrzyni.	Verschiebt bereits in der Kiste vorhandene Gegenstände aus deinem Inventar in die Kiste.
 quitToDesktop	Text		Quit	Wyjdź	Beenden
 rangeWeapon	Text		{0} (range)	{0} (zasięg)	{0} (Fernkampf)
 rareItemFormat	Text	"Format used for items that has rarity indicator as part of their name such as ""Rare Heartberry"" where			
 {0} = rarity					
-{1} = item name"	{0} {1}	{0} {1}	{0} {1}
+{1} = item name"	{0} {1}	{0} {1}	{0} {1}		
 receivedItems	Text	"For example"" Gained 4 Copper Bars!"" where {0} is 4 and {1} is Copper Bars"	Received {0} {1}	Otrzymano {0} {1}	{0} {1} erhalten
 reconnectAttempt	Text		Lost connection, trying to reconnect	Utracono połączenie, próba ponownego połączenia	Verbindung unterbrochen, es wird versucht, eine Verbindung wiederherzustellen
 reconnectSuccess	Text		Successfully reconnected	Pomyślne przywrócono połączenie	Verbindung wiederhergestellt
@@ -6393,7 +6422,7 @@ selectDifficulty	Text		Select difficulty	Wybierz poziom trudności	Schwierigkeit
 sell	Text		Sell	Sprzedaj	Verkaufen
 set	Text	"Format to show set bonuses such as ""2 set: +10% damage"" indicating that 2 pieces are needed to fullfill the set bonus where			
 {0} = 2					
-{1} = +10% damage"	{0} set: {1}	{0} części zestawu: {1}	{0}-teiliges Set: {1}
+{1} = +10% damage"	{0} set: {1}	{0} części zestawu: {1}	{0}-teiliges Set: {1}		
 settingAmbientVol	Text		Ambience 	Otoczenie	Umgebungssoundeffekte
 settingDisplayGameTime	Text		Show game time	Pokaż czas gry	Spielzeit anzeigen
 settingLanguage	Text		Language	Język	Sprache
@@ -6401,7 +6430,7 @@ settingLimitColors	Text		16 bit colors	16-bitowe kolory	16-Bit-Farben
 settingLimitPalette	Text		Limit Palette	Ograniczona paleta	Palette einschränken
 settingMusicVol	Text		Music	Muzyka	Musik
 settingPlayableInstrument	Text	"name of the setting that allows changing volume of in game instruments that players can play			
-"	Playable instruments 	Odtwarzane instrumenty	Spielbares Instrument
+"	Playable instruments 	Odtwarzane instrumenty	Spielbares Instrument		
 settingScreenShakes	Text		Screen shakes	Wstrząsy ekranu	Bildschirmrütteln
 settingSfxVol	Text		SFX	Efekty dźwiękowe	Soundeffekte
 settingVSync	Text		V-sync	V-sync	V-Sync
