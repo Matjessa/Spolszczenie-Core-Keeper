@@ -73,11 +73,11 @@ AchievementsLockedDescription/DefeatKingSlime	Text		Defeat King Slime	Pokonaj Kr
 AchievementsLockedDescription/DefeatMalugaz	Text		Defeat Malugaz the Corrupted	Pokonaj Malugaza Skażonego	Malugaz den Korrupten bezwingen
 AchievementsLockedDescription/DefeatMorpha	Text		Defeat Morpha the Aquatic Mass	Pokonaj Morpha Wodą Masę	Morpha die Aquatische Masse bezwingen
 AchievementsLockedDescription/DefeatNimruza	Text		Defeat Nimruza, Queen of the Burrowed Sands	Pokonaj Nimruzę, Królową Zasypanych Piasków	Bezwinge Nimruza, Königin der Verborgenen Sande
-AchievementsLockedDescription/DefeatOblidra	Text		Defeat Oblidra the Void Lord	Pokonaj Oblidrę, Władcę Otchłani	Besiege Oblidra, den Nihil-Lord
+AchievementsLockedDescription/DefeatOblidra	Text		Defeat Oblidra the Void Lord	Pokonaj Oblidrę Władcę Otchłani	Besiege Oblidra, den Nihil-Lord
 AchievementsLockedDescription/DefeatOmoroth	Text		Defeat Omoroth the Sea Titan	Pokonaj Omorotha Morskiego Tytana	Omoroth den Meerestitanen bezwingen
 AchievementsLockedDescription/DefeatPyrdra	Text		Defeat Pyrdra the Fire Titan	Pokonaj Pyrdrę Ognistego Tytana	Bezwinge Pyrdra, den Feuertitanen
 AchievementsLockedDescription/DefeatRaAkar	Text		Defeat Ra-Akar the Sand Titan	Pokonaj Ra-Akara Piaskowego Tytana	Ra-Akar den Sandtitanen bezwingen
-AchievementsLockedDescription/DefeatSahabar	Text		Defeat S.A.H.A.B.A.R.	Pokonaj S.A.H.A.B.A.R.	Besiege S.A.H.A.B.A.R.
+AchievementsLockedDescription/DefeatSahabar	Text		Defeat S.A.H.A.B.A.R.	Pokonaj S.A.H.A.B.A.R’a	Besiege S.A.H.A.B.A.R.
 AchievementsLockedDescription/DefeatUrschleim	Text		Defeat Urschleim	Pokonaj Urschleima	Bezwinge den Urschleim
 AchievementsLockedDescription/Discover100CookBookRecipes	Text		Discover 100 recipes in the cook book	Odkryj 100 przepisów w książce kucharskiej	100 Rezepte im Kochbuch entdecken
 AchievementsLockedDescription/EquipRingOfRockAndStone	Text		Equip the Ring of Rock and Ring of Stone	Wyposaż Pierścień Skały i Pierścień Kamienia	Ring der Felsen und Ring der Steine ausrüsten
@@ -128,11 +128,11 @@ AchievementsUnlockedDescription/DefeatKingSlime	Text		Defeated King Slime	Pokona
 AchievementsUnlockedDescription/DefeatMalugaz	Text		Defeated Malugaz the Corrupted	Pokonano Malugaza Skażonego	Malugaz der Korrupte, besiegt
 AchievementsUnlockedDescription/DefeatMorpha	Text		Defeated Morpha the Aquatic Mass	Pokonano Morpha Wodą Masę	Morpha die Aquatische Masse, besiegt
 AchievementsUnlockedDescription/DefeatNimruza	Text		Defeated Nimruza, Queen of the Burrowed Sands	Pokonano Nimruzę, Królową Zasypanych Piasków	Nimruza, Königin der Verborgenen Sande, bezwungen
-AchievementsUnlockedDescription/DefeatOblidra	Text		Defeated Oblidra the Void Lord	Pokonano Oblidrę, Władcę Otchłani	Oblidra, den Nihil-Lord bezwungen
+AchievementsUnlockedDescription/DefeatOblidra	Text		Defeated Oblidra the Void Lord	Pokonano Oblidrę Władcę Otchłani	Oblidra, den Nihil-Lord bezwungen
 AchievementsUnlockedDescription/DefeatOmoroth	Text		Defeated Omoroth the Sea Titan	Pokonano Omorotha Morskiego Tytana	Omoroth der Meerestitan, besiegt
 AchievementsUnlockedDescription/DefeatPyrdra	Text		Defeated Pyrdra the Fire Titan	Pokonano Pyrdrę Ognistego Tytana	Pyrdra, den Feuertitanen bezwungen
 AchievementsUnlockedDescription/DefeatRaAkar	Text		Defeated Ra-Akar the Sand Titan	Pokonano Ra-Akara Piaskowego Tytana	Ra-Akar der Sandtitan, besiegt
-AchievementsUnlockedDescription/DefeatSahabar	Text		Defeated S.A.H.A.B.A.R.	Pokonano S.A.H.A.B.A.R.	S.A.H.A.B.A.R. bezwungen
+AchievementsUnlockedDescription/DefeatSahabar	Text		Defeated S.A.H.A.B.A.R.	Pokonano S.A.H.A.B.A.R’a	S.A.H.A.B.A.R. bezwungen
 AchievementsUnlockedDescription/DefeatUrschleim	Text		Defeated Urschleim	Pokonano Urschleima	Urschleim bezwungen
 AchievementsUnlockedDescription/Discover100CookBookRecipes	Text		Discovered 100 recipes in the cook book	Odkryto 100 przepisów w książce kucharskiej	100 Rezepte wurden im Kochbuch entdeckt
 AchievementsUnlockedDescription/EquipRingOfRockAndStone	Text		Equipped the Ring of Rock and Ring of Stone	Wyposażono Pierścień Skały i Pierścień Kamienia	Ring der Felsen und Ring der Steine ausgerüstet
@@ -173,7 +173,7 @@ AvailableInEarlyAccess	Text		Will be available at Early Access launch	Będzie do
 BetaVersion	Text	{0} will be replaced by the version number	{0} Beta Version	{0} Wersja beta	{0} Beta-Version
 BiomeNames/Crystal	Text		The Shimmering Frontier	Błyszcząca Granica	Die Schimmernde Grenze
 BiomeNames/Desert	Text		The Desert of Beginnings	Pustynia Początków	Die Wüste des Anbeginns
-BiomeNames/Excavation	Text		Breaker's Reach	Pole Łamacza	Die Brecherweite
+BiomeNames/Excavation	Text		Breaker's Reach	Rubież Zniszczenia	Die Brecherweite
 BiomeNames/Great Wall	Text		Great Wall	Wielki Mur	Große Mauer
 BiomeNames/Larva	Text		The Clay Caves	Gliniane Jaskinie	Die Lehm-Höhlen
 BiomeNames/Nature	Text		Azeos' Wilderness	Dzicz Azeosa	Azeos' Wildnis
@@ -227,27 +227,27 @@ Changelog Entries/activateAllContentArgumentDesc	Text		Added an “-activateallc
 Changelog Entries/addMissingDirtBiomeTracksDesc	Text		"Added two new tracks in the Dirt biome: ""Mysteries Uncovered"" and ""Light From Above""."	"Dodano dwa nowe utwory w biomie ziemi: ""Mysteries Uncovered"" i ""Light From Above""."	2 neue Musiktitel für das Schmutz-Biom wurden hinzugefügt: „Mysteries Uncovered“ und „Light From Above“.
 Changelog Entries/addedAutomatedSystemsAndElectronicsDesc	Text		Added new Automated Systems & Electronics:	Dodano nowe systemy automatyczne i elektronikę:	Neue automatisierte Systeme & Elektronik wurden hinzugefügt:
 Changelog Entries/addedEchoMapsDesc	Text		Added 8 Echo-Maps that mark important locations in the world.	Dodano 8 map echa, które zaznaczają ważne lokacje na świecie.	8 Echo-Karten, die wichtige Standorte auf der Welt markieren, wurden hinzugefügt.
-Changelog Entries/addedExcavationBiomeDesc	Text		New Biome: Breaker's Reach - Found in the far north.	Nowy biom: Pole Łamacza - znajduje się na dalekiej północy.	Neues Biom: Brecherweite. Befindet sich fern im Norden.
-Changelog Entries/addedExcavationVoidSubbiomeDesc	Text		New Breaker's Reach Void sub-biome.	Nowy subbiom Próżni w Polu Łamacza.	Neues Nihil-Unterbiom in der Brecherweite.
-Changelog Entries/addedFiveVoidEnemiesDesc	Text		Added 5 void enemies:	Dodano 5 przeciwników pustki:	5 Nihil-Feinde wurden hinzugefügt:
+Changelog Entries/addedExcavationBiomeDesc	Text		New Biome: Breaker's Reach - Found in the far north.	Nowy biom: Rubież Zniszczenia - znajduje się na dalekiej północy.	Neues Biom: Brecherweite. Befindet sich fern im Norden.
+Changelog Entries/addedExcavationVoidSubbiomeDesc	Text		New Breaker's Reach Void sub-biome.	Nowy subbiom Otchłani w Rubieży Zniszczenia	Neues Nihil-Unterbiom in der Brecherweite.
+Changelog Entries/addedFiveVoidEnemiesDesc	Text		Added 5 void enemies:	Dodano 5 przeciwników otchłani:	5 Nihil-Feinde wurden hinzugefügt:
 Changelog Entries/addedMiningMinionDesc	Text		New Minion: Mining Minion - Spawn a pickaxe to help you mine.	Nowy sługus: Górniczy sługa – przywołuje kilof, który pomaga ci w wydobywaniu surowców.	Neuer Unterling: Bergbau-Unterling – spawne eine Spitzhacke, die dir beim Abbauen hilft.
-Changelog Entries/addedNewExcavationMushroomDesc	Text		New mushroom variant: the Glowing Mushroom - Found in the Breaker's Reach Void sub-biome.	Nowy rodzaj grzyba: świecący grzyb – występuje w subbiomie Pustki Pola Łamacza.	Neue Pilzvariante: der Leuchtpilz. Befindet sich im Nihil-Unterbiom in der Brecherweite.
-Changelog Entries/addedNewRobotBossDesc	Text		New Boss: S.A.H.A.B.A.R. - Found in the Breaker's Reach biome.	Nowy boss: S.A.H.A.B.A.R. – występuje w biomie Pola Łamacza.	Neuer Boss: S.A.H.A.B.A.R. Befindet sich im Brecherweite-Biom.
+Changelog Entries/addedNewExcavationMushroomDesc	Text		New mushroom variant: the Glowing Mushroom - Found in the Breaker's Reach Void sub-biome.	Nowy rodzaj grzyba: świecący grzyb – występuje w subbiomie otchłani Rubieży Zniszczenia	Neue Pilzvariante: der Leuchtpilz. Befindet sich im Nihil-Unterbiom in der Brecherweite.
+Changelog Entries/addedNewRobotBossDesc	Text		New Boss: S.A.H.A.B.A.R. - Found in the Breaker's Reach biome.	Nowy boss: S.A.H.A.B.A.R’a – występuje w biomie Rubież Zniszczenia	Neuer Boss: S.A.H.A.B.A.R. Befindet sich im Brecherweite-Biom.
 Changelog Entries/addedOverTwentyNewDecorationsDesc	Text		Added more than 20 new pieces of decoration.	Dodano ponad 20 nowych elementów dekoracyjnych.	Über 20 neue Dekorationen wurden hinzugefügt.
 Changelog Entries/addedSevenNewWeaponsDesc	Text		Added 7 new weapons:	Dodano 7 nowych broni:	7 neue Waffen wurden hinzugefügt:
 Changelog Entries/addedSixAccessoriesDesc	Text		Added 6 new accessories:	Dodano 6 nowych akcesoriów:	6 neue Accessoires wurden hinzugefügt:
 Changelog Entries/addedSixArmorSetsDesc	Text		Added 6 new armor sets:	Dodano 6 nowych zestawów zbroi:	6 neue Rüstungssets wurden hinzugefügt:
 Changelog Entries/addedTenFigurinesDesc	Text		Added 10 new figurines for the new enemies and bosses.	Dodano 10 nowych figurek dla nowych wrogów i bossów.	10 neue Figuren für die neuen Feinde und Bosse wurden hinzugefügt.
-Changelog Entries/addedThreeExcavationCrittersDesc	Text		Added 3 new critters found in the Breaker's Reach.	Dodano 3 nowe stworzenia występujące w Polu Łamacza.	3 neue Wesen, die sich in der Brecherweite befinden, wurden hinzugefügt.
-Changelog Entries/addedThreeExcavationValuablesDesc	Text		Added 3 new valuables exclusive to the Breaker's Reach.	Dodano 3 nowe przedmioty wartościowe dostępne wyłącznie w Polu Łamacza.	3 neue Wertgegenstände exklusiv für die Brecherweite wurden hinzugefügt.
+Changelog Entries/addedThreeExcavationCrittersDesc	Text		Added 3 new critters found in the Breaker's Reach.	Dodano 3 nowe stworzenia występujące w Rubieży Zniszczenia.	3 neue Wesen, die sich in der Brecherweite befinden, wurden hinzugefügt.
+Changelog Entries/addedThreeExcavationValuablesDesc	Text		Added 3 new valuables exclusive to the Breaker's Reach.	Dodano 3 nowe przedmioty wartościowe dostępne wyłącznie w Rubieży Zniszczenia.	3 neue Wertgegenstände exklusiv für die Brecherweite wurden hinzugefügt.
 Changelog Entries/addedThreeRobotEnemiesDesc	Text		Added 3 robot enemies:	Dodano 3 wrogie roboty:	3 Roboter-Feinde wurden hinzugefügt:
 Changelog Entries/addedThreeWorkbenchesDesc	Text		Added 3 new workbenches:	Dodano 3 nowe stoły warsztatowe:	3 neue Werkbänke wurden hinzugefügt:
 Changelog Entries/addedTitanShrinesDesc	Text		Added 6 Titan Shrines:	Dodano 6 świątyń tytanów:	
 Changelog Entries/addedTwoLegendaryWeaponsDesc	Text		Added 2 new legendary weapons:	Dodano 2 nowe legendarne bronie:	2 neue legendäre Waffen wurden hinzugefügt:
 Changelog Entries/addedTwoVanityHeadgearDesc	Text		Added 2 new vanity headgear:	Dodano 2 nowe nakrycia głowy:	2 neue Eitelkeit-Kopfbedeckungen wurden hinzugefügt:
-Changelog Entries/addedVoidAltarWhenStatuesMissingDesc	Text		The Void Altar Workbench is now available in the Solarite Workbench in worlds where the Titan Shrines content bundle hasn't been activated.	Stół warsztatowy Ołtarz Pustki jest teraz dostępny w Solarytowych stołach warsztatowych w światach, w których nie aktywowano pakietu zawartości Świątyń Tytanów.	
-Changelog Entries/addedVoidHydraDesc	Text		New Hydra: Oblidra the Void Lord - Found in the Breaker's Reach biome.	Nowa hydra: Oblidra, władca otchłani– można ją znaleźć w biomie Pola Łamacza.	Neue Hydra: Oblidra, der Nihil-Lord. Befindet sich im Brecherweite-Biom.
-Changelog Entries/addedVoidMerchantDesc	Text		Added an Otherworldly Merchant found in the Breaker's Reach. This merchant may sell some very important items!	Dodano nieziemskiego kupca, którego można spotkać w Polu Łamacza. Ten kupiec może sprzedawać bardzo ważne przedmioty!	Ein außerweltlicher Händler wurde hinzugefügt, der sich in der Brecherweite befindet. Dieser Händler könnte einige immens wichtige Gegenstände verkaufen!
+Changelog Entries/addedVoidAltarWhenStatuesMissingDesc	Text		The Void Altar Workbench is now available in the Solarite Workbench in worlds where the Titan Shrines content bundle hasn't been activated.	Stół warsztatowy Ołtarz Otchłani jest teraz dostępny w Solarytowych stołach warsztatowych w światach, w których nie aktywowano pakietu zawartości Świątyń Tytanów.	
+Changelog Entries/addedVoidHydraDesc	Text		New Hydra: Oblidra the Void Lord - Found in the Breaker's Reach biome.	Nowa hydra: Oblidra, władca otchłani– można ją znaleźć w biomie Rubież Zniszczenia	Neue Hydra: Oblidra, der Nihil-Lord. Befindet sich im Brecherweite-Biom.
+Changelog Entries/addedVoidMerchantDesc	Text		Added an Otherworldly Merchant found in the Breaker's Reach. This merchant may sell some very important items!	Dodano nieziemskiego kupca, którego można spotkać w Rubieży Zniszczenia. Ten kupiec może sprzedawać bardzo ważne przedmioty!	Ein außerweltlicher Händler wurde hinzugefügt, der sich in der Brecherweite befindet. Dieser Händler könnte einige immens wichtige Gegenstände verkaufen!
 Changelog Entries/additionalAnticipationSoundShroomanDesc	Text		The Shrooman enemy now has another anticipation sound effect that might play when it's preparing to attack.	Grzyboludek ma teraz dodatkowy efekt dźwiękowy, który może być odtwarzany, gdy przygotowuje się do ataku.	Der Pilzbold-Feind verfügt jetzt über einen weiteren Soundeffekt für die Erwartungshaltung. Er kann abspielen, während er sich auf einen Angriff vorbereitet.
 Changelog Entries/adjustMinerHelmetSourcesDesc	Text		All pieces of the Miner set now drop from all sources that dropped them individually before.	Wszystkie elementy zestawu górnika są teraz dostępne ze wszystkich źródeł, z których wcześniej można je było zdobyć pojedynczo.	Sämtliche Teile des Bergmann-Sets sind jetzt bei allen Quellen zu finden, bei denen sie vorher nur individuell gefunden werden konnten.
 Changelog Entries/allowColonInTranslationKeysDesc	Text		Text keys containing ':' are now remapped to '_' when matched to TextDataBlock names.	Klucze tekstowe zawierające znak ':' są teraz zamapowane na znak '_' po dopasowaniu do nazw TextDataBlock.	
@@ -564,7 +564,7 @@ Conditions/AuraApplyMovementSpeedDecrease	Text		Any nearby enemies movement spee
 Conditions/AuraApplyRadioactiveDamageOverTime	Text		All nearby enemies take {0} radioactive damage every other sec	Wszyscy pobliscy wrogowie otrzymują {0} obrażeń radioaktywnych co sekundę	Alle Feinde in der Nähe erleiden {0} Strahlungsschaden alle zwei Sekunden
 Conditions/AuraMovementSpeedDecrease	Text		{0}% movement speed from a nearby aura	{0}% prędkości ruchu od pobliskiej aury	{0} % Bewegungsgeschwindigkeit durch eine Aura in der Nähe
 Conditions/AuraRadioactiveDamageOverTime	Text		{0} radioactive damage every other sec	{0} obrażeń radioaktywnych co sekundę	{0} Strahlungsschaden alle zwei Sekunden
-Conditions/AuraVoidDamagePercentageOverTime	Text		{0}% of health as void damage every  sec	{0}% zdrowia jako obrażenia od próżni co sekundę	{0} % der Gesundheit als Nichts-Schaden pro Sekunde
+Conditions/AuraVoidDamagePercentageOverTime	Text		{0}% of health as void damage every  sec	{0}% zdrowia jako obrażenia od otchłani co sekundę	{0} % der Gesundheit als Nichts-Schaden pro Sekunde
 Conditions/BlueGlow	Text	"Description for items that make player glow when eating it. For example ""+5 glow"" where +5 refers to the intensity/range of the light"	{0} blue glow	{0} niebieskiej poświaty	{0} blaues Leuchten
 Conditions/BuffsFromQualitySleep	Text		{0}% increased mana regeneration after 2 sec of sleep	{0}% zwiększona regeneracja many po 2 sekundach snu	Um {0} % erhöhte Effektivität für Heilung & Manaregenerierung nach 2 Sek. Schlaf
 Conditions/Burning	Text		{0} burn damage every other sec	{0} obrażeń od ognia co sekundę	{0} Brandschaden alle zwei Sekunden
@@ -608,7 +608,7 @@ Conditions/ChanceToShootShockWaveOnBlock	Text		{0}% chance on block to release e
 Conditions/ChanceToSpawnFireOnAttack	Text		{0}% chance to spawn fire on the ground from attack	{0}% szansy na wytworzenie ognia na ziemi w wyniku ataku	Chance von {0} %, beim Angreifen Feuer auf dem Boden zu spawnen
 Conditions/ChanceToSpawnNapalmFromExplosives	Text		{0}% chance to spawn napalm from explosions	{0}% szansy na wytworzenie napalmu w wyniku eksplozji	Chance von {0} %, dass Napalm aus Explosionen spawnt
 Conditions/ChanceToSpawnNapalmOnExplosion	Text		{0}% chance to spawn napalm from explosions	{0}% szansy na rozrzucenie napalmu w wyniku eksplozji	{0} % Chance, dass Napalm aus Explosionen spawnt
-Conditions/ChannelVoidBreach	Text		Channels a void breach	Przekierowanie pustej próżni	Kanalisiert einen Nihil-Bruch
+Conditions/ChannelVoidBreach	Text		Channels a void breach	Przekierowanie czeluści otchłani	Kanalisiert einen Nihil-Bruch
 Conditions/CheatDeath	Text		{0}% chance to restore a bit of health instead of dying when taking lethal damage	{0}% szansy na przywrócenie odrobiny zdrowia po otrzymaniu śmiertelnych obrażeń	{0} % Chance, dass statt zu sterben etwas Gesundheit regeneriert wird, wenn man tödlichen Schaden erleidet
 Conditions/ClosedEyes	Text		Your eyes remain closed	Twoje oczy pozostają zamknięte.	Deine Augen bleiben geschlossen
 Conditions/CritChance	Text		{0}% critical hit chance	{0}% szansy na trafienie krytyczne	{0} % kritische Trefferchance
@@ -2316,15 +2316,15 @@ ItemCategory/Consumable_Food	Text		Snacks	Przekąski	Snacks
 ItemCategory/Consumable_Ingredient	Text		Ingredient	Składniki	Zutat
 ItemCategory/Consumable_PetCandy	Text		Pet candy	Słodycze dla zwierząt	Leckerli
 ItemCategory/Consumable_Potion	Text		Potion	Mikstury	Trank
-ItemCategory/Creature	Text		Creature	Stwór	Kreatur
-ItemCategory/Creature_Cattle	Text		Cattle	Zwierzę	Nutztier
+ItemCategory/Creature	Text		Creature	Stwory	Kreatur
+ItemCategory/Creature_Cattle	Text		Cattle	Zwierzęta	Nutztier
 ItemCategory/Creature_Critter	Text		Critter	Stworzenia	Kriechtier
 ItemCategory/Creature_Enemy	Text		Enemy	Wrogowie	Feind
-ItemCategory/Creature_Merchant	Text		Merchant	Handlarz	Händler
+ItemCategory/Creature_Merchant	Text		Merchant	Handlarze	Händler
 ItemCategory/Creature_Pet	Text		Pet	Zwierzaki	Haustier
 ItemCategory/Environment	Text		Environment	Środowiskowe	Umgebung
 ItemCategory/Environment_AbioticFactorBiome	Text	&	Abiotic Factor	Abiotic Factor	Abiotic Factor
-ItemCategory/Environment_Block	Text	As in a piece of block used for building a wall or ground	Block	Blok	Block
+ItemCategory/Environment_Block	Text	As in a piece of block used for building a wall or ground	Block	Bloki	Block
 ItemCategory/Environment_CityBiome	Text		City biome	Biom miejski	Stadt-Biom
 ItemCategory/Environment_ClayBiome	Text		Clay biome	Biom gliniasty	Lehm-Biom
 ItemCategory/Environment_CrystalBiome	Text		Crystal biome	Biom kryształowy	Kristall-Biom
@@ -2343,7 +2343,7 @@ ItemCategory/Environment_PitObject	Text		Pit object	Obiekt wykopu	Abgrund-Objekt
 ItemCategory/Environment_SeaBiome	Text		Sea biome	Biom morski	Meeres-Biom
 ItemCategory/Environment_SlimeBiome	Text		Slime biome	Biom szlamu	Schleim-Biom
 ItemCategory/Environment_StoneBiome	Text		Stone biome	Biom kamienny	Stein-Biom
-ItemCategory/Environment_Wall	Text		Wall	Ściana	Wand
+ItemCategory/Environment_Wall	Text		Wall	Ściany	Wand
 ItemCategory/Equipment	Text		Equipment	Wyposażenie	Ausrüstung
 ItemCategory/Equipment_Bag	Text		Bag	Bagaże	Tasche
 ItemCategory/Equipment_Bait	Text		Bait	Przynęty	Köder
@@ -2425,7 +2425,7 @@ Items/AFLargeWoodenDestructibleDesc	Text		A large box arbitrarily stocked with r
 Items/AFPestElectric	Text		Electro-Pest	Elektroszkodnik	Elektroschädling
 Items/AFPestElectricDesc	Text		IS-0173-B is a cybernetically augmented Pest (IS-0173), a spiky, loaf-shaped juvenile creature. It lunges to pierce prey with its jaws, quills, and its now inadvertent electricity.	IS-0173-B to cybernetycznie ulepszony Szkodnik (IS-0173), kolczaste, młode stworzenie w kształcie bochenka. Rzuca się, by przebić ofiarę szczękami, kolcami i mimowolnie elektrycznością.	IS-0173-B ist ein kybernetisch verstärkter Schädling (IS-0173); eine stachelige, jugendliche Kreatur in Form eines Laibs. Es stürzt hervor, um Beute mit seinen Kiefern, Kielen und seiner nun unbeabsichtigten Elektrizität anzugreifen.
 Items/AFPestElectricTrophy	Text		Electro-Pest Figurine	Figurka elektroszkodnika	Elektroschädling-Figur
-Items/AFPestElectricTrophyDesc	Text		A lifelike representation of an Electro-Pest.	Realistycznie odwzorowany elektroszkodnik.	Eine lebensechte Nachbildung eines Elektroschädlings.
+Items/AFPestElectricTrophyDesc	Text		A lifelike representation of an Electro-Pest.	Realistyczne odwzorowanie elektroszkodnika.	Eine lebensechte Nachbildung eines Elektroschädlings.
 Items/AFPipeClub	Text		Pipe Club	Rurowy kij	Rohrkeule
 Items/AFPipeClubDesc	Text		A hefty pipe with a gauge on the end for added weight.	Potężna rura ze wskaźnikiem na końcu dla zwiększenia wagi.	Ein stabiles Rohr mit einem Messgerät am Ende, das das Gewicht erhöht.
 Items/AFPortal	Text		Anteverse Portal	Portal Anteverse	Anteversum-Portal
@@ -2454,7 +2454,7 @@ Items/AbyssTree	Text		Abyss Tree	Drzewo Otchłani	Abgrund-Baum
 Items/AbyssTreeDesc	Text		A tree that grows in the chasms of Azeos Wilderness. It is unknown how far down it reaches.	Drzewo rosnące w szczelinach dziczy Azeosa. Nie wiadomo, jak głęboko sięga.	Ein Baum, der nur in den Abgründen von Azeos' Wildnis wächst. Es ist unbekannt, wie tief er wirklich reicht.
 Items/AcidLarva	Text		Acid Larva	Kwasowa larwa	Säurelarve
 Items/AcidLarvaTrophy	Text		Acid Larva Figurine	Figurka kwasowej larwy	Säurelarven-Figur
-Items/AcidLarvaTrophyDesc	Text		A lifelike representation of an Acid Larva.	Realistyczna reprezentacja kwasowej larwy.	Eine lebensechte Nachbildung einer Säurelarve.
+Items/AcidLarvaTrophyDesc	Text		A lifelike representation of an Acid Larva.	Realistyczne odwzorowanie kwasowej larwy.	Eine lebensechte Nachbildung einer Säurelarve.
 Items/AdderStone	Text		Adder Stone	Kamień żmijowy	Hascherlit
 Items/AdderStoneDesc	Text		A porous smooth stone, some believe it wards off evil spirits.	Porowaty, gładki kamień, niektórzy wierzą, że odstrasza złe duchy.	Ein poröser, glatter Stein. Es wird behauptet, er wehre böse Geister ab.
 Items/AdvancedAutomationTable	Text		Advanced Automation Table	Zaawansowany stół automatyzacji	Fortgeschrittene Automatik-Werkbank
@@ -2669,9 +2669,9 @@ Items/BigJungleTree	Text		Paradise Tree	Rajskie drzewo	Paradiesbaum
 Items/BigJungleTreeDesc	Text		A giant jungle tree that seems to have grown from the essence of life itself. A must have decoration.	Gigantyczne dżunglowe drzewo, które wydaje się wyrastać z samej esencji życia. Obowiązkowa dekoracja.	Ein gewaltiger Dschungelbaum, der aus der Essenz des Lebens gewachsen zu sein scheint. Perfekt zum Dekorieren geeignet.
 Items/BigLarva	Text		Big Larva	Duża larwa	Große Larve
 Items/BigLarvaTrophy	Text		Big Larva Figurine	Figurka dużej larwy	Große Larven-Figur
-Items/BigLarvaTrophyDesc	Text		A lifelike representation of a Big Larva.	Realistycznie odwzorowana duża larwa.	Eine lebensechte Nachbildung einer Großen Larve.
+Items/BigLarvaTrophyDesc	Text		A lifelike representation of a Big Larva.	Realistyczne odwzorowanie dużej larwy.	Eine lebensechte Nachbildung einer Großen Larve.
 Items/BigLarvaVampireTrophy	Text		Big Dracularva Figurine	Figurka dużej drakularwy	Große Dracularven-Figur
-Items/BigLarvaVampireTrophyDesc	Text		A lifelike representation of a Big Dracularva.	Realistyczna reprezentacja dużej drakularwy	Eine lebensechte Nachbildung einer Großen Dracularve.
+Items/BigLarvaVampireTrophyDesc	Text		A lifelike representation of a Big Dracularva.	Realistyczne odwzorowanie dużej drakularwy	Eine lebensechte Nachbildung einer Großen Dracularve.
 Items/BikiniBreastArmorBlue	Text		Blue Bikini Top	Niebieska góra od bikini	Blaues Bikini-Oberteil
 Items/BikiniBreastArmorBlueDesc	Text		A blue swim suit piece that keeps everything in its place. Everyone knows the most revealing armor is the most protective.	Niebieska część kostiumu kąpielowego, która utrzymuje wszystko na swoim miejscu. Każdy wie, że najbardziej odsłaniająca zbroja jest najbardziej ochronna.	Ein blaues Stück Bademode, das alles an seinem gewohnten Platz hält. Jeder weiß, dass die freizügigste Rüstung am besten schützt.
 Items/BikiniBreastArmorGreen	Text		Green Bikini Top	Zielona góra od bikini	Grünes Bikini-Oberteil
@@ -2750,7 +2750,7 @@ Items/BombRing	Text		Bomb Ring	Bombowy pierścień	Bombenring
 Items/BombRingDesc	Text		A ring crowned with a little bomb idol. Handling explosives while wearing it results in an even stronger blast.	Pierścień zwieńczony małym symbolem bomby. Używanie materiałów wybuchowych podczas noszenia pierścienia powoduje jeszcze silniejszy wybuch.	Ein Ring mit einem kleinen Bomben-Idol als Krönung. Wenn man mit Sprengstoff hantiert, während man ihn trägt, wird die Explosion noch stärker.
 Items/BombScarab	Text		Bomb Scarab	Bombowy skarabeusz	Bombenskarabäus
 Items/BombScarabTrophy	Text		Bomb Scarab Figurine	Figurka bombowego skarabeusza	Bombenskarabäus-Figur
-Items/BombScarabTrophyDesc	Text		A lifelike representation of a Bomb Scarab.	Realistycznie odwzorowany bombowy skarabeusz.	Eine lebensechte Nachbildung eines Bombenskarabäus.
+Items/BombScarabTrophyDesc	Text		A lifelike representation of a Bomb Scarab.	Realistyczne odwzorowanie bombowego skarabeusza.	Eine lebensechte Nachbildung eines Bombenskarabäus.
 Items/BoneCreole	Text		Bone Creole	Kościana bransoletka	Knochen-Kreole
 Items/BoneCreoleDesc	Text		A crude piece of jewelry carved from bone.	Prymitywna biżuteria wyrzeźbiona z kości.	Ein grobes, aus einem Knochen geschnitztes Schmuckstück.
 Items/BoneNecklace	Text		Bone Necklace	Kościany naszyjnik	Knochen-Halskette
@@ -2864,7 +2864,7 @@ Items/CavePouchDesc	Text		Every underground miner needs one of those!	Każdy gó
 Items/Caveling	Text		Caveling	Jaskiniowiec	Grottling
 Items/CavelingAssassin	Text		Caveling Assassin	Jaskiniowy zabójca	Grottling-Assassine
 Items/CavelingAssassinTrophy	Text		Caveling Assassin Figurine	Figurka jaskiniowego zabójcy	Grottling-Assassinen-Figur
-Items/CavelingAssassinTrophyDesc	Text		A lifelike representation of a Caveling Assassin	Realistycznie odzwierciedlony jaskiniowy zabójca	Eine lebensechte Nachbildung eines Grottling-Assassinen.
+Items/CavelingAssassinTrophyDesc	Text		A lifelike representation of a Caveling Assassin	Realistyczne odwzorowanie jaskiniowego zabójcy	Eine lebensechte Nachbildung eines Grottling-Assassinen.
 Items/CavelingBed	Text		Caveling Bed	Łóżko jaskiniowe	Grottling-Bett
 Items/CavelingBedDesc	Text		Doesn't look very comfortable.	Nie wygląda to na zbyt wygodne.	Sieht nicht sehr komfortabel aus.
 Items/CavelingBread	Text		Caveling Bread	Chleb jaskiniowy	Grottling-Brot
@@ -2887,7 +2887,7 @@ Items/CavelingDollDesc	Text		A handmade doll found in a grave. It must once have
 Items/CavelingEffigy	Text		Caveling Effigy	Podobizna jaskiniowca	Grottling-Abbildung
 Items/CavelingEffigyDesc	Text		A small depiction of a caveling, it's hollow and must have been used for storing small goods.	Mała figurka jaskiniowca jest wydrążona i musiała być używana do przechowywania małych przedmiotów.	Eine kleine Abbildung eines Grottlings, sie ist hohl und muss zur Aufbewahrung verschiedener Dinge gedient haben.
 Items/CavelingFarmerTrophy	Text		Caveling Gardener Figurine	Figurka jaskiniowego ogrodnika	Grottling-Gärtner-Figur
-Items/CavelingFarmerTrophyDesc	Text		A lifelike representation of a Caveling Gardener.	Realistycznie odwzorowanie jaskiniowego ogrodnika.	Eine lebensechte Nachbildung eines Grottling-Gärtners.
+Items/CavelingFarmerTrophyDesc	Text		A lifelike representation of a Caveling Gardener.	Realistyczne odwzorowanie jaskiniowego ogrodnika.	Eine lebensechte Nachbildung eines Grottling-Gärtners.
 Items/CavelingFloorTile	Text		Caveling Floor Tile	Jaskiniowa płytka podłogowa	Grottling-Bodenfliese
 Items/CavelingFloorTileDark	Text		Dark Caveling Floor Tile	Ciemna jaskiniowa płytka podłogowa	Dunkle Grottling-Bodenfliese
 Items/CavelingFloorTileDarkDesc	Text		A dark version of the ancient floor tiles, it looks much older.	Ciemna wersja starożytnych płytek podłogowych wygląda na znacznie starszą.	Eine dunkle Version der antiken Bodenfliesen. Sieht viel älter aus.
@@ -2897,11 +2897,11 @@ Items/CavelingHelm	Text		Caveling Hood	Kaptur jaskiniowy	Grottling-Kapuze
 Items/CavelingHelmDesc	Text		Light armor hood that hides the face.	Lekki pancerny kaptur zasłaniający twarz.	Eine leichte Kopfbedeckung, die das Gesicht verhüllt.
 Items/CavelingHunter	Text		Caveling Hunter	Jaskiniowy łowca	Grottling-Jäger
 Items/CavelingHunterTrophy	Text		Caveling Hunter Figurine	Figurka jaskiniowego łowcy	Grottling-Jäger-Figur
-Items/CavelingHunterTrophyDesc	Text		A lifelike representation of a Caveling Hunter.	Realistycznie odwzorowanie jaskiniowego łowcy.	Eine lebensechte Nachbildung eines Grottling-Jägers.
+Items/CavelingHunterTrophyDesc	Text		A lifelike representation of a Caveling Hunter.	Realistyczne odwzorowanie jaskiniowego łowcy.	Eine lebensechte Nachbildung eines Grottling-Jägers.
 Items/CavelingID	Text		Caveling ID	Identyfikator jaskiniowca	Grottling-Pass
 Items/CavelingIDDesc	Text		A sturdy card that once belonged to a citizen of the forlorn metropolis. It's thousand of years old but the excellent print hasn't faded.	Solidna karta, która kiedyś należała do mieszkańca opustoszałej metropolii. Ma tysiące lat, ale doskonały nadruk nie wyblakł.	Eine feste Karte, die einem Bürger der verlorenen Metropolis gehörte. Sie ist tausende von Jahren alt, aber ihr professioneller Druck ist nicht ausgeblichen.
 Items/CavelingInfectedTrophy	Text		Infected Caveling Figurine	Figurka zainfekowanego jaskiniowca	Infizierter Grottling-Figur
-Items/CavelingInfectedTrophyDesc	Text		A lifelike representation of a Infected Caveling.	Realistyczna reprezentacja zainfekowanego jaskiniowca.	Eine lebensechte Nachbildung eines Infizierten Grottlings.
+Items/CavelingInfectedTrophyDesc	Text		A lifelike representation of a Infected Caveling.	Realistyczne odwzorowanie zainfekowanego jaskiniowca.	Eine lebensechte Nachbildung eines Infizierten Grottlings.
 Items/CavelingMedal	Text		Caveling Medal	Jaskiniowy medal	Grottling-Medaille
 Items/CavelingMedalDesc	Text		A minted medallion with a face relief. Perhaps it was once awarded to an extraordinary individual? 	Bity medalion z płaskorzeźbą przedstawiającą twarz. Czy został kiedyś przyznany komuś wyjątkowemu?	Ein geprägtes Medaillon mit einem Gesichtsrelief. Wurde sie jemand außergewöhnlichem überreicht?
 Items/CavelingMerchant	Text		Cloaked Merchant	Zamaskowany handlarz	Verhüllter Händler
@@ -2909,7 +2909,7 @@ Items/CavelingMothersRing	Text		Caveling Mother's Ring	Pierścień matki jaskini
 Items/CavelingMothersRingDesc	Text		An old crystal ring, holding it fills you with a sad feeling you can't describe.	Stary kryształowy pierścień, trzymanie go wypełnia cię smutnym uczuciem, którego nie potrafisz opisać.	Ein alter Kristallring. Wenn du ihn trägst, überkommt dich ein unbeschreiblich trauriges Gefühl.
 Items/CavelingMummy	Text		Caveling Mummy	Mumia jaskiniowca	Grottlingmumie
 Items/CavelingMummyTrophy	Text		Caveling Mummy Figurine	Figurka jaskiniowej mumii	Grottlingmumien-Figur
-Items/CavelingMummyTrophyDesc	Text		A lifelike representation of a Caveling Mummy.	Realistycznie odwzorowana jaskiniowa mumia.	Eine lebensechte Nachbildung einer Grottlingmumie.
+Items/CavelingMummyTrophyDesc	Text		A lifelike representation of a Caveling Mummy.	Realistyczne odwzorowanie jaskiniowej mumii.	Eine lebensechte Nachbildung einer Grottlingmumie.
 Items/CavelingPantsArmor	Text		Caveling Pants	Nogawice jaskiniowe	Grottling-Lendenschurz
 Items/CavelingPantsArmorDesc	Text		These pants don't cover much but make your movement more elusive.	Te spodnie nie zakrywają zbyt wiele, ale sprawiają, że ruch jest bardziej nieuchwytny.	Dieses Kleidungsstück verhüllt nicht viel, aber vereinfacht das Ausweichen.
 Items/CavelingPerfume	Text		Caveling Perfume	Perfumy jaskiniowe	Grottling-Parfüm
@@ -2928,7 +2928,7 @@ Items/CavelingSkinTome	Text		Blue Leather Tome	Niebieski skórzany tom	Blauleder
 Items/CavelingSkinTomeDesc	Text		An ancient book with stitched blue covers. Is that skin?	Starożytna księga z niebieskimi okładkami. Czy to skóra?	Eine uralte Schrift, in zusammengenähtem, blauem Leder eingeschlagen. Ist das Haut?
 Items/CavelingSkirmisher	Text		Caveling Skirmisher	Jaskiniowy wojownik	Grottling-Scharmützler
 Items/CavelingSkirmisherTrophy	Text		Caveling Skirmisher Figurine	Figurka jaskiniowego wojownika	Grottling-Scharmützler-Figur
-Items/CavelingSkirmisherTrophyDesc	Text		A lifelike representation of a Caveling Skirmisher.	Realistycznie odwzorowany jaskiniowy wojownik.	Eine lebensechte Nachbildung eines Grottling-Scharmützlers.
+Items/CavelingSkirmisherTrophyDesc	Text		A lifelike representation of a Caveling Skirmisher.	Realistyczne odwzorowanie jaskiniowego wojownika.	Eine lebensechte Nachbildung eines Grottling-Scharmützlers.
 Items/CavelingSkull	Text		Caveling Skull	Czaszka jaskiniowca	Grottling-Schädel
 Items/CavelingSkullDesc	Text		Remains of what was once a proud civilization.	Pozostałości po niegdyś dumnej cywilizacji.	Überbleibsel einer einst stolzen Zivilisation.
 Items/CavelingSpearman	Text		Caveling Spearman	Jaskiniowy włócznik	Grottling-Speerkämpfer
@@ -2941,7 +2941,7 @@ Items/CavelingThroneDesc	Text		This unusual seat is proof of an empire fallen to
 Items/CavelingToilet	Text		Caveling Toilet	Toaleta jaskiniowców	Grottling-Klo
 Items/CavelingToiletDesc	Text		Between mining there must be time for serious business.	Pomiędzy wydobywaniem musi być czas na poważny biznes.	Zwischen Bergbau muss auch Zeit für die wirklich wichtigen Geschäfte sein.
 Items/CavelingTrophy	Text		Caveling Figurine	Figurka jaskiniowca	Grottling-Figur
-Items/CavelingTrophyDesc	Text		A lifelike representation of a Caveling.	Realistyczna reprezentacja jaskiniowca.	Eine lebensechte Nachbildung eines Grottlings.
+Items/CavelingTrophyDesc	Text		A lifelike representation of a Caveling.	Realistyczne odwzorowanie jaskiniowca.	Eine lebensechte Nachbildung eines Grottlings.
 Items/CeremonialFlute	Text		Ceremonial Flute	Ceremonialny flet	Zeremonielle Flöte
 Items/CeremonialFluteDesc	Text		An ancient, precious instrument but it is clogged.	Starożytny, cenny instrument, ale jest zatkany.	Ein antikes, wertvolles Instrument. Allerdings ist es verstopft.
 Items/ChaosStaff	Text		Chaos Staff	Laska chaosu	Chaos-Stab
@@ -2975,9 +2975,9 @@ Items/ChineseWallLanternDesc	Text		A set of small lanterns that go nicely on the
 Items/ChippedPlate	Text		Chipped Plate	Wyszczerbiona płyta	Gesprungener Teller
 Items/ChippedPlateDesc	Text		An old stone plate. What kind of food has been served on it?	Stary kamienny talerz. Jakie jedzenie na nim serwowano?	Ein alter Steinteller. Welche Gerichte wurden darauf serviert?
 Items/ChristmasBruteTrophy	Text		Bakery Brute Figurine	Figurka piekarza brutala	Bäckereischläger-Figur
-Items/ChristmasBruteTrophyDesc	Text		A lifelike representation of a Bakery Brute.	Realistycznie odwzorowana postać piekarza brutala	Eine lebensechte Nachbildung eines Bäckereischlägers.
+Items/ChristmasBruteTrophyDesc	Text		A lifelike representation of a Bakery Brute.	Realistyczne odwzorowanie piekarza brutala	Eine lebensechte Nachbildung eines Bäckereischlägers.
 Items/ChristmasCavelingTrophy	Text		Gingerbreadling Figurine	Figurka piernikowego jaskiniowca	Lebkuchling-Figur
-Items/ChristmasCavelingTrophyDesc	Text		A lifelike representation of a Gingerbreadling.	Realistycznie odwzorowany piernikowy jaskiniowiec.	Eine lebensechte Nachbildung eines Lebkuchlings.
+Items/ChristmasCavelingTrophyDesc	Text		A lifelike representation of a Gingerbreadling.	Realistyczne odwzorowanie piernikowego jaskiniowca.	Eine lebensechte Nachbildung eines Lebkuchlings.
 Items/ChristmasFireplace	Text		Festive Fireplace	Kominek świąteczny	Festlicher Kamin
 Items/ChristmasFireplaceDesc	Text		This fireplace is a great addition to every base when it's cold outside. Crackling fire and the smell of burning wood add to a homely atmosphere.	Ten kominek jest świetnym dodatkiem do każdej bazy, gdy na zewnątrz jest zimno. Trzaskający ogień i zapach palącego się drewna dodają domowej atmosfery.	Dieser Kamin ist eine großartige Ergänzung zu jeder Basis, wenn es draußen kalt ist. Ein knisterndes Feuer und der Geruch von Feuerholz komplettieren die heimelige Atmosphäre.
 Items/ChristmasLightDecorationMix	Text		Festive Wall Lights	Świąteczne lampy ścienne	Festliche Wandbeleuchtung
@@ -2989,15 +2989,15 @@ Items/ChristmasLuxuryPresentDesc	Text		A mysterious golden gift with unknown con
 Items/ChristmasPresent	Text		Winter Present	Zimowy prezent	Winterliches Geschenk
 Items/ChristmasPresentDesc	Text		A mysterious gift with unknown contents. Rip it open and peek inside!	Tajemniczy prezent z nieznaną zawartością. Rozerwij go i zajrzyj do środka!	Ein mysteriöses Geschenk mit unbekanntem Inhalt. Reiß es auf und schau hinein!
 Items/ChristmasShamanTrophy	Text		Starwand Shaman Figurine	Figurka gwiazdkowego szamana	Sternenstabschamanen-Figur
-Items/ChristmasShamanTrophyDesc	Text		A lifelike representation of a Starwand Shaman.	Realistycznie odwzorowana postać gwiazdkowego szamana.	Eine lebensechte Nachbildung eines Sternenstabschamanen.
+Items/ChristmasShamanTrophyDesc	Text		A lifelike representation of a Starwand Shaman.	Realistyczne odwzorowanie gwiazdkowego szamana.	Eine lebensechte Nachbildung eines Sternenstabschamanen.
 Items/ChristmasShroomanTrophy	Text		Santa Shrooman Figurine 	Figurka grzybkowego mikołaja	Santas Pilzbold-Figur
-Items/ChristmasShroomanTrophyDesc	Text		A lifelike representation of a Santa Shrooman.	Realistyczna reprezentacja grzybkowego mikołaja.	Eine lebensechte Nachbildung von Santas Pilzbold.
+Items/ChristmasShroomanTrophyDesc	Text		A lifelike representation of a Santa Shrooman.	Realistyczne odwzorowanie grzybkowego mikołaja.	Eine lebensechte Nachbildung von Santas Pilzbold.
 Items/ChristmasSlimeTrophy	Text		Snowhead Slime Figurine	Figurka śnieżnego szlamu	Schneekopfschleim-Figur
-Items/ChristmasSlimeTrophyDesc	Text		A lifelike representation of a Snowhead Slime.	Realistyczna reprezentacja śnieżnego szlamu.	Eine lebensechte Nachbildung eines Schneekopfschleims.
+Items/ChristmasSlimeTrophyDesc	Text		A lifelike representation of a Snowhead Slime.	Realistyczne odwzorowanie śnieżnego szlamu.	Eine lebensechte Nachbildung eines Schneekopfschleims.
 Items/ChristmasSnowman	Text		Snowman	Bałwan	Schneemann
 Items/ChristmasSnowmanDesc	Text		A cold fellow that came into existence by stacking large snowballs together. Keep it around to not feel as lonely anymore.	Zimna istota, która powstała przez ułożenie dużych śnieżnych kul. Trzymaj go w pobliżu, aby nie czuć się samotnym.	Ein kalter Geselle, der aus gestapelten, großen Schneebällen erschaffen wurde. In seiner Nähe fühlt man sich weniger einsam.
 Items/ChristmasSpikedSlimeTrophy	Text		Carrot Slime Figurine	Figurka marchewkowego szlamu	Möhrenschleim-Figur
-Items/ChristmasSpikedSlimeTrophyDesc	Text		A lifelike representation of a Carrot Slime.	Realistyczna reprezentacja marchewkowego szlamu.	Eine lebensechte Nachbildung eines Möhrenschleims.
+Items/ChristmasSpikedSlimeTrophyDesc	Text		A lifelike representation of a Carrot Slime.	Realistyczne odwzorowanie marchewkowego szlamu.	Eine lebensechte Nachbildung eines Möhrenschleims.
 Items/ChristmasStool	Text		Festive Stool	Świąteczny stołek	Festlicher Hocker
 Items/ChristmasStoolDesc	Text		A nice little stool that goes well with a richly decorated table. It's hard to sit still on it when opening presents is due.	Ładny mały stołek, który dobrze komponuje się z bogato zdobionym stołem. Trudno na nim usiedzieć spokojnie, gdy przyjdzie czas na otwieranie prezentów.	Ein schöner, kleiner Hocker, der sich gut mit einem reich verzierten Tisch macht. Es wird aber nicht leichtfallen, still darauf sitzen zu bleiben, wo doch schon bald die Geschenke ausgepackt werden sollen.
 Items/ChristmasTable	Text		Festive Table	Świąteczny stół	Festlicher Tisch
@@ -3021,10 +3021,10 @@ Items/ChrysalisDesc	Text		Icky groundcover that feels strange to walk across. La
 Items/CicadaBurrow	Text		Cicada Burrow	Nora cykady	Zikadenbau
 Items/CicadaBurrowDesc	Text		A formidable tunneler dug this hollow.	Ten otwór wykopał potężny kopacz tuneli.	Ein ausgezeichneter Tunnelbauer hat dieses Loch gegraben.
 Items/CicadaNatureTrophy	Text		Floracada Figurine	Figurka florakady	Florakaden-Figur
-Items/CicadaNatureTrophyDesc	Text		A lifelike representation of a Floracada.	Realistyczna reprezentacja Florakady.	Eine lebensechte Nachbildung einer Florakade.
+Items/CicadaNatureTrophyDesc	Text		A lifelike representation of a Floracada.	Realistyczne odwzorowanie Florakady.	Eine lebensechte Nachbildung einer Florakade.
 Items/CicadaNymph	Text		Cicada Nymph	Nimfa cykady	Zikadennymphe
 Items/CicadaNymphTrophy	Text		Cicada Nymph Figurine	Figurka nimfy cykady	Zikadennymphe-Figur
-Items/CicadaNymphTrophyDesc	Text		A lifelike representation of a Cicada Nymph.	Realistyczna reprezentacja nimfy cykady.	Eine lebensechte Nachbildung einer Zikadennymphe.
+Items/CicadaNymphTrophyDesc	Text		A lifelike representation of a Cicada Nymph.	Realistyczne odwzorowanie nimfy cykady.	Eine lebensechte Nachbildung einer Zikadennymphe.
 Items/CityCavelingMoss	Text		Urban Moss	Miejski mech	Stadt-Moos
 Items/CityCavelingMossDesc	Text		Ground plants found in the forlorn metropolis. They grow tiny berries that attract cavelings of the corresponding area.	Rośliny naziemne występujące w opuszczonej metropolii. Rosną na nich małe jagody, które przyciągają jaskiniowców z danego obszaru.	Bodenpflanzen, die in der verlorenen Metropolis gefunden werden. Auf ihnen wachsen winzige Beeren, die Grottlinge aus dem jeweiligen Areal anlocken.
 Items/CityDestructible	Text		Metropolis Crate	Skrzynka Metropolis	Metropolis-Behälter
@@ -3037,7 +3037,7 @@ Items/ClayPot	Text		Clay Pot	Gliniane naczynie	Tontopf
 Items/ClayPotDesc	Text		A crude container that's already almost broken. Smash it to relieve it of its contents. 	Prymitywny pojemnik, który jest już prawie zniszczony. Rozbij go, aby wyjąć z niego zawartość.	Ein grober Behälter, der schon fast kaputt ist. Zerschlage ihn, um ihn von seinem Inhalt zu befreien.
 Items/ClayWormSegment	Text		Clay Burrower	Gliniany kopacz	Lehmgräber
 Items/ClayWormTrophy	Text		Clay Burrower Figurine	Figurka glinianego kopacza	Lehmgräber-Figur
-Items/ClayWormTrophyDesc	Text		A lifelike representation of a Clay Burrower.	Realistycznie odwzorowanie glinianego kopacza.	Eine lebensechte Nachbildung eines Lehmgräbers.
+Items/ClayWormTrophyDesc	Text		A lifelike representation of a Clay Burrower.	Realistyczne odwzorowanie glinianego kopacza.	Eine lebensechte Nachbildung eines Lehmgräbers.
 Items/ClotRing	Text		Clot Ring	Pierścień skrzepu	Gerinnsel-Ring
 Items/ClotRingDesc	Text		A blood-red ring that latches onto your finger.	Krwistoczerwony pierścień, który zatrzaskuje się na palcu.	Ein blutroter Ring, der sich an deinem Finger festsaugt.
 Items/Cocoon	Text		Cocoon	Kokon	Kokon
@@ -3046,7 +3046,7 @@ Items/CocoonTrophyDesc	Text		A lifelike representation of a cocoon.	Realistyczne
 Items/ColossCicada	Text		Colossal Cicada Husk	Kolosalna łuska cykady	Kolosszikaden-Hülle
 Items/ColossCicadaDesc	Text		The cast-off husk of a giant insect that lives dormant in the ground for centuries. When it emerges to take on its final form, heavy earthquakes occur.	Odrzucona łuska gigantycznego owada, który żyje uśpiony w ziemi przez wieki. Kiedy wyłania się, by przybrać swoją ostateczną formę, dochodzi do silnych trzęsień ziemi.	Der abgestoßene Panzer eines riesigen Insekts, das jahrhundertelang im Boden geschlummert hat. Wenn er hervorkommt und seine endgültige Form annimmt, wird es zu schweren Erdbeben kommen.
 Items/ColossalAmoebaTrophy	Text		Colossal Amoeba Figurine	Figurka kolosalnej ameby	Kolossamöben-Figur
-Items/ColossalAmoebaTrophyDesc	Text		A lifelike representation of a Colossal Amoeba.	Realistyczne przedstawienie kolosalnej ameby.	Eine lebensechte Nachbildung einer Kolossamöbe.
+Items/ColossalAmoebaTrophyDesc	Text		A lifelike representation of a Colossal Amoeba.	Realistyczne odwzorowanie kolosalnej ameby.	Eine lebensechte Nachbildung einer Kolossamöbe.
 Items/ColumnMonument	Text		Column Monument	Pomnik kolumnowy	Säulen-Monument
 Items/ColumnMonumentDesc	Text		A tall, dusty pillar decorated with sigils of crossed hammers.	Wysoki, pokryty kurzem filar ozdobiony symbolami skrzyżowanych młotów	Eine hohe, verstaubte Säule, die mit Symbolen verschränkter Hämmer dekoriert ist.
 Items/ConceiledBlade	Text		Concealed Blade	Ukryte ostrze	Verhüllte Klinge
@@ -3160,7 +3160,7 @@ Items/CoreCommanderHelmDesc	Text		The discarded headpiece of a high-rank armor. 
 Items/CoreCommanderPantsArmor	Text		Core Commander Greaves	Nagolenniki Dowódcy Rdzenia	Kernkommandant-Beinschienen
 Items/CoreCommanderPantsArmorDesc	Text		Woven from otherworldly cloth in confusing patterns, this armor piece escapes any understanding of earthly craftsmanship.	Ten utkany z nieziemskich tkanin w zagmatwane wzory pancerz wykracza poza pojęcie ziemskiego rzemiosła.	In verwirrenden Mustern und aus außerirdischem Stoff gewebt, entzieht sich dieses Rüstungsteil jeglichem irdischen Verständnis des Handwerks.
 Items/CoreCommanderTrophy	Text		Core Commander Figurine	Figurka Dowódcy Rdzenia	Kernkommandant-Figur
-Items/CoreCommanderTrophyDesc	Text		A lifelike representation of the Core Commander.	Realistyczna reprezentacja Dowódcy Rdzenia.	Eine lebensechte Nachbildung des Kernkommandanten.
+Items/CoreCommanderTrophyDesc	Text		A lifelike representation of the Core Commander.	Realistyczne odwzorowanie Dowódcy Rdzenia.	Eine lebensechte Nachbildung des Kernkommandanten.
 Items/CoreEye	Text		Core Iris	Rdzeń Irysa	Kern-Iris
 Items/CoreEyeDesc	Text		A manufactured crystal that looks like the eye of the core. This one is raw and unfinished, as if something interrupted the process.	Wyprodukowany kryształ, który wygląda jak oko rdzenia. Ten jest surowy i niedokończony tak, jakby coś przerwało proces produkcji.	Ein künstlicher Kristall, der wie das Auge des Kerns aussieht. Dieser hier sieht jedoch grob und unfertig aus, als hätte etwas den Prozess unterbrochen.
 Items/CoreProtocol1	Text		Shutdown Protocol	Protokół wyłączania	Absturz-Protokoll
@@ -3210,8 +3210,8 @@ Items/CritterGrasshopper	Text	"Except for Englisch and German it should be trans
 Items/CritterGrasshopperDesc	Text		A very nervous little fellow. The faintest hint of danger makes it jump away into safety.	Bardzo nerwowy mały koleżka. Nawet najmniejsze niebezpieczeństwo sprawia, że ucieka w bezpieczne miejsce.	Ein nervöser kleiner Geselle. Der kleinste Anschein von Gefahr sorgt dafür, dass er sich hüpfend in Sicherheit bringt.
 Items/CritterLarva	Text		Larvlet	Mała larwa	Lärvchen
 Items/CritterLarvaDesc	Text		A tiny larva that doesn't harm you but likes to be collected and held in a warm hand.	Malutka larwa, która nie jest szkodliwa, ale lubi być zbierana i trzymana w ciepłej dłoni.	Eine winzige Larve, die dich nicht angreift. Sie liebt es, aufgehoben und in einer warmen Hand gehalten zu werden.
-Items/CritterLarvaVoid	Text		Void Larvlet	Larwa pustki	Nihil-Lärvchen
-Items/CritterLarvaVoidDesc	Text		A tiny void larva that doesn't harm you but likes to be collected and held in a warm hand.	Mała larwa pustki, która nie wyrządza krzywdy, ale lubi być chwytana i trzymana w ciepłej dłoni.	Eine winzige Nihil-Larve, die dich nicht angreift. Sie liebt es, aufgehoben und in einer warmen Hand gehalten zu werden.
+Items/CritterLarvaVoid	Text		Void Larvlet	Larwa otchłani	Nihil-Lärvchen
+Items/CritterLarvaVoidDesc	Text		A tiny void larva that doesn't harm you but likes to be collected and held in a warm hand.	Mała larwa otchłani, która nie wyrządza krzywdy, ale lubi być chwytana i trzymana w ciepłej dłoni.	Eine winzige Nihil-Larve, die dich nicht angreift. Sie liebt es, aufgehoben und in einer warmen Hand gehalten zu werden.
 Items/CritterNewt	Text		Shadow Newt	Cienista Traszka	Schattenmolch
 Items/CritterNewtDesc	Text		A dark fellow with seemingly unseeing eyes. But they stare deep into your soul.	Mroczny osobnik o pozornie niewidzących oczach. Lecz wpatrują się one głęboko w twoją duszę.	Ein dunkler Geselle mit Augen, die nicht sehen zu können scheinen. Doch sie starren tief in deine Seele.
 Items/CritterPassageFly	Text		Drape Ray	Smugowy Płomyk	Schleierrochen
@@ -3294,7 +3294,7 @@ Items/DarkBlueKelp	Text		Dark Blue Kelp	Ciemnoniebieski wodorost	Dunkelblauer Se
 Items/DarkBlueKelpDesc	Text		A dark blue lump of marine plants.	Ciemnoniebieska kępa roślin morskich.	Ein dunkelblauer Klumpen Meerespflanzen.
 Items/DarkLavaEater	Text		Dark Lava Eater	Mroczny pożeracz lawy	Dunkler Lavafresser
 Items/DarkLavaEaterDesc	Text		A dark fish with fiery belly that seems to purely feed from liquid stone and the gemstones caught within.	Ciemna ryba z ognistym brzuchem, która wydaje się żywić wyłącznie płynnym kamieniem i znajdującymi się w nim klejnotami.	Ein dunkler Fisch mit feurigem Bauch, der sich ausschließlich von geschmolzenem Gestein und den darin enthaltenen Edelsteinen zu ernähren scheint.
-Items/DarkVoidCrystal	Text		Void Neuron	Neuron Pustki	Nihilneuron
+Items/DarkVoidCrystal	Text		Void Neuron	Neuron Otchłani	Nihilneuron
 Items/DarkVoidCrystalDesc	Text		A glowing cell that seems to phase through itself, twisted and pulled as if tethered to an unseen presence.	Świecąca komórka, która wydaje się przechodzić przez siebie, skręcona i rozciągnięta, jakby przywiązana do niewidzialnej obecności.	Eine leuchtende Zelle, die sich durch sich selbst zu bewegen scheint; verzerrt und gezogen, als wäre sie an eine ungesehene Präsenz gebunden.
 Items/DataSlate	Text		Data Slate	Płytka danych	Datentafel
 Items/DataSlateDesc	Text		A stone disc with peculiar engravings, it must contain mysterious records.	Kamienny dysk z dziwnymi grawerunkami, musi on skrywać tajemnicze zapiski.	Eine steinerne Scheibe mit feinen Gravierungen. Sie muss mysteriöse Aufnahmen enthalten.
@@ -3399,7 +3399,7 @@ Items/EarPlateDesc	Text		A squarish earring plated with gold.	Kwadratowy kolczyk
 Items/EarlyHumanSkull	Text		Early Human Skull	Czaszka wczesnego człowieka	Frühmensch-Schädel
 Items/EarlyHumanSkullDesc	Text		Remains of a human that lived about 200.000 years ago. Has mankind found these caves before?	Szczątki człowieka, który żył około 200 000 lat temu. Czy ludzkość znalazła te jaskinie wcześniej?	Überbleibsel eines Menschen, der vor ungefähr 200.000 Jahren lebte. Hat die Menschheit diese Höhlen bereits zuvor entdeckt?
 Items/EasterAzeosTrophy	Text		Awakened Azeos Figurine	Figurka Przebudzonego Azeosa	Erwachter Azeos-Figur
-Items/EasterAzeosTrophyDesc	Text		A unique lifelike representation of the Awakened Azeos.	Unikalna, realistyczna reprezentacja Przebudzonego Azeosa.	Eine lebensechte Nachbildung des Erwachten Azeos.
+Items/EasterAzeosTrophyDesc	Text		A unique lifelike representation of the Awakened Azeos.	Unikalne, realistyczne odwzorowanie Przebudzonego Azeosa.	Eine lebensechte Nachbildung des Erwachten Azeos.
 Items/EasterChest	Text		Golden Titan's Chest	Skrzynia Złotego Tytana	Goldene Titanen-Kiste
 Items/EasterChestDesc	Text		A unique variant of the large ancient chest.	Unikalny wariant dużej antycznej skrzyni.	Eine einzigartige Variante der großen antiken Kiste.
 Items/EasterChickenHat	Text		Chicken Hat	Kurza czapka	Hühnchen-Hut
@@ -3527,7 +3527,7 @@ Items/ExcavationDestructibleReinforcedBoxDesc	Text		A metallic box once meant fo
 Items/ExcavationDestructibleSteelBox	Text		Metal Industrial Box	Metalowe pudło industrialne	Metallische Industriebox
 Items/ExcavationDestructibleSteelBoxDesc	Text		A metallic box once meant for tool storage. Its previously sturdy latches have deteriorated over time.	Metalowe pudełko, które kiedyś służyło do przechowywania narzędzi. Jego niegdyś solidne zatrzaski zardzewiały z upływem czasu.	Eine metallische Box, in der einst Werkzeuge gelagert wurden. Ihr einst robuster Verschluss ist mit der Zeit instabil geworden.
 Items/ExcavationMoss	Text		Rust Pile	Stos rdzy	Rostiger Haufen
-Items/ExcavationMossDesc	Text		Debris of mechanical junk found in the Breaker's Reach. It attracts Geobots of the corresponding area.	Szczątki mechanicznych śmieci znalezione w Polu Łamacza. Przyciągają geoboty z odpowiedniego obszaru.	Angehäufter mechanischer Müll, der in der Brecherweite gefunden werden kann. Er lockt Geobots aus dem jeweiligen Gebiet an.
+Items/ExcavationMossDesc	Text		Debris of mechanical junk found in the Breaker's Reach. It attracts Geobots of the corresponding area.	Szczątki mechanicznych śmieci znalezione na Rubieży Zniszczenia. Przyciągają geoboty z odpowiedniego obszaru.	Angehäufter mechanischer Müll, der in der Brecherweite gefunden werden kann. Er lockt Geobots aus dem jeweiligen Gebiet an.
 Items/ExcavationPedestal	Text		Industrial Pedestal	Industrialny postument	Industrie-Sockel
 Items/ExcavationPedestalDesc	Text		A steelclad pedestal with hints of rust. Nobody would place something hazardous atop something so accessible, right?	Postument pokryty stalą z śladami rdzy. Nikt nie umieściłby czegoś niebezpiecznego w tak łatwo dostępnym miejscu, prawda?	Ein stahlplattierter, leicht angerosteter Sockel. Sicher würde niemand irgendetwas Gefährliches auf so ein zugängliches Objekt stellen, oder?
 Items/ExcavationScrewNutRing	Text		Helical Ring	Spiralny pierścień	Schraub-Ring
@@ -3609,7 +3609,7 @@ Items/FoodRationPlural	Text		Food Rations	Racje żywnościowe	Essensrationen
 Items/ForkedCoral	Text		Forked Coral	Rozgałęziony koralowiec	Verästelte Koralle
 Items/ForkedCoralDesc	Text		A trident-shaped coral, not very valuable but nice to look at.	Koralowiec w kształcie trójzębu, niezbyt cenny, ale przyjemny dla oka.	Eine dreizackförmige Koralle. Nicht besonders wertvoll, aber immerhin schön anzusehen.
 Items/FrankensteinCavelingBruteTrophy	Text		Frankenbrute Figurine	Figurka Frankenbrutala	Frankenschläger-Figur
-Items/FrankensteinCavelingBruteTrophyDesc	Text		A lifelike representation of a Frankenbrute.	Realistyczna reprezentacja Frankenbrutala.	Eine lebensechte Nachbildung eines Frankenschlägers.
+Items/FrankensteinCavelingBruteTrophyDesc	Text		A lifelike representation of a Frankenbrute.	Realistyczne odwzorowanie Frankenbrutala.	Eine lebensechte Nachbildung eines Frankenschlägers.
 Items/FrankensteinHelm	Text		Frankenbrute Head	Głowa Frankenbrutala	Frankenschläger-Kopf
 Items/FrankensteinHelmDesc	Text		Put more head on your head. Doesn't necessarily add up to more brain, though.	Załóż więcej głów na głowę. Niekoniecznie oznacza to jednak więcej mózgu.	Pack dir mehr Kopf auf den Kopf. Sorgt leider nicht für mehr Gehirn.
 Items/FrozenFlame	Text		Frozen Flame	Zamrożony płomień	Gefrorene Flamme
@@ -3630,7 +3630,7 @@ Items/FusionAlloy	Text		Fusion Alloy	Stop fuzyjny	Fusions-Legierung
 Items/FusionAlloyDesc	Text		Looks like a failed experiment to create a new type of alloy. It is too hard to be usable in any way.	Wygląda na nieudany eksperyment mający na celu stworzenie nowego rodzaju stopu. Jest zbyt twardy, by nadawać się do jakiegokolwiek użytku.	Sieht aus wie ein fehlgeschlagenes Experiment zur Herstellung einer neuen Art Legierung. Sie ist zu hart, um in irgendeiner Art nützlich zu sein.
 Items/FusionedChunkNecklace	Text		Fusioned Chunk Necklace	Naszyjnik fuzji odłamków 	Fusionsklotz-Halskette
 Items/FusionedChunkNecklaceDesc	Text		A misshappen necklace that combines chunks of all kinds of materials.	Przypadkowo stworzony naszyjnik, który łączy w sobie kawałki różnego rodzaju materiałów.	Eine unförmige Halskette, in der die unterschiedlichsten Materialien miteinander kombiniert wurden.
-Items/GalaxiteAnvil	Text		Galaxite Anvil	Kowadło galaktyczne	Galaxit-Amboss
+Items/GalaxiteAnvil	Text		Galaxite Anvil	Galaktyczne kowadło	Galaxit-Amboss
 Items/GalaxiteAnvilDesc	Text		A special anvil for creating otherworldly equipment.	Specjalne kowadło do tworzenia sprzętu z innego świata.	Ein spezieller Amboss zur Herstellung außerweltlicher Ausrüstung.
 Items/GalaxiteBar	Text		Galaxite Bar	Sztabka galaksytu	Galaxit-Barren
 Items/GalaxiteBarDesc	Text		An otherworldly ingot for outstanding blacksmithing.	Nieziemska sztabka dla wyjątkowego kowalstwa.	Ein außerweltlicher Barren für außergewöhnliches Schmieden.
@@ -3688,7 +3688,7 @@ Items/GeodeWallDisplayDesc	Text		A cleanly cut half of a geode. The simple woode
 Items/GhormChest	Text		Ghorm Chest	Skrzynia Ghorma	Ghorms Kiste
 Items/GhormChestDesc	Text		A plated chest reminiscent of the devourer.	Platerowana skrzynia przypominająca pożeracza.	Eine mit Chitinplatten verstärkte Kiste, die an den Verschlinger erinnert.
 Items/GhormTrophy	Text		Ghorm Figurine	Figurka Ghorma	Ghorm-Figur
-Items/GhormTrophyDesc	Text		A lifelike representation of Ghorm the Devourer.	Realistycznie odwzorowany Ghorm Pożeracz.	Eine lebensechte Nachbildung von Ghorm, dem Verschlinger.
+Items/GhormTrophyDesc	Text		A lifelike representation of Ghorm the Devourer.	Realistyczne odwzorowanie Ghorma Pożeracza.	Eine lebensechte Nachbildung von Ghorm, dem Verschlinger.
 Items/GhormsStomachBag	Text		Ghorm's Stomach Backpack 	Plecak żołądkowy Ghorma	Ghorms Magen-Beutel
 Items/GhormsStomachBagDesc	Text		A well-preserved stomach portion of the Devourer, comes with two handy straps. 	Dobrze zachowany fragment brzucha Pożeracza, wyposażony w dwa poręczne paski.	Ein gut erhaltenes Stück vom Magen des Verschlingers. Kommt mit einem praktischen Tragegurt.
 Items/GhostBlanketBreastArmor	Text		Spooky Blanket Cape	Peleryna z upiornego koca	Spuklaken-Umhang
@@ -3700,9 +3700,9 @@ Items/GhostBlanketHelmDesc	Text		A cheap last-minute attempt to get ready for th
 Items/GiantCicadaBossScanner	Text		Nimruza, Queen of the Burrowed Sands Scanner	Skaner Nimruzy, Królowej Zasypanych Piasków	Scanner für Nimruza, Königin der Verborgenen Sande
 Items/GiantCicadaBossScannerDesc	Text		Scans the world for Nimruza, Queen of the Burrowed Sands. Consumed on successful scan.	Skanuje świat w poszukiwaniu Nimruzy, Królowej Zasypanych Piasków. Zużywa się po udanym skanowaniu.	Scannt die Welt nach Nimruza, Königin der Verborgenen Sande. Wird bei erfolgreichem Scan verbraucht.
 Items/GiantCicadaBossSummoningItem	Text		Corrupted Sap	Zepsuta żywica	Korrumpierter Saft
-Items/GiantCicadaBossSummoningItemDesc	Text		A hardened lump of corrupted sap, oozing void-like trails that cling and writhe. Consumed upon placing it on the Giant Cicada summoning rune.	Stwardniała bryła zepsutej żywicy, z której sączą się ślady przypominające pustkę, które lgną i wiją się. Zużywa się po umieszczeniu na runie przywołania gigantycznej cykady.	Ein Brocken aus gehärtetem, korrumpiertem Saft. Er hinterlässt klammernde, sich windende Spuren, die dem Nichts ähneln. Wird beim Platzieren auf der Riesenzikade-Beschwörungsrune verbraucht.
+Items/GiantCicadaBossSummoningItemDesc	Text		A hardened lump of corrupted sap, oozing void-like trails that cling and writhe. Consumed upon placing it on the Giant Cicada summoning rune.	Stwardniała bryła zepsutej żywicy, z której sączą się ślady przypominające otchłań, które lgną i wiją się. Zużywa się po umieszczeniu na runie przywołania gigantycznej cykady.	Ein Brocken aus gehärtetem, korrumpiertem Saft. Er hinterlässt klammernde, sich windende Spuren, die dem Nichts ähneln. Wird beim Platzieren auf der Riesenzikade-Beschwörungsrune verbraucht.
 Items/GiantCicadaBossTrophy	Text		Nimruza Figurine	Figurka Nimruzy	Nimruza-Figur
-Items/GiantCicadaBossTrophyDesc	Text		A lifelike representation of Nimruza, Queen of the Burrowed Sands.	Realistycznie odwzorowana Nimruza, Królowa Zasypanych Piasków.	Eine lebensechte Nachbildung von Nimruza, Königin der Verborgenen Sande.
+Items/GiantCicadaBossTrophyDesc	Text		A lifelike representation of Nimruza, Queen of the Burrowed Sands.	Realistyczne odwzorowanie Nimruzy Królowej Zasypanych Piasków.	Eine lebensechte Nachbildung von Nimruza, Königin der Verborgenen Sande.
 Items/GiantCicadaChest	Text		Colossal Cicada Chest	Skrzynia kolosalnej cykady	Kolosszikaden-Kiste
 Items/GiantCicadaChestDesc	Text		A large chest made of dark, glossy scales reminiscent of Nimruza. It exudes elegance and power. 	Duża skrzynia wykonana z ciemnych, błyszczących łusek przypominających Nimruzę. Emanuje elegancją i siłą.	Eine große Kiste aus dunklen, glänzenden Schuppen. Beim Öffnen summt ihre Arretierung.
 Items/GiantDrillBattery	Text		Giant Fuel Cell	Gigantyczne ogniwo paliwowe	Riesige Kraftstoffzelle
@@ -3785,7 +3785,7 @@ Items/GlowingTulipSeedDesc	Text		Grows into a luminescent flower when planted.	P
 Items/GlurchChest	Text		Glurch Chest	Skrzynia Glurcha	Glurchs Kiste
 Items/GlurchChestDesc	Text		A slimy, melting chest that remained from the Abominous Mass.	Oślizgła, roztapiająca się skrzynia, która pozostała po Obrzydliwej Masie.	Diese glibberige, schmelzende Kiste ist alles, was von der Abscheulichen Masse übrig blieb.
 Items/GlurchTrophy	Text		Glurch Figurine	Figurka Glurcha	Glurch-Figur
-Items/GlurchTrophyDesc	Text		A lifelike representation of Glurch the Abominous Mass.	Realistycznie odwzorowany Glurch Obrzydliwy.	Eine lebensechte Nachbildung von Glurch, der Abscheulichen Masse.
+Items/GlurchTrophyDesc	Text		A lifelike representation of Glurch the Abominous Mass.	Realistyczne odwzorowanie Glurcha Obrzydliwego.	Eine lebensechte Nachbildung von Glurch, der Abscheulichen Masse.
 Items/GoKartWorkbench	Text		Go-Kart Workbench	Stół do gokartów	Wagen-Werkbank
 Items/GoKartWorkbenchDesc	Text		A long crafting table to engineer fast vehicles for your travels.	Długi stół warsztatowy do konstruowania szybkich pojazdów do podróży.	Ein langer Arbeitstisch zum Herstellen schneller Fahrzeuge für deine Reisen.
 Items/Goat	Text		Bambuck	Bambuck	Bummbock
@@ -3811,7 +3811,7 @@ Items/GoldenAngleFish	Text		Jasper Angle Fish	Jaspisowy skalar 	Jaspis-Winkelfis
 Items/GoldenAngleFishDesc	Text		This sun-golden fish seemed to have had a normal body once, but the water of the Shimmering Frontier corrupted it to be crystalline through and through.	Wydawało się, że ta złocista ryba miała kiedyś normalne ciało, ale woda Błyszczącej Granicy zmieniła je w krystaliczne na wskroś.	Dieser sonnengoldene Fisch scheint einst einen normalen Körper gehabt zu haben, doch die Gewässer der Schimmernden Grenze haben ihn durch und durch mit Kristall überzogen.
 Items/GoldenBombScarab	Text		Gold Scarab	Złoty skarabeusz	Goldskarabäus
 Items/GoldenBombScarabTrophy	Text		Gold Scarab Figurine	Figurka złotego skarabeusza	Goldskarabäus-Figur
-Items/GoldenBombScarabTrophyDesc	Text		A lifelike representation of a Gold Scarab.	Realistyczna reprezentacja złotego skarabeusza.	Eine lebensechte Nachbildung eines Goldskarabäus.
+Items/GoldenBombScarabTrophyDesc	Text		A lifelike representation of a Gold Scarab.	Realistyczne odwzorowanie złotego skarabeusza.	Eine lebensechte Nachbildung eines Goldskarabäus.
 Items/GoldenCavelingMask	Text		Golden Caveling Mask	Złota maska jaskiniowca	Goldene Grottling-Maske
 Items/GoldenCavelingMaskDesc	Text		An intricate mask with a stern expression, it was probably used in a ritual or by someone of high ranks.	Misterna maska o srogim wyrazie twarzy była prawdopodobnie używana podczas rytuału lub przez kogoś o wysokiej randze.	Eine detailliert gefertigte Maske mit ernstem Ausdruck, sie wurde vermutlich in Ritualen oder von jemandem mit hohem Rang verwendet.
 Items/GoldenChocolate	Text		Golden Chocolate	Złota czekolada	Goldene Schokolade
@@ -3982,8 +3982,8 @@ Items/HeartOfGoldDesc	Text		Rewarded to those who truly look out for others and 
 Items/HeartberrySoda	Text		Heart Berry Soda	Gazowana sercowa jagoda	Herzbeeren-Soda
 Items/HeartberrySodaDesc	Text		This canned sparkly drink is a pure explosion of taste and sweetness in your mouth.	Ten musujący napój w puszce to czysta eksplozja smaku i słodyczy w ustach.	Dieser sprudelige Drink in Dosenform erzeugt im Mund eine wahre Geschmacksexplosion.
 Items/HiveBigLarva	Text		Big Hive Larva	Duża gruba larwa	Große Nestlarve
-Items/HiveBigLarvaTrophy	Text		Big Hive Larva Figurine	figurka dużej grubej larwy	Große Nestlarven-Figur
-Items/HiveBigLarvaTrophyDesc	Text		A lifelike representation of a Big Hive Larva.	Realistyczna reprezentacja dużej grubej larwy.	Eine lebensechte Nachbildung einer Großen Nestlarve.
+Items/HiveBigLarvaTrophy	Text		Big Hive Larva Figurine	Figurka dużej grubej larwy	Große Nestlarven-Figur
+Items/HiveBigLarvaTrophyDesc	Text		A lifelike representation of a Big Hive Larva.	Realistyczne odwzorowanie dużej grubej larwy.	Eine lebensechte Nachbildung einer Großen Nestlarve.
 Items/HiveBone	Text		Hive Bones	Kości ula	Nest-Knochen
 Items/HiveBoneBreastArmor	Text		Hivebone Breastplate	Napierśnik z kości ula	Nestknochen-Brustplatte
 Items/HiveBoneBreastArmorDesc	Text		A fleshy suit covered by protective spines. The feeling on your skin is quite unpleasant.	Cielisty kombinezon pokryty ochronnymi kolcami. Uczucie na skórze jest dość nieprzyjemne.	Fleischige Kleidung, die in schützende Stacheln gehüllt ist. Das Gefühl auf der Haut ist allerdings ziemlich unangenehm.
@@ -4000,10 +4000,10 @@ Items/HiveDestructibleDesc	Text		A vein-like growth that reveals loot when poppe
 Items/HiveHalloweenBossSummoningItem	Text		Haunted Hive Mother Summoning Idol	Bożek przywołujący Nawiedzoną Matkę Ula	Besessene Nestmutter-Beschwörungsstein
 Items/HiveHalloweenBossSummoningItemDesc	Text		Crystal idol to reawaken the Haunted Hive Mother. Consumed upon placing it on the Hive Mother's summoning rune.	Kryształowy bożek służący do przebudzenia Nawiedzonej Matki Ula. Zużywany po umieszczeniu na runie przywołania Matki Ula.	Ein Kristall-Abbild, um die Besessene Nestmutter erneut zu erwecken. Wird beim Platzieren auf der Beschwörungsrune verbraucht.
 Items/HiveHalloweenBossTrophy	Text		Haunted Hive Mother Figurine	Figurka Nawiedzonej Matki Ula	Besessene Nestmutter-Figur
-Items/HiveHalloweenBossTrophyDesc	Text		A lifelike representation of the Haunted Hive Mother. 	Realistycznie odwzorowana Nawiedzona Matka Ula.	Eine lebensechte Nachbildung der Besessenen Nestmutter.
+Items/HiveHalloweenBossTrophyDesc	Text		A lifelike representation of the Haunted Hive Mother. 	Realistyczne odwzorowanie Nawiedzonej Matki Ula.	Eine lebensechte Nachbildung der Besessenen Nestmutter.
 Items/HiveLarva	Text		Hive Larva	Larwa ula	Nestlarve
 Items/HiveLarvaTrophy	Text		Hive Larva Figurine	Figurka larwy ula	Nestlarven-Figur
-Items/HiveLarvaTrophyDesc	Text		A lifelike representation of a Hive Larva.	Realistyczna reprezentacja larwy ula.	Eine lebensechte Nachbildung einer Nestlarve.
+Items/HiveLarvaTrophyDesc	Text		A lifelike representation of a Hive Larva.	Realistyczne odwzorowanie larwy ula.	Eine lebensechte Nachbildung einer Nestlarve.
 Items/HiveMotherScanner	Text		Hive Mother Scanner 	Skaner Matki Ula	Nestmutter-Scanner
 Items/HiveMotherScannerDesc	Text		Scans the world for the Hive Mother. Consumed on successful scan.	Skanuje świat w poszukiwaniu Matki Ula. Zużywany po udanym skanowaniu.	Scannt die Welt nach der Nestmutter. Wird bei einem erfolgreichen Scan verbraucht.
 Items/HiveSpikeTrap	Text		Hive Spike Trap	Kolcowa pułapka ula	Nest-Stachelfalle
@@ -4013,7 +4013,7 @@ Items/HivemotherChestDesc	Text		This chest is pulsating as if it is alive, a lef
 Items/HivemotherHalloweenChest	Text		Haunted Hive Mother Chest	Skrzynia Nawiedzonej Matki Ula	Besessene Nestmutter-Kiste
 Items/HivemotherHalloweenChestDesc	Text		This chest is pulsating as if it is alive, a leftover of the Haunted Hive Mother.	Ta skrzynia pulsuje, jakby była żywa, jest pozostałością po Nawiedzonej Matce Ula.	Diese Kiste pulsiert, als wäre sie lebendig. Ein Überbleibsel der Besessenen Nestmutter.
 Items/HivemotherTrophy	Text		Hive Mother Figurine	Figurka Matki Ula	Nestmutter-Figur
-Items/HivemotherTrophyDesc	Text		A lifelike representation of the Hive Mother.	Realistyczna reprezentacja Matki Ula.	Eine lebensechte Nachbildung der Nestmutter.
+Items/HivemotherTrophyDesc	Text		A lifelike representation of the Hive Mother.	Realistyczne odwzorowanie Matki Ula.	Eine lebensechte Nachbildung der Nestmutter.
 Items/HomeworldReminiscence	Text		Homeworld Reminiscence	Wspomnienie domowego świata	Heimplanet-Erinnerung
 Items/HomeworldReminiscenceDesc	Text		The replica of a blue, glistening planet, orbited by what seems to be three suns. Is this a model of a solar system?	Replika niebieskiej, lśniącej planety, orbitowanej przez coś, co wydaje się być trzema słońcami. Czy to model układu słonecznego?	Die Nachbildung eines blauen, glitzernden Planeten, der von drei Sonnen umkreist wird. Ist es das Modell eines Sonnensystems?
 Items/HostileCreatureProximitySensor	Text		Enemy Proximity Sensor	Sensor obecności wroga	Feind-Näherungssensor
@@ -4049,7 +4049,7 @@ Items/HydraBossDesertChestDesc	Text		An intimidating chest that's reminiscent of
 Items/HydraBossDesertScanner	Text		Pyrdra the Fire Titan Scanner	Skaner Pyrdry Ognistego Tytana	Feuertitan-Pyrdra-Scanner
 Items/HydraBossDesertScannerDesc	Text		Scans the world for Pyrdra the Fire Titan. Consumed on successful scan.	Skanuje świat w poszukiwaniu Pyrdry Ognistego Tytana. Zużywa się po udanym skanowaniu.	Scannt die Welt nach Pyrdra, dem Feuertitanen. Wird bei erfolgreichem Scan verbraucht.
 Items/HydraBossDesertTrophy	Text		Pyrdra Figurine	Figurka Pyrdry	Pyrdra-Figur
-Items/HydraBossDesertTrophyDesc	Text		A lifelike representation of Pyrdra the Fire Titan.	Realistycznie odwzorowana Pyrdra Ognisty Tytan.	Eine lebensechte Nachbildung von Pyrdra, dem Feuertitanen.
+Items/HydraBossDesertTrophyDesc	Text		A lifelike representation of Pyrdra the Fire Titan.	Realistyczne odwzorowanie Pyrdry Ognistego Tytana.	Eine lebensechte Nachbildung von Pyrdra, dem Feuertitanen.
 Items/HydraBossFirstCraftingItem	Text		Giant Bug Brain	Gigantyczny mózg owada	Riesenkäfer-Gehirn
 Items/HydraBossFirstCraftingItemDesc	Text		The main sensory organ of Ra-Akar. It has evolved to detect disturbances deep in the ground and might become useful later.	Główny organ zmysłowy Ra-Akara. Wyewoluował, aby wykrywać zakłócenia głęboko pod ziemią, może okazać się przydatny w przyszłości.	Das zentrale Nervenorgan von Ra-Akar. Es hat sich entwickelt, um Störungen tief im Erdboden wahrzunehmen und könnte sich später noch als nützlich erweisen.
 Items/HydraBossNatureBait	Text		Wind Organ of Wilderness	Wietrzne organy dziczy	Windspiel der Wildnis
@@ -4061,7 +4061,7 @@ Items/HydraBossNatureCraftingItemDesc	Text		One of the three eyes of Druidra. It
 Items/HydraBossNatureScanner	Text		Druidra the Wild Titan Scanner	Skaner Druidry Dzikiego Tytana	Wildtitan-Druidra-Scanner
 Items/HydraBossNatureScannerDesc	Text		Scans the world for Druidra the Wild Titan. Consumed on successful scan.	Skanuje świat w poszukiwaniu Druidry Dzikiego Tytana. Zużywa się po udanym skanowaniu.	Scannt die Welt nach Druidra, dem Wildtitanen. Wird bei erfolgreichem Scan verbraucht.
 Items/HydraBossNatureTrophy	Text		Druidra Figurine	Figurka Druidry	Druidra-Figur
-Items/HydraBossNatureTrophyDesc	Text		A lifelike representation of Druidra the Wild Titan.	Realistycznie odwzorowana Druidra Dziki Tytan.	Eine lebensechte Nachbildung von Druidra, dem Wildtitanen.
+Items/HydraBossNatureTrophyDesc	Text		A lifelike representation of Druidra the Wild Titan.	Realistyczne odwzorowanie Druidry Dzikiego Tytana.	Eine lebensechte Nachbildung von Druidra, dem Wildtitanen.
 Items/HydraBossSeaBait	Text		Wind Organ of Ice	Wietrzne organy lodu	Windspiel des Eises
 Items/HydraBossSeaBaitDesc	Text		A ritual instrument that works with wind blowing through its cavities. The sound it plays is perfectly tuned to attract a beast of the blue depths.	Rytualny instrument, który działa dzięki wiatrowi wiejącemu przez jego wnęki. Dźwięk, który wydaje, jest idealnie dostrojony, aby przyciągnąć bestię z niebieskich głębin.	Ein rituelles Instrument, das durch Wind aktiviert wird, der durch seine Öffnungen weht. Der Ton, den es anschlägt, ist perfekt abgestimmt, um eine Bestie der blauen Tiefen anzulocken.
 Items/HydraBossSeaChest	Text		Crydra Chest	Skrzynia Crydry	Crydra-Kiste
@@ -4071,17 +4071,17 @@ Items/HydraBossSeaCraftingItemDesc	Text		One of the three eyes of Crydra. It has
 Items/HydraBossSeaScanner	Text		Crydra the Ice Titan Scanner	Skaner Crydry Lodowego Tytana	Eistitan-Crydra-Scanner
 Items/HydraBossSeaScannerDesc	Text		Scans the world for Crydra the Ice Titan. Consumed on successful scan.	Skanuje świat w poszukiwaniu Crydry Lodowego Tytana. Zużywa się po udanym skanowaniu.	Scannt die Welt nach Crydra, dem Eistitanen. Wird bei erfolgreichem Scan verbraucht.
 Items/HydraBossSeaTrophy	Text		Crydra Figurine	Figurka Crydry	Crydra-Figur
-Items/HydraBossSeaTrophyDesc	Text		A lifelike representation of Crydra the Ice Titan.	Realistycznie odwzorowana Crydra Lodowy Tytan.	Eine lebensechte Nachbildung von Crydra, dem Eistitanen.
-Items/HydraBossVoidBait	Text		Wind Organ of Void	Wietrzny organ pustki	Windspiel des Nihils
+Items/HydraBossSeaTrophyDesc	Text		A lifelike representation of Crydra the Ice Titan.	Realistyczne odwzorowanie Crydry Lodowego Tytana.	Eine lebensechte Nachbildung von Crydra, dem Eistitanen.
+Items/HydraBossVoidBait	Text		Wind Organ of Void	Wietrzny organ otchłani	Windspiel des Nihils
 Items/HydraBossVoidBaitDesc	Text		A ritual instrument that works with wind blowing through its cavities. The sound it plays is perfectly tuned to attract a beast of oblivion.	Rytualny instrument, który działa dzięki wiatrowi wiejącemu przez jego wnęki. Wydawane przez niego dźwięki są idealnie dostrojone, aby przyciągnąć bestię otchłani.	Ein rituelles Instrument, das durch Wind aktiviert wird, der durch seine Öffnungen weht. Der Ton, den es anschlägt, ist perfekt abgestimmt, um eine Bestie der Vergessenheit anzulocken.
 Items/HydraBossVoidChest	Text		Oblidra Chest	Skrzynia Oblidry	Oblidra-Kiste
-Items/HydraBossVoidChestDesc	Text		An intimidating chest that's reminiscent of Oblidra the Void Lord.	Przerażająca skrzynia przypominająca Oblidrę władcę otchłani.	Eine eindrucksvolle Kiste, die an Oblidra, den Nihil-Lord erinnert.
+Items/HydraBossVoidChestDesc	Text		An intimidating chest that's reminiscent of Oblidra the Void Lord.	Przerażająca skrzynia przypominająca Oblidrę Władcę Otchłani.	Eine eindrucksvolle Kiste, die an Oblidra, den Nihil-Lord erinnert.
 Items/HydraBossVoidCraftingItem	Text		Oblivion Fragment	Fragment otchłani	Vergessenheitsfragment
 Items/HydraBossVoidCraftingItemDesc	Text		A piece of obliterated antimatter. It has a deep connection to entities living in negative space and plays a key role in attracting one.	Kawałek zatartej antymaterii. Jest głęboko powiązany z istotami żyjącymi w próżni i odgrrywa kluczową rolę w przyciągnięciu jednej z nich.	Ein Teil ausgelöschter Antimaterie. Es weist eine tiefe Verbindung zu Entitäten auf, die im Negativraum leben, und spielt eine zentrale Rolle dabei, eine von ihnen anzulocken.
-Items/HydraBossVoidScanner	Text		Oblidra the Void Lord Scanner	Skaner Oblidry Władca Pustki	Nihil-Lord-Oblidra-Scanner
-Items/HydraBossVoidScannerDesc	Text		Scans the world for Oblidra the Void Lord. Consumed on successful scan.	Skanuje świat w poszukiwaniu Oblidry Władca Pustki. Zużywa się po pomyślnym skanowaniu.	Scannt die Welt nach Oblidra, dem Nihil-Lord. Wird bei einem erfolgreichen Scan verbraucht.
+Items/HydraBossVoidScanner	Text		Oblidra the Void Lord Scanner	Skaner Oblidry Władca Otchłani	Nihil-Lord-Oblidra-Scanner
+Items/HydraBossVoidScannerDesc	Text		Scans the world for Oblidra the Void Lord. Consumed on successful scan.	Skanuje świat w poszukiwaniu Oblidry Władcy Otchłani. Zużywa się po pomyślnym skanowaniu.	Scannt die Welt nach Oblidra, dem Nihil-Lord. Wird bei einem erfolgreichen Scan verbraucht.
 Items/HydraBossVoidTrophy	Text		Oblidra Figurine	Figurka Oblidry	Oblidra-Figur
-Items/HydraBossVoidTrophyDesc	Text		A lifelike representation of Oblidra the Void Lord.	Realistyczne przedstawienie Oblidry Władcy Pustki.	Eine lebensechte Nachbildung von Oblidra, dem Nihil-Lord.
+Items/HydraBossVoidTrophyDesc	Text		A lifelike representation of Oblidra the Void Lord.	Realistyczne odwzorowanie Oblidry Władcy Otchłani.	Eine lebensechte Nachbildung von Oblidra, dem Nihil-Lord.
 Items/HydraJewelryDesertNecklace	Text		Pyrdra's Necklace	Naszyjnik Pyrdry	Pyrdras Halskette
 Items/HydraJewelryDesertNecklaceDesc	Text		A scorching necklace that imbues the holder with powers of the burning heat.	Płonący naszyjnik, który obdarza posiadacza mocami płonącego żaru.	Eine feurige Halskette, die dem Träger die Kräfte der brennenden Hitze verleiht.
 Items/HydraJewelryNatureRing	Text		Druidra's Ring	Pierścień Druidry	Druidras Ring
@@ -4095,7 +4095,7 @@ Items/HydraWorkbenchDesc	Text		A ritual workbench that allows the crafting of in
 Items/ICircuit	Text		I Circuit	Obwód I	I-Schaltkreis
 Items/ICircuitDesc	Text		A circuit that directs electricity in a straight line exclusively.	Obwód, który kieruje prąd wyłącznie w linii prostej.	Ein Schaltkreis, der Elektrizität ausschließlich auf einer geraden Linie leitet.
 Items/IgneousTrophy	Text		Igneous Figurine	Figurka Igneosa	Igneous-Figur
-Items/IgneousTrophyDesc	Text		A lifelike representation of Igneous, the Molten Mass.	Realistyczna reprezentacja Igneosa Stopionego.	Eine lebensechte Nachbildung von Igneous, der Geschmolzenen Masse.
+Items/IgneousTrophyDesc	Text		A lifelike representation of Igneous, the Molten Mass.	Realistyczne odwzorowanie Igneosa Stopionego.	Eine lebensechte Nachbildung von Igneous, der Geschmolzenen Masse.
 Items/ImmuneZoneEmitter	Text		Ward Coil	Cewka ochronna	Schutzspule
 Items/ImmuneZoneEmitterDesc	Text		This object emits a warding zone, imbuing structures inside with aberrant permanence. It prevents object placement, destruction, and limits interaction.	Ten przedmiot emituje strefę ochronną, nadając znajdującym się w niej strukturom nadzwyczajną trwałość. Uniemożliwia umieszczanie i niszczenie obiektów oraz ogranicza interakcje.	Dieses Objekt errichtet eine schützende Zone, die Strukturen in ihrem Inneren eine anomale Permanenz verleiht. Es verhindert die Platzierung und Zerstörung von Objekten und schränkt die Interaktion mit ihnen ein.
 Items/ImmuneZoneEmitterLarge	Text		Superior Ward Coil	Doskonała cewka ochronna	Überragende Schutzspule
@@ -4197,7 +4197,7 @@ Items/IvyPantsArmorDesc	Text		Lower body armor naturally grown in the undergroun
 Items/IvyRing	Text		Ivy's Ring	Bluszczowy pierścień	Ivys Ring
 Items/IvyRingDesc	Text		An organic ring grown from slime covered thorns.	Organiczny pierścień wyhodowany z cierni pokrytych śluzem.	Ein organischer Ring, entstanden aus schleimbedeckten Dornen.
 Items/IvyTrophy	Text		Ivy Figurine	Figurka Ivy	Ivy-Figur
-Items/IvyTrophyDesc	Text		A lifelike representation of Ivy the Poisonous Mass.	Realistycznie odwzorowany Ivy Trującej Masy.	Eine lebensechte Nachbildung von Ivy, der Giftigen Masse.
+Items/IvyTrophyDesc	Text		A lifelike representation of Ivy the Poisonous Mass.	Realistyczne odwzorowanie Ivy Trującej Masy.	Eine lebensechte Nachbildung von Ivy, der Giftigen Masse.
 Items/JellyFish	Text		Gem-Jellyfish	Meduza-klejnot	Edelstein-Qualle
 Items/JellyFishDesc	Text		A glowing kind of jellyfish that inherited ancient energy.	Świecący rodzaj meduzy, który odziedziczył starożytną energię.	Eine leuchtende Quallenart, der antike Energie innewohnt.
 Items/JellyfishDestructable	Text		Beached Jelly	Meduza plażowa	Gestrandete Qualle
@@ -4292,7 +4292,7 @@ Items/LarvaSkewerDesc	Text		A pretty cruel way of stacking up meat for later use
 Items/LarvaSpikeClub	Text		Larva Spike Club	Larwowa kolczata maczuga	Larven-Keule
 Items/LarvaSpikeClubDesc	Text		A bludgeoning weapon that is hard to withstand.	Broń obuchowa, której trudno się przeciwstawić.	Eine Schmetterwaffe, der man nur schwer widerstehen kann.
 Items/LarvaTrophy	Text		Larva Figurine	Figurka larwy	Larven-Figur
-Items/LarvaTrophyDesc	Text		A lifelike representation of a Larva.	Realistyczna reprezentacja larwy.	Eine lebensechte Nachbildung einer Larve.
+Items/LarvaTrophyDesc	Text		A lifelike representation of a Larva.	Realistyczne odwzorowanie larwy.	Eine lebensechte Nachbildung einer Larve.
 Items/LarvaskinRug	Text		Larvaskin Rug	Dywan z larwy	Larvenhaut-Teppich
 Items/LarvaskinRugDesc	Text		This gross rug doubles down as a trophy for the hunted larva that provided their skin.	Ten obrzydliwy dywan stanowi również trofeum upolowanej larwy, która dostarczyła mu skóry.	Dieser eklige Teppich ist gleichzeitig eine Trophäe der erlegten Larve, die ihre Haut dafür hergeben musste.
 Items/LarvaskinRugRed	Text		Hive Larvaskin Rug	Dywan z larwy ula	Nestlarvenhaut-Teppich
@@ -4330,7 +4330,7 @@ Items/LavaSlimeBossScanner	Text		Igneous the Molten Mass Scanner	Skaner Igneosa 
 Items/LavaSlimeBossScannerDesc	Text		Scans the world for Igneous the Molten Mass. Consumed on successful scan.	Skanuje świat w poszukiwaniu Igneosa Stopionego. Zużywany po udanym skanowaniu.	Scannt die Welt nach Igneous, der Geschmolzenen Masse. Wird bei erfolgreichem Scan verbraucht.
 Items/LavaSlimeDesc	Text		A dark blob of flaming slime. Can be further processed.	Ciemna kula płonącego szlamu. Może być dalej przetwarzany.	Ein dunkler Klumpen feurigen Schleims. Kann weiterverarbeitet werden.
 Items/LavaSlimeTrophy	Text		Lava Slime Figurine	Figurka lawowego szlamu	Lavaschleim-Figur
-Items/LavaSlimeTrophyDesc	Text		A lifelike representation of a Lava Slime.	Realistycznie odwzorowany lawowego szlamu.	Eine lebensechte Nachbildung eines Lavaschleims.
+Items/LavaSlimeTrophyDesc	Text		A lifelike representation of a Lava Slime.	Realistyczne odwzorowanie lawowego szlamu.	Eine lebensechte Nachbildung eines Lavaschleims.
 Items/LavaStalagmite	Text		Lava Stalagmite	Lawowy stalagmit	Lavagestein-Stalagmit
 Items/LavaStalagmiteDesc	Text		A stone pillar formed over thousands of years through dripping magma.	Kamienny filar uformowany na przestrzeni tysięcy lat przez kapiącą magmę.	Eine Steinsäule, die über tausende von Jahren durch herabtropfendes Magma entstanden ist.
 Items/LavaWoodenDestructible	Text		Charred Crate	Zwęglona skrzynia	Verbrannte Holzkiste
@@ -4358,15 +4358,15 @@ Items/LegendaryMiningPickDesc	Text		A successor prototype to the Ancient Pickaxe
 Items/LegendaryMiningPickParchment	Text		Cipher Parchment	Szyfrowany pergamin	Chiffren-Pergament
 Items/LegendaryMiningPickParchmentDesc	Text		An unusually well preserved scroll made from golden paper. Among the blue edged runes are drawings of an ancient forge resembling the face of a caveling.	Niezwykle dobrze zachowany zwój wykonany ze złotego papieru. Wśród run o niebieskich krawędziach znajdują się rysunki starożytnej kuźni przypominające twarz jaskiniowca.	Eine ungewöhnlich gut erhaltene Schriftrolle aus vergoldetem Papier. Zwischen blauen Runen finden sich Abbildungen einer Antiken Schmiede, die dem Gesicht eines Grottlings ähnelt.
 Items/LegendaryMortar	Text		Credence of Ruin	Wiara Zniszczenia	Kredenz des Ruins
-Items/LegendaryMortarDesc	Text		A relic born of cult devotion and void corruption. Forged from S.A.H.A.B.A.R.'s own frame and sanctified components of Breaker's Reach.	Relikt powstały z oddania kultu i zepsucia pustki. Wykuty z samego szkieletu S.A.H.A.B.A.R.a i uświęconych elementów Pola Łamacza.	Ein Relikt, das aus kultartiger Hingabe und korrumpierendem Nihil entstanden ist. Geschmiedet aus dem Rahmen von S.A.H.A.B.A.R. und geweihten Komponenten der Brecherweite.
+Items/LegendaryMortarDesc	Text		A relic born of cult devotion and void corruption. Forged from S.A.H.A.B.A.R.'s own frame and sanctified components of Breaker's Reach.	Relikt powstały z oddania kultu i zepsucia otchłani. Wykuty z samego szkieletu S.A.H.A.B.A.R’a i uświęconych elementów Rubieży Zniszczenia.	Ein Relikt, das aus kultartiger Hingabe und korrumpierendem Nihil entstanden ist. Geschmiedet aus dem Rahmen von S.A.H.A.B.A.R. und geweihten Komponenten der Brecherweite.
 Items/LegendaryMortarParchment	Text		Schematic Parchment	Schematyczny pergamin	Schema-Pergament
 Items/LegendaryMortarParchmentDesc	Text		A well preserved but complicated blueprint. Its pictographs with exotic numerals outline steps in assembling a devastating weapon.	Dobrze zachowany, ale skomplikowany plan. Jego piktogramy z egzotycznymi cyframi opisują etapy montażu niszczycielskiej broni.	Eine gut erhaltene, aber komplizierte Blaupause. Auf ihr sind Abbildungen mit fremdartigen Ziffern vermerkt, welche den schrittweisen Aufbau einer verheerenden Waffe erläutern.
-Items/LegendaryMortarPart1	Text		Void-Forged Barrel	Lufa wykuta w pustce	Nihil-geschmiedetes Rohr
-Items/LegendaryMortarPart1Desc	Text		A fractured artillery tube, scavenged from the cult's excavation machines. Its surface is warped by void corrosion. Clearly meant to complete a larger design.	Pęknięta lufa artyleryjska, pozyskana z maszyn wykopaliskowych kultu. Jej powierzchnia jest wypaczona przez korozję pustki. Najwyraźniej miała stanowić część większego projektu.	Ein gebrochenes Geschützrohr, geborgen aus den Grabungsmaschinen des Kults. Seine Oberfläche ist durch Nihil-Korrosion verzogen. Es ist eindeutig Teil von etwas Größerem.
+Items/LegendaryMortarPart1	Text		Void-Forged Barrel	Lufa wykuta w otchłani	Nihil-geschmiedetes Rohr
+Items/LegendaryMortarPart1Desc	Text		A fractured artillery tube, scavenged from the cult's excavation machines. Its surface is warped by void corrosion. Clearly meant to complete a larger design.	Pęknięta lufa artyleryjska, pozyskana z maszyn wykopaliskowych kultu. Jej powierzchnia jest wypaczona przez korozję otchłani. Najwyraźniej miała stanowić część większego projektu.	Ein gebrochenes Geschützrohr, geborgen aus den Grabungsmaschinen des Kults. Seine Oberfläche ist durch Nihil-Korrosion verzogen. Es ist eindeutig Teil von etwas Größerem.
 Items/LegendaryMortarPart2	Text		Sanctified Firing Core	Uświęcony rdzeń strzelający	Geweihter Feuerungskern
 Items/LegendaryMortarPart2Desc	Text		An ignition device made from gemstone, once used by Sahabar's exiles to fuse prayer and machinery. Even dormant, it radiates the strange conviction of those who believed metal could carry faith. It seems built to align with something greater.	Urządzenie zapłonowe wykonane z kamienia szlachetnego, niegdyś używane przez wygnańców Sahabara do połączenia modlitwy i maszyn. Nawet w stanie uśpienia emanuje dziwnym przekonaniem tych, którzy wierzyli, że metal może nieść wiarę. Wydaje się, że został zbudowany, aby połączyć się z czymś większym.	Ein Zündgerät, das aus einem Edelstein hergestellt und einst von Sahabars Verbannten genutzt wurde, um Gebete mit Maschinen zu fusionieren. Auch im Ruhezustand strahlt es die seltsame Überzeugung jener aus, die dachten, dass Metall Glauben in sich halten konnte. Es scheint Teil von etwas Größerem zu sein.
-Items/LegendaryMortarPart3	Text		S.A.H.A.B.A.R.'s Mortar Housing	Obudowa moździerza S.A.H.A.B.A.R.a	Mörsergehäuse von S.A.H.A.B.A.R.
-Items/LegendaryMortarPart3Desc	Text		"The shattered launcher torn from S.A.H.A.B.A.R.'s frame. A faint inscription on the housing reads ""Sanctified Artificial Herald Against Breach And Ruin"". Its rails still hold lingering heat."	"Rozbita wyrzutnia wyrwana z ramy S.A.H.A.B.A.R.a. Na obudowie widnieje słabo widoczny napis ""Uświęcony sztuczny herold przeciwko naruszeniom i zniszczeniu"". Jego szyny nadal są rozgrzane."	Das zerschmetterte Abschussgerät, das dem Rahmen von S.A.H.A.B.A.R. entrissen wurde. Auf dem Gehäuse steht etwas geschrieben: „Sanktifizierter artifizieller Herold am Bruch angrenzenden Ruins“. In seinen Schienen steckt noch immer Hitze.
+Items/LegendaryMortarPart3	Text		S.A.H.A.B.A.R.'s Mortar Housing	Obudowa moździerza S.A.H.A.B.A.R’a	Mörsergehäuse von S.A.H.A.B.A.R.
+Items/LegendaryMortarPart3Desc	Text		"The shattered launcher torn from S.A.H.A.B.A.R.'s frame. A faint inscription on the housing reads ""Sanctified Artificial Herald Against Breach And Ruin"". Its rails still hold lingering heat."	"Rozbita wyrzutnia wyrwana z ramy S.A.H.A.B.A.R’a. Na obudowie widnieje słabo widoczny napis ""Uświęcony sztuczny herold przeciwko naruszeniom i zniszczeniu"". Jego szyny nadal są rozgrzane."	Das zerschmetterte Abschussgerät, das dem Rahmen von S.A.H.A.B.A.R. entrissen wurde. Auf dem Gehäuse steht etwas geschrieben: „Sanktifizierter artifizieller Herold am Bruch angrenzenden Ruins“. In seinen Schienen steckt noch immer Hitze.
 Items/LegendaryStaff	Text		Titan Breath	Oddech tytana	Titanen-Atem
 Items/LegendaryStaffDesc	Text		Wrought by restrained paradox, it inhales energy to exhale a controlled cut through the aether. Anything trapped within is overwhelmed by the distilled entropy.	Stworzony przez powściągliwy paradoks, wdycha energię, aby wypuścić kontrolowane cięcie przez eter. Wszystko, co zostanie uwięzione w środku, zostaje przytłoczone przez destylowaną entropię.	Gefertigt aus einem unterdrückten Paradox atmet er erst Energie ein und dann einen kontrollierten Schnitt durch den Äther aus. Alles, was in ihm gefangen ist, wird von der destillierten Entropie überwältigt.
 Items/LegendaryStaffParchment	Text		Constellation Parchment	Pergamin konstelacji	Sternbild-Pergament
@@ -4451,7 +4451,7 @@ Items/MakeAWishHatDesc	Text		A glimmering party hat for a generous heart. The ca
 Items/MalugazChest	Text		Malugaz Chest	Skrzynia Malugaza	Malugaz-Kiste
 Items/MalugazChestDesc	Text		A cursed leather chest reminiscent of the Corrupted Shaman.	Przeklęta skórzana skrzynia przypominająca Skażonego Szamana.	Eine verfluchte Lederkiste, die an den Korrupten Schamanen erinnert.
 Items/MalugazTrophy	Text		Malugaz Figurine	Figurka Malugaza	Malugaz-Figur
-Items/MalugazTrophyDesc	Text		A lifelike representation of Malugaz the Corrupted.	Realistycznie odwzorowany Malugaz Skażony	Eine lebensechte Nachbildung von Malugaz, dem Verdorbenen.
+Items/MalugazTrophyDesc	Text		A lifelike representation of Malugaz the Corrupted.	Realistyczne odwzorowanie Malugaza Skażonego	Eine lebensechte Nachbildung von Malugaz, dem Verdorbenen.
 Items/ManaPotion	Text		Mana Potion	Mikstura many	Manatrank
 Items/ManaPotionDesc	Text		A potent elixir that instantly refills your inner power. Also tastes sweet.	Silny eliksir, który natychmiastowo uzupełnia twoją wewnętrzną moc. Ma również słodki smak.	Ein potentes Elixier, das augenblicklich die innere Kraft auffüllt. Schmeckt süß.
 Items/Mannequin	Text		Mannequin	Manekin	Mannequin
@@ -4498,7 +4498,7 @@ Items/Milk	Text	Mimite is a word combination from Mimic + Mite. Please translate
 Items/MilkDesc	Text		A bottle of milk with a slight vanilla aroma and an earthy aftertaste.	Butelka mleka z lekkim aromatem wanilii i ziemistym posmakiem.	Eine Flasche Milch mit leichtem Vanille-Aroma und erdigem Nachgeschmack.
 Items/Mimite	Text		Mimite	Mimocz	Mimilbe
 Items/MimiteTrophy	Text		Mimite Figurine	Figurka Mimoczy	Mimilben-Figur
-Items/MimiteTrophyDesc	Text		A lifelike representation of a Mimite.	Realistyczna reprezentacja Mimoczy.	Eine lebensechte Nachbildung einer Mimilbe.
+Items/MimiteTrophyDesc	Text		A lifelike representation of a Mimite.	Realistyczne odwzorowanie Mimoczy.	Eine lebensechte Nachbildung einer Mimilbe.
 Items/Minecart	Text		Minecart	Wagonik	Minenwagen
 Items/MinecartDesc	Text		Allows riding the railways with high speed.	Umożliwia jazdę po torach z dużą prędkością.	Erlaubt das schnelle Reisen auf Gleisen.
 Items/MinerBreastArmor	Text		Miner's Labour Suit	Strój roboczy górnika	Minen-Arbeitsanzug
@@ -4536,7 +4536,7 @@ Items/MoldShell	Text		Mold Shell	Skorupa pokryta pleśnią	Schimmel-Schneckenhau
 Items/MoldShellDesc	Text		The fuzzy, pale housing of a critter that has moved on.	Puszysta, blada powłoka zwierzęcia, które odeszło.	Die flaumige, bleiche Behausung einer Kreatur, die weitergezogen ist.
 Items/MoldTentacle	Text		Mold Tentacle	Macka pleśni	Schimmel-Tentakel
 Items/MoldTentacleTrophy	Text		Mold Tentacle Figurine	Figurka macki pleśni	Schimmel-Tentakel-Figur
-Items/MoldTentacleTrophyDesc	Text		A lifelike representation of a Mold Tentacle.	Realistycznie odwzorowana macka pleśni.	Eine lebensechte Nachbildung eines Schimmel-Tentakels.
+Items/MoldTentacleTrophyDesc	Text		A lifelike representation of a Mold Tentacle.	Realistyczne odwzorowanie macki pleśni.	Eine lebensechte Nachbildung eines Schimmel-Tentakels.
 Items/MoldTree	Text		Mold Tree	Drzewo pleśniowe	Schimmel-Baum
 Items/MoldTreeDesc	Text		A once green tree that is thoroughly infected with mold.	Niegdyś zielone drzewo zostało całkowicie zainfekowane pleśnią.	Ein ehemals grüner Baum, der vollständig mit Schimmel befallen ist.
 Items/MoldVeinNecklace	Text		Mold Vein Necklace	Naszyjnik z żył pleśni	Schimmel-Aderhalskette
@@ -4560,7 +4560,7 @@ Items/MorphaChestDesc	Text		A slime-covered chest reminiscent of the Aquatic Mas
 Items/MorphaRing	Text		Morpha's Ring	Pierścień Morphy	Morphas Ring
 Items/MorphaRingDesc	Text		A strange, little loop made from blue slime, it almost slides off of your finger.	Dziwna, mała pętla wykonana z niebieskiego szlamu, prawie zsuwa się z palca.	Ein kleiner, seltsamer Ring aus blauem Schleim. Er rutscht dir fast vom Finger.
 Items/MorphaTrophy	Text		Morpha Figurine	Figurka Morphy	Morpha-Figur
-Items/MorphaTrophyDesc	Text		A lifelike representation of Morpha, the Aquatic Mass.	Realistycznie odwzorowany Morpha Wodna Masa.	Eine lebensechte Nachbildung von Morpha, der Aquatischen Masse.
+Items/MorphaTrophyDesc	Text		A lifelike representation of Morpha, the Aquatic Mass.	Realistyczne odwzorowanie Morphy Wodnej Masy.	Eine lebensechte Nachbildung von Morpha, der Aquatischen Masse.
 Items/MucusAmoeba	Text		Mucus Amoeba	Ameba śluzowa	Mukus-Amöbe
 Items/MucusAmoebaDesc	Text		A slimy giant amoeba, it seems to be looking at you.	Oślizgła gigantyczna ameba, wydaje się patrzeć na ciebie.	Eine schleimige, riesige Amöbe. Sie scheint dich genau anzusehen.
 Items/MummyCaveling	Text		Caveling Mummy	Jaskiniowa mumia	Grottlingmumie
@@ -4569,7 +4569,7 @@ Items/MushroomBrute	Text		Shrooman Brute	Grzybowy brutal	Pilzbold-Schläger
 Items/MushroomDesc	Text		A small cave mushroom, perfect for a snack on the go.	Mały grzyb jaskiniowy, idealny na przekąskę w podróży.	Ein kleiner Höhlenpilz, perfekt für einen Snack unterwegs.
 Items/MushroomEnemy	Text		Shrooman	Grzyboludek	Pilzbold
 Items/MushroomEnemyTrophy	Text		Shrooman Figurine	Figurka grzyboludka	Pilzbold-Figur
-Items/MushroomEnemyTrophyDesc	Text		A lifelike representation of a shrooman.	Realistyczna reprezentacja grzyboludka.	Eine lebensechte Nachbildung eines Pilzboldes.
+Items/MushroomEnemyTrophyDesc	Text		A lifelike representation of a shrooman.	Realistyczne odwzorowanie grzyboludka.	Eine lebensechte Nachbildung eines Pilzboldes.
 Items/MushroomHelm	Text		Shrooman Cap	Czapka grzyboludka	Pilzbold-Kappe
 Items/MushroomHelmDesc	Text		It grows on your head. You can feel your wounds growing shut along with it.	Rośnie na twojej głowie. Czujesz, jak twoje rany zamykają się przy jej pomocy.	Wächst auf deinem Kopf. Du kannst spüren, wie sich deine Wunden damit schließen.
 Items/MushroomPlural	Text		Mushrooms	Grzyby	Pilze
@@ -4607,7 +4607,7 @@ Items/NatureGemstoneDesc	Text		A verdant gemstone rarely found in crystalized lu
 Items/NatureWoodenDestructible	Text	"Change the translations in a way that it relates to the Nilipede having no legs if you haven't already. Nil is latin for ""zero""."	Overgrown Wooden Crate	Zarośnięta drewniana skrzynia	Bewachsene Holzkiste
 Items/NatureWoodenDestructibleDesc	Text	"Change the translations in a way that it relates to the Nilipede having no legs if you haven't already. Nil is latin for ""zero""."	A box that has been partially reclaimed by nature. It contains useful goods. 	Pudełko, które zostało częściowo przejęte przez naturę. Zawiera przydatne towary.	Ein Behälter, der teilweise von der Natur zurückerobert wurde. Er enthält nützliche Gegenstände.
 Items/NilipedeTrophy	Text		Nilipede Figurine	Figurka nullsienicy	Nullfüßler-Figur
-Items/NilipedeTrophyDesc	Text	Translate freely to anything referencing ninjas, but make sure the description is written with 7 syllables, like the middle sentence of a haiku.	A lifelike representation of a Nilipede.	Realistyczna reprezentacja Nullsienicy.	Eine lebensechte Nachbildung eines Nullfüßlers.
+Items/NilipedeTrophyDesc	Text	Translate freely to anything referencing ninjas, but make sure the description is written with 7 syllables, like the middle sentence of a haiku.	A lifelike representation of a Nilipede.	Realistyczne odwzorowanie Nullsienicy.	Eine lebensechte Nachbildung eines Nullfüßlers.
 Items/NinjaBreastArmor	Text		Ninja Garments	Odzież Ninja	Ninja-Gewand
 Items/NinjaBreastArmorDesc	Text	Translate freely to anything referencing ninjas, but make sure the description is written with 5 syllables, like the first sentence of a haiku.	Moving swiftly as the wind.	Być szybkim jak wiatr.	Der Schritt vom Wind beflügelt.
 Items/NinjaHelm	Text		Ninja Cowl	Kaptur Ninja	Ninja-Kapuze
@@ -4708,7 +4708,7 @@ Items/OmorothNecklaceDesc	Text		A piece of jewelry with a striking likeness to t
 Items/OmorothRing	Text		Omoroth's Ring	Pierścień Omorotha	Omoroths Ring
 Items/OmorothRingDesc	Text		A plated looping tentacle that wraps around your finger. Stemming from a titan, it enhances your might in fighting these giant monsters.	Powlekana macka, która owija się wokół palca. Pochodzi od tytana i zwiększa twoją siłę w walce z gigantycznymi potworami.	Ein gepanzerter Tentakel, der sich um deinen Finger wickelt. Da er von einem Titanen stammt, verstärkt er deine Kraft im Kampf mit diesen riesigen Kreaturen.
 Items/OmorothTrophy	Text		Omoroth Figurine	Figurka Omorotha	Omoroth-Figur
-Items/OmorothTrophyDesc	Text		A lifelike representation of Omoroth, the Sea Titan.	Realistycznie odwzorowany Omoroth Morski Tytan.	Eine lebensechte Nachbildung von Omoroth, dem Meerestitanen.
+Items/OmorothTrophyDesc	Text		A lifelike representation of Omoroth, the Sea Titan.	Realistyczne odwzorowanie Omorotha Morskiego Tytana.	Eine lebensechte Nachbildung von Omoroth, dem Meerestitanen.
 Items/OpabiniaFossil	Text		Opabinia Fossil	Skamielina Opabinii	Opabinia-Fossil
 Items/OpabiniaFossilDesc	Text		The petrified body of an prehistoric sea critter. They were one of the first apex predators to appear in the ancient oceans of earth.	Skamieniałe ciało prehistorycznego stworzenia morskiego. Były one jednymi z pierwszych drapieżników, które pojawiły się w starożytnych oceanach ziemi.	Der versteinerte Körper einer prähistorischen Meereskreatur. Sie war einst einer der ersten Apex-Jäger der urzeitlichen Meere der Erde.
 Items/OracleCardAzeos	Text		"Oracle Card ""Radiance"""	"Karta wyroczni ""Blask"""	"""""""""""""""""""""""""""Orakel-Karte ""Glanz""""
@@ -4776,7 +4776,7 @@ Items/OrbLantern	Text		Orb Lantern	Kulista latarnia	Kugel-Laterne
 Items/OrbLanternDesc	Text		A better, brighter source of light to attach to your belt.	Lepsze, jaśniejsze źródło światła, które można przymocować do paska.	Ein besseres und helleres Licht, das am Gürtel befestigt wird.
 Items/OrbitalTurret	Text		Orbital Turret	Wieżyczka orbitalna	Orbitalgeschütz
 Items/OrbitalTurretTrophy	Text		Orbital Turret Figurine	Figurka wieżyczki orbitalnej	Orbitalgeschütz-Figur
-Items/OrbitalTurretTrophyDesc	Text		A lifelike representation of an Orbital Turret.	Realistycznie odwzorowana wieżyczka orbitalna.	Eine lebensechte Nachbildung eines Orbitalgeschützes.
+Items/OrbitalTurretTrophyDesc	Text		A lifelike representation of an Orbital Turret.	Realistyczne odwzorowanie wieżyczki orbitalnej.	Eine lebensechte Nachbildung eines Orbitalgeschützes.
 Items/OreAndBlockPouch	Text		Small Ore and Block Pouch	Mała sakiewka na rudy i bloki	Kleiner Erz-und-Block-Beutel
 Items/OreAndBlockPouchDesc	Text		A small pouch made exclusively for ores and blocks, with dedicated slots that auto-sort items as you gather them.	Mała sakiewka przeznaczona wyłącznie na rudy i bloki, posiadająca dedykowane otwory, które automatycznie sortują zebrane przedmioty.	Ein kleiner Beutel für Erze und Blöcke. Er verfügt über Slots, die Gegenstände beim Sammeln automatisch sortieren.
 Items/OstaraRing	Text		Ostara Ring	Pierścień ostary	Ostara-Ring
@@ -5117,7 +5117,7 @@ Items/PulseCircuitDesc	Text		Electricity moves through in intervals of 1 second.
 Items/PumpkinCoin	Text		Pumpkin Coin	Dyniowa moneta	Kürbis-Münze
 Items/PumpkinCoinDesc	Text		A mischievous-looking coin that can be traded for various, eerie goods.	Złośliwie wyglądająca moneta, którą można wymienić na różne upiorne towary.	Eine boshaft anmutende Münze, die gegen verschiedene unheimliche Güter eingetauscht werden kann.
 Items/PumpkinHeadCavelingShamanTrophy	Text		Pumpking Caveling Figurine	Figurka dyniowego jaskiniowca	Kürbiskönig-Grottling-Figur
-Items/PumpkinHeadCavelingShamanTrophyDesc	Text		A lifelike representation of a Pumpking Caveling.	Realistycznie odwzorowany dyniowy jaskiniowiec.	Eine lebensechte Nachbildung eines Kürbiskönig-Grottlings.
+Items/PumpkinHeadCavelingShamanTrophyDesc	Text		A lifelike representation of a Pumpking Caveling.	Realistyczne odwzorowanie dyniowego jaskiniowca.	Eine lebensechte Nachbildung eines Kürbiskönig-Grottlings.
 Items/PumpkinHelm	Text		Pumpkin Head	Dyniowa głowa	Kürbiskopf
 Items/PumpkinHelmDesc	Text		A fruit head with a carved-in face. For how disgusting it feels from the inside, it looks pretty cool on the outside. 	Roślinna głowa z wyrzeźbioną twarzą. Jak na to, jak obrzydliwa jest od środka, z zewnątrz wygląda całkiem fajnie.	Ein hohler Gemüsekopf mit eingeschnitztem Gesicht. Das ekelhafte Innere wird mit einem ziemlich coolen Äußeren wettgemacht.
 Items/PumpkinLantern	Text		Pumpkin Lantern	Latarnia z dyni	Kürbis-Laterne
@@ -5127,7 +5127,7 @@ Items/PuppetRingDesc	Text		An odd, ornate ring. You feel a closer bond with your
 Items/PurpleFireFly	Text		Purple Glowbug	Fioletowy świetlik	Lila Glimmkäfer
 Items/PurpleFireFlyDesc	Text		This flying bug always appears in swarms which appear as dancing lights. Its purple glow is biome-specific.	Ten latający owad zawsze pojawia się w rojach, które wyglądają jak tańczące światła. Jego fioletowa poświata jest charakterystyczna dla biomu.	Dieser fliegende Käfer taucht immer in Schwärmen auf, die wie tanzende Lichter wirken. Sein lila Schein ist biomspezifisch.
 Items/PurpleSlimeTrophy	Text		Purple Slime Figurine	Figurka fioletowego szlamu	Lilaschleim-Figur
-Items/PurpleSlimeTrophyDesc	Text		A lifelike representation of a poisonous Purple Slime.	Realistyczne przedstawienie trującego fioletowego szlamu.	Eine lebensechte Nachbildung eines giftigen Lilaschleims.
+Items/PurpleSlimeTrophyDesc	Text		A lifelike representation of a poisonous Purple Slime.	Realistyczne odwzorowanie trującego fioletowego szlamu.	Eine lebensechte Nachbildung eines giftigen Lilaschleims.
 Items/PuzzleDoor	Text		Obsidian Door	Obsydianowe drzwi	Obsidian-Tür
 Items/PuzzleDoorDesc	Text		A door made of perplexingly hardened obsidian.	Drzwi wykonane z niezwykle twardego obsydianu.	Eine Tür aus verblüffend hartem Obsidian.
 Items/PuzzleDoorKey	Text		Obsidian Key	Obsydianowy klucz	Obsidian-Schlüssel
@@ -5139,7 +5139,7 @@ Items/RaAkarAutomatonDesc	Text		A complex wind-up machine created in honor of Ra
 Items/RaAkarNecklace	Text		Ra-Akar's Necklace	Naszyjnik Ra-Akara	Ra-Akars Halskette
 Items/RaAkarNecklaceDesc	Text		A necklace of the desert with a strong resemblance of the sand titan. Wearing it grants you additional protection and extra damage.	Naszyjnik pustyni z silnym podobieństwem do piaskowego tytana. Jego noszenie zapewnia dodatkową ochronę i dodatkowe obrażenia.	Ein Schmuckstück der Wüste, das stark an den Sandtitanen erinnert. Wenn es getragen wird, verleiht es zusätzlichen Schutz und bewirkt zusätzlichen Schaden.
 Items/RaAkarTrophy	Text		Ra-Akar Figurine	Figurka Ra-Akara	Ra-Akar-Figur
-Items/RaAkarTrophyDesc	Text		A lifelike representation of Ra-Akar, the Sand Titan.	Realistycznie odwzorowany Ra-Akar, Piaskowy Tytan.	Eine lebensechte Nachbildung von Ra-Akar, dem Sandtitanen.
+Items/RaAkarTrophyDesc	Text		A lifelike representation of Ra-Akar, the Sand Titan.	Realistyczne odwzorowanie Ra-Akara Piaskowego Tytana.	Eine lebensechte Nachbildung von Ra-Akar, dem Sandtitanen.
 Items/RadiationBreastArmor	Text		Hazmat Suit Jacket	Kombinezon przeciwpromienny	Gefahrenschutz-Jacke
 Items/RadiationBreastArmorDesc	Text		Whatever the problem is, encountering it behind a protective suit makes it a little less stressful.	Niezależnie od tego, na czym polega problem, napotkanie go za kombinezonem ochronnym sprawia, że jest on nieco mniej stresujący.	Was auch immer das Problem ist, wenn man ihm in Schutzkleidung entgegentritt, geht es einem gleich viel besser.
 Items/RadiationCrystal	Text		Radiation Crystal	Promieniujący kryształ	Strahlungskristall
@@ -5186,7 +5186,7 @@ Items/RedFireFlyDesc	Text		This flying bug always appears in swarms which appear
 Items/RedKelp	Text		Red Kelp	Czerwony wodorost	Roter Seetang
 Items/RedKelpDesc	Text		A red lump of marine plants.	Czerwona kępa roślin morskich.	Ein roter Klumpen Meerespflanzen.
 Items/RedSlimeTrophy	Text		Red Slime Figurine	Figurka czerwonego szlamu	Rotschleim-Figur
-Items/RedSlimeTrophyDesc	Text		A lifelike representation of an aggressive Red Slime.	Realistycznie przedstawiony agresywny czerwony szlam.	Eine lebensechte Nachbildung eines aggressiven Rotschleims.
+Items/RedSlimeTrophyDesc	Text		A lifelike representation of an aggressive Red Slime.	Realistyczne odwzorowanie agresywnego czerwonego szlamu.	Eine lebensechte Nachbildung eines aggressiven Rotschleims.
 Items/ReluciteBar	Text		Relucite Bar	Sztabka relucytu	Reluzit-Barren
 Items/ReluciteBarDesc	Text		A semi-chromatic ingot for ingenious blacksmithing.	Półchromatyczna sztabka do pomysłowego kowalstwa.	Ein halbchromatischer Barren zum erfinderischen Schmieden.
 Items/ReluciteChest	Text		Relucite Chest	Skrzynia z relucytu	Reluzit-Kiste
@@ -5224,27 +5224,27 @@ Items/RobotArmDebrisDesc	Text		Strewn chunks of bars, plates and industrial part
 Items/RobotArmDebrisSmall	Text		Small Mechanical Debris	Małe odpady mechaniczne	Kleine mechanische Trümmer
 Items/RobotArmDebrisSmallDesc	Text		Strewn chunks of nuts, bolts, and industrial fragments.	Rozrzucone kawałki nakrętek, śrub i fragmentów przemysłowych.	Verstreute Stücke aus Muttern, Bolzen und industriellen Fragmenten.
 Items/RobotArmDesc	Text		Mechanical helping hand, grabs things and puts them elsewhere when powered with electricity.	Mechaniczna pomocna dłoń, która chwyta przedmioty i odkłada je w inne miejsce, gdy jest zasilana energią elektryczną.	Eine mechanische, helfende Hand. Greift Dinge und platziert sie woanders, wenn er mit Elektrizität versorgt wird.
-Items/RobotBossActivatorConsole	Text		S.A.H.A.B.A.R. Console	Konsola S.A.H.A.B.A.R.a	
+Items/RobotBossActivatorConsole	Text		S.A.H.A.B.A.R. Console	Konsola S.A.H.A.B.A.R’a	
 Items/RobotBossActivatorConsoleDesc	Text		In its reflective monitor, it feels like more than your reflection looks back.	W jej lustrzanym monitorze wydaje się, że patrzy na ciebie coś więcej niż tylko twoje odbicie.	
-Items/RobotBossChest	Text		S.A.H.A.B.A.R. Chest	Skrzynia S.A.H.A.B.A.R.a	S.A.H.A.B.A.R.-Kiste
+Items/RobotBossChest	Text		S.A.H.A.B.A.R. Chest	Skrzynia S.A.H.A.B.A.R’a	S.A.H.A.B.A.R.-Kiste
 Items/RobotBossChestDesc	Text		A large mechanical chest of gilded plates. Its reinforced base allows it to rest securely in molten lava.	Duża mechaniczna skrzynia z pozłacanymi płytami. Wzmocniona podstawa pozwala jej bezpiecznie spoczywać w stopionej lawie.	Eine große mechanische Kiste mit vergoldeten Platten. Dank ihres verstärkten Bodens hält sie auch geschmolzener Lava stand.
-Items/RobotBossScanner	Text		S.A.H.A.B.A.R. Scanner	Skaner S.A.H.A.B.A.R.a	S.A.H.A.B.A.R.-Scanner
-Items/RobotBossScannerDesc	Text		Scans the world for S.A.H.A.B.A.R. Consumed on successful scan.	Skanuje świat w poszukiwaniu S.A.H.A.B.A.R.a Po pomyślnym skanowaniu zostaje zużyty.	Scannt die Welt nach S.A.H.A.B.A.R. Wird bei erfolgreichem Scan verbraucht.
+Items/RobotBossScanner	Text		S.A.H.A.B.A.R. Scanner	Skaner S.A.H.A.B.A.R’a	S.A.H.A.B.A.R.-Scanner
+Items/RobotBossScannerDesc	Text		Scans the world for S.A.H.A.B.A.R. Consumed on successful scan.	Skanuje świat w poszukiwaniu S.A.H.A.B.A.R’a Po pomyślnym skanowaniu zostaje zużyty.	Scannt die Welt nach S.A.H.A.B.A.R. Wird bei erfolgreichem Scan verbraucht.
 Items/RobotBossSummoningItem	Text		Profane Override	Przełącznik profanacyjny	Profane Überbrückung
 Items/RobotBossSummoningItemDesc	Text		A keycard with intricately carved sigils between its circuits. Maybe it stores something beyond mere data?	Karta dostępu z misternie wyrytymi symbolami między obwodami. Być może przechowuje coś więcej niż tylko dane?	Eine Schlüsselkarte mit komplizierten, geschnitzten Symbolen zwischen ihren Schaltkreisen. Vielleicht birgt sie mehr als einfache Daten?
-Items/RobotBossTrophy	Text		S.A.H.A.B.A.R. Trophy	Trofeum S.A.H.A.B.A.R.a	S.A.H.A.B.A.R.-Trophäe
-Items/RobotBossTrophyDesc	Text		A lifelike representation of S.A.H.A.B.A.R.	Realistyczna reprezentacja S.A.H.A.B.A.R.a.	Eine lebensechte Nachbildung von S.A.H.A.B.A.R.
+Items/RobotBossTrophy	Text		S.A.H.A.B.A.R. Trophy	Trofeum S.A.H.A.B.A.R’a	S.A.H.A.B.A.R.-Trophäe
+Items/RobotBossTrophyDesc	Text		A lifelike representation of S.A.H.A.B.A.R.	Realistyczna reprezentacja S.A.H.A.B.A.R’a.	Eine lebensechte Nachbildung von S.A.H.A.B.A.R.
 Items/RobotFarmArm	Text		Robot Farm Arm	Ramię robota rolnego	Roboter-Farm-Arm
 Items/RobotFarmArmDesc	Text		A mechanical farm arm that plants seeds and harvests crops when powered by electricity. Does not drop seeds, unlike manual harvest.	Mechaniczne ramię rolnicze, które sadzi nasiona i zbiera plony po podłączeniu do zasilania elektrycznego. W przeciwieństwie do ręcznego zbioru nie upuszcza nasion.	Ein mechanischer Farm-Arm, der Samen pflanzt und Feldfrüchte erntet, wenn er mit Elektrizität versorgt wird. Wirft im Gegensatz zu manueller Ernte keine Samen ab.
 Items/RobotMiner	Text		Geobot Miner	Geobot górnik	Geobot-Bergmann
 Items/RobotMinerTrophy	Text		Geobot Miner Figurine	Figurka geobota górnika	Geobot-Bergmann-Figur
-Items/RobotMinerTrophyDesc	Text		A lifelike representation of a Geobot Miner.	Realistyczna reprezentacja geobota górnika.	Eine lebensechte Nachbildung eines Geobot-Bergmanns.
+Items/RobotMinerTrophyDesc	Text		A lifelike representation of a Geobot Miner.	Realistyczne odwzorowanie geobota górnika.	Eine lebensechte Nachbildung eines Geobot-Bergmanns.
 Items/RobotPatroller	Text		Geobot Patroller	Geobot patrolowiec	Geobot-Patrouille
 Items/RobotPatrollerTrophy	Text		Geobot Patroller Figurine	Figurka geobota patrolowca	Geobot-Patrouille-Figur
-Items/RobotPatrollerTrophyDesc	Text		A lifelike representation of a Geobot Patroller.	Realistyczna reprezentacja geobota patrolowca.	Eine lebensechte Nachbildung einer Geobot-Patrouille.
+Items/RobotPatrollerTrophyDesc	Text		A lifelike representation of a Geobot Patroller.	Realistyczne odwzorowanie geobota patrolowca.	Eine lebensechte Nachbildung einer Geobot-Patrouille.
 Items/RobotSwarmer	Text		Geobot Scourer	Geobot zmywacz	Geobot-Schwärmer
 Items/RobotSwarmerTrophy	Text		Geobot Scourer Figurine	Figurka geobota zmywacza	Geobot-Schwärmer-Figur
-Items/RobotSwarmerTrophyDesc	Text		A lifelike representation of a Geobot Scourer.	Realistyczna reprezentacja geobota zmywacza.	Eine lebensechte Nachbildung eines Geobot-Schwärmers.
+Items/RobotSwarmerTrophyDesc	Text		A lifelike representation of a Geobot Scourer.	Realistyczne odwzorowanie geobota zmywacza.	Eine lebensechte Nachbildung eines Geobot-Schwärmers.
 Items/RockJaw	Text		Rock Jaw	Skalna szczęka	Steinkiefer
 Items/RockJawDesc	Text		A small shark that can break almost every material with one bite.	Mały rekin, który jednym ugryzieniem może rozerwać niemal każdy materiał.	Ein kleiner Hai, der fast jedes Material mit einem Biss zerstören kann.
 Items/RolyPoly	Text		Strolly Poly	Wolanka	Bummelkugler
@@ -5390,7 +5390,7 @@ Items/ScholarHelmDesc	Text		A strange hood made from white linen and gold, in it
 Items/ScholarStaff	Text		Scholar's Staff	Laska uczonego	Gelehrten-Stab
 Items/ScholarStaffDesc	Text		A magical staff wielded by caveling scholars that utilizes an ancient gemstone to produce powerful bolts of energy.	Magiczna laska używana przez uczonych jaskiniowców, która wykorzystuje starożytny kamień szlachetny do wytwarzania potężnych pocisków energii.	Ein magischer Stab, der von Grottling-Gelehrten geführt wird. Er enthält einen Antiken Edelstein, der mächtige Energie-Projektile erzeugt.
 Items/ScholarTrophy	Text	Should be in plural as the ingame icon shows several parts	Caveling Scholar Figurine	Figurka uczonego jaskiniowca	Grottling-Gelehrter-Figur
-Items/ScholarTrophyDesc	Text		A lifelike representation of a caveling scholar.	Realistycznie odwzorowany uczony jaskiniowiec.	Eine lebensechte Nachbildung eines Grottling-Gelehrten.
+Items/ScholarTrophyDesc	Text		A lifelike representation of a caveling scholar.	Realistyczne odwzorowanie uczonego jaskiniowca.	Eine lebensechte Nachbildung eines Grottling-Gelehrten.
 Items/ScrapPart	Text		Scrap Parts	Części złomu	Schrottteile
 Items/ScrapPartDesc	Text		Different materials salvaged from junk. Used to repair items at the salvage and repair station.	Różne materiały uzyskane ze złomu. Są używane w stacji odzysku i naprawy do naprawy przedmiotów.	Verschiedene Materialien, die aus Schrott gewonnen wurden. Werden an der Abwrack- & Reparatur-Station verwendet, um Gegenstände zu reparieren.
 Items/ScreenDevice	Text		Screen Device	Urządzenia z ekranem	Bildschirm-Gerät
@@ -5442,7 +5442,7 @@ Items/SharkToothDesc	Text		It's as big as the palm of a hand, meeting with a row
 Items/Shredder	Text		Shredder	Niszczarka	Reißwolf
 Items/ShredderDesc	Text		When powered by electricity, automatically scraps tools, equipment and other things you don't need.	Po podłączeniu do zasilania automatycznie niszczy narzędzia, sprzęt i inne niepotrzebne przedmioty.	Verschrottet automatisch Werkzeuge, Ausrüstung und andere Dinge, die du nicht benötigst, wenn er elektrisch angetrieben wird.
 Items/ShroomanBruteTrophy	Text		Shrooman Brute Figurine	Figurka grzybowego brutala	Pilzboldschläger-Figur
-Items/ShroomanBruteTrophyDesc	Text		A lifelike representation of a Shrooman Brute.	Realistycznie odwzorowany grzybowy brutal.	Eine lebensechte Nachbildung eines Pilzboldschlägers.
+Items/ShroomanBruteTrophyDesc	Text		A lifelike representation of a Shrooman Brute.	Realistyczne odwzorowanie grzybowego brutala.	Eine lebensechte Nachbildung eines Pilzboldschlägers.
 Items/SignArrow	Text		Arrow Sign	Znak strzałki	Richtungsschild
 Items/SignArrowDesc	Text		Don't know where to go? Just look at it! 	Nie wiesz, gdzie iść? Wystarczy na niego spojrzeć!	Keine Ahnung wo’s lang geht? Einfach draufschauen!
 Items/SignBrute	Text		Brute Sign	Znak brutala	Schläger-Schild
@@ -5588,7 +5588,7 @@ Items/SnakeBossScanner	Text		Atlantean Worm Scanner	Skaner Atlantydzkiego Robaka
 Items/SnakeBossScannerDesc	Text		Scans the world for the Atlantean Worm. Consumed on successful scan.	Skanuje świat w poszukiwaniu Atlantydzkiego Robaka. Zużywa się po udanym skanowaniu.	Scannt die Welt nach dem Atlantischen Wurm. Wird bei erfolgreichem Scan verbraucht.
 Items/SnarePlant	Text		Snare Plant	Roślina sidłowa	Schlingpflanze
 Items/SnarePlantTrophy	Text		Snare Plant Figurine	Figurka rośliny sidłowej	Schlingpflanzen-Figur
-Items/SnarePlantTrophyDesc	Text		A lifelike representation of a Snare Plant.	Realistycznie odwzorowana roślina sidłowa.	Eine lebensechte Nachbildung einer Schlingpflanze.
+Items/SnarePlantTrophyDesc	Text		A lifelike representation of a Snare Plant.	Realistyczne odwzorowanie rośliny sidłowej.	Eine lebensechte Nachbildung einer Schlingpflanze.
 Items/SnowGlobe	Text		Snow Globe	Kula śnieżna	Schneekugel
 Items/SnowGlobeDesc	Text		This little globe has the core as its center and starts a snowfall when shaken.	Ten mały glob ma rdzeń jako środek i po potrząśnięciu zaczyna padać śnieg.	Im Zentrum dieser kleinen Schneekugel findet man den Kern; wenn sie geschüttelt wird, beginnt es zu schneien.
 Items/Snowball	Text		Snowball	Śnieżka	Schneeball
@@ -5711,7 +5711,7 @@ Items/SulfurPantsArmorDesc	Text		The gel padding adds a bounce to your step. Sup
 Items/SulfurTree	Text		Sulfur Tree	Drzewo siarki	Schwefelbaum
 Items/SulfurTreeDesc	Text		This gnarled tree feasts on the organic matter of the passage. It sprouts glowing sacs of toxic gas.	To sękate drzewo żywi się materią organiczną Przejścia. Wypuszcza świecące woreczki z toksycznym gazem.	Dieser knorrige Baum ernährt sich von der organischen Materie der Passage. Er stößt glühende Blasen mit giftigem Gas aus.
 Items/SulfurWormTrophy	Text		Sulfur Worm Figurine	Figurka robaka siarkowego	Schwefelwurm-Figur
-Items/SulfurWormTrophyDesc	Text		A lifelike representation of a Sulfur Worm.	Realistycznie odwzorowany robak siarkowy.	Eine lebensechte Nachbildung eines Schwefelwurms.
+Items/SulfurWormTrophyDesc	Text		A lifelike representation of a Sulfur Worm.	Realistyczne odwzorowanie robaka siarkowego.	Eine lebensechte Nachbildung eines Schwefelwurms.
 Items/SummonerOffhand	Text		Scratched Stone	Zarysowany kamień	Zerkratzter Stein
 Items/SummonerOffhandDesc	Text		The claw marks in this rock reveal dormant energies inside, waiting to be awoken.	Ślady pazurów w tej skale ujawniają drzemiące w niej energie, czekające na przebudzenie.	Die Krallenspuren auf diesem Stein enthüllen die ungenutzten Energien in seinem Inneren, die darauf warten, erweckt zu werden.
 Items/SunStaff	Text		Sun Caller	Zaklinacz słońca	Sonnenbeschwörer
@@ -5813,7 +5813,7 @@ Items/TempleTurretDesc	Text		This ancient trap shoots projectiles at anyone walk
 Items/TentacleJerky	Text		Tentacle Jerky	Suszona macka	Trockententakel
 Items/TentacleJerkyDesc	Text		A dried piece of tentacle. It's quite tough and keeps your teeth busy.	Wysuszony kawałek macki. Jest dość twardy i zapewnia zajęcie dla zębów.	Ein gepökeltes Stück eines Tentakels. Es ist ziemlich zäh und beschäftigt deine Zähne für eine Weile.
 Items/TentacleTrophy	Text		Tentacle Figurine	Figurka macki	Tentakel-Figur
-Items/TentacleTrophyDesc	Text		A lifelike representation of a Tentacle.	Realistyczna reprezentacja macki.	Eine lebensechte Nachbildung eines Tentakels.
+Items/TentacleTrophyDesc	Text		A lifelike representation of a Tentacle.	Realistyczne odwzorowanie macki.	Eine lebensechte Nachbildung eines Tentakels.
 Items/TentacleWhip	Text		Tentacle Whip	Bicz z macki	Tentakel-Peitsche
 Items/TentacleWhipDesc	Text		An elastic tentacle that lashes out at enemies from afar. It's still alive and wiggling in your hand.	Elastyczna macka, która atakuje wrogów z daleka. Wciąż żyje i porusza się w dłoni.	Ein elastischer Tentakel, der nach weit entfernten Feinden ausschlägt. Er ist immer noch lebendig und zappelt in deiner Hand.
 Items/TerraTrilobite	Text		Terra Trilobite	Terra trylobit	Terra-Trilobite
@@ -5890,7 +5890,7 @@ Items/TomeOfFire	Text		Tome of Ashes	Księga popiołu	Foliant der Asche
 Items/TomeOfFireDesc	Text		Reaks of sulfur and is hot to the touch.	Wydziela siarkę i jest gorąca w dotyku.	Stinkt nach Schwefel und fühlt sich heiß an.
 Items/TomeOfMelee	Text		Tome of the Dead	Księga umarłych	Foliant der Toten
 Items/TomeOfMeleeDesc	Text		A vile treatise on the conjuring of restless spirits. 	Nikczemny traktat o zaklinaniu niespokojnych duchów.	Eine abscheuliche Abhandlung über die Beschwörung von Geistern der Finsternis.
-Items/TomeOfMining	Text		Tome of Breach	Księga naruszeń	Foliant des Bruchs
+Items/TomeOfMining	Text		Tome of Breach	Księga zniszczenia 	Foliant des Bruchs
 Items/TomeOfMiningDesc	Text		More of an unfinished journal detailing the author's obsession with unearthing secrets.	Bardziej niedokończony dziennik opisujący obsesję autora na punkcie odkrywania tajemnic.	Eher eine Art unfertiger Bericht. Er detailliert die Besessenheit des Autors, Geheimnisse zu enthüllen.
 Items/TomeOfOrbit	Text		Tome of the Deep	Księga głębin	Foliant der Tiefen
 Items/TomeOfOrbitDesc	Text		A tome that contains powerful incantions barely utterable by the human tongue. 	Księga, która zawiera potężne inkantacje ledwie możliwe do wypowiedzenia ludzkim językiem.	Mächtige Beschwörungen, die die menschliche Zunge kaum auszusprechen vermag.
@@ -5932,7 +5932,7 @@ Items/TwistedAgateDesc	Text		A green gem shaped like a spiral.	Zielony klejnot w
 Items/UndergroundElectricityGenerator	Text		Lowered Electricity Generator	Podziemny generator energii elektrycznej	Tiefergelegter Elektrizitätsgenerator
 Items/UndergroundElectricityGeneratorDesc	Text		Powers wires and objects with electricity and is beneath floor-level.	Zasila przewody i urządzenia energią elektryczną i znajduje się poniżej poziomu podłogi.	Versorgt Kabel und andere Objekte mit Elektrizität und befindet sich unter der Bodenhöhe.
 Items/UnleashedCoreCommanderTrophy	Text		Unleashed Core Commander Figurine	Figurka Wyzwolonego Dowódcy Rdzenia	Figur des Entfesselten Kernkommandanten
-Items/UnleashedCoreCommanderTrophyDesc	Text		A lifelike representation of the Unleashed Core Commander.	Realistycznie odwzorowany Wyzwolony Dowódca Rdzenia.	Eine lebensechte Nachbildung des Entfesselten Kernkommandanten.
+Items/UnleashedCoreCommanderTrophyDesc	Text		A lifelike representation of the Unleashed Core Commander.	Realistyczne odwzorowanie Wyzwolonego Dowódcy Rdzenia.	Eine lebensechte Nachbildung des Entfesselten Kernkommandanten.
 Items/UnlockedKingChest	Text		Desert King Chest	Skrzynia Króla Pustyni	Wüstenkönig-Kiste
 Items/UnlockedKingChestDesc	Text		An intricate, unique chest with a purple gemstone locked in its center.	Misterna, wyjątkowa skrzynia z fioletowym kamieniem szlachetnym umieszczonym w jej środku.	Eine filigrane, einzigartige Kiste, in deren Mitte ein violetter Edelstein eingefasst ist.
 Items/UnlockedPrinceChest	Text		Desert Prince Chest	Skrzynia Księcia Pustyni	Wüstenprinz-Kiste
@@ -5996,12 +5996,12 @@ Items/VoidBreachActivatorDesc	Text		This gravity-defying liquid reacts to the ai
 Items/VoidCaveling	Text		Void Caveling	Jaskiniowiec otchłani	Nihil-Grottling
 Items/VoidCavelingBrute	Text		Void Caveling Brute	Brutalny jaskiniowiec otchłani	Nihil-Grottling-Schläger
 Items/VoidCavelingBruteTrophy	Text		Void Caveling Brute Figurine	Figurka brutalnego jaskiniowca otchłani	Nihil-Grottling-Schläger-Figur
-Items/VoidCavelingBruteTrophyDesc	Text		A lifelike representation of a Void Caveling Brute.	Realistyczne przedstawienie brutalnego jaskiniowca otchłani.	Eine lebensechte Nachbildung eines Nihil-Grottling-Schlägers.
+Items/VoidCavelingBruteTrophyDesc	Text		A lifelike representation of a Void Caveling Brute.	Realistyczne odwzorowanie brutalnego jaskiniowca otchłani.	Eine lebensechte Nachbildung eines Nihil-Grottling-Schlägers.
 Items/VoidCavelingMinerTrophy	Text		Void Caveling Figurine	Figurka jaskiniowca otchłani	Nihil-Grottling-Figur
-Items/VoidCavelingMinerTrophyDesc	Text		A lifelike representation of a Void Caveling.	Realistyczne przedstawienie jaskiniowca otchłani.	Eine lebensechte Nachbildung eines Nihil-Grottlings.
-Items/VoidCavelingShaman	Text		Void Caveling Shaman	Szaman pustki	Nihil-Grottling-Schamane
-Items/VoidCavelingShamanTrophy	Text		Void Caveling Shaman Figurine	Figurka szamana pustki	Nihil-Grottling-Schamane-Figur
-Items/VoidCavelingShamanTrophyDesc	Text		A lifelike representation of a Void Caveling Shaman.	Realistyczne przedstawienie szamana pustki.	Eine lebensechte Nachbildung eines Nihil-Grottling-Schamanen.
+Items/VoidCavelingMinerTrophyDesc	Text		A lifelike representation of a Void Caveling.	Realistyczne odwzorowanie jaskiniowca otchłani.	Eine lebensechte Nachbildung eines Nihil-Grottlings.
+Items/VoidCavelingShaman	Text		Void Caveling Shaman	Szaman otchłani	Nihil-Grottling-Schamane
+Items/VoidCavelingShamanTrophy	Text		Void Caveling Shaman Figurine	Figurka szamana otchłani	Nihil-Grottling-Schamane-Figur
+Items/VoidCavelingShamanTrophyDesc	Text		A lifelike representation of a Void Caveling Shaman.	Realistyczne odwzorowanie szamana otchłani.	Eine lebensechte Nachbildung eines Nihil-Grottling-Schamanen.
 Items/VoidClub	Text		Void Club	Kij otchłani	Nihil-Keule
 Items/VoidClubDesc	Text		This club feels light when held, yet heavy when swung.	Ten kij wydaje się lekki w dłoni, ale ciężki podczas zamachu.	Diese Keule fühlt sich beim Halten leicht und beim Schwingen schwer an.
 Items/VoidFusedBreastArmor	Text		Void-Fused Chestpiece	Napierśnik otchłani	Leeren-Bruststück
@@ -6015,18 +6015,18 @@ Items/VoidHydraHeartDesc	Text		This still beating heart of the Void Lord pulses 
 Items/VoidLarva	Text		Void Larva	Larwa otchłani	Nihil-Larve
 Items/VoidLarvaCocoon	Text		Void Larva Cocoon	Kokon larwy otchłani	Nihil-Larvenkokon
 Items/VoidLarvaCocoonTrophy	Text		Void Larva Cocoon Figurine	Figurka kokonu larwy otchłani	Nihil-Larvenkokon-Figur
-Items/VoidLarvaCocoonTrophyDesc	Text		A lifelike representation of a Void Larva Cocoon.	Realistyczne przedstawienie kokonu larwy otchłani.	Eine lebensechte Nachbildung eines Nihil-Larvenkokons.
+Items/VoidLarvaCocoonTrophyDesc	Text		A lifelike representation of a Void Larva Cocoon.	Realistyczne odwzorowanie kokonu larwy otchłani.	Eine lebensechte Nachbildung eines Nihil-Larvenkokons.
 Items/VoidLarvaTrophy	Text		Void Larva Figurine	Figurka larwy otchłani	Nihil-Larve-Figur
-Items/VoidLarvaTrophyDesc	Text		A lifelike representation of a Void Larva.	Realistyczne przedstawienie larwy otchłani.	Eine lebensechte Nachbildung einer Nihil-Larve.
+Items/VoidLarvaTrophyDesc	Text		A lifelike representation of a Void Larva.	Realistyczne odwzorowanie larwy otchłani.	Eine lebensechte Nachbildung einer Nihil-Larve.
 Items/VoidMerchant	Text		Otherwordly Merchant	Nieziemski kupiec	Außerweltlicher Händler
-Items/VoidMerchantIdol	Text		Void Idol	Bożek pustki	Nihil-Statue
+Items/VoidMerchantIdol	Text		Void Idol	Bożek Otchłani	Nihil-Statue
 Items/VoidMerchantIdolDesc	Text		A thorny statue of alien-looking make. Place it in a habitable room and an otherworldly visitor may move in.	Cierniowa statua o obcym wyglądzie. Umieść ją w pomieszczeniu nadającym się do zamieszkania, a nieziemski gość może się wprowadzić.	Eine dornige Statue, die wie von Aliens geschaffen wirkt. Platziere sie in einem bewohnbaren Raum und ein außerweltlicher Charakter könnte einziehen.
-Items/VoidNeuronCicada	Text		Brood Void Neuron	Mroczny neuron pustki	Brut-Nihilneuron
+Items/VoidNeuronCicada	Text		Brood Void Neuron	Mroczny neuron Otchłani	Brut-Nihilneuron
 Items/VoidNeuronCicadaDesc	Text		A glowing cell that phases through itself, twisted and pulled as if tethered to an unseen presence. Born of Nimruza's parasite, fused with Core-linked tissue, it carries a warped signal that may unseal what even the Core Network could not contain.	Świecąca komórka, która przechodzi przez siebie, skręcona i wygięta, jakby była przywiązana do niewidzialnej obecności. Zrodzona z pasożyta Nimruzy, połączona z tkanką powiązaną z Rdzeniem, przenosi zniekształcony sygnał, który może odblokować to, czego nawet Sieć Rdzenia nie była w stanie powstrzymać.	Eine leuchtende Zelle, die sich durch sich selbst bewegt, dreht und zieht, als wäre sie an eine ungesehene Präsenz gebunden. Sie entstammt Nimruzas Parasiten und ist mit einem kernverbundenen Hautgewebe fusioniert. Sie überträgt ein verzerrtes Signal. Es könnte jenes freisetzen, das nicht einmal das Kern-Netzwerk eindämmen konnte.
-Items/VoidNeuronRobotBoss	Text		Herald Void Neuron	Jasny neuron pustki	Herold-Nihilneuron
-Items/VoidNeuronRobotBossDesc	Text		A glowing cell that phases through itself, twisted and pulled as if tethered to an unseen presence. Once part of S.A.H.A.B.A.R.'s containment core, it now transmits a distorted echo of the same signal.	Świecąca komórka, która przechodzi przez siebie, skręcona i wygięta, jakby była przywiązana do niewidzialnej obecności. Kiedyś była częścią rdzenia powstrzymującego S.A.H.A.B.A.R.a, a teraz przekazuje zniekształcone echo tego samego sygnału	Eine leuchtende Zelle, die sich durch sich selbst bewegt, dreht und zieht, als wäre sie an eine ungesehene Präsenz gebunden. Sie war einst Teil des Eindämmungskerns von S.A.H.A.B.A.R. und sendet nun ein verzerrtes Echo desselben Signals aus.
-Items/VoidOrbGun	Text		Void Gun	Pistolet próżniowy	Nihilkanone
-Items/VoidOrbGunDesc	Text		A particle weapon with unknown inner workings. It emits balls of void that distort spacetime to inflict high damage.	Broń cząsteczkowa o nieznanym działaniu wewnętrznym. Emituje kule pustki, które zniekształcają czasoprzestrzeń, zadając wysokie obrażenia.	Eine Partikelwaffe unbekannter Konstruktion. Sie verschießt Kugeln bestehend aus Nichts, die das Raumzeit-Gefüge verzerren und hohen Schaden anrichten.
+Items/VoidNeuronRobotBoss	Text		Herald Void Neuron	Jasny neuron otchłani	Herold-Nihilneuron
+Items/VoidNeuronRobotBossDesc	Text		A glowing cell that phases through itself, twisted and pulled as if tethered to an unseen presence. Once part of S.A.H.A.B.A.R.'s containment core, it now transmits a distorted echo of the same signal.	Świecąca komórka, która przechodzi przez siebie, skręcona i wygięta, jakby była przywiązana do niewidzialnej obecności. Kiedyś była częścią rdzenia powstrzymującego S.A.H.A.B.A.R’a, a teraz przekazuje zniekształcone echo tego samego sygnału	Eine leuchtende Zelle, die sich durch sich selbst bewegt, dreht und zieht, als wäre sie an eine ungesehene Präsenz gebunden. Sie war einst Teil des Eindämmungskerns von S.A.H.A.B.A.R. und sendet nun ein verzerrtes Echo desselben Signals aus.
+Items/VoidOrbGun	Text		Void Gun	Pistolet otchłani	Nihilkanone
+Items/VoidOrbGunDesc	Text		A particle weapon with unknown inner workings. It emits balls of void that distort spacetime to inflict high damage.	Broń cząsteczkowa o nieznanym działaniu wewnętrznym. Emituje kule otchłani, które zniekształcają czasoprzestrzeń, zadając wysokie obrażenia.	Eine Partikelwaffe unbekannter Konstruktion. Sie verschießt Kugeln bestehend aus Nichts, die das Raumzeit-Gefüge verzerren und hohen Schaden anrichten.
 Items/WallAlienBlock	Text		Alien Tech Block	Blok technologiczny obcych	Alientechnologie-Block
 Items/WallAlienBlockDesc	Text		A mysterious intricate piece of architecture.	Tajemniczy, skomplikowany element architektury.	Ein mysteriöses und komplexes architektonisches Werk.
 Items/WallBossChest	Text		Urschleims Chest	Skrzynia Urschleima	Urschleims Kiste
@@ -6036,7 +6036,7 @@ Items/WallBossScannerDesc	Text		Scans the world for Urschleim. Consumed on succe
 Items/WallBossSummoningItem	Text	"For translating the name ""Urschleim"" reference back to the note I left in the ""Names"" bracket of this document"	Primeval Slime Cell	Pierwotna komórka szlamu	Urschleimzelle
 Items/WallBossSummoningItemDesc	Text		A highly mutative, crystalized cell. To resummon Urschleim, activate it in the Passage where ancient lifeforms still roam. Consumed in the process.	Wysoce zmutowana, skrystalizowana komórka. Aby ponownie przywołać Urschleima, aktywuj ją w Przejściu, gdzie wciąż wędrują pradawne formy życia. Zużywa się podczas tego procesu.	Eine stark mutierte, kristallisierte Zelle. Um den Urschleim erneut zu beschwören, verwende sie in der Passage, wo noch immer uralte Lebensformen umherstreifen. Wird nach der Verwendung verbraucht.
 Items/WallBossTrophy	Text		Urschleim Figurine	Figurka Urschleima	Urschleim-Figur
-Items/WallBossTrophyDesc	Text		A lifelike representation of Urschleim.	Realistyczna reprezentacja Urschleima.	Eine lebensechte Nachbildung des Urschleims.
+Items/WallBossTrophyDesc	Text		A lifelike representation of Urschleim.	Realistyczne odwzorowanie Urschleima.	Eine lebensechte Nachbildung des Urschleims.
 Items/WallCityBlock	Text		Metropolis Block	Blok metropolii	Metropolis-Block
 Items/WallCityBlockDesc	Text		A sturdy piece of city architecture, decorated with glass and gold.	Solidny element architektury miejskiej, ozdobiony szkłem i złotem.	Ein robustes Werk der Stadt-Architektur, dekoriert mit Glas und Gold.
 Items/WallClayBlock	Text		Clay Block	Blok gliny	Lehm-Block
@@ -6067,7 +6067,7 @@ Items/WallExcavationDungeonBlock	Text		Industrial Block	Blok industrialny	Indust
 Items/WallExcavationDungeonBlockDesc	Text		A sleek wall of robust metal. It has a faint texture of rust.	Gładka ściana z wytrzymałego metalu. Ma delikatną teksturę rdzy.	Eine glatte, robuste Metallwand. Auf ihr befindet sich eine etwas rostige Textur.
 Items/WallExcavationRockBlock	Text		Tuff Block	Blok tufowy	Tuff-Block
 Items/WallExcavationRockBlockDesc	Text		A tough tuff block. Lesser explorers would need machines to mine this.	Wytrzymały blok tufowy. Mniej doświadczeni odkrywcy potrzebowaliby maszyn, aby go wydobyć.	Ein taffer Tuff-Block. Unbedeutende Forscher würden ihn nur mit Maschinen abbauen können.
-Items/WallExcavationVoidBlock	Text		Void Infused Tuff Block	Blok tufu nasycony próżnią	Nihil-durchtränkter Tuff-Block
+Items/WallExcavationVoidBlock	Text		Void Infused Tuff Block	Blok tufu nasycony otchłanią	Nihil-durchtränkter Tuff-Block
 Items/WallExcavationVoidBlockDesc	Text		A sparse yet firm composite of tuff debris. It seems to be held together more by a purplish, gaseous adhesive than any structural rigidity.	Rzadka, ale twarda mieszanka odłamków tufu. Wydaje się, że jest utrzymywana przez fioletowe, gazowe spoiwo, a nie przez sztywność strukturalną.	Ein dürftiges, aber festes Gemisch aus Tuffresten. Es scheint eher durch einen violetten, gasartigen Klebstoff verbunden zu sein als durch strukturelle Härte.
 Items/WallExplosiveBlock	Text		Explosives Deposit	Skład materiałów wybuchowych	Sprengstoff-Depot
 Items/WallExplosiveBlockDesc	Text		A highly dangerous box of explosives that can be placed like a wall. Don't hit it or it will blow up right in your face.	Bardzo niebezpieczna skrzynia z materiałami wybuchowymi, którą można umieścić jak ścianę. Nie uderz w nią, bo wybuchnie ci prosto w twarz.	Eine hochgefährliche Kiste voller Sprengstoff, die wie eine Wand platziert werden kann. Nicht draufschlagen, sonst fliegt sie dir um die Ohren.
@@ -6728,7 +6728,7 @@ RepairButton	Text		Repair	Napraw	Reparieren
 RepairButtonDesc	Text		Toggle to repair tools, weapons and equipment.	Przełącz, aby naprawić narzędzia, broń i wyposażenie.	Umschalten, um Werkzeuge, Waffen und Ausrüstung zu reparieren.
 RepairButtonTitle	Text		Repair	Naprawa	Reparieren
 RichPresence/InBiomeDesert	Text		in the Desert of Beginnings	na Pustyni Początków	in der Wüste der Anfänge
-RichPresence/InBiomeExcavation	Text		in the Breaker's Reach	na Polu Łamacza	in der Brecherweite
+RichPresence/InBiomeExcavation	Text		in the Breaker's Reach	na Rubieży Zniszczenia	in der Brecherweite
 RichPresence/InBiomeGreatWall	Text		at the Great Wall	na Wielkim Murze	an der Großen Mauer
 RichPresence/InBiomeLarva	Text		in the Clay Caves	w Glinianych Jaskiniach	in den Lehm-Höhlen
 RichPresence/InBiomeNature	Text		in Azeos' Wilderness	w Dziczy Azeosa	in Azeos' Wildnis
@@ -6766,7 +6766,7 @@ Roles/Ranger	Text		Ranger	Strzelec	Jäger
 Roles/RangerDesc	Text		A swift fighter with a keen eye that's trained to hit enemies from far away.	Szybki wojownik z bystrym okiem, wyszkolony do trafiania wrogów z daleka.	Ein flinker Kämpfer mit scharfem Auge, der darauf trainiert ist, Gegner auf weite Distanz zu bekämpfen.
 Roles/Warlock	Text		Warlock	Czarnoksiężnik	Hexenmeister
 Roles/WarlockDesc	Text		An adept warlock who conjures dark minions to besiege and bewilder foes.	Adept czarnoksięstwa, który wyczarowuje mrocznych sługusów, by oblegać wrogów.	Ein erfahrener Hexenmeister, der finstere Schergen beschwört, um Feinde zu bedrängen und zu verwirren.
-SahabarAcronym	Text		Sanctified Artificial Herald Against Breach And Ruin	Uświęcony Sztuczny Posłaniec Przeciwko Naruszeniom i Zniszczeniu	Sanktifizierter artifizieller Herold am Bruch angrenzenden Ruins
+SahabarAcronym	Text		Sanctified Artificial Herald Against Breach And Ruin	Sakralny Automatyczny Herold Anty-Burzeniu a Rozkładowi 	Sanktifizierter artifizieller Herold am Bruch angrenzenden Ruins
 SahabarBossName	Text		S.A.H.A.B.A.R.	S.A.H.A.B.A.R.	S.A.H.A.B.A.R.
 SahabarProphetName	Text		Sahabar	Sahabar	Sahabar
 SalvageButton	Text		Salvage	Odzysk	Zurückgewinnen
@@ -7063,7 +7063,7 @@ TheCore/NextSoulUnderDevelopment	Text	The core will say this line when player ha
 TheCore/RobotBossHint1	Text		One parasite now unmade, yet the blight remains.	Jeden pasożyt został pokonany, ale plaga nadal trwa.	Ein Parasit ist nun beseitigt, doch das Verderben bleibt.
 TheCore/RobotBossHint2	Text		Its kin stirs beyond, where grief and flame once met.	Jego ród budzi się tam, gdzie niegdyś spotkały się smutek i płomień.	Seine Verwandtschaft regt sich jenseits, wo sich Kummer und Flamme einst trafen.
 TheCore/RobotBossHint3	Text		Seek the gate, far North. There lies Sahabar's final reach.	Szukaj bramy na dalekiej północy. Tam znajduje się miejsce spoczynku Sahabara.	Sucht das Tor fern im Norden auf. Dort findet Ihr die Weite von Sahabars letztem Bestreben.
-TheCore/RobotBossHint4	Text		Go hence, for the void still whispers within the stone.	Idź stąd, bowiem pustka wciąż szepcze z wnętrza kamieni.	Schreitet dorthin. Das Flüstern des Nihil hallt noch durch den Stein.
+TheCore/RobotBossHint4	Text		Go hence, for the void still whispers within the stone.	Idź stąd, bowiem otchłań wciąż szepcze z wnętrza kamieni.	Schreitet dorthin. Das Flüstern des Nihil hallt noch durch den Stein.
 TheCore/RobotBossSentence1	Text		Thou hast broken the herald forged from faith and fear.* Its sanctified shell has collapsed.	Tyś zniszczył posłańca wykutego z wiary i strachu.* Jego uświęcona powłoka runęła.	Ihr habt den Herold gebrochen, geschmiedet aus Glaube und Furcht.* Seine sanktifizierte Hülle ist zerfallen.
 TheCore/RobotBossSentence2	Text		The Maw of Endings awaits.*.*.* and it has seen you.	Otchłań Końca oczekuje.*.*.* ona cię dostrzegła.	Der Schlund der Enden wartet.*.*.* und er hat Euch gesehen.
 TheCore/SoulOfBirdBossHint1	Text	"{0} will be replaced with the direction of the nature biome such as ""north east"" or ""south"""	The flourishing wilderness of the sky titan thrives {0} from here. 	Rozkwitająca dzicz podniebnego tytana rozrasta się {0} stąd. 	Die blühende Wildnis, in der Azeos lebt, befindet sich {0} von hier.
@@ -7332,7 +7332,7 @@ separate each month by an ASCII space.
 The month will be placed into the 'dateFormat' string."	Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec	Sty Lut Mar Kwi Maj Cze Lip Sie Wrz Paź Lis Gru	Jan. Feb. Mrz. Apr. Mai Jun. Jul. Aug. Sep. Okt. Nov. Dez.
 multiplayer	Text		Multiplayer	Tryb wieloosobowy	Mehrspieler
 musicSheetItem	Text		Music sheet	Arkusz nutowy	Notenblatt
-nativeLang	Text	"should not translate ""english"" but should show the name of the language itself"	English	Polski (v 1.2 Beta)	Deutsch
+nativeLang	Text	"should not translate ""english"" but should show the name of the language itself"	English	Polski v1.2	Deutsch
 necklaceSlot	Text		Necklace slot	Slot na naszyjnik	Halsketten-Slot
 newGame	Text		New Game	Nowa Gra	Neues Spiel
 newItem	Text	"Shown when a new item is picked up, for example: ""New item: Apple"""	New item: {0}	Nowy przedmiot: {0}	Neuer Gegenstand: {0}
