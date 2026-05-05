@@ -2379,20 +2379,20 @@ FoodTypes/Meat	Text		Other	Inne	Andere
 FoodTypes/Plant	Text		Plant	Roślina	Pflanze
 HardMode	Text		Hard	Trudny	Schwer
 HardModeDesc	Text		Tackle tougher monsters and reap greater rewards.	Zmierz się z trudniejszymi potworami i zgarnij większe nagrody.	Nimm es mit härteren Monstern auf und ernte größere Belohnungen.
-HealthBars-Options/ColorDuration	Text	 [new]	Duration/progress color		
-HealthBars-Options/ColorHealth	Text	 [new]	Health color		
-HealthBars-Options/ColorMana	Text	 [new]	Mana color		
-HealthBars-Options/ColorShield	Text	 [new]	Armor color		
-HealthBars-Options/DisplayOverObjects	Text	 [new]	Display over objects		
-HealthBars-Options/EmphasizeLargeHits	Text	 [new]	Emphasize large hits		
-HealthBars-Options/Header	Text	 [new]	Enemy Health Bars settings		
-HealthBars-Options/ResetToDefaults	Text	 [new]	Reset to defaults		
-HealthBars-Options/ResetToDefaultsDesc	Text	 [new]	Reset all settings to their defaults?		
-HealthBars-Options/ShowCreatureHealth	Text	 [new]	Creature health		
-HealthBars-Options/ShowLocalPlayerHealth	Text	 [new]	Local player health		
-HealthBars-Options/ShowMinionDuration	Text	 [new]	Minion duration		
-HealthBars-Options/ShowOreBoulderProgress	Text	 [new]	Ore boulder progress		
-HealthBars-Options/ShowOtherPlayerHealth	Text	 [new]	Player health		
+HealthBars-Options/ColorDuration	Text		Duration/progress color	Kolor czasu trwania/postępu	
+HealthBars-Options/ColorHealth	Text		Health color	Kolor zdrowia	
+HealthBars-Options/ColorMana	Text		Mana color	Kolor many	
+HealthBars-Options/ColorShield	Text		Armor color	Kolor pancerza	
+HealthBars-Options/DisplayOverObjects	Text		Display over objects	Wyświetlaj nad obiektami	
+HealthBars-Options/EmphasizeLargeHits	Text		Emphasize large hits	Podkreślaj potężne trafienia	
+HealthBars-Options/Header	Text		Enemy Health Bars settings	Ustawienia pasków zdrowia przeciwników	
+HealthBars-Options/ResetToDefaults	Text		Reset to defaults	Przywróć ustawienia domyślne	
+HealthBars-Options/ResetToDefaultsDesc	Text		Reset all settings to their defaults?	Przywrócić ustawienia domyślne?	
+HealthBars-Options/ShowCreatureHealth	Text		Creature health	Zdrowie stworzeń	
+HealthBars-Options/ShowLocalPlayerHealth	Text		Local player health	Zdrowie gracza lokalnego	
+HealthBars-Options/ShowMinionDuration	Text		Minion duration	Czas trwania sługusów	
+HealthBars-Options/ShowOreBoulderProgress	Text		Ore boulder progress	Postęp wydobywania rudy	
+HealthBars-Options/ShowOtherPlayerHealth	Text		Player health	Zdrowie gracza	
 HelmVanitySlot	Text		Helm vanity slot	Okno wyglądu hełmu	Helm-Eitelkeit-Slot
 Intro/Slide1	Text		In a place far away from anywhere else.	W miejscu oddalonym od reszty świata.	An einem Ort mitten im Nirgendwo.
 Intro/Slide2	Text		You are part of a group of explorers, making your way through the forest.	Jesteś częścią grupy odkrywców, którzy przedzierają się przez las.	Du gehörst zu einer Gruppe von Forschern, die sich ihren Weg durch den Wald bahnen.
