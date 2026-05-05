@@ -2379,13 +2379,13 @@ FoodTypes/Meat	Text		Other	Inne	Andere
 FoodTypes/Plant	Text		Plant	Roślina	Pflanze
 HardMode	Text		Hard	Trudny	Schwer
 HardModeDesc	Text		Tackle tougher monsters and reap greater rewards.	Zmierz się z trudniejszymi potworami i zgarnij większe nagrody.	Nimm es mit härteren Monstern auf und ernte größere Belohnungen.
-HealthBars-Options/ColorDuration	Text		Duration/progress color	Kolor czasu trwania/postępu	
+HealthBars-Options/ColorDuration	Text		Duration/progress color	Kolor trwania/postępu	
 HealthBars-Options/ColorHealth	Text		Health color	Kolor zdrowia	
 HealthBars-Options/ColorMana	Text		Mana color	Kolor many	
 HealthBars-Options/ColorShield	Text		Armor color	Kolor pancerza	
 HealthBars-Options/DisplayOverObjects	Text		Display over objects	Wyświetlaj nad obiektami	
 HealthBars-Options/EmphasizeLargeHits	Text		Emphasize large hits	Podkreślaj potężne trafienia	
-HealthBars-Options/Header	Text		Enemy Health Bars settings	Ustawienia pasków zdrowia przeciwników	
+HealthBars-Options/Header	Text		Enemy Health Bars settings	Ustawienia pasków zdrowia	
 HealthBars-Options/ResetToDefaults	Text		Reset to defaults	Przywróć ustawienia domyślne	
 HealthBars-Options/ResetToDefaultsDesc	Text		Reset all settings to their defaults?	Przywrócić ustawienia domyślne?	
 HealthBars-Options/ShowCreatureHealth	Text		Creature health	Zdrowie stworzeń	
