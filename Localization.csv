@@ -220,22 +220,29 @@ Changelog Categories/graphics	Text		Graphics	Grafika	Grafik
 Changelog Categories/miscellaneous	Text		Miscellaneous	Inne	Sonstiges
 Changelog Categories/modding	Text		Modding	Modyfikacje	Modding
 Changelog Categories/performance	Text		Performance	Wydajność	Leistung
+Changelog Entries/AFTilesDesc	Text	 [new]	The Abiotic Factor scene no longer has impossible tiling (turf on stone)		
 Changelog Entries/FenceMapColorsDesc	Text		Painted Wood Fences now appear with the correct colors on the map.	Pomalowane drewniane ogrodzenia są teraz wyświetlane na mapie w prawidłowych kolorach.	Bemalte Holzzäune werden jetzt in der korrekten Farbe auf der Karte angezeigt.
 Changelog Entries/PS5VibrationNoStoppingDesc	Text	 [new]	Fixed controller vibration not always stopping.		Ein Problem wurde behoben, wodurch die Controller-Vibration nicht immer stoppte.
 Changelog Entries/activateAllContentArgumentDesc	Text		Added an “-activateallcontent” argument for dedicated server to automatically activate all available content bundles. If you include this argument in your startup script, you do not have to activate new content bundles individually when the game receives an update. See ARGUMENTS.txt for more information.	Dodano argument “-activateallcontent” dla dedykowanych serwerów, aby automatycznie aktywować wszystkie dostępne pakiety zawartości. Jeśli dodasz ten argument do skryptu startowego, nie będziesz musiał aktywować nowych pakietów zawartości pojedynczo po aktualizacji gry. Więcej informacji znajdziesz w pliku ARGUMENTS.txt.	NO TRANSLATION NEEDED
+Changelog Entries/addCopyWorldSeedButtonDesc	Text	 [new]	It is now possible to copy a world's seed with a single click in the world settings screen.		
 Changelog Entries/addMissingDirtBiomeTracksDesc	Text		"Added two new tracks in the Dirt biome: ""Mysteries Uncovered"" and ""Light From Above""."	"Dodano dwa nowe utwory w biomie ziemi: ""Mysteries Uncovered"" i ""Light From Above""."	2 neue Musiktitel für das Schmutz-Biom wurden hinzugefügt: „Mysteries Uncovered“ und „Light From Above“.
+Changelog Entries/addPotionAndCritterPouchDesc	Text	 [new]	Added Potion Pouch and Critter Pouch to provide dedicated storage for critters and potions.		
 Changelog Entries/addedAutomatedSystemsAndElectronicsDesc	Text		Added new Automated Systems & Electronics:	Dodano nowe systemy automatyczne i elektronikę:	Neue automatisierte Systeme & Elektronik wurden hinzugefügt:
+Changelog Entries/addedDirtRuins1SceneBackDesc	Text	 [new]	The scene called Dirt Ruins 1 can once again naturally spawn in the world.		
 Changelog Entries/addedEchoMapsDesc	Text		Added 8 Echo-Maps that mark important locations in the world.	Dodano 8 map echa, które zaznaczają ważne lokacje na świecie.	8 Echo-Karten, die wichtige Standorte auf der Welt markieren, wurden hinzugefügt.
 Changelog Entries/addedExcavationBiomeDesc	Text		New Biome: Breaker's Reach - Found in the far north.	Nowy biom: Rubież Zniszczenia - znajduje się na dalekiej północy.	Neues Biom: Brecherweite. Befindet sich fern im Norden.
 Changelog Entries/addedExcavationVoidSubbiomeDesc	Text		New Breaker's Reach Void sub-biome.	Nowy subbiom Otchłani w Rubieży Zniszczenia	Neues Nihil-Unterbiom in der Brecherweite.
 Changelog Entries/addedFiveVoidEnemiesDesc	Text		Added 5 void enemies:	Dodano 5 przeciwników otchłani:	5 Nihil-Feinde wurden hinzugefügt:
+Changelog Entries/addedLockedSolariteChestToFishingDesc	Text	 [new]	The Locked Solarite Chest can now be found in the waters of the Shimmering Frontier.		
 Changelog Entries/addedMiningMinionDesc	Text		New Minion: Mining Minion - Spawn a pickaxe to help you mine.	Nowy sługus: Górniczy sługa – przywołuje kilof, który pomaga ci w wydobywaniu surowców.	Neuer Unterling: Bergbau-Unterling – spawne eine Spitzhacke, die dir beim Abbauen hilft.
 Changelog Entries/addedNewExcavationMushroomDesc	Text		New mushroom variant: the Glowing Mushroom - Found in the Breaker's Reach Void sub-biome.	Nowy rodzaj grzyba: świecący grzyb – występuje w subbiomie otchłani Rubieży Zniszczenia	Neue Pilzvariante: der Leuchtpilz. Befindet sich im Nihil-Unterbiom in der Brecherweite.
 Changelog Entries/addedNewRobotBossDesc	Text		New Boss: S.A.H.A.B.A.R. - Found in the Breaker's Reach biome.	Nowy boss: S.A.H.A.B.A.R’a – występuje w biomie Rubież Zniszczenia	Neuer Boss: S.A.H.A.B.A.R. Befindet sich im Brecherweite-Biom.
 Changelog Entries/addedOverTwentyNewDecorationsDesc	Text		Added more than 20 new pieces of decoration.	Dodano ponad 20 nowych elementów dekoracyjnych.	Über 20 neue Dekorationen wurden hinzugefügt.
+Changelog Entries/addedScenesToOldBiomesDesc	Text	 [new]	Added lots of new scenes to already existing biomes.		Bereits bestehenden Biomen wurden jede Menge neue Szenen hinzugefügt.
 Changelog Entries/addedSevenNewWeaponsDesc	Text		Added 7 new weapons:	Dodano 7 nowych broni:	7 neue Waffen wurden hinzugefügt:
 Changelog Entries/addedSixAccessoriesDesc	Text		Added 6 new accessories:	Dodano 6 nowych akcesoriów:	6 neue Accessoires wurden hinzugefügt:
 Changelog Entries/addedSixArmorSetsDesc	Text		Added 6 new armor sets:	Dodano 6 nowych zestawów zbroi:	6 neue Rüstungssets wurden hinzugefügt:
+Changelog Entries/addedSomeLargeDestructibleDescriptionsDesc	Text	 [new]	Added descriptions to some large destructible objects.		
 Changelog Entries/addedTenFigurinesDesc	Text		Added 10 new figurines for the new enemies and bosses.	Dodano 10 nowych figurek dla nowych wrogów i bossów.	10 neue Figuren für die neuen Feinde und Bosse wurden hinzugefügt.
 Changelog Entries/addedThreeExcavationCrittersDesc	Text		Added 3 new critters found in the Breaker's Reach.	Dodano 3 nowe stworzenia występujące w Rubieży Zniszczenia.	3 neue Wesen, die sich in der Brecherweite befinden, wurden hinzugefügt.
 Changelog Entries/addedThreeExcavationValuablesDesc	Text		Added 3 new valuables exclusive to the Breaker's Reach.	Dodano 3 nowe przedmioty wartościowe dostępne wyłącznie w Rubieży Zniszczenia.	3 neue Wertgegenstände exklusiv für die Brecherweite wurden hinzugefügt.
@@ -254,12 +261,21 @@ Changelog Entries/baitToLureChangeDesc	Text		Updated the graphics and the names 
 Changelog Entries/baselineGoldenCropPlantChanceDesc	Text		Both the player and automated systems now have a base chance for planting golden crops.	Zarówno gracz, jak i systemy automatyczne mają teraz podstawową szansę na zasadzenie złotych upraw.	Spieler und automatisierte Systeme haben jetzt eine Chance, goldene Feldfrüchte einzupflanzen.
 Changelog Entries/beamWeaponsShowAimDesc	Text		"Weapons classified as ""beam weapons"" should now display their aiming direction via a crosshair cursor. The affected weapons are:"	"Broń sklasyfikowana jako ""broń promieniowa"" powinna teraz wyświetlać kierunek celowania za pomocą kursora w kształcie krzyżyka. Dotyczy to następujących rodzajów broni:"	
 Changelog Entries/biomeSampleRaceConditionDesc	Text		Fixed a race condition that could cause memory to be accessed after it had been deallocated.	Naprawiono błąd, który powodował dostęp do pamięci po jej zwolnieniu.	
+Changelog Entries/biomeSpecificTerrariumsPaintableDesc	Text	 [new]	Biome-specific terrariums and aquariums are now paintable.		
 Changelog Entries/blockedSortButtonPixelsDesc	Text	 [new]	Fixed an issue where part of the inventory sort button was not clickable while in Creative mode.		Ein Problem wurde behoben, wodurch die Sortieren-Schaltfläche für das Inventar im Kreativmodus nicht angeklickt werden konnte.
 Changelog Entries/bossCrystalsCanBeDeletedDesc	Text		The Glurch Eye, Ghorm's Horn and Stolen Crystal Heart items can now be incinerated. 	Przedmioty Oko Glurcha, Róg Ghorma i Skradzione kryształowe serce można teraz usuwać lub spalać.	Die Gegenstände Glurchs Auge, Ghorms Horn und Gestohlenes Kristallherz können jetzt gelöscht oder verbrannt werden.
+Changelog Entries/bossLootDropMissingOnLeaveDesc	Text	 [new]	Fixed an issue where bosses sometimes failed to drop their loot if the player died or left the area during the boss' death animation.		
+Changelog Entries/bridgesHiddenUnderWallsDesc	Text	 [new]	Fixed a bug where bridges would sometimes be invisible after wall blocks placed on top of them were broken.		
 Changelog Entries/burnConditionChangeDesc	Text		Burn debuffs no longer always refresh on new applications, but only when they have more total damage than the current remaining burn debuff.	Debuffy oparzenia nie odświeżają się już zawsze przy ponownym zastosowaniu, ale tylko wtedy, gdy ich łączne obrażenia są większe niż aktualny pozostały debuff oparzenia.	Brand-Debuffs werden nicht länger bei jeder neuen Anwendung aufgefrischt, sondern nur dann, wenn sie einen höheren Gesamtschaden haben als der aktuell laufende Brand-Debuff.
 Changelog Entries/cancelJoinGameCausesNullrefDesc	Text		Pressing Cancel on the Join Game screen immediately after starting to join no longer causes future join attempts to timeout.	Naciśnięcie przycisku Anuluj na ekranie Dołącz do gry natychmiast po rozpoczęciu dołączania nie powoduje już przekroczenia limitu czasu przyszłych prób dołączenia.	NO TRANSLATION NEEDED
+Changelog Entries/casualKeepsInventoryDesc	Text	 [new]	Keeps inventory after death;		
+Changelog Entries/casualLargerParryWindowDesc	Text	 [new]	Has larger parry windows;		
+Changelog Entries/casualReducedHungerDrainDesc	Text	 [new]	Has a reduced hunger drain;		
+Changelog Entries/casualShorterPotionCooldownsDesc	Text	 [new]	Has shorter healing and mana potion cooldowns.		
 Changelog Entries/cavelingGardenerAttacksDesc	Text		Resolved an issue where the Caveling Gardener’s attack pattern did not behave as intended.	Naprawiono błąd, który powodował, że sposób ataku jaskiniowego ogrodnika nie działał zgodnie z zamierzeniami.	Ein Problem wurde behoben, wodurch das Angriffsmuster des Grottling-Gärtners nicht wie vorgesehen abläuft.
 Changelog Entries/cavelingGardenerChaseDistanceDesc	Text		Caveling Gardeners now pursue targets at a range that allows them to use their melee attack effectively.	Jaskiniowi ogrodnicy ścigają teraz cele w zasięgu, który pozwala im skutecznie stosować ataki wręcz.	NO TRANSLATION NEEDED
+Changelog Entries/ccBackgroundRuneDesc	Text	 [new]	Fixed a where some visual effects would not play in the final boss' second phase.		
+Changelog Entries/changeWorldInfoDesc	Text	 [new]	The name and save icon of an existing world can now be changed in its world settings screen.		
 Changelog Entries/chestGlowDesc	Text	 [new]	Chests with emissive textures now glow in the dark.		
 Changelog Entries/chineseFoldingScreensRotateAgainDesc	Text	 [new]	Folding Screens can now correctly be rotated.		
 Changelog Entries/cicadaBossMaterializerDesc	Text		The Nimruza Figurine can no longer be placed in the Materializer.	Figurka Nimruzy nie może być już umieszczona w materializatorze.	Die Nimruza-Figur kann nicht länger in den Materialisator platziert werden.
@@ -278,13 +294,16 @@ Changelog Entries/ck1205	Text	 [new]	1.2.0.5 - Stability Patch		1.2.0.5 – Stab
 Changelog Entries/ck1206	Text	 [new]	1.2.0.6 - Stability Patch		
 Changelog Entries/ck1207	Text	 [new]	1.2.0.7 - Stability Patch		
 Changelog Entries/ck120x	Text		1.2.0.x - Stability Patch	1.2.0.x — poprawka stabilności	
+Changelog Entries/ck1210	Text	 [new]	1.2.1.0 - Minor Update		
 Changelog Entries/clientAnimationTriggersPerfDesc	Text		Clients now receive and process animation triggers from the server in a worker thread job instead of on the main thread.	Klienci otrzymują i przetwarzają teraz wyzwalacze animacji z serwera w zadaniu wątku roboczego zamiast w wątku głównym.	NO TRANSLATION NEEDED
 Changelog Entries/closeMapGamepadOffhandDesc	Text		Closing the map using the “back” button on a gamepad no longer triggers offhand item effects.	Zamknięcie mapy za pomocą przycisku “Wstecz” na gamepadzie nie wyzwala już efektów przedmiotów dodatkowych.	NO TRANSLATION NEEDED
 Changelog Entries/converterReflectionLoadTimeDesc	Text		Improved how the game finds converters, reducing the game’s load time.	Poprawiono sposób wyszukiwania konwerterów przez grę, skracając czas jej ładowania.	NO TRANSLATION NEEDED
 Changelog Entries/coreBossDeathEffectsOffsetDesc	Text		Moving during the Core Commander's death animation no longer causes some particle effects to appear in the wrong location.	Poruszanie się podczas animacji śmierci Core Commandera nie powoduje już wyświetlania niektórych efektów cząsteczkowych w niewłaściwym miejscu.	NO TRANSLATION NEEDED
 Changelog Entries/corruptedKoreanFontDesc	Text		Fixed an issue that caused texts in Korean to be garbled.	Naprawiono problem, który powodował zniekształcenie tekstów w języku koreańskim.	
+Changelog Entries/craftingAuthoringRefactorDesc	Text	 [new]	CraftingAuthoring now uses a ModdedObjectID string when ObjectID is set to ObjectID.None, which will be converted to an ObjectID during runtime. Modders may use this change to add modded items to workbenches and similar items.		
 Changelog Entries/craftingParchmentMouseExploitDesc	Text		It is no longer possible to avoid paying the full crafting cost for parchment recipes by holding some required items in the mouse slot when the crafting animation finishes.	Nie można już uniknąć ponoszenia pełnych kosztów wytworzenia receptur pergaminowych poprzez trzymanie niektórych wymaganych przedmiotów w slocie myszy po zakończeniu animacji wytwarzania.	Es ist nicht länger möglich, die gesamten Fertigungskosten für Pergamentrezepte zu umgehen, wenn man einige benötigte Gegenstände im Maus-Slot hält, während die Fertigungsanimation endet.
 Changelog Entries/creativeBiomeTitlesDesc	Text	 [new]	Biome titles are no longer shown while in Creative mode.		Im Kreativmodus werden nicht länger die Titel von Biomen angezeigt.
+Changelog Entries/critterTransformDesc	Text	 [new]	Critters no longer clip through walls behind them.		
 Changelog Entries/crystalMerchantItemMissingDesc	Text	 [new]	Fixed a bug where the Nuclear Battery would sometimes not drop after defeating an Ancient Battle Arena.		Ein Fehler wurde behoben, wodurch der Sieg in einer antiken Kampfarena manchmal keine Nuklear-Batterie gewährte.
 Changelog Entries/crystalMeteorMissingSpriteDesc	Text		Boulders in the Crystal Meteor scene are no longer invisible.	Głazy w scenie Crystal Meteor nie są już niewidoczne.	Erzblöcke in der Szene Kristallmeteor sind nicht länger unsichtbar.
 Changelog Entries/crystalSnailsCantDestroyDrillsDesc	Text		Crystal Snails no longer destroy drills when moving.	Kryształowe ślimaki nie niszczą już wierteł podczas ruchu.	Kristallschnecken zerstören nicht länger Bohrer, wenn sie sich bewegen.
@@ -306,6 +325,7 @@ Changelog Entries/electricalUiImprovementsDesc	Text		The Electrical UI now featu
 Changelog Entries/electricitySourcesNoLongerFlickerElectricityDesc	Text		Fixed a long-standing issue where toggling/destroying electricity sources could cause one tick of zero electricity in connected components, even if connected to a second active source.	Naprawiono długotrwały problem, w wyniku którego przełączanie/niszczenie źródeł energii elektrycznej mogło powodować jeden takt zerowego zużycia energii w podłączonych komponentach, nawet jeśli były one podłączone do drugiego aktywnego źródła.	Ein seit Langem bestehendes Problem wurde behoben, wodurch die Umschaltung/Zerstörung von Elektrizitätsquellen zu einem Tick mit null Elektrizität in verbundenen Komponenten führen konnte, auch wenn diese mit einer zweiten aktiven Quelle verbunden waren.
 Changelog Entries/epicAchievementsStopWorkingDesc	Text		Achievements no longer stop working after playing for more than one hour.	Osiągnięcia nie przestają działać po ponad godzinie gry.	Erfolge hören nicht länger auf zu funktionieren, wenn man über eine Stunde spielt.
 Changelog Entries/epicUnleashedCCTrophyDesc	Text	 [new]	Reduced the rarity of the Unleashed Core Commander Figurine from Legendary to Epic, meaning the item can now be deleted if desired.		Die Seltenheit der Entfesselter-Kernkommandant-Figur wurde von Legendär auf Episch herabgestuft. Der Gegenstand kann jetzt auf Wunsch gelöscht werden.
+Changelog Entries/excavDestructiblePlacementDesc	Text	 [new]	The Metal Industrial Box and the Reinforced Industrial Box no longer erroneously render in front of Wall Light Bulbs.		
 Changelog Entries/excavationPuzzleGauntletFixDesc	Text	 [new]	Updated a Breaker's Reach puzzle scene to prevent a soft lock. This fix will only be applied to worlds where this scene was not generated prior to the fix.		Eine Rätselszene der Brecherweite wurde aktualisiert, um einem Softlock vorzubeugen. Dies gilt nur für Welten, in denen diese Szene nicht vor dieser Fehlerbehebung generiert wurde.
 Changelog Entries/excavationPuzzleLeadFixDesc	Text	 [new]	Updated a Breaker's Reach puzzle scene pedestal to contain a Shrooman Brute Figurine instead of a non-figurine item. This fix will only be applied to worlds where this scene was not generated prior to the fix.		Ein Rätselszenensockel der Brecherweite wurde aktualisiert; er enthält jetzt eine Pilzbold-Schläger-Figur statt eines Gegenstands, der keine Figur ist. Dies gilt nur für Welten, in denen diese Szene nicht vor dieser Fehlerbehebung generiert wurde.
 Changelog Entries/explosiveWallPoisonEffectDesc	Text		Poison Berry Walls' explosions should now correctly apply the poison effect.	Eksplozje ścian z trującymi jagodami powinny teraz prawidłowo wywoływać efekt zatrucia.	NO TRANSLATION NEEDED
@@ -359,20 +379,27 @@ Changelog Entries/fixWallBulbFacingUpwardLightDesc	Text	 [new]	Wall Light Bulbs 
 Changelog Entries/fixedCharactersNotAppearingCorrectlyDesc	Text	 [new]	Fixed several issues that caused some characters to not appear correctly in the game in various languages.		
 Changelog Entries/fixedMissingHungryCattleTextDesc	Text	 [new]	Fixed an issue that caused some UI text to not be shown correctly when specific cattle were hungry.		
 Changelog Entries/fixedQuillRifleProjectileLifetimeDesc	Text	 [new]	Adjusted the Quill Rifle's projectiles' lifetime.		Die Lebensdauer der Projektile aus dem Kielgewehr wurde angepasst.
+Changelog Entries/flamethrowerTurretAttackWithoutPlayerDesc	Text	 [new]	Fixed an issue where flamethrower turrets would fail to damage nearby enemies when the player was too far away.		
 Changelog Entries/fourNewAchievementsDesc	Text	 [new]	Added 4 new achievements.		4 neue Erfolge wurden hinzugefügt.
 Changelog Entries/friendlyExplosionDamageDecreasedDesc	Text	 [new]	Reduced damage and knockback from friendly explosions (weapons and grenades) for players, while remaining unchanged for opposing PvP teams.		Schaden und Rückstoß von Explosionen befreundeter Spieler wurden reduziert (Waffen und Granaten). Für gegnerische PvP-Teams bleiben sie unverändert.
 Changelog Entries/gainManaOnCritTalantChangeDescDesc	Text	 [new]	The Mana channeling talent now gives flat Mana instead of a percentage.		Das Talent Mana-Kanalisierung spendet jetzt statt eines Prozentsatzes eine pauschale Menge an Mana.
+Changelog Entries/godModeDurabilityDesc	Text	 [new]	Items no longer lose durability while the player is in God mode in a Creative world.		
 Changelog Entries/gravestoneMarkerOverWaypointDesc	Text	 [new]	Gravestone markers now visually appear over Waypoints and Portals on the map.		NO TRANSLATION NEEDED
 Changelog Entries/gravestonesDontBlockWaypointsDesc	Text	 [new]	Gravestone markers can no longer prevent you from teleporting to a Waypoint or Portal.		NO TRANSLATION NEEDED
 Changelog Entries/hoeWiresUnderBeltsFixDesc	Text	 [new]	Using a hoe on Wires beneath Conveyor Belts now correctly removes the Conveyor Belt before removing the Wires.		Mit der Benutzung einer Hacke auf Kabeln unterhalb von Förderbändern wird jetzt richtigerweise erst das Förderband statt der Kabel entfernt.
+Changelog Entries/hologramPodTitlesDesc	Text	 [new]	Improved clarity of the titles in the Ancient Hologram Pod.		
 Changelog Entries/hydraSummonItemsInHologramPodDesc	Text	 [new]	After a hydra boss has been killed in a world, their scanner and summoning item will now become available in the Ancient Hologram Pod.		Nach dem Töten eines Hydra-Bosses in einer Welt, werden sein Scanner und Beschwörungsgegenstand jetzt im Antiken Hologramm-Projektor verfügbar sein.
 Changelog Entries/impersonatorSyndromeAchievementFixDesc	Text	 [new]	The Impersonator Syndrome Achievement can now correctly be achieved.		Der Erfolg „Nachahmer-Syndrom“ kann jetzt korrekterweise erhalten werden.
+Changelog Entries/improvedCombatTextDisplayDesc	Text	 [new]	Fixed an issue where identical combat text from multiple sources in the same frame would only display once.		
+Changelog Entries/improvedNamesTextsTranslations1210Desc	Text	 [new]	Improved the names and descriptions of certain items, to better follow conventions and improve clarity.		
 Changelog Entries/increaseNatureCicadaHealthDesc	Text	 [new]	Increased the health of the Floracada.		Die Gesundheit der Florakade wurde erhöht.
 Changelog Entries/increasedControllerVibrationDesc	Text	 [new]	Increased the maximum vibration intensity on controller.		Die maximale Vibrationsintensität für Controller wurde erhöht.
 Changelog Entries/increasedDropChanceForNinjaArmorDesc	Text	 [new]	Increased the drop chance of the Ninja armor set by 200%.		Die Drop-Chance des Ninja-Rüstungssets wurde um 200 % erhöht.
 Changelog Entries/increasedMechanicalPartsSoldByMerchantDesc	Text	 [new]	Increased amount of Mechanical Parts sold by the Cloaked Merchant.		Die Menge an mechanischen Teilen, die der verhüllte Händler verkauft, wurde erhöht.
+Changelog Entries/introduceCasualCharacterTypeDesc	Text	 [new]	Introduced a new Casual character type that:		
 Changelog Entries/ironWorkbenchWoodPlankCostDesc	Text	 [new]	Iron Workbench now costs Planks instead of Wood.		Die Eisen-Werkbank kostet jetzt Bretter statt Holz.
 Changelog Entries/itemCollectorTeleportEffectsDesc	Text	 [new]	The Item Collector no longer plays the second teleportation effect if the item was not dropped due to electricity being interrupted.		Der Gegenstandssammler spielt nicht länger den zweiten Teleportationseffekt ab, wenn der Gegenstand nicht aufgrund unterbrochener Elektrizität ausgeworfen wurde.
+Changelog Entries/labelingChestsDesc	Text	 [new]	Added the ability to label chests.		
 Changelog Entries/lagSpikeBossOffscreenDesc	Text	 [new]	Fixed lag spikes that would sometimes happen when bosses temporarily went off-screen.		NO TRANSLATION NEEDED
 Changelog Entries/largeQuarryTimberRotatesCorrectlyDesc	Text	 [new]	The Large Quarry Timber's position when placed on the ground now correctly matches its visual placement indicator, and the item now shows a rotated sprite when facing upwards.		
 Changelog Entries/lessIntrusiveLocalizationWarningsDesc	Text	 [new]	Warnings about missing localizations in the TextDataBlock editor are now less intrusive and more descriptive.		
@@ -383,7 +410,9 @@ Changelog Entries/makeAzeosScannerCostFeathersAgainDesc	Text	 [new]	Azeos the Sk
 Changelog Entries/malugazTeleportRadiusDesc	Text	 [new]	Malugaz should no longer be able to teleport outside his combat arena.		NO TRANSLATION NEEDED
 Changelog Entries/mapBlankGamepadDesc	Text	 [new]	The map is no longer initially blank when opened at high zoom levels using a gamepad.		NO TRANSLATION NEEDED
 Changelog Entries/mapMarkerIconDelayDesc	Text	 [new]	Map markers on the minimap no longer have the wrong icon for one frame after using a scanner.		Kartenmarkierungen auf der Minikarte zeigen nach der Benutzung eines Scanners nicht länger für einen Frame das falsche Symbol an.
+Changelog Entries/meadowMilkCanNowBeCookedDesc	Text	 [new]	Meadow Milk can now be cooked.		
 Changelog Entries/menuInitializeLoadTimeDesc	Text	 [new]	Improved how menus are initialized to reduce the game’s load time.		NO TRANSLATION NEEDED
+Changelog Entries/minigunDisabledWhenBrokenDesc	Text	 [new]	The Scrap Minigun can no longer be charged up when at 0 durability.		
 Changelog Entries/minionDetonatorNotAffectNaturallyDyingMinionsDesc	Text	 [new]	Fixed minion detonators activating when a minion’s lifetime ended, which caused the minions to explode with no player input.		Ein Problem mit Unterling-Zündern wurde behoben, wodurch sie am Ende der Lebensdauer eines Unterlings aktiviert wurden, sodass die Unterlinge ohne Vorgabe des Spielers explodierten.
 Changelog Entries/minionDetonatorWrongSalvageMaterialDesc	Text	 [new]	The Minion Kindler should now drop the correct materials when salvaged.		Der Unterling-Befeuerer sollte jetzt die richtigen Materialien auswerfen, wenn er geborgen wird.
 Changelog Entries/minionMoldSlowDesc	Text	 [new]	Minions should now be correctly slowed by mold ground.		NO TRANSLATION NEEDED
@@ -393,8 +422,10 @@ Changelog Entries/missingABFLootDesc	Text	 [new]	Fixed a bug where some Abiotic 
 Changelog Entries/missingCrossplayTranslationMSDesc	Text	 [new]	Added a missing translation for the Multiplayer Connectivity option.		Eine fehlende Übersetzung für die Option Multiplayer-Konnektivität wurde hinzugefügt.
 Changelog Entries/missingFishingLootMessageDesc	Text	 [new]	"""Fixed a bug where the """"caught fish"""" chat message did not appear if you immediately threw the hook back into the water while having a bait equipped."""		NO TRANSLATION NEEDED
 Changelog Entries/missingNatureCicadaLootDesc	Text	 [new]	Fixed a bug where Floracadas would not drop any loot.		Ein Fehler wurde behoben, durch den Florakaden keine Beute hinterließen.
+Changelog Entries/missingPouchIconsDesc	Text	 [new]	Fixed a bug where inventory slots added by pouches would sometimes not show the background icon indicating which item type can be placed there.		
 Changelog Entries/missingTutorialRecipeHighlightsDesc	Text	 [new]	Fixed a bug where recipe slots would not highlight at the correct times during the in-game tutorial.		NO TRANSLATION NEEDED
 Changelog Entries/modDependencyMarkerDesc	Text	 [new]	Mods that are automatically installed because they are dependencies of other mods are now marked as dependencies in the mod menus. They also can no longer be uninstalled manually unless you first uninstall all mods that require them as dependencies. 		NO TRANSLATION NEEDED
+Changelog Entries/modDevConsoleCommandsDesc	Text	 [new]	QuantumConsole is now accessible to mod developers and can be switched on by setting MenuManager.enableConsole to true. It can then be opened in-game via CTRL + X.		
 Changelog Entries/modLocalizedDownloadSizeDesc	Text	 [new]	ModIO mod collection menu now displays mod size in localized “megabytes/kilobytes/bytes” text whenever unsubscribing from a mod.		NO TRANSLATION NEEDED
 Changelog Entries/moddingCKUsesSDBsDesc	Text	 [new]	Core Keeper now uses ScriptableDataBlocks which are just like ScriptableObjects but hold an address synced to the assets' GUID.		Core Keeper benutzt jetzt ScriptableDataBlocks, die genau wie ScriptableObjects funktionieren, aber eine Adresse haben, die mit der GUID der Assets synchronisiert ist.
 Changelog Entries/moddingGradientMapChangesDesc	Text	 [new]	Gradient Maps are now stored as a texture array inside of GradientMapDataBlocks.		Verlaufs-Maps werden jetzt als ein Texturarray innerhalb von GradientMapDataBlocks gespeichert.
@@ -403,6 +434,8 @@ Changelog Entries/moddingSpriteAssetChangesDesc	Text	 [new]	SpriteAssets are now
 Changelog Entries/moddingSpriteAssetSkinChangesDesc	Text	 [new]	SpriteAssetSkins are now SpriteAssetSkinDataBlocks.		SpriteAssetSkins haben jetzt die Bezeichnung SpriteAssetSkinDataBlocks.
 Changelog Entries/moddingSpriteObjectReferencesDesc	Text	 [new]	Sprite Objects now reference SpriteAssetDataBlocks and GradientMapDataBlocks.		Sprite-Objekte beziehen sich jetzt auf SpriteAssetDataBlocks und GradientMapDataBlocks.
 Changelog Entries/moddingSteamWorksLoadingAddedDesc	Text	 [new]	Mods can now be loaded from Steam Workshop as well.		Mods können jetzt auch aus dem Steam Workshop geladen werden.
+Changelog Entries/mouseCursorSpriteAssetDesc	Text	 [new]	The Sprite Renderer on the mouse cursor has been upgraded to a SpriteAsset which can now be modded via the ScriptableDataBlock editor.		
+Changelog Entries/mouseGamepadMovementBlockDesc	Text	 [new]	Holding an item and closing the inventory while using a gamepad no longer results in a noticeable delay before the character can move again.		
 Changelog Entries/movedLitFloorDesc	Text	 [new]	Moved the Lit Floor to Carpenter's Table.		Der beleuchtete Boden ist zur Tischler-Werkbank verschoben worden.
 Changelog Entries/movedStorageFullCheckLocationDesc	Text	 [new]	Moved the moment when the game checks for full storage to happen later, to allow for deleting worlds when this occurs.		Der Zeitpunkt, in dem das Spiel den Speicherplatz prüft, wurde hinausgezögert, um es Spielern im Falle eines vollen Speicherplatzes zu ermöglichen, Welten zu löschen.
 Changelog Entries/movedTableSawDesc	Text	 [new]	The Table Saw has been moved to the Tin Workbench.		Die Tischsäge ist zur Zinn-Werkbank verschoben worden.
@@ -429,14 +462,20 @@ Changelog Entries/nimruzaNameTranslatableDesc	Text	 [new]	The name that appeared
 Changelog Entries/noExtraweaponTrailSpawnDesc	Text	 [new]	Fixed an issue that could result in the duplication of the trails spawned by the secondary use of certain weapons.		Ein Problem wurde behoben, wodurch sich die Spuren durch den Sekundärzweck bestimmter Waffen verdoppelten.
 Changelog Entries/notAllowTrashingNonPlayerItemsDesc	Text	 [new]	Fixed an issue that allowed non-player inventory items to be sent to the trash can slot.		Ein Problem wurde behoben, wodurch Gegenstände von Nicht-Spieler-Inventaren in den Papierkorb-Slot gesteckt werden konnten.
 Changelog Entries/oreRemovedOnStartupDesc	Text	 [new]	Fixed an issue where unmined ore might disappear when loading a world, especially in areas close to dungeons and other structures.		Ein Problem wurde behoben, wodurch nicht abgebautes Erz beim Laden einer Welt und insbesondere in Gebieten in der Nähe von Dungeons oder anderen Strukturen verschwinden konnte.
+Changelog Entries/organizeCreativeModeCategoriesDesc	Text	 [new]	Organized the items in Creative Mode by splitting up categories and moving them into more appropriate locations.		
 Changelog Entries/outlineIssuesDesc	Text	 [new]	Fixed an issue that caused outlines to be displayed incorrectly during multiplayer sessions.		Ein Problem wurde behoben, wodurch Umrisse in Multiplayer-Sitzungen falsch angezeigt wurden.
 Changelog Entries/petBedNameInconsistenciesDesc	Text	 [new]	Fixed several inconsistencies for how pet names were displayed after being placed in a pet bed.		Mehrere Probleme mit der inkonsistenten Anzeige von Haustiernamen nach deren Platzierung in ein Haustierbett wurden behoben.
 Changelog Entries/pickupBlockedByEnvironmentDesc	Text	 [new]	The player's item pickup-radius is now blocked by doors and walls.		Der Aufnahme-Radius des Spielers für Gegenstände wird jetzt von Türen und Wänden blockiert.
+Changelog Entries/pickupStandingNextToWallFixDesc	Text	 [new]	Fixed an issue where items would sometimes fail to be automatically pulled toward the player when standing near walls.		
+Changelog Entries/plantersAndPotsPaintableDesc	Text	 [new]	Planter Boxes and Decorative Pots are now paintable.		
 Changelog Entries/playerInventoryServerSessionDesc	Text	 [new]	Fixed an issue where the player inventory could be reverted to a previous state when connecting to a world whose save file had been copied from another save slot or machine.		
 Changelog Entries/playstationCartographyTableDesc	Text	 [new]	Fixed Cartography Table not sending data in some situations.		Ein Problem wurde behoben, wodurch der Kartographie-Tisch in manchen Situationen keine Daten sendete.
 Changelog Entries/playstationTwoClientsSameLocationDesc	Text	 [new]	Fixed an issue that caused two clients from the same location to not be able to join the same session.		Ein Problem wurde behoben, wodurch zwei Clients am selben Standort nicht in der Lage waren, derselben Sitzung beizutreten.
+Changelog Entries/pooledModGraphicalObjectBankDesc	Text	 [new]	All Graphical Prefabs which have a component that inherits from IPoolable will now automatically be pooled. In order to adjust the size of pooling or to disable it, modders may create a PooledModGraphicalObjectBank ScriptableObject via the Create menu.		
 Changelog Entries/popupStaysIfOpenWhenBannedDesc	Text	 [new]	Getting disconnected from a server while a popup dialog is dispayed no longer results in menus still being open in the background when returning to the main menu.		NO TRANSLATION NEEDED
+Changelog Entries/pouchGamepadNavigationDesc	Text	 [new]	Putting pouches into non-consecutive slots no longer makes it impossible to navigate between them when using a gamepad.		
 Changelog Entries/projectileLingeringDamageRemovedDesc	Text	 [new]	Projectiles should no longer deal damage for extended periods after they've collided with environment.		NO TRANSLATION NEEDED
+Changelog Entries/pvpTeamsWrongColorDesc	Text	 [new]	Fixed issue where pvp teams would sometimes show wrong color after toggling pvp on and off.		
 Changelog Entries/raakarHomingProjectilesDespawnDesc	Text	 [new]	Ra-Akar's homing projectiles now despawn when the boss is defeated.		NO TRANSLATION NEEDED
 Changelog Entries/randomizeSecondCreatedCharacterDesc	Text	 [new]	Fixed a bug where only the first new character created in a session had their appearance randomized by default.		Ein Fehler wurde behoben, wodurch standardmäßig das Aussehen nur des ersten neu erstellten Charakters in einer Sitzung auf Zufallsbasis erstellt wurde.
 Changelog Entries/rebalancedHandMortarTileDamageDesc	Text	 [new]	Reduced the damage caused to tiles by the Scrapzooka (previously called Hand Mortar), in order to better match its intended progression tier.		Der Schaden, den die Schrottzooka (zuvor als Hand-Granatenwerfer bekannt) Fliesen zufügt, wurde reduziert, damit er besser zu ihrer vorgesehenen Fortschrittsstufe passt.
@@ -452,11 +491,15 @@ Changelog Entries/scrollNotWorkingHighFramerateDesc	Text	 [new]	Fixed an issue w
 Changelog Entries/selectContentBundleWithGamepadDesc	Text	 [new]	"Activating a content bundle using a gamepad no longer results in a hidden ""Missing"" content bundle being selected."		Die Aktivierung eines Inhaltspakets mit einem Controller führt nicht länger dazu, dass ein „fehlendes“ Inhaltspaket ausgewählt wird.
 Changelog Entries/shieldBlockExplosiveDamageDesc	Text	 [new]	Enemy shields now also block explosion damage.		Feindliche Schilde blockieren jetzt auch Explosionsschaden.
 Changelog Entries/shimmeringMerchantSceneDesc	Text	 [new]	Added a new scene for the Shimmering Merchant in the Shimmering Frontier biome.		Eine neue Szene für den schimmernden Händler im Biom Schimmernde Grenze wurde hinzugefügt.
+Changelog Entries/shockwaveAttacksNotCorrectWallCheckDesc	Text	 [new]	Fixed issue where shockwave attacks from enemies and bosses were not correctly blocked by line in of sight blocks.		
+Changelog Entries/showAmountOfAvailableMaterialsDesc	Text	 [new]	Crafting tooltips now display the total number of materials available in nearby chests, combined with what is in the player’s inventory.		
 Changelog Entries/shredderGiveFullScrapPartsDesc	Text	 [new]	The Shredder now returns the full amount of Scrap Parts when dismantling items.		Der Reißwolf gibt jetzt beim Zerlegen von Gegenständen die komplette Anzahl an Schrottteilen zurück.
+Changelog Entries/signIconHideLabelsDesc	Text	 [new]	Updated the icon shown when chest and sign label visibility is toggled off.		
 Changelog Entries/sixCraftingStatuesDesc	Text	 [new]	Added 6 Crafting Statues with Waypoints to the world.		6 Fertigungsstatuen mit Wegpunkten zur Welt wurden hinzugefügt.
 Changelog Entries/skillTreeSFXVolumeDesc	Text	 [new]	The skill tree selection SFX no longer has significantly lower volume than other UI sounds.		NO TRANSLATION NEEDED
 Changelog Entries/sleepInBedDesc	Text	 [new]	Fixed an issue that caused Bed sleep interactions to not always trigger as intended.		Ein Problem wurde behoben, wodurch Schlafinteraktionen mit einem Bett nicht immer wie vorgesehen ausgelöst wurden.
 Changelog Entries/sleepingWhileTeleportingDesc	Text	 [new]	Using a Portal or Waypoint while wearing the Pajama armor set no longer results in an infinite loading screen.		Die Verwendung eines Portals oder Wegpunkts, während man das Pyjama-Rüstungsset trägt, führt nicht länger zu einem endlosen Ladebildschirm.
+Changelog Entries/sleepyTimerDesc	Text	 [new]	The Pajama armor set now ensures the player has had the set's buff applied for 3 seconds before making the player sleep, rather than only accounting for how long the player has been still regardless of them wearing the set or not.		
 Changelog Entries/slightlyDecreasedQuillRifleDamageDesc	Text	 [new]	Slightly decreased the Quill Rifle's physical damage.		Der physische Schaden des Kielgewehrs wurde leicht reduziert.
 Changelog Entries/snailsCanBeDamagedByDrillsFixDesc	Text	 [new]	Fixed an issue that caused Crystal Snails to not be damaged by drills.		Ein Problem wurde behoben, wodurch Kristallschnecken keinen Schaden von Bohrern erhielten.
 Changelog Entries/spawningInPassageToFastDesc	Text	 [new]	Fixed an issue that caused enemies to spawn too frequently in the Passage.		Ein Problem wurde behoben, wodurch Feinde in der Passage zu häufig spawnten.
@@ -487,10 +530,14 @@ Changelog Entries/unityEntities139upgradeDesc	Text	 [new]	Upgraded Unity Entitie
 Changelog Entries/unityNetcode140upgradeDesc	Text	 [new]	Upgraded Unity Netcode for Entities package from version 1.2.4 to 1.4.0.		Das Paket Unity Netcode for Entities wurde von Version 1.2.4 auf 1.4.0 aktualisiert.
 Changelog Entries/unityPhysics139UpgradeDesc	Text	 [new]	Upgraded Unity Physics package from version 1.2.4 to 1.3.9.		Das Paket Unity Physics wurde von Version 1.2.4 auf 1.3.9 aktualisiert.
 Changelog Entries/unloadPlayerCustomizationSheetsDesc	Text	 [new]	Player equipment textures are now completely unloaded when not in use.		Die Texturen der Spielerausrüstung werden jetzt entfernt, wenn sie nicht in Benutzung sind.
+Changelog Entries/updateCoreSpeechHydraDesc	Text	 [new]	Updated some of the Core's dialogues to better explain the next tasks for the player.		
 Changelog Entries/updateGraphicsAttackIndicatorsDesc	Text	 [new]	Updated the visuals for some boss attack indicators.		Die Optik einiger Indikatoren für Bossangriffe wurden verbessert.
 Changelog Entries/updateGraphicsFeathersShellsWingcoversDesc	Text	 [new]	Updated the graphics for Ancient Feathers, Sea Shells and Scarab Wingcovers when found on the ground.		Die Grafik für im Boden gefundene Uralte Federn, Muscheln und Skarabäus-Flügelpanzer wurde aktualisiert.
 Changelog Entries/updateGraphicsGrimyBookshelvesDesc	Text	 [new]	Updated graphics for the Grimy Bookshelf and the Large Grimy Bookshelf.		
+Changelog Entries/updateNameIconCreativeCategoriesDesc	Text	 [new]	Updated some of the icons and names of categories in the Creative mode UI.		
+Changelog Entries/updateScannerGraphicsDesc	Text	 [new]	Updated the loot sprites for the boss scanners.		
 Changelog Entries/updatedSfxForItemsAndUIDesc	Text	 [new]	Updated sound effects for various items and UI interactions.		Soundeffekte diverser Interaktionen mit Gegenständen und UI wurden aktualisiert.
+Changelog Entries/urschleimCrashFixDesc	Text	 [new]	Fixed some rare game crashes during the Urschleim boss fight.		
 Changelog Entries/voidHydraForceChestSpawnDesc	Text	 [new]	Prevented the Oblidra Chest from spawning inside walls.		Die Oblidra-Kiste sollte nicht in Wänden spawnen.
 Changelog Entries/wallBossMultipleSummoningIdolsDesc	Text	 [new]	Improved the way Primeval Slime Cells are used, in order to avoid consuming multiple of them at once.		
 Changelog Entries/wallBossSummonScansAllMarkersDesc	Text	 [new]	Successfully consuming the Primeval Slime Cell no longer causes all scannable map markers to become visible.		Der erfolgreiche Verbrauch der Urschleimzelle führt nicht länger dazu, dass alle scanbaren Kartenmarkierungen sichtbar werden.
@@ -644,7 +691,7 @@ Conditions/ChanceToApplyPoisonOnBlock	Text		{0}% chance to apply poison, which r
 Conditions/ChanceToApplyPoisoned	Text		{0}% chance to apply poison on hit, which reduces enemy healing received by 75% 	{0}% szansy na zadanie trucizny przy trafieniu, co zmniejsza otrzymywane leczenie przez wroga o 75%	{0} % Chance, Gift bei einem Treffer anzuwenden, was die erhaltene Feindheilung um 75 % verringert
 Conditions/ChanceToConsumeBurning	Text		{0}% chance on hit to consume target's burning effect and deal the total burning damage immediately	{0}% szansy przy trafieniu na pochłonięcie efektu podpalenia celu i natychmiastowe zadanie całkowitych obrażeń od podpalenia.	{0} % Chance bei einem Treffer, den Verbrennungseffekt des Ziels aufzubrauchen und sofort den gesamten Verbrennungsschaden zu verursachen
 Conditions/ChanceToDealTripleDamage	Text		{0}% chance on hit to deal triple amount of damage	{0}% szansy przy trafieniu na zadanie potrójnych obrażeń	{0} % Chance, bei einem Treffer die dreifache Menge an Schaden zu verursachen
-Conditions/ChanceToDropExplosivesComponents	Text		{0}% for explosives to drop their components	{0}% dla materiałów wybuchowych, aby upuściły swoje składniki	{0} % Chance, dass Sprengstoff seine Komponenten fallen lässt
+Conditions/ChanceToDropExplosivesComponents	Text		{0}% chance for explosives to drop their components 	{0}% szansy na upuszczenie składników przez ładunki wybuchowe	{0} % Chance, dass Sprengstoff seine Komponenten fallen lässt
 Conditions/ChanceToGainExtraCookedFood	Text		{0}% extra cooked food chance	{0}% dodatkowej szansy na ugotowane jedzenie	{0} % Chance auf zusätzliches gekochtes Essen
 Conditions/ChanceToGainExtraItemFromAlchemy	Text		{0}% chance to gain an extra item when crafting any item at the alchemy, laboratory or distillery tables 	{0}% szansy na zdobycie dodatkowego przedmiotu podczas wytwarzania dowolnego przedmiotu przy stole alchemicznym, labolatorium lub w destylarni.	{0} % Chance auf den Erhalt eines zusätzlichen Gegenstands, wenn du einen Gegenstand am Alchemietisch oder in der Destillerie fertigst
 Conditions/ChanceToGainExtraItemFromBaseBuilding	Text		{0}% chance to gain an extra item when crafting any wall, floor, bridge or fence	{0}% szansy na zdobycie dodatkowego przedmiotu podczas tworzenia dowolnej ściany, podłogi, mostu lub ogrodzenia.	{0} % Chance auf den Erhalt eines zusätzlichen Gegenstands, wenn eine Wand, ein Boden, eine Brücke oder ein Zaun gefertigt wird
@@ -854,6 +901,37 @@ Conditions/WellFedDamageIncrease	Text		{0}% increased damage and max health from
 Conditions/WellFedHealthIncrease	Text		{0}% increased max health from being well fed	{0}% zwiększone maksymalne zdrowie od dobrego odżywienia	{0} % erhöhte max. Gesundheit durch „Wohlgenährt“
 Conditions/WellFedManaRegenerationPercentage	Text		{0}% mana regeneration from being well fed	{0}% regeneracji many od dobrego odżywiania	{0} % Manaregenerierung, wenn man wohlgenährt ist
 Conditions/WellFedMovementSpeedIncrease	Text		{0}% movement speed from being well fed	{0}% prędkości ruchu od dobrego odżywienia	{0} % erhöhte Bewegungsgeschwindigkeit durch „Wohlgenährt“
+ConsoleCommands/AllItemsReinforced	Text		Reinforced all items.	Wzmocniono wszystkie przedmioty.	Alle Gegenstände verstärkt.
+ConsoleCommands/AllItemsRepaired	Text		Repaired all items.	Naprawiono wszystkie przedmioty.	Alle Gegenstände repariert.
+ConsoleCommands/AllItemsSetToLevel	Text		All inventory items set to level {0}.	Wszystkie przedmioty zostały ustawione na poziom {0}.	Alle Inventargegenstände auf Stufe {0} gesetzt.
+ConsoleCommands/AmountMustBeLargerThanZero	Text		Amount must be greater than 0.	Wartość musi być większa od 0.	Anzahl muss größer sein als 0.
+ConsoleCommands/CannotSpawn	Text		Cannot spawn {0}: objects of this type cannot be spawned.	Nie można utworzyć {0}: obiektów tego typu nie można stworzyć.	Kann {0} nicht spawnen: Objekte dieser Art können nicht gespawnt werden.
+ConsoleCommands/CannotSpawnCookedFood	Text		Cannot spawn {0}: cooked food must be created through the cooking pot.	Nie można stworzyć {0}: gotowe potrawy należy wytwarzać w garnku.	Kann {0} nicht spawnen: Gekochtes Essen muss mit dem Kochtopf zubereitet werden.
+ConsoleCommands/ClearedInventory	Text		Cleared {0} items from inventory.	Usunięto {0} przedmiotów z ekwipunku.	{0} Gegenstände aus dem Inventar entfernt.
+ConsoleCommands/CollectionNotFound	Text		Cannot spawn {0}: no collection with this name exists.	Nie można stworzyć {0}: nie istnieje żadna kolekcja o tej nazwie.	Kann {0} nicht spawnen: Es existiert keine Sammlung mit diesem Namen.
+ConsoleCommands/ConsolePermissionsWarning	Text		You must have admin privileges and the host must have console commands enabled.	Musisz posiadać uprawnienia administratora, a na serwerze muszą być włączone polecenia konsoli.	Du brauchst Administratorrechte und der Host muss Konsolenbefehle aktiviert haben.
+ConsoleCommands/ManualCameraDisabled	Text		Manual camera control disabled.	Ręczne sterowanie kamerą wyłączone.	Manuelle Kamerasteuerung deaktiviert.
+ConsoleCommands/ManualCameraEnabled	Text		Manual camera control enabled. Use WASD to move the camera, hold Shift to move faster.	Ręczne sterowanie kamerą włączone. Używaj klawiszy WASD do poruszania kamerą, przytrzymaj klawisz Shift, aby poruszać się szybciej.	Manuelle Kamerasteuerung aktiviert. Steuere die Kamera mit WASD. Halte die Umschalttaste gedrückt, um sie schneller zu bewegen.
+ConsoleCommands/MeleeHitBoxDisabled	Text		Disabled melee hit box display.	Wyłączono widok hitboxu w walce wręcz.	Anzeige der Nahkampf-Hitbox deaktiviert.
+ConsoleCommands/MeleeHitBoxEnabled	Text		A hit box will now be displayed when you use a melee weapon.	Hitbox będzie teraz wyświetlany podczas walki bronią białą.	Wenn du eine Nahkampfwaffe verwendest, wird jetzt eine Hitbox angezeigt.
+ConsoleCommands/MustBeInGame	Text		You must be in a game to use this command.	Aby użyć tego polecenia, musisz być w trakcie rozgrywki.	Du musst dich in einem Spiel befinden, um diesen Befehl zu verwenden.
+ConsoleCommands/NearbyEnemiesKilled	Text		Killed all nearby enemies.	Zabito wszystkich wrogów w pobliżu.	Alle Feinde in der Nähe getötet.
+ConsoleCommands/NoObjectWithName	Text		Cannot spawn {0}: no object with this name exists.	Nie można stworzyć {0}: nie istnieje żaden obiekt o tej nazwie.	Kann {0} nicht spawnen: Es existiert kein Objekt mit diesem Namen.
+ConsoleCommands/NoVariationUsingDefault	Text		{0} has no variation {1}. Using default variation 0 instead.	{0} nie ma wariantu {1}. Zamiast tego użyto domyślnego wariantu 0.	{0} hat keine Variante {1}. Die Standard-Variante 0 wird stattdessen verwendet.
+ConsoleCommands/PlayerInvincible	Text		{0} is now invincible.	{0} jest teraz nieśmiertelny.	{0} ist jetzt unverwundbar.
+ConsoleCommands/PlayerMoved	Text		Moved {0} to {1}.	Przeniesiono {0} do {1}.	{0} wurde hierhin bewegt: {1}.
+ConsoleCommands/PlayerVincible	Text		{0} is no longer invincible.	{0} nie jest już nieśmiertelny.	{0} ist nicht mehr unverwundbar.
+ConsoleCommands/SetBaseMaxHealth	Text		Base max health set to {0}.	Maksymalna liczba punktów zdrowia ustawiona na {0}.	Grundlegende max. Gesundheit auf {0} gesetzt.
+ConsoleCommands/SetHealth	Text		Set health to {0}.	Ustawiono wartość zdrowia na {0}.	Gesundheit auf {0} gesetzt.
+ConsoleCommands/SetHunger	Text		Set hunger to {0}.	Ustawiono wartość głodu na {0}.	Hunger auf {0} gesetzt.
+ConsoleCommands/SetMana	Text		Set mana to {0}.	Ustawiono wartość many na {0}.	Mana auf {0} gesetzt.
+ConsoleCommands/SetSkill	Text		Set {0} to level {1}.	Zmieniono {0} na poziom {1}.	{0} auf Stufe {1} gesetzt.
+ConsoleCommands/Spawned	Text		Spawned {0} x{1}.	Stworzono {0} x{1}.	{0} x{1} gespawnt.
+ConsoleCommands/SupermanDisabled	Text		Super powers disabled.	Supermoce wyłączone.	Superkräfte deaktiviert.
+ConsoleCommands/SupermanEnabled	Text		Super powers enabled (x{0}).	Supermoce włączone (x{0}).	Superkräfte aktiviert (x{0}).
+ConsoleCommands/UnlimitedManaDisabled	Text		{0} no longer has unlimited mana.	{0} nie ma już nieograniczonej ilości many.	{0} hat kein unbegrenztes Mana mehr.
+ConsoleCommands/UnlimitedManaEnabled	Text		{0} now has unlimited mana.	{0} ma teraz nieograniczoną ilość many.	{0} hat jetzt unbegrenztes Mana.
+ConsoleCommands/VersionTextEnabled	Text		The current version number ({0}) is now displayed in the top right of the screen.	Aktualny numer wersji ({0}) jest teraz wyświetlany w prawym górnym rogu ekranu.	Die aktuelle Versionsnummer ({0}) wird jetzt in der oberen rechten Bildschirmecke angezeigt.
 Consoles/AccountRestricted	Text		Your account is restricted. You cannot play online.	Twoje konto jest ograniczone. Nie możesz grać online.	Dein Konto ist eingeschränkt. Du kannst nicht online spielen.
 Consoles/BlockedUser	Text		Blocked user	Zablokowany użytkownik	Gesperrter Nutzer
 Consoles/ConfirmSendInvites	Text		Send an invite to {0}?	Wysłać zaproszenie do {0}?	Einladung an {0} senden?
@@ -1171,7 +1249,7 @@ Credits/AssociateProducer	Text		Associate Producer	Współpracownik ds. produkcj
 Credits/AssociateProductManager	Text		Associate Product Manager	Zastępca kierownika produktu	Associate Product Manager
 Credits/Association71Consulting	Text		"In Association with Marketing & PR Studio		
 71 Consulting"	"We współpracy z Marketing & PR Studio
-71 Consulting"	"""""""""""""""""""""""""""""In Zusammenarbeit mit Marketing- und PR-Studio				
+71 Consulting"	"""""""""""""""""""""""""""""""In Zusammenarbeit mit Marketing- und PR-Studio				
 71 Consulting""					
 ""					
 ""					
@@ -1186,10 +1264,11 @@ Credits/Association71Consulting	Text		"In Association with Marketing & PR Studio
 ""
 ""
 ""
+""
 "
 Credits/AssociationAceAgency	Text		"In Association with Localization Studio		
 ACE Agency"	"We współpracy z agencją lokalizacyjną
-Studio ACE"	"""""""""""""""""""""""""""""In Zusammenarbeit mit der Lokalisierungsagentur				
+Studio ACE"	"""""""""""""""""""""""""""""""In Zusammenarbeit mit der Lokalisierungsagentur				
 ACE Agency""					
 ""					
 ""					
@@ -1204,10 +1283,11 @@ ACE Agency""
 ""
 ""
 ""
+""
 "
 Credits/AssociationDreamLoop	Text		"In Association with Console Porting Studio		
 Dreamloop Games"	"We współpracy z konsolowym studiem portującym
-Dreamloop Games"	"""""""""""""""""""""""""""""In Zusammenarbeit mit dem Konsolen-Portierungsstudio				
+Dreamloop Games"	"""""""""""""""""""""""""""""""In Zusammenarbeit mit dem Konsolen-Portierungsstudio				
 Dreamloop Games""					
 ""					
 ""					
@@ -1222,10 +1302,11 @@ Dreamloop Games""
 ""
 ""
 ""
+""
 "
 Credits/AssociationEnzyme	Text		"In Association with Compatibility Testing Studio		
 Enzyme"	"We współpracy z Studio Enzyme
-Zajmującym się testowaniem kompatybilności"	"""""""""""""""""""""""""""""In Zusammenarbeit mit dem Studio für Kompatibilitätstests				
+Zajmującym się testowaniem kompatybilności"	"""""""""""""""""""""""""""""""In Zusammenarbeit mit dem Studio für Kompatibilitätstests				
 Enzyme""					
 ""					
 ""					
@@ -1240,10 +1321,11 @@ Enzyme""
 ""
 ""
 ""
+""
 "
 Credits/AssociationKeywordsIndia	Text		"In Association with PC FQA Studio		
 Keywords India"	"We współpracy z PC FQA Studio	
-Keywords India"	"""""""""""""""""""""""""""""In Zusammenarbeit mit dem Studio für PC-FQA				
+Keywords India"	"""""""""""""""""""""""""""""""In Zusammenarbeit mit dem Studio für PC-FQA				
 Keywords India""					
 ""					
 ""					
@@ -1258,10 +1340,11 @@ Keywords India""
 ""
 ""
 ""
+""
 "
 Credits/AssociationLionbridge	Text		"In Association with PC and Console FQA Studio		
 Lionbridge Games"	"We współpracy z PC and Console FQA Studio
-Lionbridge Games"	"""""""""""""""""""""""""""""In Zusammenarbeit mit dem Studio für PC- und Konsolen-QA				
+Lionbridge Games"	"""""""""""""""""""""""""""""""In Zusammenarbeit mit dem Studio für PC- und Konsolen-QA				
 Lionbridge Games""					
 ""					
 ""					
@@ -1270,6 +1353,7 @@ Lionbridge Games""
 ""					
 ""					
 ""					
+""
 ""
 ""
 ""
@@ -1279,7 +1363,7 @@ Lionbridge Games""
 "
 Credits/AssociationLionbridgeLQA	Text		"In Association with PC and Console LQA Studio		
 Lionbridge Games"	"We współpracy z PC and Console LQA Studio
-Lionbridge Games"	"""""""""""""""""""""""""""""In Zusammenarbeit mit dem Studio für PC- und Konsolen-LQA				
+Lionbridge Games"	"""""""""""""""""""""""""""""""In Zusammenarbeit mit dem Studio für PC- und Konsolen-LQA				
 Lionbridge Games""					
 ""					
 ""					
@@ -1294,10 +1378,11 @@ Lionbridge Games""
 ""
 ""
 ""
+""
 "
 Credits/AssociationLocalizeDirect	Text		"In Association with PC LQA Studio		
 LocalizeDirect"	"We współpracy z PC LQA Studio
-LocalizeDirect"	"""""""""""""""""""""""""""""In Zusammenarbeit mit dem Studio für PC-LQA				
+LocalizeDirect"	"""""""""""""""""""""""""""""""In Zusammenarbeit mit dem Studio für PC-LQA				
 LocalizeDirect""					
 ""					
 ""					
@@ -1312,10 +1397,11 @@ LocalizeDirect""
 ""
 ""
 ""
+""
 "
 Credits/AssociationOhCreative	Text		"In Association with Marketing Studio		
 OH Creative"	"We współpracy z Marketing Studio
-OH Creative"	"""""""""""""""""""""""""""""In Zusammenarbeit mit Marketingstudio				
+OH Creative"	"""""""""""""""""""""""""""""""In Zusammenarbeit mit Marketingstudio				
 OH Creative""					
 ""					
 ""					
@@ -1330,11 +1416,13 @@ OH Creative""
 ""
 ""
 ""
+""
 "
 Credits/AssociationPiktiv	Text		"In Association with Nintendo Switch 2 Porting Studio
 Piktiv"	"We współpracy z Nintendo Switch 2 Porting Studio
-Piktiv"	"""""""""""In Zusammenarbeit mit dem Switch 2-Portierungsstudio
+Piktiv"	"""""""""""""In Zusammenarbeit mit dem Switch 2-Portierungsstudio
 Piktiv""
+""
 ""
 ""
 ""
@@ -1342,7 +1430,7 @@ Piktiv""
 "
 Credits/AssociationPlaytropic	Text		"In Association with PC and Console FQA Studio		
 Playtropic Video Game Services"	"We współpracy z PC and Console FQA Studio
-Playtropic Video Game Services"	"""""""""""""""""""""""""""""In Zusammenarbeit mit dem Studio für PC- und Konsolen-FQA				
+Playtropic Video Game Services"	"""""""""""""""""""""""""""""""In Zusammenarbeit mit dem Studio für PC- und Konsolen-FQA				
 Playtropic Videogame Services""					
 ""					
 ""					
@@ -1357,10 +1445,11 @@ Playtropic Videogame Services""
 ""
 ""
 ""
+""
 "
 Credits/AssociationTestify	Text		"In Association with Testing Studio		
 Testify"	"We współpracy z testerskim studiem
-Testify Studio "	"""""""""""""""""""""""""""""In Zusammenarbeit mit dem Teststudio				
+Testify Studio "	"""""""""""""""""""""""""""""""In Zusammenarbeit mit dem Teststudio				
 Testify""					
 ""					
 ""					
@@ -1369,6 +1458,7 @@ Testify""
 ""					
 ""					
 ""					
+""
 ""
 ""
 ""
@@ -1467,7 +1557,7 @@ Credits/PCandConsoleQA	Text		PC and Console QA	Kontrola jakości na komputerze i
 Credits/PRAndCommunications	Text		PR and Communications	PR i komunikacja	PR und Kommunikation
 Credits/PartneredFireshine	Text		"Partnered with Publisher		
 Fireshine Games "	"Współpraca z wydawcą				
-Fireshine Games"	"""""""""""""""""""""""""""""In Partnerschaft mit dem Publisher				
+Fireshine Games"	"""""""""""""""""""""""""""""""In Partnerschaft mit dem Publisher				
 Fireshine""					
 ""					
 ""					
@@ -1476,6 +1566,7 @@ Fireshine""
 ""					
 ""					
 ""					
+""
 ""
 ""
 ""
@@ -1599,10 +1690,11 @@ CreditsNames/BridieDaniels	Text		Bridie Daniels	Bridie Daniels	Bridie Daniels
 CreditsNames/BugsyRabbit2004	Text		BugsyRabbit2004	BugsyRabbit2004	BugsyRabbit2004
 CreditsNames/Burgle	Text		Burgle_Official	Burgle_Official	Burgle_Official
 CreditsNames/CarlWilliamLindkvist	Text		Carl-William Lindkvist	Carl-William Lindkvist	Carl-William Lindkvist
-CreditsNames/CarriganTessSevedge	Text		"Carrigan ""Tess"" Sevedge"	"Carrigan ""Tess"" Sevedge"	"""""""""""""""""""""Carrigan ""Tess"" Sevedge""
+CreditsNames/CarriganTessSevedge	Text		"Carrigan ""Tess"" Sevedge"	"Carrigan ""Tess"" Sevedge"	"""""""""""""""""""""""Carrigan ""Tess"" Sevedge""
 ""					
 ""					
 ""					
+""
 ""
 ""
 ""
@@ -1787,6 +1879,7 @@ CreditsNames/Omnimetatron	Text		Omnimetatron	Omnimetatron	Omnimetatron
 CreditsNames/OrianDesfontaine	Text		Orian Desfontaine	Orian Desfontaine	Orian Desfontaine
 CreditsNames/OskarBorecki	Text		Oskar Borecki	Oskar Borecki	Oskar Borecki
 CreditsNames/OskarDobrowolski	Text		Oskar Dobrowolski	Oskar Dobrowolski	Oskar Dobrowolski
+CreditsNames/OskarKarlsson	Text		Oskar Karlsson	Oskar Karlsson	Oskar Karlsson
 CreditsNames/OskarTengvall	Text		Oskar Tengvall	Oskar Tengvall	Oskar Tengvall
 CreditsNames/OttoKivling	Text		Otto Kivling	Otto Kivling	Otto Kivling
 CreditsNames/Owlunae	Text		Owlunae	Owlunae	Owlunae
@@ -1933,8 +2026,9 @@ Emotes/ItDoesntDoAnything	Text	Shown when trying to interact with something that
 Emotes/ItsEmpty	Text	Used when for example the water can is empty	It's empty	Jest pusta	Leer
 Emotes/ItsPowerRemainsSealedDesc	Text		"Its energy is sealed for now.
 It can be activated in a future update."	"Póki co energia jest zapieczętowana.
-Może zostać aktywowana w przyszłej aktualizacji."	"""""""""""Seine Energie ist fürs Erste versiegelt.
+Może zostać aktywowana w przyszłej aktualizacji."	"""""""""""""Seine Energie ist fürs Erste versiegelt.
 Er kann in einem kommenden Update aktiviert werden.""
+""
 ""
 ""
 ""
@@ -1981,7 +2075,7 @@ Emotes/TutorialSmeltOre	Text		This ore isn't very useful unless I smelt it down.
 Emotes/UnlockedInEarlyAccess	Text		Unlocked in Early Access	Odblokowane w ramach wczesnego dostępu	Im Early Access freigeschaltet
 Emotes/UnlocksAtLaunch	Text		"Continue your exploration beyond the wall at 1.0,		
 unlocks August 27th 2024. "	"Kontynuuj eksplorację poza murem w wersji 1.0,				
-Zostanie odblokowana 27 sierpnia 2024 r."	"""""""""""""""""""""""""""""Setze die Erkundung jenseits der Wand mit 1.0 fort.				
+Zostanie odblokowana 27 sierpnia 2024 r."	"""""""""""""""""""""""""""""""Setze die Erkundung jenseits der Wand mit 1.0 fort.				
 Die Freischaltung erfolgt am 27. August 2024""					
 ""					
 ""					
@@ -1990,6 +2084,7 @@ Die Freischaltung erfolgt am 27. August 2024""
 ""					
 ""					
 ""					
+""
 ""
 ""
 ""
@@ -2041,7 +2136,7 @@ Error/Reconnecting	Text		"Trying to reconnect
 (Step {0}/{1}: {2})					
 "	"Próba przywrócenia połączenia				
 (Krok {0}/{1}: {2})					
-"	"""""""""""""""""""""""""""Es wird versucht, eine Verbindung wiederherzustellen				
+"	"""""""""""""""""""""""""""""Es wird versucht, eine Verbindung wiederherzustellen				
 (Schritt {0}/{1}: {2})""					
 ""					
 ""					
@@ -2049,6 +2144,7 @@ Error/Reconnecting	Text		"Trying to reconnect
 ""					
 ""					
 ""					
+""
 ""
 ""
 ""
@@ -2214,6 +2310,12 @@ FoodAdjectives/LunacornRareMale	Text		Brilliant	Genialny	Brillanter
 FoodAdjectives/Meat	Text		Tender	Miękkie	Zartes
 FoodAdjectives/MeatFemale	Text		Tender	Miękka	Zarte
 FoodAdjectives/MeatMale	Text		Tender	Miękki 	Zarter
+FoodAdjectives/Milk	Text		Rustic	Wiejskie	Ländliches
+FoodAdjectives/MilkFemale	Text		Rustic	Wiejska	Ländliche
+FoodAdjectives/MilkMale	Text		Rustic	Wiejski	Ländlicher
+FoodAdjectives/MilkRare	Text		Rustic	Wiejskie	Ländliches
+FoodAdjectives/MilkRareFemale	Text		Rustic	Wiejska	Ländliche
+FoodAdjectives/MilkRareMale	Text		Rustic	Wiejski	Ländlicher
 FoodAdjectives/MoldShark	Text		Moldy	Spleśniałe	Schimmliges
 FoodAdjectives/MoldSharkFemale	Text		Moldy	Spleśniała	Schimmlige
 FoodAdjectives/MoldSharkMale	Text		Moldy	Spleśniały	Schimmliger
@@ -2344,6 +2446,7 @@ FoodNouns/LithoTrilobite	Text		Fossil	Skamieniałe 	Fossil
 FoodNouns/Lunacorn	Text		Moon	Księżyc	Mond
 FoodNouns/LunacornRare	Text		Goldmoon	Złoty księżyc	Goldmond
 FoodNouns/Meat	Text		Meat	Mięso	Fleisch
+FoodNouns/Milk	Text		Creamy	Śmietanka	Creme
 FoodNouns/MoldShark	Text		Shark	Rekin	Hai
 FoodNouns/Mushroom	Text		Mushroom	Grzyb	Pilz
 FoodNouns/OrangeCaveGuppy	Text		Guppy	Gupik	Guppy
@@ -2379,13 +2482,13 @@ FoodTypes/Meat	Text		Other	Inne	Andere
 FoodTypes/Plant	Text		Plant	Roślina	Pflanze
 HardMode	Text		Hard	Trudny	Schwer
 HardModeDesc	Text		Tackle tougher monsters and reap greater rewards.	Zmierz się z trudniejszymi potworami i zgarnij większe nagrody.	Nimm es mit härteren Monstern auf und ernte größere Belohnungen.
-HealthBars-Options/ColorDuration	Text		Duration/progress color	Kolor trwania/postępu	
+HealthBars-Options/ColorDuration	Text		Duration/progress color	Kolor czasu trwania/postępu	
 HealthBars-Options/ColorHealth	Text		Health color	Kolor zdrowia	
 HealthBars-Options/ColorMana	Text		Mana color	Kolor many	
 HealthBars-Options/ColorShield	Text		Armor color	Kolor pancerza	
 HealthBars-Options/DisplayOverObjects	Text		Display over objects	Wyświetlaj nad obiektami	
 HealthBars-Options/EmphasizeLargeHits	Text		Emphasize large hits	Podkreślaj potężne trafienia	
-HealthBars-Options/Header	Text		Enemy Health Bars settings	Ustawienia pasków zdrowia	
+HealthBars-Options/Header	Text		Enemy Health Bars settings	Ustawienia pasków zdrowia przeciwników	
 HealthBars-Options/ResetToDefaults	Text		Reset to defaults	Przywróć ustawienia domyślne	
 HealthBars-Options/ResetToDefaultsDesc	Text		Reset all settings to their defaults?	Przywrócić ustawienia domyślne?	
 HealthBars-Options/ShowCreatureHealth	Text		Creature health	Zdrowie stworzeń	
@@ -2402,9 +2505,12 @@ Intro/Slide5	Text		Upon touching its surface, a blinding light engulfs you.	Po d
 ItemCategory/Building	Text		Building	Budynek	Gebäude
 ItemCategory/Building_BaseBuilding	Text		Base building	Podstawy budynku	Basisbau
 ItemCategory/Building_Chest	Text		Chest	Skrzynie	Kiste
+ItemCategory/Building_CraftingStation	Text		Crafting station	Stacje rzemieślnicze	Fertigungsstation
 ItemCategory/Building_FunctionalBuilding	Text		Functional building	Funkcjonalne	Funktionales Gebäude
 ItemCategory/Building_MerchantItem	Text		Merchant item	Przedmiot sprzedawcy	Händler-Gegenstand
 ItemCategory/Building_Object	Text		Object	Obiekty	Objekt
+ItemCategory/Building_ProcessingStation	Text		Processing station	Stacje robocze	Verarbeitungsstation
+ItemCategory/Building_Structure	Text		Structure	Struktury	Struktur
 ItemCategory/Consumable	Text		Consumable	Zużywalne	Verbrauchsgut
 ItemCategory/Consumable_Fish	Text		Fish	Ryby	Fisch
 ItemCategory/Consumable_Food	Text		Snacks	Przekąski	Snacks
@@ -2418,7 +2524,7 @@ ItemCategory/Creature_Enemy	Text		Enemy	Wrogowie	Feind
 ItemCategory/Creature_Merchant	Text		Merchant	Handlarze	Händler
 ItemCategory/Creature_Pet	Text		Pet	Zwierzaki	Haustier
 ItemCategory/Environment	Text		Environment	Środowiskowe	Umgebung
-ItemCategory/Environment_AbioticFactorBiome	Text	&	Abiotic Factor	Abiotic Factor	Abiotic Factor
+ItemCategory/Environment_AbioticFactorBiome	Text		Abiotic Factor	Abiotic Factor	Abiotic Factor
 ItemCategory/Environment_Block	Text	As in a piece of block used for building a wall or ground	Block	Bloki	Block
 ItemCategory/Environment_CityBiome	Text		Metropolis biome 	Biom metropolitalny	Stadt-Biom
 ItemCategory/Environment_ClayBiome	Text		Clay biome	Biom gliniasty	Lehm-Biom
@@ -2430,27 +2536,30 @@ ItemCategory/Environment_Ground	Text		Ground	Grunt	Boden
 ItemCategory/Environment_LavaBiome	Text		Molten biome 	Biom lawy	Lava-Biom
 ItemCategory/Environment_MeadowBiome	Text		Meadow biome	Biom łąki	Wiesen-Biom
 ItemCategory/Environment_MoldBiome	Text		Mold biome	Biom pleśni	Schimmel-Biom
+ItemCategory/Environment_MultiBiome	Text		Multi-biome	Wielobiom	Multi-Biom
 ItemCategory/Environment_NatureBiome	Text		Wilderness biome 	Biom puszczy	Natur-Biom
 ItemCategory/Environment_OasisBiome	Text		Oasis biome	Biom oazy	Oasen-Biom
 ItemCategory/Environment_OreBoulder	Text		Ore boulder	Głaz rudy	Erzblock
 ItemCategory/Environment_PassageBiome	Text		Passage biome	Biom przejścia	Passagen-Biom
 ItemCategory/Environment_PitObject	Text		Pit object	Obiekt wykopu	Abgrund-Objekt
+ItemCategory/Environment_PottedPlant	Text		Potted plant	Rośliny doniczkowe	Topfpflanze
 ItemCategory/Environment_SeaBiome	Text		Sea biome	Biom morski	Meeres-Biom
 ItemCategory/Environment_SlimeBiome	Text		Slime biome	Biom szlamu	Schleim-Biom
 ItemCategory/Environment_StoneBiome	Text		Ruins biome 	Biom ruin	Stein-Biom
 ItemCategory/Environment_Wall	Text		Wall	Ściany	Wand
 ItemCategory/Equipment	Text		Equipment	Wyposażenie	Ausrüstung
-ItemCategory/Equipment_Bag	Text		Bag	Bagaże	Tasche
-ItemCategory/Equipment_Bait	Text		Bait	Przynęty	Köder
+ItemCategory/Equipment_Bag	Text		Backpack	Plecaki	Tasche
+ItemCategory/Equipment_Bait	Text		Lure	Przynęty	Köder
 ItemCategory/Equipment_BreastArmor	Text		Breast armor	Napierśniki	Brustkleidung
 ItemCategory/Equipment_Helm	Text		Helm	Hełmy	Helm
 ItemCategory/Equipment_Lantern	Text		Lantern	Latarnie	Laterne
 ItemCategory/Equipment_MagicWeapon	Text		Magic weapon	Magiczna broń	Magische Waffe
 ItemCategory/Equipment_MeleeWeapon	Text		Melee weapon	Bronie do walki wręcz	Nahkampfwaffe
 ItemCategory/Equipment_Necklace	Text		Necklace	Naszyjniki	Halskette
-ItemCategory/Equipment_Offhand	Text		Offhand	Druga ręka	Zweithand
+ItemCategory/Equipment_Offhand	Text		Off-hand 	Druga ręka	Zweithand
 ItemCategory/Equipment_PaintBrush	Text		Paint brush	Pędzle	Pinsel
 ItemCategory/Equipment_PantsArmor	Text		Pants armor	Spodnie	Beinkleidung
+ItemCategory/Equipment_Pouch	Text		Pouch	Sakiewki	Beutel
 ItemCategory/Equipment_RangeWeapon	Text		Range weapon	Bronie dystansowe	Fernkampfwaffe
 ItemCategory/Equipment_Ring	Text		Ring	Pierścienie	Ring
 ItemCategory/Equipment_Tool	Text		Tool	Narzędzia	Werkzeug
@@ -2469,6 +2578,8 @@ ItemCategory/Other_OracleCard	Text		Oracle card	Karta wyroczni	Orakel-Karte
 ItemCategory/Other_Recipe	Text		Recipe	Przepis	Rezept
 ItemCategory/Other_Scanners	Text		Scanners	Skanery	Scanner
 ItemCategory/Other_Seed	Text		Seed	Nasiona	Samen
+ItemCategory/Other_SummoningItem	Text		Summoning item	Przedmioty przywołujące	Beschwörungsgegenstand
+ItemCategory/Other_Trophy	Text		Figurine	Figurki	Figur
 ItemCategory/Seasonal	Text		Seasonal	Sezonowe	Saisonal
 ItemCategory/Seasonal_Anniversary	Text		Anniversary	Rocznica	Jubiläum
 ItemCategory/Seasonal_CherryBlossom	Text		Cherry blossom	Kwitnąca wiśnia	Kirschblüte
@@ -2486,6 +2597,13 @@ ItemCategory/Technology_Explosives	Text		Explosives	Materiały wybuchowe	Sprengs
 ItemCategory/Technology_Railway	Text		Railway	Kolej	Gleise
 ItemCategory/Technology_Utility	Text		Utility	Użytkowe	Hilfsmittel
 ItemCategory/Technology_Vehicle	Text		Vehicle	Pojazd	Fahrzeug
+ItemCategory/Tool	Text		Tool	Narzędzia	Werkzeug
+ItemCategory/Tool_Digging	Text		Digging tool	Narzędzie do kopania	Grabwerkzeug
+ItemCategory/Tool_Fishing	Text		Fishing tool	Narzędzia wędkarskie	Angelwerkzeug
+ItemCategory/Tool_Gardening	Text		Gardening tool	Narzędzia ogrodnicze	Gartenwerkzeug
+ItemCategory/Tool_Mining	Text		Mining tool	Narzędzia górnicze	Bergbauwerkzeug
+ItemCategory/Tool_Other	Text		Other	Inne	Sonstiges
+ItemCategory/Tool_Painting	Text		Painting tool	Narzędzia do malowania	Malwerkzeug
 ItemCategory/Valuable	Text		Valuable	Wartościowe	Wertvoll
 ItemCategory/Valuable_CityBiome	Text		Metropolis biome	Biom metropolitalny	Stadt-Biom
 ItemCategory/Valuable_ClayBiome	Text		Clay biome	Biom gliniasty	Lehm-Biom
@@ -2500,6 +2618,12 @@ ItemCategory/Valuable_Other	Text		Other	Inne	Andere
 ItemCategory/Valuable_SeaBiome	Text		Sea biome	Biom morski	Meeres-Biom
 ItemCategory/Valuable_StoneBiome	Text		Ruins biome	Biom ruin 	Stein-Biom
 ItemCategory/Valuable_Trophy	Text		Figurine	Figurka	Figur
+ItemCategory/Weapon	Text		Weapon	Bronie	Waffe
+ItemCategory/Weapon_Explosives	Text		Explosives	Materiały wybuchowe	Sprengstoff
+ItemCategory/Weapon_Magic	Text		Magic weapon	Bronie magiczne	Magische Waffe
+ItemCategory/Weapon_Melee	Text		Melee weapon	Bronie białe	Nahkampfwaffe
+ItemCategory/Weapon_Ranged	Text		Ranged weapon	Bronie dystansowe	Fernkampfwaffe
+ItemCategory/Weapon_Summoning	Text		Summoning weapon	Bronie przywołujące	Beschwörungswaffe
 ItemLevel	Text		Item level {0}	Poziom przedmiotu {0}	Gegenstandsstufe {0}
 Items/AFBottledAnomaly	Text		Bottled Anomaly	Anomalia w butelce	Flaschen-Anomalie
 Items/AFBottledAnomalyDesc	Text		Contains an indecipherable entity that appears to respond to glass. 	Zawiera niezrozumiałą istotę, która wydaje się reagować na szkło.	Ein geheimnisvolles Wesen, das auf Glas zu reagieren scheint.
@@ -2750,11 +2874,11 @@ Items/Bed	Text		Bed	Łóżko	Bett
 Items/BedDesc	Text		A place to sleep. Also allows friendly inhabitants to move in if placed in a room to their liking.	Miejsce do spania. Pozwala również przyjaznym mieszkańcom na wprowadzenie się, jeśli zostanie umieszczone w pokoju według ich upodobań.	Ein Platz zum Schlafen. Er erlaubt den Einzug freundlicher Einwohner, wenn es in einem passenden Raum platziert wird.
 Items/BentFork	Text		Bent Fork	Wygięty widelec	Gebogene Gabel
 Items/BentForkDesc	Text		A simple fork that has seen too much use.	Prosty widelec, który był zbyt często używany.	Eine einfache Gabel, die zu oft benutzt wurde.
-Items/BigFloorTileCaveling	Text		"Stone tile ""Cavelings"""	"Płytka kamienna ""Jaskinie"""	Steinfliese „Grottlinge“
+Items/BigFloorTileCaveling	Text		Cavelings Stone Tile 	"Kamienna płyta ""Jaskinie"""	Steinfliese „Grottlinge“
 Items/BigFloorTileCavelingDesc	Text		A giant stone tile decorated with a deep blue glass. It depicts a gathering of cavelings.	Olbrzymia kamienna płytka ozdobiona ciemnoniebieskim szkłem. Przedstawia zgromadzenie jaskiniowców.	Eine große Steinfliese, dekoriert mit tiefblauem Glas. Es zeigt eine Versammlung von Grottlingen.
-Items/BigFloorTileGemstone	Text		"Stone tile ""Gemstone"""	"Płytka kamienna ""Klejnot"""	Steinfliese „Edelstein“
+Items/BigFloorTileGemstone	Text		Gemstone Stone Tile 	"Kamienna płyta ""Klejnot"""	Steinfliese „Edelstein“
 Items/BigFloorTileGemstoneDesc	Text		A giant stone tile decorated with a deep blue glass. It depicts a glowing gemstone.	Olbrzymia kamienna płytka ozdobiona ciemnoniebieskim szkłem. Przedstawia świecący kamień szlachetny.	Eine große Steinfliese, dekoriert mit tiefblauem Glas. Sie zeigt einen leuchtenden Edelstein.
-Items/BigFloorTileScholar	Text		"Stone tile ""Scholar"""	"Płytka kamienna ""Uczony"""	Steinfliese „Gelehrter“
+Items/BigFloorTileScholar	Text		Scholar Stone Tile 	"Kamienna płyta ""Uczony"""	Steinfliese „Gelehrter“
 Items/BigFloorTileScholarDesc	Text		A giant stone tile decorated with a deep blue glass. It depicts a robed caveling.	Olbrzymia kamienna płytka ozdobiona ciemnoniebieskim szkłem. Przedstawia odzianego w szatę jaskiniowca.	Eine große Steinfliese, dekoriert mit tiefblauem Glas. Es zeigt einen hochrangig bekleideten Grottling.
 Items/BigGrenade	Text		Blast Bundle	Pakiet wybuchowy	Sprengbündel
 Items/BigGrenadeDesc	Text		Thrown much like a regular grenade... but creates a stronger blast!	Rzucany podobnie jak zwykły granat... ale wywołuje silniejszy wybuch!	Wird wie eine gewöhnliche Granate geworfen ... die eine stärkere Explosion erzeugt!
@@ -3311,6 +3435,8 @@ Items/CritterNewt	Text		Shadow Newt	Cienista Traszka	Schattenmolch
 Items/CritterNewtDesc	Text		A dark fellow with seemingly unseeing eyes. But they stare deep into your soul.	Mroczny osobnik o pozornie niewidzących oczach. Lecz wpatrują się one głęboko w twoją duszę.	Ein dunkler Geselle mit Augen, die nicht sehen zu können scheinen. Doch sie starren tief in deine Seele.
 Items/CritterPassageFly	Text		Drape Ray	Smugowy Płomyk	Schleierrochen
 Items/CritterPassageFlyDesc	Text		This luminous dweller drifts through the air like a calm breath, even in the most impetuous areas.	Ten świetlisty stworek dryfuje w powietrzu niczym spokojny oddech, nawet w najbardziej niespokojnych miejscach.	Diese leuchtende Kreatur treibt wie ein Hauch durch die Lüfte, selbst in den turbulentesten Gebieten.
+Items/CritterPouch	Text		Critter Pouch	Sakiewka na stworzenia	Wesenbeutel
+Items/CritterPouchDesc	Text		A small pouch made exclusively for critters, with dedicated slots that auto-sort items as you gather them.	Mała sakiewka stworzona specjalnie dla stworzeń, posiadająca dedykowane przegródki, które automatycznie sortują przedmioty w miarę ich gromadzenia.	Ein kleiner Beutel, speziell für Wesen. Er verfügt über Slots, die Gegenstände beim Sammeln automatisch sortieren.
 Items/CritterScorpion	Text		Little Death	Mała śmierć	Kleiner Tod
 Items/CritterScorpionDesc	Text		This small scorpion is harmless to humans but can easily kill smaller creatures if it needs food.	Ten mały skorpion jest nieszkodliwy dla ludzi, ale może z łatwością zabić mniejsze stworzenia, jeśli potrzebuje pożywienia.	Dieser kleine Skorpion ist harmlos für Menschen, aber tödlich für kleiner Tiere, von denen er sich ernährt.
 Items/CritterShrew	Text		Sniffling	Niuchniątko	Schnüffling
@@ -3674,7 +3800,7 @@ Items/FireworkYellowDesc	Text		A firework rocket that flies up and results in a 
 Items/FishFossil	Text		Fish Fossil	Rybia skamielina	Fischfossil
 Items/FishFossilDesc	Text		The imprint of an ancient fish on a rock slate.	Odcisk starożytnej ryby na skalnym łupku.	Der Abdruck eines prähistorischen Fischs auf einer Steinplatte.
 Items/FishPouch	Text		Small Fish Pouch	Mała sakiewka na ryby	Kleiner Fischbeutel
-Items/FishPouchDesc	Text		A small pouch made exclusively for fish, with dedicated slots that auto-sort items as you gather them.	Mała sakiewka stworzona specjalnie dla ryb, posiadająca dedykowane otwory, które automatycznie sortują przedmioty w miarę ich gromadzenia.	Ein kleiner Beutel für Fische. Er verfügt über Slots, die Gegenstände beim Sammeln automatisch sortieren.
+Items/FishPouchDesc	Text		A small pouch made exclusively for fish, with dedicated slots that auto-sort items as you gather them.	Mała sakiewka stworzona specjalnie dla ryb, posiadająca dedykowane przegródki, które automatycznie sortują przedmioty w miarę ich gromadzenia.	Ein kleiner Beutel für Fische. Er verfügt über Slots, die Gegenstände beim Sammeln automatisch sortieren.
 Items/FishingMerchant	Text		Fishing Merchant	Handlarz wędkarski	Angelnder Händler
 Items/FishingNet	Text		Fishing Net	Sieć rybacka	Fischernetz
 Items/FishingNetDesc	Text		Lures in fish using critters as bait.	Wabi ryby, wykorzystując jako przynętę małe stworzenia.	Lockt Fische mit Wesen als Köder an.
@@ -3830,7 +3956,7 @@ Items/GlassFloor	Text		Glass Floor	Szklana podłoga	Glasboden
 Items/GlassFloorDesc	Text		A see-through tile to provide a crystal-clear vision of the ground underneath.	Przezroczysta płytka zapewniająca krystalicznie czysty widok podłoża pod spodem.	Eine durchsichtige Fliese, die einen kristallklaren Blick auf den darunterliegenden Boden ermöglicht.
 Items/GlassSmelter	Text		Glass Smelter	Huta szkła	Glas-Schmelzofen
 Items/GlassSmelterDesc	Text		This handy furnace can turn any sand block into useful glass.	Ten poręczny piec może zamienić dowolny blok piasku w użyteczne szkło.	Dieser praktische Schmelzofen kann jede Art von Sandblock zu nützlichem Glas verarbeiten.
-Items/GlassStatuePrism	Text		"Glass Statue ""Octahedron"""	"Szklana rzeźba ""Ośmiościan"""	"""""""""""""""""""""""""""""""Glas-Statue ""Oktaeder""""
+Items/GlassStatuePrism	Text		"Glass Statue ""Octahedron"""	"Szklana rzeźba ""Ośmiościan"""	"""""""""""""""""""""""""""""""""Glas-Statue ""Oktaeder""""
 ""					
 ""					
 ""					
@@ -3839,6 +3965,7 @@ Items/GlassStatuePrism	Text		"Glass Statue ""Octahedron"""	"Szklana rzeźba ""O�
 ""					
 ""					
 ""					
+""
 ""
 ""
 ""
@@ -3903,7 +4030,7 @@ Items/GoldCrystalRing	Text		Gold Crystal Ring	Złoty pierścień z kryształem	G
 Items/GoldCrystalRingDesc	Text		A precious ring featuring ancient gemstones.	Cenny pierścień z antycznymi kamieniami szlachetnymi.	Ein wertvoller Ring, der mit Antiken Edelsteinen besetzt ist.
 Items/GoldOre	Text		Gold Ore	Ruda złota	Golderz
 Items/GoldOreBoulder	Text		Gold Ore Boulder	Głaz rudy złota	Gold-Erzblock
-Items/GoldOreDesc	Text		Rarely found in clay and stone walls.	Rzadko spotykany w glinianych i kamiennych ścianach.	Wird manchmal in Lehm- und Steinwänden gefunden.
+Items/GoldOreDesc	Text		Rarely found in walls in the underground. 	Rzadko spotykany w ścianach podziemi.	Wird manchmal in Lehm- und Steinwänden gefunden.
 Items/GoldenAngleFish	Text		Jasper Angle Fish	Jaspisowy skalar 	Jaspis-Winkelfisch
 Items/GoldenAngleFishDesc	Text		This sun-golden fish seemed to have had a normal body once, but the water of the Shimmering Frontier corrupted it to be crystalline through and through.	Wydawało się, że ta złocista ryba miała kiedyś normalne ciało, ale woda Błyszczącej Granicy zmieniła je w krystaliczne na wskroś.	Dieser sonnengoldene Fisch scheint einst einen normalen Körper gehabt zu haben, doch die Gewässer der Schimmernden Grenze haben ihn durch und durch mit Kristall überzogen.
 Items/GoldenBombScarab	Text		Gold Scarab	Złoty skarabeusz	Goldskarabäus
@@ -4342,29 +4469,40 @@ Items/LandKelpDesc	Text		A type of algae that can grow outside of water.	Rodzaj 
 Items/Lantern	Text		Lantern	Latarenka	Laterne
 Items/LanternDesc	Text		A small, useful light that leaves your hands free.	Mała, użyteczna lampka, która zapewnia wolne ręce.	Ein kleines, nützliches Licht, mit dem du die Hände frei hast.
 Items/LargeAlienTechDestructible	Text		Large Alien Tech Destructible	Duża zniszczalna technologia obcych	Großer Alientechnologie-Behälter
+Items/LargeAlienTechDestructibleDesc	Text		A breakable storage unit that is not from this world. It contains extraterrestrial goods.	Kruchy schowek, który nie jest z tego świata. Znajdują się w nim przedmioty pochodzenia pozaziemskiego.	Eine zerstörbare Lagereinheit, die nicht von diesem Planeten stammt. Sie enthält außerirdische Gegenstände.
 Items/LargeAncientDestructible	Text		Large Ancient Crate	Duża starożytna skrzynia	Große antike Kiste
+Items/LargeAncientDestructibleDesc	Text		A large mysteriously glowing container holding ancient goods.	Duży, tajemniczo świecący pojemnik zawierający starożytne przedmioty.	Ein großer, mysteriös leuchtender Behälter, gefüllt mit alten Gegenständen.
 Items/LargeBomb	Text		Large Bomb	Duża bomba	Große Bombe
 Items/LargeBombDesc	Text		A very strong explosive for massive destruction.	Bardzo silny materiał wybuchowy powodujący ogromne zniszczenia.	Eine sehr starke Sprengladung für massive Zerstörung.
 Items/LargeCityDestructible	Text		Large Metropolis Crate	Duża skrzynia Metropolis	Großer Metropolis-Behälter
+Items/LargeCityDestructibleDesc	Text		This wide precious storage holds useful items that have been used by citizens of the ancient city.	W tej obszernej, cennej skrzyni znajdują się przydatne przedmioty, z których korzystali mieszkańcy starożytnego miasta.	In diesem wertvollen Behälter stecken nützliche Gegenstände, die von den Bewohnern der antiken Stadt genutzt wurden.
+Items/LargeCritterPouch	Text		Large Critter Pouch	Duża sakiewka na zwierzaki	Großer Wesenbeutel
+Items/LargeCritterPouchDesc	Text		A large pouch made exclusively for critters, with dedicated slots that auto-sort items as you gather them.	Duża sakiewka stworzona specjalnie dla stworzeń, posiadająca dedykowane przegródki, które automatycznie sortują przedmioty w miarę ich gromadzenia.	Ein großer Beutel, speziell für Wesen. Er verfügt über Slots, die Gegenstände beim Sammeln automatisch sortieren.
 Items/LargeCrystalDestructible	Text		Large Sun Crystal	Duży kryształ słoneczny	Großer Sonnenkristall
+Items/LargeCrystalDestructibleDesc	Text		A tall but fragile crystal cluster that shimmers like the sun. You can see items encased within.	Wysoka, ale delikatna kryształowa formacja, mieniąca się niczym słońce. Widać w niej zamknięte przedmioty.	Ein großer, aber zerbrechlicher Kristallhaufen, der wie die Sonne schimmert. Man kann darin eingeschlossene Gegenstände erkennen.
 Items/LargeDesertDestructible	Text		Large Desert Flower Vessel	Duże pustynne naczynie kwiatowe	Großes Wüstenblüten-Gefäß
+Items/LargeDesertDestructibleDesc	Text		A massive dry plant containing natural loot from the desert.	Ogromna, wyschnięta roślina zawierająca naturalne skarby z pustyni.	Eine gewaltige, trockene Pflanze, gefüllt mit den natürlichen Schätzen der Wüste.
 Items/LargeDesertTempleDestructible	Text		Large Temple Crate	Duża skrzynia świątyni	Großer Tempel-Behälter
+Items/LargeDesertTempleDestructibleDesc	Text		A hefty piece of an ancient monument filled with goods of an old desert civilization.	Potężny fragment starożytnego zabytku, wypełniony przedmiotami należącymi do dawnej cywilizacji pustynnej.	Ein großes Stück eines uralten Monuments, gefüllt mit den Habseligkeiten einer alten Wüstenzivilisation.
 Items/LargeFishPouch	Text		Large Fish Pouch	Duża sakiewka na ryby	Großer Fischbeutel
-Items/LargeFishPouchDesc	Text		A large pouch made exclusively for fish, with dedicated slots that auto-sort items as you gather them.	Duża sakiewka stworzona wyłącznie z myślą o rybach, posiadająca dedykowane otwory, które automatycznie sortują przedmioty w miarę ich gromadzenia.	Ein großer Beutel für Fische. Er verfügt über Slots, die Gegenstände beim Sammeln automatisch sortieren.
+Items/LargeFishPouchDesc	Text		A large pouch made exclusively for fish, with dedicated slots that auto-sort items as you gather them.	Duża sakiewka przeznaczona wyłącznie na ryby, posiadająca dedykowane przegródki, które automatycznie sortują przedmioty w miarę ich gromadzenia.	Ein großer Beutel für Fische. Er verfügt über Slots, die Gegenstände beim Sammeln automatisch sortieren.
 Items/LargeJellyfishDestructable	Text		Large Beached Jelly	Duża meduza plażowa	Große gestrandete Qualle
 Items/LargeMoldDestructible	Text		Large Mold Vessel	Duża kula pleśni	Großes Schimmel-Gefäß
+Items/LargeMoldDestructibleDesc	Text		A hollow and fuzzy fungal cluster. Breaking it open may yield some useful goods.	Pusta w środku i puszysta gromada grzybów. Po rozbiciu może zawierać przydatne przedmioty.	Ein hohler, flauschiger Schimmelhaufen. Es könnten wertvolle Sachen darin sein.
 Items/LargeOreAndBlockPouch	Text		Large Ore and Block Pouch	Duża sakiewka na rudy i bloki	Großer Erz-und-Block-Beutel
-Items/LargeOreAndBlockPouchDesc	Text		A large pouch made exclusively for ores and blocks, with dedicated slots that auto-sort items as you gather them.	Duża sakiewka przeznaczona wyłącznie na rudy i bloki,posiadająca dedykowane otwory, które automatycznie sortują przedmioty w miarę ich gromadzenia.	Ein großer Beutel für Erze und Blöcke. Er verfügt über Slots, die Gegenstände beim Sammeln automatisch sortieren.
+Items/LargeOreAndBlockPouchDesc	Text		A large pouch made exclusively for ores and blocks, with dedicated slots that auto-sort items as you gather them.	Duża sakiewka przeznaczona wyłącznie na rudy i bloki, posiadająca dedykowane przegródki, które automatycznie sortują przedmioty w miarę ich gromadzenia.	Ein großer Beutel für Erze und Blöcke. Er verfügt über Slots, die Gegenstände beim Sammeln automatisch sortieren.
 Items/LargePassageDestructible	Text		Large Fossil Cluster	Duży zbiór skamieniałości	Großer Fossil-Cluster
 Items/LargePassageDestructibleDesc	Text		A heaping pile of calcified marine fossils. There may be some resources inside.	Stos zwapniałych skamieniałości morskich. W środku mogą znajdować się zasoby.	Ein aufgetürmter Haufen verkalkter Meeresfossilien. Enthält möglicherweise Ressourcen.
+Items/LargePotionPouch	Text		Large Potion Pouch	Duża sakiewka na mikstury	Großer Trankbeutel
+Items/LargePotionPouchDesc	Text		A large pouch made exclusively for potions, with dedicated slots that auto-sort items as you gather them.	Duża sakiewka przeznaczona wyłącznie do przechowywania mikstur, posiadająca dedykowane przegródki, które automatycznie sortują przedmioty w miarę ich gromadzenia.	Ein großer Beutel, speziell für Tränke. Er verfügt über Slots, die Gegenstände beim Sammeln automatisch sortieren.
 Items/LargeSeedAndCropsPouch	Text		Large Seed and Crop Pouch	Duża sakiewka na nasiona i plony	Großer Samen-und-Feldfrucht-Beutel
-Items/LargeSeedAndCropsPouchDesc	Text		A large pouch made exclusively for seeds and crops, with dedicated slots that auto-sort items as you gather them.	Duża sakiewka przeznaczona wyłącznie na nasiona i plony, posiadająca dedykowane otwory, które automatycznie sortują przedmioty w miarę ich gromadzenia.	Ein großer Beutel für Samen und Feldfrüchte. Er verfügt über Slots, die Gegenstände beim Sammeln automatisch sortieren.
+Items/LargeSeedAndCropsPouchDesc	Text		A large pouch made exclusively for seeds and crops, with dedicated slots that auto-sort items as you gather them.	Duża sakiewka przeznaczona wyłącznie na nasiona i plony, posiadająca dedykowane przegródki, które automatycznie sortują przedmioty w miarę ich gromadzenia.	Ein großer Beutel für Samen und Feldfrüchte. Er verfügt über Slots, die Gegenstände beim Sammeln automatisch sortieren.
 Items/LargeShinyGlimmeringObject	Text		Large Shiny Glimmering Object	Duży, błyszczący, mieniący się obiekt	Großes, glänzendes Objekt
 Items/LargeShinyGlimmeringObjectDesc	Text		A crystalline, egg-shaped object that could catch attention from great heights. 	Krystaliczny obiekt w kształcie jajka, który mógłby przyciągnąć uwagę z dużej wysokości.	Ein kristallines, eiförmiges Objekt. Selbst aus großer Entfernung zieht es deinen Blick auf sich.
 Items/LargeTempleRug	Text		Large Temple Decor Rug	Duży dywan dekoracyjny świątyni	Großer Tempel-Dekorteppich
 Items/LargeTempleRugDesc	Text		A large, ancient rug with a very detailed design woven into it. It must once have been an expensive item and a sign of prosperity.	Duży, starożytny dywan z bardzo szczegółowym wzorem. Kiedyś musiał to być drogi przedmiot i oznaka dobrobytu.	Ein großer, alter Teppich mit einem sehr aufwendigen Webmuster. Er muss einst ein teurer Gegenstand und ein Zeichen von Wohlstand gewesen sein.
-Items/LargeValuablePouch	Text		Large Valuable Pouch	Duża saszetka na wartościowe przedmioty	Großer Wertgegenstand-Beutel
-Items/LargeValuablePouchDesc	Text		A large pouch made exclusively for valuables, with dedicated slots that auto-sort items as you gather them.	Duża sakiewka przeznaczona wyłącznie na kosztowności, posiadająca dedykowane otwory, które automatycznie sortują przedmioty w miarę ich gromadzenia.	Ein großer Beutel für Wertgegenstände. Er verfügt über Slots, die Gegenstände beim Sammeln automatisch sortieren.
+Items/LargeValuablePouch	Text		Large Valuable Pouch	Duża sakiewka na wartościowe przedmioty	Großer Wertgegenstand-Beutel
+Items/LargeValuablePouchDesc	Text		A large pouch made exclusively for valuables, with dedicated slots that auto-sort items as you gather them.	Duża sakiewka przeznaczona wyłącznie na kosztowności, posiadająca dedykowane przegródki, które automatycznie sortują przedmioty w miarę ich gromadzenia.	Ein großer Beutel für Wertgegenstände. Er verfügt über Slots, die Gegenstände beim Sammeln automatisch sortieren.
 Items/LargeWaterCan	Text		Large Watering Can	Duża konewka	Große Gießkanne
 Items/LargeWaterCanDesc	Text		Used to water seeds and soil. It holds more water than a regular watering can and covers an area of up to 2x2 tiles. 	Służy do podlewania nasion i gleby. Mieści więcej wody niż zwykła konewka i pokrywa obszar 2x2 płytki.	Wird genutzt, um Böden und Samen zu bewässern. Fasst mehr Inhalt als eine herkömmliche Gießkanne und hat einen 2x2-Wirkungsradius.
 Items/Larva	Text		Larva	Larwa	Larve
@@ -4431,7 +4569,7 @@ Items/LavaSlimeTrophyDesc	Text		A lifelike representation of a Lava Slime.	Reali
 Items/LavaStalagmite	Text		Lava Stalagmite	Lawowy stalagmit	Lavagestein-Stalagmit
 Items/LavaStalagmiteDesc	Text		A stone pillar formed over thousands of years through dripping magma.	Kamienny filar uformowany na przestrzeni tysięcy lat przez kapiącą magmę.	Eine Steinsäule, die über tausende von Jahren durch herabtropfendes Magma entstanden ist.
 Items/LavaWoodenDestructible	Text		Charred Crate	Zwęglona skrzynia	Verbrannte Holzkiste
-Items/LavaWoodenDestructibleDesc	Text		This wooden crate has been blackened by a scorching environment.	Ta drewniana skrzynia poczerniała w wyniku działania palącego środowiska.	Diese Holzkiste ist durch die sengende Umgebung schwarz angelaufen.
+Items/LavaWoodenDestructibleDesc	Text		This grand wooden crate has been blackened by a scorching environment. 	Ta okazała drewniana skrzynia poczerniała w wyniku działania palącego środowiska.	Diese Holzkiste ist durch die sengende Umgebung schwarz angelaufen.
 Items/LeafFossil	Text		Leaf Fossil	Skamielina liścia	Blattfossil
 Items/LeafFossilDesc	Text		Proof of a once flourishing environment.	Dowód niegdyś kwitnącego środowiska.	Beweis einer einst blühenden Umgebung.
 Items/Leash	Text		Leash	Smycz	Leine
@@ -4565,14 +4703,18 @@ Items/MechanicalArm	Text		Mechanical Arm	Mechaniczne ramię	Mechanischer Arm
 Items/MechanicalArmDesc	Text		An overgrown piece of ancient technology. The joints are stiff but it must have performed remarkable tasks in the past.	Zarośnięty kawałek starożytnej technologii. Stawy są sztywne, ale w przeszłości musiało wykonywać niezwykłe zadania.	Ein bewachsenes Stück uralter Technologie. Die Gelenke sind versteift, aber es muss außergewöhnliche Taten vollbracht haben.
 Items/MechanicalPart	Text		Mechanical Part	Część mechaniczna	Mechanisches Teil
 Items/MechanicalPartDesc	Text		A piece of ancient machinery.	Kawałek starożytnej maszynerii.	Ein Stück uralter Maschinerie.
+Items/MediumCritterPouch	Text		Medium Critter Pouch	Średnia sakiewka na stworzenia	Mittelgroßer Wesenbeutel
+Items/MediumCritterPouchDesc	Text		A medium pouch made exclusively for critters, with dedicated slots that auto-sort items as you gather them.	Średniej sakiewka przeznaczona wyłącznie na stworzenia, posiadająca dedykowane przegródki, które automatycznie sortują przedmioty w miarę ich gromadzenia.	Ein mittelgroßer Beutel, speziell für Wesen. Er verfügt über Slots, die Gegenstände beim Sammeln automatisch sortieren.
 Items/MediumFishPouch	Text		Medium Fish Pouch	Średnia sakiewka na ryby	Mittelgroßer Fischbeutel
-Items/MediumFishPouchDesc	Text		A medium pouch made exclusively for fish, with dedicated slots that auto-sort items as you gather them.	Średnia sakiewka stworzona wyłącznie dla ryb, posiadająca dedykowane otwory, które automatycznie sortują przedmioty w miarę ich zbierania.	Ein mittelgroßer Beutel für Fische. Er verfügt über Slots, die Gegenstände beim Sammeln automatisch sortieren.
+Items/MediumFishPouchDesc	Text		A medium pouch made exclusively for fish, with dedicated slots that auto-sort items as you gather them.	Średnia sakiewka stworzona wyłącznie dla ryb, posiadająca dedykowane przegródki, które automatycznie sortują przedmioty w miarę ich zbierania.	Ein mittelgroßer Beutel für Fische. Er verfügt über Slots, die Gegenstände beim Sammeln automatisch sortieren.
 Items/MediumOreAndBlockPouch	Text		Medium Ore and Block Pouch	Średnia sakiewka na rudy i bloki	Mittelgroßer Erz-und-Block-Beutel
-Items/MediumOreAndBlockPouchDesc	Text		A medium pouch made exclusively for ores and blocks, with dedicated slots that auto-sort items as you gather them.	Średnia sakiewka przeznaczona wyłącznie na rudy i bloki, posiadająca dedykowane otwory, które automatycznie sortują zbierane przedmioty.	Ein mittelgroßer Beutel für Erze und Blöcke. Er verfügt über Slots, die Gegenstände beim Sammeln automatisch sortieren.
+Items/MediumOreAndBlockPouchDesc	Text		A medium pouch made exclusively for ores and blocks, with dedicated slots that auto-sort items as you gather them.	Średnia sakiewka przeznaczona wyłącznie na rudy i bloki, posiadająca dedykowane przegródki, które automatycznie sortują zbierane przedmioty.	Ein mittelgroßer Beutel für Erze und Blöcke. Er verfügt über Slots, die Gegenstände beim Sammeln automatisch sortieren.
+Items/MediumPotionPouch	Text		Medium Potion Pouch	Średnia sakiewka na mikstury	Mittelgroßer Trankbeutel
+Items/MediumPotionPouchDesc	Text		A medium pouch made exclusively for potions, with dedicated slots that auto-sort items as you gather them.	Średnia sakiewka przeznaczona wyłącznie do przechowywania mikstur, posiadająca dedykowane przegródki, które automatycznie sortują przedmioty w miarę ich gromadzenia.	Ein mittelgroßer Beutel, speziell für Tränke. Er verfügt über Slots, die Gegenstände beim Sammeln automatisch sortieren.
 Items/MediumSeedAndCropsPouch	Text		Medium Seed and Crop Pouch	Średnia sakiewka na nasiona i rośliny	Mittelgroßer Samen-und-Feldfrucht-Beutel
-Items/MediumSeedAndCropsPouchDesc	Text		A medium pouch made exclusively for seeds and crops, with dedicated slots that auto-sort items as you gather them.	Średnia sakiewka przeznaczona wyłącznie na nasiona i plony, posiadająca dedykowane otwory, które automatycznie sortują zbierane przedmioty.	Ein mittelgroßer Beutel für Samen und Feldfrüchte. Er verfügt über Slots, die Gegenstände beim Sammeln automatisch sortieren.
+Items/MediumSeedAndCropsPouchDesc	Text		A medium pouch made exclusively for seeds and crops, with dedicated slots that auto-sort items as you gather them.	Średnia sakiewka przeznaczona wyłącznie na nasiona i plony, posiadająca dedykowane przegródki, które automatycznie sortują zbierane przedmioty.	Ein mittelgroßer Beutel für Samen und Feldfrüchte. Er verfügt über Slots, die Gegenstände beim Sammeln automatisch sortieren.
 Items/MediumValuablePouch	Text		Medium Valuable Pouch	Średnia sakiewka na wartościowe przedmioty	Mittelgroßer Wertgegenstand-Beutel
-Items/MediumValuablePouchDesc	Text		A medium pouch made exclusively for valuables, with dedicated slots that auto-sort items as you gather them.	Średnia sakiewka przeznaczona wyłącznie na kosztowności, posiadająca dedykowane otwory, które automatycznie sortują przedmioty w miarę ich gromadzenia.	Ein mittelgroßer Beutel für Wertgegenstände. Er verfügt über Slots, die Gegenstände beim Sammeln automatisch sortieren.
+Items/MediumValuablePouchDesc	Text		A medium pouch made exclusively for valuables, with dedicated slots that auto-sort items as you gather them.	Średnia sakiewka przeznaczona wyłącznie na kosztowności, posiadająca dedykowane przegródki, które automatycznie sortują przedmioty w miarę ich gromadzenia.	Ein mittelgroßer Beutel für Wertgegenstände. Er verfügt über Slots, die Gegenstände beim Sammeln automatisch sortieren.
 Items/MeltingCrystalRing	Text		Melting Crystal Ring	Topniejący pierścień z kryształem	Schmelzender Kristall-Ring
 Items/MeltingCrystalRingDesc	Text		A gooey ring dripping slippery slime on the floor.	Gęsty pierścień kapiący śliskim śluzem na podłogę.	Ein glibberiger Ring, von dem Schleim tropft.
 Items/MetalBarrel	Text		Metal Barrel	Metalowa beczka	Metallfass
@@ -4650,8 +4792,8 @@ Items/MoltenButterflyWing	Text		Melting Lava Wing	Skrzydło z topniejącej lawy	
 Items/MoltenButterflyWingDesc	Text		The wing of a lava butterfly, swinging it causes sparks to fly off in all directions. 	Skrzydło motyla lawowego, którego machnięcie powoduje wyrzucenie iskier we wszystkich kierunkach.	Der Flügel eines Lavaschmetterlings. Er versprüht Funken in jede Richtung, wenn er geschwungen wird.
 Items/MoonstoneOffhand	Text		Moonstone	Kamień księżycowy	Mondstein
 Items/MoonstoneOffhandDesc	Text		This pristine crystal is filled with energy. It makes you feel determined.	Ten nieskazitelny kryształ jest pełen energii. Sprawia, że czujesz się zdeterminowany.	Dieser makellose Kristall ist voller Energie. Er erfüllt dich mit Entschlossenheit.
-Items/MorphaBag	Text		Morpha's Bubble Bag	Torba bąbelkowa Morphy	Morphas Blubberbeutel
-Items/MorphaBagDesc	Text		An elastic bag with lots of space that formed from one of Morpha's outer growths.	Elastyczna torba z dużą ilością miejsca, która powstała z jednej z zewnętrznych części Morphy 	Ein elastischer Beutel mit viel Platz im Inneren, der aus einem von Morphas Wüchsen entstanden ist.
+Items/MorphaBag	Text		Morpha's Bubble Backpack	Bąbelkowy plecak Morphy	Morphas Blubberbeutel
+Items/MorphaBagDesc	Text		An elastic backpack with lots of space that formed from one of Morpha's outer growths.	Elastyczny plecak o dużej pojemności, który powstał z jednego z zewnętrznych wyrostków Morphy.	Ein elastischer Beutel mit viel Platz im Inneren, der aus einem von Morphas Wüchsen entstanden ist.
 Items/MorphaChest	Text		Morpha's Chest	Skrzynia Morphy	Morphas Kiste
 Items/MorphaChestDesc	Text		A slime-covered chest reminiscent of the Aquatic Mass.	Pokryta szlamem skrzynia przypomina Wodną Masę.	Eine schleimbedeckte Kiste, die an die Aquatische Masse erinnert.
 Items/MorphaRing	Text		Morpha's Ring	Pierścień Morphy	Morphas Ring
@@ -4808,7 +4950,7 @@ Items/OmorothTrophy	Text		Omoroth Figurine	Figurka Omorotha	Omoroth-Figur
 Items/OmorothTrophyDesc	Text		A lifelike representation of Omoroth, the Sea Titan.	Realistyczne odwzorowanie Omorotha Morskiego Tytana.	Eine lebensechte Nachbildung von Omoroth, dem Meerestitanen.
 Items/OpabiniaFossil	Text		Opabinia Fossil	Skamielina Opabinii	Opabinia-Fossil
 Items/OpabiniaFossilDesc	Text		The petrified body of an prehistoric sea critter. They were one of the first apex predators to appear in the ancient oceans of earth.	Skamieniałe ciało prehistorycznego stworzenia morskiego. Były one jednymi z pierwszych drapieżników, które pojawiły się w starożytnych oceanach ziemi.	Der versteinerte Körper einer prähistorischen Meereskreatur. Sie war einst einer der ersten Apex-Jäger der urzeitlichen Meere der Erde.
-Items/OracleCardAzeos	Text		"Oracle Card ""Radiance"""	"Karta wyroczni ""Blask"""	"""""""""""""""""""""""""""""""Orakel-Karte ""Glanz""""
+Items/OracleCardAzeos	Text		"Oracle Card ""Radiance"""	"Karta wyroczni ""Blask"""	"""""""""""""""""""""""""""""""""Orakel-Karte ""Glanz""""
 ""					
 ""					
 ""					
@@ -4817,6 +4959,7 @@ Items/OracleCardAzeos	Text		"Oracle Card ""Radiance"""	"Karta wyroczni ""Blask""
 ""					
 ""					
 ""					
+""
 ""
 ""
 ""
@@ -4835,7 +4978,7 @@ Items/OracleCardGem	Text		"Oracle Card ""Aura"""	"Karta wyroczni ""Aura"""	Orake
 Items/OracleCardGemDesc	Text		A ripped card with golden borders and an image of an ancient gemstone. Looks like it's part of a set.	Podarta karta ze złotymi ramkami i wizerunkiem starożytnego kamienia szlachetnego. Wygląda na część zestawu.	Eine gerissene Karte mit Goldrand und einem Bildnis eines Antiken Edelsteins. Scheint Teil eines Sets zu sein.
 Items/OracleCardLeader	Text		"Oracle Card ""Inspiration"""	"Karta Oracle ""Inspiracja"""	Orakel-Karte „Inspiration“
 Items/OracleCardLeaderDesc	Text		Half of a card with golden borders and an image of a golden mask. Looks like it's part of a set.	Połowa karty ze złotymi ramkami i wizerunkiem złotej maski. Wygląda na część zestawu.	Die Hälfte einer Karte mit Goldrand und einem Bildnis einer goldenen Maske. Scheint Teil eines Sets zu sein.
-Items/OracleCardOmoroth	Text		"Oracle Card ""Temperance"""	"Karta wyroczni ""Powściągliwość"""	"""""""""""""""""""""""""""""""Orakel-Karte ""Mäßigkeit""""
+Items/OracleCardOmoroth	Text		"Oracle Card ""Temperance"""	"Karta wyroczni ""Powściągliwość"""	"""""""""""""""""""""""""""""""""Orakel-Karte ""Mäßigkeit""""
 ""					
 ""					
 ""					
@@ -4844,6 +4987,7 @@ Items/OracleCardOmoroth	Text		"Oracle Card ""Temperance"""	"Karta wyroczni ""Pow
 ""					
 ""					
 ""					
+""
 ""
 ""
 ""
@@ -4852,7 +4996,7 @@ Items/OracleCardOmoroth	Text		"Oracle Card ""Temperance"""	"Karta wyroczni ""Pow
 ""
 "
 Items/OracleCardOmorothDesc	Text		A faded card with golden borders and an image of the sea titan. Looks like it's part of a set.	Wyblakła karta ze złotymi obwódkami i wizerunkiem morskiego tytana. Wygląda na część zestawu.	Eine verblassende Karte mit Goldrand und einem Bildnis des Meerestitans. Scheint Teil eines Sets zu sein.
-Items/OracleCardRaAkar	Text		"Oracle Card ""Endurance"""	"Karta wyroczni ""Wytrzymałość"""	"""""""""""""""""""""""""""""""Orakel-Karte ""Standhaftigkeit""""
+Items/OracleCardRaAkar	Text		"Oracle Card ""Endurance"""	"Karta wyroczni ""Wytrzymałość"""	"""""""""""""""""""""""""""""""""Orakel-Karte ""Standhaftigkeit""""
 ""					
 ""					
 ""					
@@ -4861,6 +5005,7 @@ Items/OracleCardRaAkar	Text		"Oracle Card ""Endurance"""	"Karta wyroczni ""Wytrz
 ""					
 ""					
 ""					
+""
 ""
 ""
 ""
@@ -4881,7 +5026,7 @@ Items/OrbitalTurret	Text		Orbital Turret	Wieżyczka orbitalna	Orbitalgeschütz
 Items/OrbitalTurretTrophy	Text		Orbital Turret Figurine	Figurka wieżyczki orbitalnej	Orbitalgeschütz-Figur
 Items/OrbitalTurretTrophyDesc	Text		A lifelike representation of an Orbital Turret.	Realistyczne odwzorowanie wieżyczki orbitalnej.	Eine lebensechte Nachbildung eines Orbitalgeschützes.
 Items/OreAndBlockPouch	Text		Small Ore and Block Pouch	Mała sakiewka na rudy i bloki	Kleiner Erz-und-Block-Beutel
-Items/OreAndBlockPouchDesc	Text		A small pouch made exclusively for ores and blocks, with dedicated slots that auto-sort items as you gather them.	Mała sakiewka przeznaczona wyłącznie na rudy i bloki, posiadająca dedykowane otwory, które automatycznie sortują zebrane przedmioty.	Ein kleiner Beutel für Erze und Blöcke. Er verfügt über Slots, die Gegenstände beim Sammeln automatisch sortieren.
+Items/OreAndBlockPouchDesc	Text		A small pouch made exclusively for ores and blocks, with dedicated slots that auto-sort items as you gather them.	Mała sakiewka przeznaczona wyłącznie na rudy i bloki, posiadająca dedykowane przegródki, które automatycznie sortują zebrane przedmioty.	Ein kleiner Beutel für Erze und Blöcke. Er verfügt über Slots, die Gegenstände beim Sammeln automatisch sortieren.
 Items/OstaraRing	Text		Ostara Ring	Pierścień ostary	Ostara-Ring
 Items/OstaraRingDesc	Text		A ring made of leaves and small golden eggs. It is a sign of emerging life and spring.	Pierścień wykonany z liści i małych złotych jajek. Jest to znak rodzącego się życia i wiosny.	Ein Ring, gemacht aus Blättern und kleinen goldenen Eiern. Er ist ein Zeichen aufblühenden Lebens und des Frühlings.
 Items/PaintBrushBlack	Text		Black Paint Brush	Czarny pędzel	Schwarzer Pinsel
@@ -4982,11 +5127,11 @@ Items/PetBunnyEggDesc	Text		A mysterious, feather-eared egg that seems to react 
 Items/PetCandy	Text		Pet Pellet	Smakołyki dla zwierząt	Schlabber-Snack
 Items/PetCandyDesc	Text		This handful of treats with different meaty flavors is a great addition to your pets' diet. 	Ta garść smakołyków o różnych mięsnych smakach jest doskonałym dodatkiem do diety zwierząt domowych.	Diese Handvoll Leckereien mit verschiedenen Fleisch-Aromen ist eine perfekte Ergänzung in der Haustier-Ernährung.
 Items/PetCandyEpic	Text		Beast Booster	Wzmacniacz bestii	Bestien-Booster
-Items/PetCandyEpicDesc	Text		Spontaneous and impulsive in nature, this pet is as fierce in battle as they are at clawing at furniture. But also incredibly cuddly. 	Pełen witamin, smaków i mnóstwa energii, ten przysmak jest szczytem tego, jak można rozpieszczać swoje zwierzęta.	Vollgepackt mit Vitaminen, Geschmack und einem Haufen Energie, ist diese Leckerei das Nonplusultra, um deine Haustiere zu verwöhnen.
+Items/PetCandyEpicDesc	Text		Fully packed with vitamins, flavors and lots of energy, this treat is the pinnacle of how you can spoil your pets. 	Ten przysmak, pełen witamin, smaków i mnóstwa energii, to najlepszy sposób na rozpieszczanie swoich pupili.	Vollgepackt mit Vitaminen, Geschmack und einem Haufen Energie, ist diese Leckerei das Nonplusultra, um deine Haustiere zu verwöhnen.
 Items/PetCandyRare	Text	Again, the name should feel whimsical and be a creative combination of cat/breed/cat parts + its fire shooting properties. It's fine if it doesn't exactly match the names in other languages	Rare Candy	Rzadki cukierek	Sonderbonbon
 Items/PetCandyRareDesc	Text		A nutrient-rich snack that's highly sought after. Your pets will go crazy over this!	Bogata w składniki odżywcze przekąska, która jest bardzo poszukiwana. Twoje zwierzęta oszaleją na jej punkcie!	Ein nährstoffreicher Snack, der hochbegehrt ist. Deine Haustiere werden verrückt danach sein.
 Items/PetCat	Text		Embertail	Błyskogon 	Glutschweif
-Items/PetCatDesc	Text		Spontaneous and impulsive in nature, this pet is as fierce in battle as it is at clawing at furniture. But also incredibly cuddly.	Spontaniczny i impulsywny z natury, ten zwierzak jest równie zaciekły w walce, co w drapaniu mebli. Ale także niesamowicie przytulny.	Von Natur aus spontan und impulsiv, ist dieses Haustier im Kampf genauso gnadenlos mit Gegnern wie mit deiner Inneneinrichtung. Aber auch unglaublich verschmust.
+Items/PetCatDesc	Text		Spontaneous and impulsive in nature, this pet is as fierce in battle as they are at clawing at furniture. But also incredibly cuddly. 	Spontaniczny i impulsywny z natury, ten zwierzak jest równie zaciekły w walce, co w drapaniu mebli. Ale także niesamowicie przytulny.	Von Natur aus spontan und impulsiv, ist dieses Haustier im Kampf genauso gnadenlos mit Gegnern wie mit deiner Inneneinrichtung. Aber auch unglaublich verschmust.
 Items/PetCatEgg	Text		Curious Egg	Ciekawskie jajko	Neugieriges Ei
 Items/PetCatEggCracked	Text		Cracked Curious Egg	Pęknięte ciekawskie jajko	Angeknackstes neugieriges Ei
 Items/PetCatEggCrackedDesc	Text	Try to find a word mix with dog/breeds + anything related to subterran, cave, den or similar when doing translations.	A mysterious, curly-tailed egg that is about to hatch.	Tajemnicze jajo z kręconym ogonem, które wkrótce się wykluje.	Ein geheimnisvolles Ei mit gekrümmtem Schweif, das kurz davor ist, auszuschlüpfen.
@@ -5167,6 +5312,8 @@ Items/PotBreastArmor	Text		Pot Tub	Garnek	Krug
 Items/PotBreastArmorDesc	Text		This brittle clay container is just your size and usually filled with caveling supplies.	Ten gliniany, kruchy pojemnik ma twój rozmiar i zwykle jest wypełniony zapasami jaskiniowców.	Dieses brüchige Tongefäß hat genau deine Größe und ist normalerweise mit Grottling-Vorräten gefüllt.
 Items/PotHelm	Text		Pot Lid	Pokrywka garnka	Krug-Deckel
 Items/PotHelmDesc	Text		A heavy clay cover that has partially cracked and doubles down as a funny hat.	Ciężka gliniana pokrywa, która częściowo pękła i służy jako zabawny kapelusz.	Eine schwere Abdeckung aus Ton, die etwas angeknackst ist, sich aber als lustige Kopfbedeckung eignet.
+Items/PotionPouch	Text		Potion Pouch	Sakiewka na eliksiry	Trankbeutel
+Items/PotionPouchDesc	Text		A small pouch made exclusively for potions, with dedicated slots that auto-sort items as you gather them.	Mała sakiewka przeznaczona wyłącznie na eliksiry, posiadająca dedykowane przegródki, które automatycznie sortują przedmioty w miarę ich gromadzenia.	Ein kleiner Beutel, speziell für Tränke. Er verfügt über Slots, die Gegenstände beim Sammeln automatisch sortieren.
 Items/PottedAlienFlower	Text		Potted Alien Flower	Kwiat obcych w doniczce	Eingetopfte Alien-Blume
 Items/PottedAlienFlowerDesc	Text		It is not an actual flower but a hologram of one. Is it proof of a dying world where nothing grew anymore?	Nie jest to prawdziwy kwiat, ale jego hologram. Czy jest to dowód umierającego świata, w którym nic już nie rośnie?	Keine richtige Blume, sondern nur ein holografisches Abbild. Zeugt es von einer sterbenden Welt, in der nichts mehr wachsen konnte?
 Items/PottedCherryTree	Text		Potted Cherry Tree	Drzewo wiśni w doniczce	Eingetopfter Kirschbaum
@@ -5326,7 +5473,7 @@ Items/RobotArmDebris	Text		Mechanical Debris	Odpady mechaniczne	Mechanische Trü
 Items/RobotArmDebrisDesc	Text		Strewn chunks of bars, plates and industrial parts.	Rozrzucone kawałki prętów, płyt i części przemysłowych.	Verstreute Stücke aus Stäben, Platten und industriellen Teilen.
 Items/RobotArmDebrisSmall	Text		Small Mechanical Debris	Małe odpady mechaniczne	Kleine mechanische Trümmer
 Items/RobotArmDebrisSmallDesc	Text		Strewn chunks of nuts, bolts, and industrial fragments.	Rozrzucone kawałki nakrętek, śrub i fragmentów przemysłowych.	Verstreute Stücke aus Muttern, Bolzen und industriellen Fragmenten.
-Items/RobotArmDesc	Text		Mechanical helping hand, grabs things and puts them elsewhere when powered with electricity.	Mechaniczna pomocna dłoń, która po podłączeniu do zasilania chwyta przedmioty i przenosi je w inne miejsce. Można włączyć filtrowanie, aby urządzenie obsługiwało wyłącznie pasujące przedmioty.	Eine mechanische, helfende Hand. Greift Dinge und platziert sie woanders, wenn er mit Elektrizität versorgt wird.
+Items/RobotArmDesc	Text		A mechanical helping hand, grabs things and puts them elsewhere when powered by electricity. Filtering can be enabled to only handle matching items. 	Mechaniczna pomocna dłoń, która po podłączeniu do zasilania chwyta przedmioty i przenosi je w inne miejsce. Można włączyć filtrowanie, aby urządzenie obsługiwało wyłącznie pasujące przedmioty.	Eine mechanische, helfende Hand. Greift Dinge und platziert sie woanders, wenn er mit Elektrizität versorgt wird.
 Items/RobotBossActivatorConsole	Text		S.A.H.A.B.A.R. Console	Konsola S.A.H.A.B.A.R’a	
 Items/RobotBossActivatorConsoleDesc	Text		In its reflective monitor, it feels like more than your reflection looks back.	W jej lustrzanym monitorze wydaje się, że patrzy na ciebie coś więcej niż tylko twoje odbicie.	
 Items/RobotBossChest	Text		S.A.H.A.B.A.R. Chest	Skrzynia S.A.H.A.B.A.R’a	S.A.H.A.B.A.R.-Kiste
@@ -5427,7 +5574,7 @@ Items/ScarabBreastArmor	Text		Scarab Harness	Uprząż skarabeusza	Skarabäus-Har
 Items/ScarabBreastArmorDesc	Text		A masterfully crafted upper body armor to endure the dangers of the desert.	Mistrzowsko wykonany pancerz na górną część ciała, pozwalający przetrwać niebezpieczeństwa pustyni.	Eine meisterhaft geschmiedete Oberkörper-Rüstung, um den Gefahren der Wüste zu begegnen.
 Items/ScarabHelm	Text		Scarab Visor	Przyłbica skarabeusza	Skarabäus-Visier
 Items/ScarabHelmDesc	Text		A helm made in the design of Ra-Akar, casting its central eye on your enemies.	Hełm wykonany na wzór Ra-Akara, zwracający centralne oko na wrogów.	Ein Helm im Design von Ra-Akar, der sein zentrales Auge auf deine Feinde richtet.
-Items/ScarabMortar	Text		Bomb Scarab Mortar	Bombowy moździerz skarabeusza	Bomben-Skarabäus-Mörser
+Items/ScarabMortar	Text		Shellzooka 	Muszlozooka	Bomben-Skarabäus-Mörser
 Items/ScarabMortarDesc	Text		A powerful weapon launching explosive projectiles that resemble the center eye of a bomb scarab.	Potężna broń wystrzeliwująca wybuchowe pociski przypominające centralne oko bombowego skarabeusza.	Eine leistungsstarke Waffe, die explosive Projektile abfeuert, die dem zentralen Auge eines Bomben-Skarabäus ähneln.
 Items/ScarabPantsArmor	Text		Scarab Legs	Nogi skarabeusza	Skarabäus-Beinzeug
 Items/ScarabPantsArmorDesc	Text		A lower body armor mimicking the properties of desert critters.	Pancerz dolnej części ciała naśladujący właściwości pustynnych stworzeń.	Eine Beinrüstung, die die Eigenschaften von Wüsten-Lebewesen nachahmt.
@@ -5511,7 +5658,7 @@ Items/SealedBeverage	Text		Sealed Beverage	Zapieczętowany trunek	Versiegeltes G
 Items/SealedBeverageDesc	Text		An unknown liquid slushes inside when shaken. Is there an ancient corkscrew around?	Nieznany płyn wylewa się z wnętrza po wstrząśnięciu. Czy w pobliżu znajduje się starożytny korkociąg?	Eine unbekannte Flüssigkeit plätschert im Inneren. Gibt es hier irgendwo einen antiken Korkenzieher?
 Items/SeasonalMerchant	Text		Seasonal Merchant	Handlarz sezonowy	Saisonaler Händler
 Items/SeedAndCropsPouch	Text		Small Seed and Crop Pouch	Mała sakiewka na nasiona i rośliny	Kleiner Samen-und-Feldfrucht-Beutel
-Items/SeedAndCropsPouchDesc	Text		A small pouch made exclusively for seeds and crops, with dedicated slots that auto-sort items as you gather them.	Mała sakiewka przeznaczona wyłącznie na nasiona i plony, posiadająca dedykowane otwory, które automatycznie sortują zebrane przedmioty.	Ein kleiner Beutel für Samen und Feldfrüchte. Er verfügt über Slots, die Gegenstände beim Sammeln automatisch sortieren.
+Items/SeedAndCropsPouchDesc	Text		A small pouch made exclusively for seeds and crops, with dedicated slots that auto-sort items as you gather them.	Mała sakiewka przeznaczona wyłącznie na nasiona i plony, posiadająca dedykowane przegródki, które automatycznie sortują przedmioty w miarę ich gromadzenia.	Ein kleiner Beutel für Samen und Feldfrüchte. Er verfügt über Slots, die Gegenstände beim Sammeln automatisch sortieren.
 Items/SeedExtractor	Text		Seed Extractor	Ekstraktor nasion	Samen-Extraktor
 Items/SeedExtractorDesc	Text		Extracts and reclaims seeds from plants when powered by electricity.	Pozyskuje i odzyskuje nasiona z roślin po podłączeniu do zasilania elektrycznego.	Extrahiert und gewinnt Samen aus Pflanzen zurück, wenn er mit Elektrizität versorgt wird.
 Items/SeekerBomb	Text		Mouse Bomb	Mysia bomba	Mausebombe
@@ -5552,7 +5699,7 @@ Items/SignBrute	Text		Brute Sign	Znak brutala	Schläger-Schild
 Items/SignBruteDesc	Text		"Someone put all their artistic efforts into painting this sign and left it as a warning.		
 Caveling Brutes or worse ahead. "	"Ktoś włożył cały swój artystyczny wysiłek w namalowanie				
 tego znaku i zostawił go jako ostrzeżenie.					
-Przed jaskiniowymi brutalami lub czymś gorszym."	"""""""""""""""""""""""""""""""Jemand hat all sein künstlerisches Talent in die Gestaltung dieses Schildes gesteckt und es als Warnung hinterlassen.				
+Przed jaskiniowymi brutalami lub czymś gorszym."	"""""""""""""""""""""""""""""""""Jemand hat all sein künstlerisches Talent in die Gestaltung dieses Schildes gesteckt und es als Warnung hinterlassen.				
 Grottling-Schläger oder Schlimmeres voraus.""					
 ""					
 ""					
@@ -5562,6 +5709,7 @@ Grottling-Schläger oder Schlimmeres voraus.""
 ""					
 ""					
 ""					
+""
 ""
 ""
 ""
@@ -5646,7 +5794,7 @@ Items/SmallCrystalGrass	Text		Crystal Grass	Kryształowa trawa	Kristallgras
 Items/SmallCrystalGrassDesc	Text		A strange growth that consists of broad, transparent leaves.	Dziwna roślinka składająca się z szerokich, przezroczystych liści.	Ein merkwürdiges Gewächs, das aus breiten, transparenten Blättern besteht.
 Items/SmallFeatherTree	Text		Small Purple Feather Tree	Małe fioletowe drzewo piórowe	Kleiner Purpurfeder-Baum
 Items/SmallFeatherTreeCyan	Text		Small Cyan Feather Tree	Małe cyjanowe drzewo piórkowe	Kleiner Türkisfeder-Baum
-Items/SmallFeatherTreeCyanDesc	Text		Not a tree at all, but an invertebrate feeding on floating particles with its arms. It hasn't fully matured yet.	Nie jest to w ogóle drzewo, ale bezkręgowiec żywiący się pływającymi cząsteczkami za pomocą ramion. Nie jest jeszcze w pełni dojrzałe.	"""""""""""""""""""""""""""""Das ist gar kein Baum, sondern ein großes wirbelloses Tier, das sich mit seinen Armen von Schwebeteilchen ernährt. Noch nicht voll ausgewachsen.
+Items/SmallFeatherTreeCyanDesc	Text		Not a tree at all, but an invertebrate feeding on floating particles with its arms. It hasn't fully matured yet.	Nie jest to w ogóle drzewo, ale bezkręgowiec żywiący się pływającymi cząsteczkami za pomocą ramion. Nie jest jeszcze w pełni dojrzałe.	"""""""""""""""""""""""""""""""Das ist gar kein Baum, sondern ein großes wirbelloses Tier, das sich mit seinen Armen von Schwebeteilchen ernährt. Noch nicht voll ausgewachsen.
 ""					
 ""					
 ""					
@@ -5655,6 +5803,7 @@ Items/SmallFeatherTreeCyanDesc	Text		Not a tree at all, but an invertebrate feed
 ""					
 ""					
 ""					
+""
 ""
 ""
 ""
@@ -5662,7 +5811,7 @@ Items/SmallFeatherTreeCyanDesc	Text		Not a tree at all, but an invertebrate feed
 ""
 ""
 "
-Items/SmallFeatherTreeDesc	Text		Not a tree at all, but an invertebrate feeding on floating particles with its arms. It hasn't fully matured yet.	Nie jest to w ogóle drzewo, ale bezkręgowiec żywiący się pływającymi cząsteczkami za pomocą ramion. Nie jest jeszcze w pełni dojrzałe.	"""""""""""""""""""""""""""""Das ist gar kein Baum, sondern ein großes wirbelloses Tier, das sich mit seinen Armen von Schwebeteilchen ernährt. Noch nicht voll ausgewachsen.
+Items/SmallFeatherTreeDesc	Text		Not a tree at all, but an invertebrate feeding on floating particles with its arms. It hasn't fully matured yet.	Nie jest to w ogóle drzewo, ale bezkręgowiec żywiący się pływającymi cząsteczkami za pomocą ramion. Nie jest jeszcze w pełni dojrzałe.	"""""""""""""""""""""""""""""""Das ist gar kein Baum, sondern ein großes wirbelloses Tier, das sich mit seinen Armen von Schwebeteilchen ernährt. Noch nicht voll ausgewachsen.
 ""					
 ""					
 ""					
@@ -5671,6 +5820,7 @@ Items/SmallFeatherTreeDesc	Text		Not a tree at all, but an invertebrate feeding 
 ""					
 ""					
 ""					
+""
 ""
 ""
 ""
@@ -5932,7 +6082,7 @@ Items/TerrariumBeach	Text		Beach Terrarium	Plażowe terrarium	Strand-Terrarium
 Items/TerrariumBeachDesc	Text		A humid enclosure with sandy terrain.	Wilgotne środowisko z piaszczystym podłożem.	Ein Feuchtgehege mit sandigem Boden.
 Items/TerrariumCrystal	Text		Crystal Terrarium	Kryształowe terrarium	Kristallterrarium
 Items/TerrariumCrystalDesc	Text		A cool enclosure full of glistening crystals.	Chłodne środowisko pełne błyszczących kryształów.	Ein kühles Gehege voller glitzernder Kristalle.
-Items/TerrariumDesc	Text		A simple enclosure for all kinds of crawling and fluttering critters.	Proste środowisko dla wszelkiego rodzaju pełzających i fruwających stworzeń.	"""""""""""""""""""""""""""Ein schlichtes Gehege für allerlei kriechendes und geflügeltes Getier.
+Items/TerrariumDesc	Text		A simple enclosure for all kinds of crawling and fluttering critters.	Proste środowisko dla wszelkiego rodzaju pełzających i fruwających stworzeń.	"""""""""""""""""""""""""""""Ein schlichtes Gehege für allerlei kriechendes und geflügeltes Getier.
 ""					
 ""					
 ""					
@@ -5940,6 +6090,7 @@ Items/TerrariumDesc	Text		A simple enclosure for all kinds of crawling and flutt
 ""					
 ""					
 ""					
+""
 ""
 ""
 ""
@@ -6085,7 +6236,7 @@ Items/ValuableExcavationRobotLegDesc	Text		A geobot's discarded limb, somehow in
 Items/ValuableExcavationTotem	Text		Sahabar Idol	Bożek Sahabara	Sahabar-Statue
 Items/ValuableExcavationTotemDesc	Text		A small totem with gilded details in the likeness of a prophet. To some its price would be too sacred to place. To others it is high.	Mały totem z pozłacanymi detalami, przedstawiający proroka. Dla niektórych jest zbyt święty by móc go wycenićć. Dla innych cena jest poprostu wysoka.	Ein kleines Totem mit vergoldeten Details, das einen Propheten darstellt. Für manche wäre es ein unermesslich heiliges Objekt. Für andere ist es einfach nur teuer.
 Items/ValuablePouch	Text		Small Valuable Pouch	Mała sakiewka na wartościowe przedmioty	Kleiner Wertgegenstand-Beutel
-Items/ValuablePouchDesc	Text		A small pouch made exclusively for valuables, with dedicated slots that auto-sort items as you gather them.	Mała sakiewka przeznaczona wyłącznie na kosztowności, posiadająca dedykowane otwory, które automatycznie sortują przedmioty w miarę ich gromadzenia.	Ein kleiner Beutel für Wertgegenstände. Er verfügt über Slots, die Gegenstände beim Sammeln automatisch sortieren.
+Items/ValuablePouchDesc	Text		A small pouch made exclusively for valuables, with dedicated slots that auto-sort items as you gather them.	Mała sakiewka przeznaczona wyłącznie na kosztowności, posiadająca dedykowane przegródki, które automatycznie sortują przedmioty w miarę ich gromadzenia.	Ein kleiner Beutel für Wertgegenstände. Er verfügt über Slots, die Gegenstände beim Sammeln automatisch sortieren.
 Items/VampireCapeBreastArmor	Text		Dracularva Cape	Peleryna drakularwy	Dracularven-Umhang
 Items/VampireCapeBreastArmorDesc	Text		A black satin cape fit for a vampire. The crimson flip-up collar adds to the evil look.	Czarna satynowa peleryna w sam raz dla wampira. Szkarłatny, podwijany kołnierz dodaje jej złego wyglądu.	Ein schwarzer Seidenumhang, würdig eines Vampirs. Der purpurrote Klappkragen macht ihn noch furchterregender.
 Items/VampireEel	Text		Vampire Eel	Wampirzy węgorz	Vampir-Aal
@@ -6402,6 +6553,8 @@ Menu/Brightness	Text		Brightness	Jasność	Helligkeit
 Menu/ButtonOpenProfile	Text		Open Profile	Otwórz profil	Profil öffnen
 Menu/ButtonRefresh	Text		Refresh	Odświeżanie	Aktualisieren
 Menu/CRTFilter	Text	Option in gameplay settings allowing player to kill themselves in order to get out of a stuck position	CRT filter	Filtr CRT	CRT-Filter
+Menu/Casual	Text		Casual	Swobodny	Casual
+Menu/CasualDesc	Text		Casual characters keep their inventory on death and enjoy a more forgiving experience with adjusted hunger, parries, and potion cooldowns.	Postacie grające w trybie swobodnym zachowują swój ekwipunek po śmierci i mogą liczyć na łagodniejsze warunki gry dzięki dostosowanym parametrom głodu, parowania oraz czasom odnowienia mikstur.	Casual-Charaktere behalten ihr Inventar nach dem Tod und erleben ein nachsichtigeres Abenteuer. Hunger, Parieren und Trank-Abklingzeiten sind angepasst.
 Menu/CharacterSlot	Text		Character slot	Slot postaci	Charakter-Slot
 Menu/CharacterStuck	Text	Declares that the world is created with the old world generation tool. {0} will be replaced with NormalMode, hardMode, CreativeMode etc.	My character is stuck!	Moja postać utknęła!	Mein Charakter steckt fest!
 Menu/CharacterType	Text		Character type	Typ postaci	Charakter-Typ
@@ -6503,7 +6656,7 @@ Mods with Elevated Access:
 {0} "	"Uwaga: Modyfikacje o podwyższonym dostępie mają zwiększony dostęp do zasobów poza grą, takich jak pliki użytkownika i internet. Aby uzyskać najlepsze doświadczenie, instaluj je tylko z renomowanych źródeł.				
 					
 Mody z podwyższonym dostępem:					
-{0}"	"""""""""""""""""""""""""""""""Vorsicht: Mods mit „erweitertem Zugriff“ haben erweiterten Zugriff auf Ressourcen außerhalb des Spiels wie Benutzerdateien und Internet. Für ein optimales Spielerlebnis solltest du nur Mods aus seriösen Quellen installieren.				
+{0}"	"""""""""""""""""""""""""""""""""Vorsicht: Mods mit „erweitertem Zugriff“ haben erweiterten Zugriff auf Ressourcen außerhalb des Spiels wie Benutzerdateien und Internet. Für ein optimales Spielerlebnis solltest du nur Mods aus seriösen Quellen installieren.				
 					
 Mods mit erweitertem Zugriff:					
 {0}""					
@@ -6515,6 +6668,7 @@ Mods mit erweitertem Zugriff:
 ""					
 ""					
 ""					
+""
 ""
 ""
 ""
@@ -6945,7 +7099,7 @@ SkillTalents/DodgeChanceIncrease	Text		Studied patterns	Przestudiowane wzorce	Er
 SkillTalents/DodgeIncreaseWhileStandingStill	Text		Balanced stance	Zrównoważona postawa	Schattenschritt
 SkillTalents/DrainLessHunger	Text		Endurance runner	Wytrzymały biegacz	Ausdauerläufer
 SkillTalents/EquipmentDurabilityLastsLonger	Text		High quality equipment	Wysokiej jakości sprzęt	Hochwertige Ausrüstung
-SkillTalents/ExplosivesImprovement	Text		Explosives engineer	Inżynier materiałów wybuchowych	Explosive Effizienz
+SkillTalents/ExplosivesImprovement	Text		Explosions engineer 	inżynier ds. eksplozji	Explosive Effizienz
 SkillTalents/ExtraItemChanceAtAlchemyTable	Text		Alchemist	Alchemik	Alchemist
 SkillTalents/ExtraItemChanceAtBaseBuilding	Text		Base builder	Konstruktor baz	Basis-Bauherr
 SkillTalents/ExtraItemChanceAtRailsWiresAndBelts	Text		Industry specialist	Specjalista branżowy	Industriespezialist
@@ -7072,6 +7226,23 @@ Stats/MagicBarrier	Text		Barrier	Bariera	Barriere
 Stats/Mana	Text		Mana	Mana	Mana
 Stats/Minions	Text		Minions	Sługusy	Unterlinge
 Stats/Offense	Text		Offense	Ofensywa	Angriff
+SteamCommunity/Badge1	Text		Nomad	Wędrowiec	Nomade
+SteamCommunity/Badge2	Text		Explorer	Odkrywca	Forscher
+SteamCommunity/Badge3	Text		Adventurer	Poszukiwacz przygód	Abenteurer
+SteamCommunity/Badge4	Text		Awakener	Przebudzeniec	Erwecker
+SteamCommunity/Badge5	Text		Sentry	Strażnik	Wache
+SteamCommunity/BadgeFoil	Text		Core Keeper	Strażnik Rdzenia	Core Keeper
+SteamCommunity/ProfileBackgroundConceptArt	Text		Concept Art Pattern	Wzory grafiki koncepcyjnej	Concept-Art-Muster
+SteamCommunity/ProfileBackgroundEarlyAccess	Text		Early Access Game Art	Grafika z wczesnego dostępu	Game Art zum Early Access
+SteamCommunity/ProfileBackgroundMainGameArt	Text		Main Game Art	Grafika z głównej wersji gry	Game Art zum Hauptspiel
+SteamCommunity/TradingCardAmberBoulder	Text		Amber Boulder	Bursztynowy głaz	Bernsteinfelsen
+SteamCommunity/TradingCardAncientGiant	Text		Ancient Giant	Starożytny olbrzym	Antiker Riese
+SteamCommunity/TradingCardAutomation	Text		Automation	Automatyzacja	Automatisierung
+SteamCommunity/TradingCardCavelings	Text		Cavelings	Jaskiniowcy	Grottlinge
+SteamCommunity/TradingCardExploration	Text		Exploration	Eksploracja	Erforschung
+SteamCommunity/TradingCardHomebase	Text		Homebase	Baza	Heimbasis
+SteamCommunity/TradingCardMerchant	Text		Merchant	Kupiec	Händler
+SteamCommunity/TradingCardRailroads	Text		Railroads	Koleje	Gleise
 SteamWorkshop/CatAccessType	Text		Access Type	Typ dostępu	Zugriffstyp
 SteamWorkshop/CatApplicationType	Text		Application Type	Typ aplikacji	Anwendungstyp
 SteamWorkshop/CatCategory	Text		Category	Kategoria	Kategorie
@@ -7165,7 +7336,7 @@ TheCore/CoreFinalSpeechSentence5	Text		With our combined efforts I shall return 
 TheCore/CoreFinalSpeechSentence7	Text		There, *I have discovered it. 	Tam *go odkryłem.	Da, *ich habe es gefunden.
 TheCore/CoreFinalSpeechSentence8	Text		If ever thou findst thy way hither again, let us be a force for brilliance. 	Jeśli kiedykolwiek znów tu trafisz, stwórzmy razem siłę, która przyniesie blask. 	Solltet Ihr jemals wieder euren Weg hierher finden, lasst uns mit vereinten Kräften glänzen.
 TheCore/CoreFinalSpeechSentence9	Text		Farewell, strange traveller...	Żegnaj, dziwny podróżniku...	Lebt wohl, seltsamer Reisender ...
-TheCore/GiantCiacadaSentence1	Text	The creature that has taken over the boss says this after the Giant Cicada is defeated. The * indicates a small delay after the first phrase	A fellow conqueror.* Your triumphs have been observed from afar. 	Zwycięski sojuszniku.* Twoje triumfy obserwowano z daleka.	Ein weiterer Eroberer.* Deine Errungenschaften wurden aus der Ferne beobachtet.
+TheCore/GiantCiacadaSentence1	Text	The creature that has taken over the boss says this after the Giant Cicada is defeated. The * indicates a small delay after the first phrase	A fellow conqueror.* Thy triumphs have been observed from afar. 	Zwycięski sojuszniku.* Twe triumfy obserwowano z daleka.	Ein weiterer Eroberer.* Deine Errungenschaften wurden aus der Ferne beobachtet.
 TheCore/GiantCiacadaSentence2	Text		How regrettable.	To godne pożałowania.	Wie bedauernswert.
 TheCore/GiantCicadaHint1	Text		Thou hast shattered the threats that once bound us.	Tyś zniszczył groźby, które niegdyś nas krępowały.	Ihr habt die Bedrohungen zerschlagen, die uns verbanden.
 TheCore/GiantCicadaHint2	Text		Yet...* there is presence...* something I cannot contain.	Jednakże...* czuję obecność...* czegoś, czego nie potrafię opanować.	Und doch ...* Da ist eine Präsenz ...* Etwas, das ich nicht eindämmen kann.
@@ -7182,11 +7353,11 @@ TheCore/RobotBossSentence2	Text		The Maw of Endings awaits.*.*.* and it has seen
 TheCore/SoulOfBirdBossHint1	Text	"{0} will be replaced with the direction of the nature biome such as ""north east"" or ""south"""	The flourishing wilderness of the sky titan thrives {0} from here. 	Rozkwitająca dzicz podniebnego tytana rozrasta się {0} stąd. 	Die blühende Wildnis, in der Azeos lebt, befindet sich {0} von hier.
 TheCore/SoulOfBirdBossHint2	Text		Azeos has a liking for shiny glimmering objects.	Azeos lubi błyszczące, mieniące się przedmioty.	Azeos hat ein Verlangen nach großen, glänzenden Objekten.
 TheCore/SoulOfHydraBossDesertHint1	Text		The path leads once more to the crystal shrine, where tools of old may still be wrought. 	Ścieżka ponownie prowadzi do kryształowej świątyni, gdzie narzędzia pradawnych mogą wciąż być wytworzane.	Eine titanische Kreatur lauert in den tiefen Sanden des trockenen Ödlands {0} von hier.
-TheCore/SoulOfHydraBossDesertHint2	Text		An adversary to Ra-Akar, called upon by an ancient song.	Przeciwnik Ra-Akara, wezwany przez starożytną pieśń.	Ein Widersacher von Ra-Akar, durch ein uraltes Lied beschworen.
-TheCore/SoulOfHydraBossNatureHint1	Text		Called forth from afar by an ancient song, an adversary to Azeos stirs within the ancient forest.	Przywołany z daleka starożytną pieśnią, przeciwnik Azeosa budzi się w pradawnym lesie.	Eine titanische Kreatur lauert im Unterholz des antiken Urwaldes {0} von hier.
+TheCore/SoulOfHydraBossDesertHint2	Text		Answering an ancient song, a new presence rises beyond the sands. 	W odpowiedzi na starożytną pieśń zza piasków wyłania się nowa obecność.	Ein Widersacher von Ra-Akar, durch ein uraltes Lied beschworen.
+TheCore/SoulOfHydraBossNatureHint1	Text		Called forth from afar by an ancient song, a new adversary stirs within the ancient forest. 	Przywołany z daleka przez starożytną pieśń, nowy przeciwnik budzi się w starożytnym lesie.	Eine titanische Kreatur lauert im Unterholz des antiken Urwaldes {0} von hier.
 TheCore/SoulOfHydraBossNatureHint2	Text		That which summons it was wrought in halls of power, far from its dwelling.	To, co go przywołuje, zostało wykute w salach mocy, daleko od jego siedziby.	Ein Widersacher von Azeos, durch ein uraltes Lied beschworen.
 TheCore/SoulOfHydraBossSeaHint1	Text		Once more, the path leads thee to the shrine within the crystal halls.	Po raz kolejny ścieżka prowadzi cię do świątyni w kryształowych salach.	Eine titanische Kreatur lauert in den eisigen Tiefen des tiefen Ozeans {0} von hier.
-TheCore/SoulOfHydraBossSeaHint2	Text		Summoned by an ancient song, an adversary to Omoroth stirs in the cold ocean depths to the {0} — a titanic creature awaits.	Przywołany starożytną pieśnią, przeciwnik Omorotha budzi się w zimnych głębinach oceanu na {0} — czeka tam na ciebie tytaniczna istota.	Ein Widersacher von Omoroth, durch ein uraltes Lied beschworen.
+TheCore/SoulOfHydraBossSeaHint2	Text		Summoned by an ancient song, a distant presence awakens in the cold ocean depths. 	Przywołana starożytną pieśnią odległa istota budzi się w zimnych głębinach oceanu.	Ein Widersacher von Omoroth, durch ein uraltes Lied beschworen.
 TheCore/SoulOfOctopusBossHint1	Text		The sunken sea in which Omoroth resides can be found to the {0} from here.	Głębiny Morza, w których mieszka Omoroth, znajdują się {0} stąd.	Das versunkene Meer, in welchem Omoroth haust, befindet sich {0} von hier.
 TheCore/SoulOfOctopusBossHint2	Text		Omoroth only arises from the depth when there's a lure valuable enough for it.	Omoroth wynurza się z głębin tylko wtedy, gdy znajdzie się dla niego wystarczająco cenna przynęta.	Omoroth erwacht nur aus den Tiefen, wenn es Beute gibt, die zu holen es sich lohnt.
 TheCore/SoulOfScarabBossHint1	Text		The desert of beginnings in which Ra-Akar resides can be found to the {0} from here.	Pustynię Początków, na której mieszka Ra-Akar, można znaleźć {0} stąd.	Die Wüste des Anbeginns, in der Ra-Akar ruht, befindet sich {0} von hier.
@@ -7299,7 +7470,7 @@ done	Text		Done	Zrobione	Fertig
 dontShowAgain	Text		Don't show again	Nie pokazuj ponownie	Nicht wieder anzeigen
 down	Text		Move down	Ruch w dół	Nach unten
 dresser	Text		Dresser	Komoda	Kommode
-dropToWorld	Text		Drop item: 	Upuść przedmiot:	"""""""""""""""""""""""""""""""Gegenstand ablegen:""
+dropToWorld	Text		Drop item: 	Upuść przedmiot:	"""""""""""""""""""""""""""""""""Gegenstand ablegen:""
 ""					
 ""					
 ""					
@@ -7307,6 +7478,7 @@ dropToWorld	Text		Drop item: 	Upuść przedmiot:	"""""""""""""""""""""""""""""""
 ""					
 ""					
 ""					
+""
 ""
 ""
 ""
@@ -7368,7 +7540,7 @@ godModeOptionDesc	Text		"God mode features:
 - Gracz może niszczyć obiekty jednym uderzeniem					
 - Przedmioty nie wypadają ze zniszczonych obiektów					
 - Gracz może szybciej umieszczać obiekty					
-- Obiekty nie są zużywane podczas używania"	"""""""""""""""""""""""""""""""Funktionen im Gott-Modus:				
+- Obiekty nie są zużywane podczas używania"	"""""""""""""""""""""""""""""""""Funktionen im Gott-Modus:				
 - Spieler kann sich durch Objekte hindurch bewegen					
 - Spieler kann Objekte mit einem Schlag zerstören					
 - Gegenstände droppen nicht von zerstörten Objekten					
@@ -7388,6 +7560,7 @@ godModeOptionDesc	Text		"God mode features:
 ""
 ""
 ""
+""
 "
 graphicsAPIOption	Text	{0} will be replaced with the name of the graphics api	Play Core Keeper using {0}	Zagraj w Core Keeper używając {0}	Spiele Core Keeper mit {0}
 grenades	Text		Grenades	Granaty	Granaten
@@ -7400,6 +7573,7 @@ hideCreativeUI	Text	"""UI"" should also be called ""UI"" when translated, as the
 high	Text		High	Wysoki	Hoch
 holdToSkip	Text	"{0} is replaced with a button/key so for example ""Hold SPACE to skip"". This is used in intro slides of the game."	Hold {0} to skip intro	Przytrzymaj {0} aby pominąć intro	Halte {0}, um das Intro zu überspringen
 holdToSkipOutro	Text		Hold {0} to skip outro	Przytrzymaj {0}, aby pominąć outro	Halte {0} gedrückt, um das Intro zu überspringen
+hydras	Text		Hydras	Hydry	Hydras
 incubator	Text	As in an egg incubator	Incubator	Inkubator 	Brutkasten
 infinity	Text		Infinity	Nieskończoność	Unendlichkeit
 ingredients	Text		Ingredients:	Składniki:	Zutaten:
@@ -7495,7 +7669,7 @@ petLeveledUp	Text	"{0} will be replaced with the level number
 "	Pet reached level {0}!	Zwierzak osiągnął poziom {0}!	Haustier hat Level {0} erreicht!
 petSlot	Text		Pet slot	Slot na zwierzaka	Haustier-Slot
 physicalWeaponDamage	Text		{0}-{1} physical damage	{0}-{1} obrażeń fizycznych	{0}-{1} physischer Schaden
-pickUpHalf	Text		Pick up half:	Podnieś pół:	"""""""""""""""""""""""""""""""Hälfte aufheben:
+pickUpHalf	Text		Pick up half:	Podnieś pół:	"""""""""""""""""""""""""""""""""Hälfte aufheben:
 {0}""					
 ""					
 ""					
@@ -7505,6 +7679,7 @@ pickUpHalf	Text		Pick up half:	Podnieś pół:	"""""""""""""""""""""""""""""""H�
 ""					
 ""					
 ""					
+""
 ""
 ""
 ""
@@ -7512,7 +7687,7 @@ pickUpHalf	Text		Pick up half:	Podnieś pół:	"""""""""""""""""""""""""""""""H�
 ""
 ""
 "
-pickUpOne	Text	{0} will be replaced with the input player needs to use to perform the action, note that the breakline is intended and should be used in the localizations too	Pick up one:	Podnieś jeden:	"""""""""""""""""""""""""""""""Einen aufheben:
+pickUpOne	Text	{0} will be replaced with the input player needs to use to perform the action, note that the breakline is intended and should be used in the localizations too	Pick up one:	Podnieś jeden:	"""""""""""""""""""""""""""""""""Einen aufheben:
 {0}""					
 ""					
 ""					
@@ -7522,6 +7697,7 @@ pickUpOne	Text	{0} will be replaced with the input player needs to use to perfor
 ""					
 ""					
 ""					
+""
 ""
 ""
 ""
@@ -7541,7 +7717,7 @@ pressAnyButtonPS4	Text		Press any button	Naciśnij dowolny przycisk	Drücke eine
 pressAnyButtonXbox	Text		Press any button	Naciśnij dowolny przycisk	Drücke eine Taste
 price	Text		Price: {0}	Cena: {0}	Preis: {0}
 primary	Text	Shown as category for red, yellow, blue and green painting colors	Primary	Podstawowy	Primär
-quickMove	Text		Quick stash:	Szybki skład:	"""""""""""""""""""""""""""""""Schnell-Ablage:
+quickMove	Text		Quick stash:	Szybki skład:	"""""""""""""""""""""""""""""""""Schnell-Ablage:
 {0}""					
 ""					
 ""					
@@ -7551,6 +7727,7 @@ quickMove	Text		Quick stash:	Szybki skład:	"""""""""""""""""""""""""""""""Schne
 ""					
 ""					
 ""					
+""
 ""
 ""
 ""
@@ -7575,6 +7752,7 @@ regenerateGamePasswordPrompt	Text		Do you want to generate a new Password? This 
 reinforceCost	Text		Reinforce cost:	Koszt wzmocnienia:	Verstärkungskosten:
 reinforced	Text		Reinforced: {0}/{1}	Wzmocniony: {0}/{1}	Verstärkt: {0}/{1}
 release	Text		Release	Uwolnij	Loslassen
+remnants	Text		Remnants	Szczątki	Überreste
 removeAdmin	Text		Do you want to remove the admin privileges of this player?	Czy chcesz usunąć uprawnienia administratora temu graczowi?	Möchtest du diesem Spieler die Administratorrechte entziehen?
 removeUserMapMarkersPrompt	Text		Do you want to clear all placed map markers?	Czy chcesz usunąć wszystkie znaczniki na mapie?	Möchtest du alle platzierten Kartenmarkierungen löschen?
 repairCost	Text		Repair cost:	Koszt napraw:	Reparaturkosten:
@@ -7637,6 +7815,7 @@ starvationDeathMessage	Text		You died from starvation.	Umarłeś z głodu.	Du bi
 stats	Text	Title of stats window that shows when hovering character ui in game	Stats	Statystyki	Werte
 stop	Text		Stop	Stop	Stopp
 textWithAmount	Text	"Used for any text that has an amount indicated such as ""Mining 48/100"" to show the current and max Mining skill"	{0} {1}/{2}	{0} {1}/{2}	{0} {1}/{2}
+titans	Text		Titans	Tytani	Titanen
 toggleBreedingTextOff	Text		Enable breeding	Włącz płodność	Züchten aktivieren
 toggleBreedingTextOn	Text		Disable breeding	Wyłącz płodność	Züchten deaktivieren
 toggleLocking	Text		Toggle item locking	Przełączanie blokady przedmiotu	Gegenstandssperrung umschalten
