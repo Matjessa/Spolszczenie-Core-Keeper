@@ -1235,7 +1235,8 @@ Adding this bundle may overwrite an already explored area in the Desert of Begin
 
 Dodanie tego pakietu może nadpisać już zbadany obszar na Pustyni Początków."	"""Ein Unheil verkündendes Pentagramm ist erschienen!
 
-Wird dieses Bündel hinzugefügt, könnte ein bereits erforschtes Gebiet in der Wüste der Anfänge überschrieben werden."""
+Wird dieses Bündel hinzugefügt, könnte ein bereits erforschtes Gebiet in der Wüste der Anfänge überschrieben werden.""
+"
 ContentBundles/MossBiomeDungeons	Text		Guaranteed Bryobasks	Gwarantowane Bryobaski	Garantierte Bryowonnen
 ContentBundles/MossBiomeDungeonsDesc	Text		"Insular dens of the evergreen and ever-prehistoric have been unearthed!
 
@@ -1243,7 +1244,8 @@ Adding this bundle may overwrite some already explored areas in the Forgotten Ru
 
 Dodanie tego pakietu może spowodować nadpisanie niektórych już zbadanych obszarów w Zapomnianych Ruinach."	"""Inselartige Baue rund um das Immergrüne und das ewige Prähistorische wurden entdeckt!
 
-Wird dieses Bündel hinzugefügt, könnten einige bereits erforschte Gebiete in den Vergessenen Ruinen überschrieben werden."""
+Wird dieses Bündel hinzugefügt, könnten einige bereits erforschte Gebiete in den Vergessenen Ruinen überschrieben werden.""
+"
 ContentBundles/NatureBiomeCicadas	Text		The Queen's Offspring	Potomstwo Królowej	Die Nachkommen der Königin
 ContentBundles/NatureBiomeCicadasDesc	Text		The Queen's influence extends into nearby areas as well. Adding this bundle introduces a new enemy type to Azeos' Wilderness, which might overwrite some already explored areas in this biome.	Wpływy królowej rozciągają się również na pobliskie obszary. Dodanie tego pakietu wprowadza nowy typ wroga do Dziczy Azeosa, który może zastąpić niektóre już zbadane obszary w tym biomie.	Der Einfluss der Königin weitet sich auch auf Gebiete in der Nähe aus. Wird dieses Paket hinzugefügt, wird eine neue Feindart in Azeos' Wildnis eingeführt. Dadurch könnten einige bereits erforschte Gebiete in diesem Biom überschrieben werden.
 ControlMapper/A4	Text		A4	A4	A4
@@ -1502,7 +1504,8 @@ Credits/Association71Consulting	Text		"In Association with Marketing & PR Studio
 ""
 ""
 ""
-"""
+""
+"
 Credits/AssociationAceAgency	Text		"In Association with Localization Studio		
 ACE Agency"	"We współpracy z agencją lokalizacyjną
 Studio ACE"	"""""""""""""""""""""""""""""""""""In Zusammenarbeit mit der Lokalisierungsagentur				
@@ -1522,7 +1525,8 @@ ACE Agency""
 ""
 ""
 ""
-"""
+""
+"
 Credits/AssociationDreamLoop	Text		"In Association with Console Porting Studio		
 Dreamloop Games"	"We współpracy z konsolowym studiem portującym
 Dreamloop Games"	"""""""""""""""""""""""""""""""""""In Zusammenarbeit mit dem Konsolen-Portierungsstudio				
@@ -1542,7 +1546,8 @@ Dreamloop Games""
 ""
 ""
 ""
-"""
+""
+"
 Credits/AssociationEnzyme	Text		"In Association with Compatibility Testing Studio		
 Enzyme"	"We współpracy z Studio Enzyme
 Zajmującym się testowaniem kompatybilności"	"""""""""""""""""""""""""""""""""""In Zusammenarbeit mit dem Studio für Kompatibilitätstests				
@@ -1562,7 +1567,8 @@ Enzyme""
 ""
 ""
 ""
-"""
+""
+"
 Credits/AssociationKeywordsIndia	Text		"In Association with PC FQA Studio		
 Keywords India"	"We współpracy z PC FQA Studio	
 Keywords India"	"""""""""""""""""""""""""""""""""""In Zusammenarbeit mit dem Studio für PC-FQA				
@@ -1582,7 +1588,8 @@ Keywords India""
 ""
 ""
 ""
-"""
+""
+"
 Credits/AssociationLionbridge	Text		"In Association with PC and Console FQA Studio		
 Lionbridge Games"	"We współpracy z PC and Console FQA Studio
 Lionbridge Games"	"""""""""""""""""""""""""""""""""""In Zusammenarbeit mit dem Studio für PC- und Konsolen-QA				
@@ -1602,7 +1609,8 @@ Lionbridge Games""
 ""
 ""
 ""
-"""
+""
+"
 Credits/AssociationLionbridgeLQA	Text		"In Association with PC and Console LQA Studio		
 Lionbridge Games"	"We współpracy z PC and Console LQA Studio
 Lionbridge Games"	"""""""""""""""""""""""""""""""""""In Zusammenarbeit mit dem Studio für PC- und Konsolen-LQA				
@@ -1622,7 +1630,8 @@ Lionbridge Games""
 ""
 ""
 ""
-"""
+""
+"
 Credits/AssociationLocalizeDirect	Text		"In Association with PC LQA Studio		
 LocalizeDirect"	"We współpracy z PC LQA Studio
 LocalizeDirect"	"""""""""""""""""""""""""""""""""""In Zusammenarbeit mit dem Studio für PC-LQA				
@@ -1642,7 +1651,8 @@ LocalizeDirect""
 ""
 ""
 ""
-"""
+""
+"
 Credits/AssociationOhCreative	Text		"In Association with Marketing Studio		
 OH Creative"	"We współpracy z Marketing Studio
 OH Creative"	"""""""""""""""""""""""""""""""""""In Zusammenarbeit mit Marketingstudio				
@@ -1662,7 +1672,8 @@ OH Creative""
 ""
 ""
 ""
-"""
+""
+"
 Credits/AssociationPiktiv	Text		"In Association with Nintendo Switch 2 Porting Studio
 Piktiv"	"We współpracy z Nintendo Switch 2 Porting Studio
 Piktiv"	"""""""""""""""""In Zusammenarbeit mit dem Switch 2-Portierungsstudio
@@ -1673,7 +1684,8 @@ Piktiv""
 ""
 ""
 ""
-"""
+""
+"
 Credits/AssociationPlaytropic	Text		"In Association with PC and Console FQA Studio		
 Playtropic Video Game Services"	"We współpracy z PC and Console FQA Studio
 Playtropic Video Game Services"	"""""""""""""""""""""""""""""""""""In Zusammenarbeit mit dem Studio für PC- und Konsolen-FQA				
@@ -1693,7 +1705,8 @@ Playtropic Videogame Services""
 ""
 ""
 ""
-"""
+""
+"
 Credits/AssociationTestify	Text		"In Association with Testing Studio		
 Testify"	"We współpracy z testerskim studiem
 Testify Studio "	"""""""""""""""""""""""""""""""""""In Zusammenarbeit mit dem Teststudio				
@@ -1713,7 +1726,8 @@ Testify""
 ""
 ""
 ""
-"""
+""
+"
 Credits/AudioAndMusic	Text		Audio and Music	Audio i muzyka	Audio und Musik
 Credits/AudioDesigners	Text		Audio/Sound Designers	Projektanci dźwięku	Audio-/Sound-Designer
 Credits/CEO	Text		CEO	DYREKTOR GENERALNY	CEO
@@ -1824,7 +1838,8 @@ Fireshine""
 ""
 ""
 ""
-"""
+""
+"
 Credits/PartneredUnity	Text		Partnered with Unity Technologies	Partnerstwo z Unity Technologies	In Partnerschaft mit Unity Technologies
 Credits/PlayFab	Text		Portions of this program © 2023 Microsoft Azure PlayFab	Fragmenty tego programu © 2023 Microsoft Azure PlayFab	Abschnitte dieses Programms © 2023 Microsoft Azure PlayFab
 Credits/PortingProgrammers	Text		Porting Programmers	Programiści portujący	Porting-Programmierer/innen
@@ -1960,7 +1975,8 @@ CreditsNames/CarriganTessSevedge	Text		"Carrigan ""Tess"" Sevedge"	"Carrigan ""T
 ""
 ""
 ""
-"""
+""
+"
 CreditsNames/CatrionaBarber	Text		Catriona Barber	Catriona Barber	Catriona Barber
 CreditsNames/Cedric	Text		Cedric	Cedric	Cedric
 CreditsNames/CedricSchmitt	Text		Cedric Schmitt	Cedric Schmitt	Cedric Schmitt
@@ -2336,7 +2352,8 @@ Er kann in einem kommenden Update aktiviert werden.""
 ""
 ""
 ""
-"""
+""
+"
 Emotes/ItsTooHardINeedADrill	Text		It's too hard, I need a stationary drill	To jest zbyt twarde, potrzebuję stacjonarnego wiertła	Zu hart, ich brauche eine Standbohrmaschine
 Emotes/LarvaEmote1	Text	Something the bigger larvas say when interacting with them while disguised as a larva	Hungry!	Głodny!	Hungrig!
 Emotes/LarvaEmote2	Text		Squeek	Pisk	Quiek
@@ -2396,7 +2413,8 @@ Die Freischaltung erfolgt am 27. August 2024""
 ""
 ""
 ""
-"""
+""
+"
 Emotes/WaypointActivated	Text		Waypoint activated	Punkt nawigacyjny aktywowany	Wegpunkt aktiviert
 Emotes/YourWillCannotBindMore	Text		I cannot summon more	Nie mogę przywołać więcej	Ich kann nichts weiter beschwören
 Error/Authenticating	Text		Authenticating.	Uwierzytelnianie.	Authentifizierung läuft.
@@ -2458,7 +2476,8 @@ Error/Reconnecting	Text		"Trying to reconnect
 ""
 ""
 ""
-"""
+""
+"
 Error/RecreateSession	Text		recreating session	odtwarzanie sesji	Sitzung wird wiederhergestellt
 Error/SaveFileCorrupt	Text		Could not read save file	Nie udało się odczytać pliku zapisu	Speicherdatei konnte nicht gelesen werden
 Error/SessionBlockedBy	Text	Used to denote a session which cannot be entered due to the presence of a player who has blocked the user.	You cannot join this session because it contains a user who has blocked you.	Nie możesz dołączyć do tej sesji, ponieważ zawiera ona użytkownika, który cię zablokował.	Du kannst dieser Sitzung nicht beitreten, weil ein Benutzer daran teilnimmt, der dich ausgeschlossen hat.
@@ -2713,85 +2732,85 @@ FoodAdjectives/WhiteCoralotlMale	Text		White	Biały	Weißer
 FoodAdjectives/YellowBlisterHead	Text		Yellow	Żółte	Gelbes
 FoodAdjectives/YellowBlisterHeadFemale	Text		Yellow	Żółta	Gelbe
 FoodAdjectives/YellowBlisterHeadMale	Text		Yellow	Żółty	Gelber
-FoodNouns/AmberLarva	Text		Amber	Bursztyn	Bernstein
-FoodNouns/AngleFish	Text		Crystal	Kryształ	Kristall
-FoodNouns/AstralJelly	Text		Jelly	Galaretka	Quallen
-FoodNouns/AtlantianWormHeart	Text		Giant	Olbrzymie	Giganten
-FoodNouns/AzureFeatherFish	Text		Feather	Pióro	Feder
-FoodNouns/BlackSteelUrchin	Text		Urchin	Jeżowiec	Seeigel
-FoodNouns/BloatOat	Text		Oat	Owies	Hafer
-FoodNouns/BloatOatRare	Text		Goldoat	Złoty owies	Goldhafer
-FoodNouns/BlueCaveGuppy	Text		Guppy	Gupik	Guppy
-FoodNouns/BombPepper	Text		Pepper	Pieprz	Pfeffer
-FoodNouns/BombPepperRare	Text		Goldpepper	Złoty pieprz	Goldpfeffer
-FoodNouns/BottomTracer	Text		Barbel	Sztanga	Bartel
-FoodNouns/BrightLavaEater	Text		Lava	Lawa	Lava
-FoodNouns/BrownDuneTail	Text		Dune	Wydma	Dünen
-FoodNouns/Carrock	Text		Stone	Kamień	Stein
-FoodNouns/CarrockRare	Text		Goldstone	Złoty kamień	Goldstein
-FoodNouns/CosmicForm	Text		Cosmos	Kosmos	Kosmos
-FoodNouns/CrownSquid	Text		Squid	Kałamarnica	Tintenfisch
-FoodNouns/DaggerFin	Text		Fin	Płetwa	Flossen
-FoodNouns/DarkLavaEater	Text		Lava	Lawa	Lava
-FoodNouns/Deepstalker	Text		Hunter	Łowca	Jäger
-FoodNouns/DevilWorm	Text		Worm	Robak	Wurm
-FoodNouns/Egg	Text		Cream	Kremowe	Creme
-FoodNouns/ElderDragonfish	Text		Dragon	Smok	Drachen
-FoodNouns/EmeraldFeatherFish	Text		Feather	Pióro	Feder
-FoodNouns/GemCrab	Text		Crab	Krab	Krabben
-FoodNouns/GiantMushroom	Text		Mushroom	Grzyb	Pilz
-FoodNouns/GlowingMushroom	Text		Glowing Mushroom	Świecący grzyb	Leuchtpilz
-FoodNouns/GlowingTulipFlower	Text		Tulip	Tulipan	Tulpen
-FoodNouns/GlowingTulipFlowerRare	Text		Goldtulip	Złoty tulipan	Goldtulpen
-FoodNouns/GoldenAngleFish	Text		Crystal	Kryształ	Kristall
-FoodNouns/GoldenDeepstalker	Text		Hunter	Łowca	Jäger
-FoodNouns/GoldenLarvaMeat	Text		Gold	Złoto	Gold
-FoodNouns/GoldenTorrentDart	Text		Dart	Strzałka	Pfeil
-FoodNouns/GreenBlisterHead	Text		Blister	Blister	Blasen
-FoodNouns/GreenhornPico	Text		Goop	Papka	Glibber
-FoodNouns/GreyDuneTail	Text		Dune	Wydma	Dünen
-FoodNouns/Grumpkin	Text		Lump	Kępa	Knollen
-FoodNouns/GrumpkinRare	Text		Goldlump	Złota kępa	Goldknollen
-FoodNouns/HeartBerry	Text		Berry	Jagoda	Beeren
-FoodNouns/HeartBerryRare	Text		Goldberry	Złota jagoda	Goldbeeren
-FoodNouns/LarvaMeat	Text		Meat	Mięso	Fleisch
-FoodNouns/LithoTrilobite	Text		Fossil	Skamieniałe 	Fossil
-FoodNouns/Lunacorn	Text		Moon	Księżyc	Mond
-FoodNouns/LunacornRare	Text		Goldmoon	Złoty księżyc	Goldmond
-FoodNouns/Meat	Text		Meat	Mięso	Fleisch
-FoodNouns/Milk	Text		Creamy	Śmietanka	Creme
-FoodNouns/MoldShark	Text		Shark	Rekin	Hai
-FoodNouns/MossMushroom	Text		Moorshroom	Bagniak	Moorpilz
-FoodNouns/Mushroom	Text		Mushroom	Grzyb	Pilz
-FoodNouns/OrangeCaveGuppy	Text		Guppy	Gupik	Guppy
-FoodNouns/Pewpaya	Text		Fruit	Owoc	Frucht
-FoodNouns/PewpayaRare	Text		Goldfruit	Złoty owoc	Goldfrucht
-FoodNouns/Pinegrapple	Text		Tropics	Owoc tropikalny	Tropen
-FoodNouns/PinegrappleRare	Text		Goldtropics	Złote owoc tropikalny	Goldtropen
-FoodNouns/PinkCoralotl	Text		Coral	Koral	Korallen
-FoodNouns/PinkPalaceFish	Text		Palace	Pałac	Palast
-FoodNouns/PinkhornPico	Text		Goop	Papka	Glibber
-FoodNouns/Puffungi	Text		Mold	Pleśń	Schimmel
-FoodNouns/PuffungiRare	Text		Goldmold	Złota pleśń	Goldschimmel
-FoodNouns/RaptorTruffle	Text		Orex Truffle	Trufla rudozaura	Moorex-Trüffel
-FoodNouns/RiftianLampfish	Text		Rift	Wyrwa	Riss
-FoodNouns/RockJaw	Text		Jaw	Szczęka	Kiefer
-FoodNouns/RotFish	Text		Decay	Rozpad	Verfall
-FoodNouns/SandySpikeback	Text		Spike	Kolec	Stachel
-FoodNouns/SilverTorrentDart	Text		Dart	Strzałka	Pfeil
-FoodNouns/SolidSpikeback	Text		Spike	Kolec	Stachel
-FoodNouns/SpiritVeil	Text		Veil	Zasłona	Schleier
-FoodNouns/StarlightNautilus	Text		Starlight	Światło gwiazd	Sternlicht
-FoodNouns/Sunrice	Text		Sun	Słońce	Sonnen
-FoodNouns/SunriceRare	Text		Goldsun	Złote Słońce	Goldsonnen
-FoodNouns/TealPalaceFish	Text		Palace	Pałac	Palast
-FoodNouns/TerraTrilobite	Text		Fossil	Skamieniałe 	Fossil
-FoodNouns/TornisKingfish	Text		King	Król	König
-FoodNouns/VampireEel	Text		Eel	Węgorz	Aal
-FoodNouns/VerdantDragonfish	Text		Dragon	Smok	Drachen
-FoodNouns/VoidHydraHeart	Text		Hydra	Hydra	Hydra
-FoodNouns/WhiteCoralotl	Text		Coral	Koral	Korallen
-FoodNouns/YellowBlisterHead	Text		Blister	Pęcherz	Blasen
+FoodNouns/AmberLarva	Text	dev	Amber	bursztynami	Bernstein
+FoodNouns/AngleFish	Text	dev	Crystal	kryształami	Kristall
+FoodNouns/AstralJelly	Text	dev	Jelly	galaretką	Quallen
+FoodNouns/AtlantianWormHeart	Text	Dev &	Giant	sercem	Giganten
+FoodNouns/AzureFeatherFish	Text	dev	Feather	piórami	Feder
+FoodNouns/BlackSteelUrchin	Text	dev	Urchin	jeżowcami	Seeigel
+FoodNouns/BloatOat	Text	dev	Oat	owsem	Hafer
+FoodNouns/BloatOatRare	Text	dev	Goldoat	złotym owsem	Goldhafer
+FoodNouns/BlueCaveGuppy	Text	dev	Guppy	gupikiem	Guppy
+FoodNouns/BombPepper	Text	dev	Pepper	pieprzem	Pfeffer
+FoodNouns/BombPepperRare	Text	dev	Goldpepper	złotym pieprzem	Goldpfeffer
+FoodNouns/BottomTracer	Text	dev	Barbel	wąsem	Bartel
+FoodNouns/BrightLavaEater	Text	dev	Lava	lawą	Lava
+FoodNouns/BrownDuneTail	Text	dev	Dune	wydmami	Dünen
+FoodNouns/Carrock	Text	dev	Stone	kamieniami	Stein
+FoodNouns/CarrockRare	Text	dev	Goldstone	złotymi kamieniami	Goldstein
+FoodNouns/CosmicForm	Text	dev	Cosmos	kosmosem	Kosmos
+FoodNouns/CrownSquid	Text	dev	Squid	kałamarnicą	Tintenfisch
+FoodNouns/DaggerFin	Text	dev	Fin	płetwą	Flossen
+FoodNouns/DarkLavaEater	Text	dev	Lava	lawą	Lava
+FoodNouns/Deepstalker	Text	Dev &	Hunter	łowcą	Jäger
+FoodNouns/DevilWorm	Text	dev	Worm	robakami	Wurm
+FoodNouns/Egg	Text	dev	Cream	kremem	Creme
+FoodNouns/ElderDragonfish	Text	Dev &	Dragon	smokiem	Drachen
+FoodNouns/EmeraldFeatherFish	Text	dev	Feather	piórami	Feder
+FoodNouns/GemCrab	Text	dev	Crab	krabem	Krabben
+FoodNouns/GiantMushroom	Text	dev	Mushroom	grzybami	Pilz
+FoodNouns/GlowingMushroom	Text	dev	Glowing Mushroom	świecącymi grzybami	Leuchtpilz
+FoodNouns/GlowingTulipFlower	Text	dev	Tulip	tulipanem	Tulpen
+FoodNouns/GlowingTulipFlowerRare	Text	dev	Goldtulip	złotym tulipanem	Goldtulpen
+FoodNouns/GoldenAngleFish	Text	dev	Crystal	kryształami	Kristall
+FoodNouns/GoldenDeepstalker	Text	Dev &	Hunter	łowcą	Jäger
+FoodNouns/GoldenLarvaMeat	Text	Dev 	Gold	złotem	Gold
+FoodNouns/GoldenTorrentDart	Text	dev	Dart	strzałką	Pfeil
+FoodNouns/GreenBlisterHead	Text	Dev &	Blister	bąbelkami	Blasen
+FoodNouns/GreenhornPico	Text	dev	Goop	papką	Glibber
+FoodNouns/GreyDuneTail	Text	dev	Dune	wydmami	Dünen
+FoodNouns/Grumpkin	Text	dev	Lump	kępą	Knollen
+FoodNouns/GrumpkinRare	Text	dev	Goldlump	złotą kępą	Goldknollen
+FoodNouns/HeartBerry	Text	dev	Berry	jagodami	Beeren
+FoodNouns/HeartBerryRare	Text	dev	Goldberry	złotymi jagodami	Goldbeeren
+FoodNouns/LarvaMeat	Text	dev	Meat	mięsem	Fleisch
+FoodNouns/LithoTrilobite	Text	dev	Fossil	skamieniałościami	Fossil
+FoodNouns/Lunacorn	Text	dev	Moon	księżycem	Mond
+FoodNouns/LunacornRare	Text	dev	Goldmoon	złotym księżycem	Goldmond
+FoodNouns/Meat	Text	dev	Meat	mięsem	Fleisch
+FoodNouns/Milk	Text	dev	Creamy	śmietanką	Creme
+FoodNouns/MoldShark	Text	dev	Shark	rekinem	Hai
+FoodNouns/MossMushroom	Text	dev	Moorshroom	bagniakami	Moorpilz
+FoodNouns/Mushroom	Text	dev	Mushroom	grzybami	Pilz
+FoodNouns/OrangeCaveGuppy	Text	dev	Guppy	gupikiem	Guppy
+FoodNouns/Pewpaya	Text	dev	Fruit	owocami	Frucht
+FoodNouns/PewpayaRare	Text	dev	Goldfruit	złotymi owocami	Goldfrucht
+FoodNouns/Pinegrapple	Text	dev	Tropics	owocami tropikalnymi	Tropen
+FoodNouns/PinegrappleRare	Text	dev	Goldtropics	złotymi owocami tropikalnymi	Goldtropen
+FoodNouns/PinkCoralotl	Text	dev	Coral	koralowcem	Korallen
+FoodNouns/PinkPalaceFish	Text	Dev &	Palace	pałacem	Palast
+FoodNouns/PinkhornPico	Text	dev	Goop	papką	Glibber
+FoodNouns/Puffungi	Text	dev	Mold	pleśnią	Schimmel
+FoodNouns/PuffungiRare	Text	dev	Goldmold	złotą pleśnią	Goldschimmel
+FoodNouns/RaptorTruffle	Text	dev	Orex Truffle	truflami rudozaura	Moorex-Trüffel
+FoodNouns/RiftianLampfish	Text	Dev &	Rift	wyrwą	Riss
+FoodNouns/RockJaw	Text	Dev &	Jaw	szczęką	Kiefer
+FoodNouns/RotFish	Text	Dev &	Decay	zgnilizną	Verfall
+FoodNouns/SandySpikeback	Text	Dev &	Spike	kolcami	Stachel
+FoodNouns/SilverTorrentDart	Text	Dev &	Dart	strzałkami	Pfeil
+FoodNouns/SolidSpikeback	Text	Dev &	Spike	kolcami	Stachel
+FoodNouns/SpiritVeil	Text	Dev &	Veil	zasłoną	Schleier
+FoodNouns/StarlightNautilus	Text	dev	Starlight	światłem gwiazd	Sternlicht
+FoodNouns/Sunrice	Text	dev	Sun	słońcem	Sonnen
+FoodNouns/SunriceRare	Text	dev	Goldsun	złotym słońcem	Goldsonnen
+FoodNouns/TealPalaceFish	Text	Dev &	Palace	pałacem	Palast
+FoodNouns/TerraTrilobite	Text	dev	Fossil	skamieniałościami	Fossil
+FoodNouns/TornisKingfish	Text	Dev &	King	królem	König
+FoodNouns/VampireEel	Text	dev	Eel	węgorzem	Aal
+FoodNouns/VerdantDragonfish	Text	Dev &	Dragon	smokiem	Drachen
+FoodNouns/VoidHydraHeart	Text	dev	Hydra	hydrą	Hydra
+FoodNouns/WhiteCoralotl	Text	dev	Coral	koralowcem	Korallen
+FoodNouns/YellowBlisterHead	Text	Dev &	Blister	bąbelkami	Blasen
 FoodTypes/Fish	Text		Fish	Ryba	Fisch
 FoodTypes/Meat	Text		Other	Inne	Andere
 FoodTypes/Plant	Text		Plant	Roślina	Pflanze
@@ -3658,7 +3677,7 @@ Items/CookShirtDesc	Text		It's just a spotless, white jacket but the red neckerc
 Items/CookedCake	Text		Cake	Ciasto	Torte
 Items/CookedCereal	Text		Cereal	Płatki	Müsli
 Items/CookedCheese	Text		Cheese	Ser	Käse
-Items/CookedDipSnack	Text		Dip Snack	Przekąska z dipem	Dip-Snack
+Items/CookedDipSnack	Text		Dip Snack	Dip	Dip-Snack
 Items/CookedFillet	Text		Fillet	Filet	Filet
 Items/CookedFishBalls	Text		Fish Balls	Kulki rybne	Fischbällchen
 Items/CookedPanCurry	Text		Curry	Curry	Curry
@@ -4356,7 +4375,8 @@ Items/GlassStatuePrism	Text		"Glass Statue ""Octahedron"""	"Szklana rzeźba ""O�
 ""
 ""
 ""
-"""
+""
+"
 Items/GlassStatuePrismDesc	Text		This bold statue serves as an art piece that puts the shiny properties of glass on display.	Ta wyrazista rzeźba służy jako dzieło sztuki, które eksponuje błyszczące właściwości szkła.	Diese massive Statue dient als ein Kunstwerk, das die schillernden Eigenschaften von Glas zur Schau stellen soll.
 Items/GlassWorkbench	Text		Glass Workbench	Szklany stół warsztatowy	Glas-Werkbank
 Items/GlassWorkbenchDesc	Text		This workbench makes it possible to form glass into more advanced objects to add to your base.	Ten stół warsztatowy umożliwia formowanie szkła w bardziej zaawansowane obiekty, które można dodać do bazy.	Dieser Werkbank ermöglicht es, aus Glas fortschrittlichere Bauteile für deine Basis herzustellen.
@@ -5407,7 +5427,8 @@ Items/OracleCardAzeos	Text		"Oracle Card ""Radiance"""	"Karta wyroczni ""Blask""
 ""
 ""
 ""
-"""
+""
+"
 Items/OracleCardAzeosDesc	Text		A scratched card with golden borders and an image of the sky titan. Looks like it's part of a set.	Porysowana karta ze złotymi ramkami i wizerunkiem podniebnego tytana. Wygląda na część zestawu.	Eine zerkratzte Karte mit Goldrand und einem Bildnis des Himmelstitans. Scheint Teil eines Sets zu sein.
 Items/OracleCardCity	Text		"Oracle Card ""Metropolis"""	"Karta wyroczni ""Metropolis"""	Orakel-Karte „Metropolis“
 Items/OracleCardCityDesc	Text		A card in mint condition with golden borders and an image of an ancient city. Looks like it's part of a set.	Karta w idealnym stanie ze złotymi ramkami i wizerunkiem starożytnego miasta. Wygląda na część zestawu.	Eine perfekt erhaltene Karte mit Goldrand und einem Bildnis einer antiken Stadt. Scheint Teil eines Sets zu sein.
@@ -5436,7 +5457,8 @@ Items/OracleCardOmoroth	Text		"Oracle Card ""Temperance"""	"Karta wyroczni ""Pow
 ""
 ""
 ""
-"""
+""
+"
 Items/OracleCardOmorothDesc	Text		A faded card with golden borders and an image of the sea titan. Looks like it's part of a set.	Wyblakła karta ze złotymi obwódkami i wizerunkiem morskiego tytana. Wygląda na część zestawu.	Eine verblassende Karte mit Goldrand und einem Bildnis des Meerestitans. Scheint Teil eines Sets zu sein.
 Items/OracleCardRaAkar	Text		"Oracle Card ""Endurance"""	"Karta wyroczni ""Wytrzymałość"""	"""""""""""""""""""""""""""""""""""""Orakel-Karte ""Standhaftigkeit""""
 ""					
@@ -5455,7 +5477,8 @@ Items/OracleCardRaAkar	Text		"Oracle Card ""Endurance"""	"Karta wyroczni ""Wytrz
 ""
 ""
 ""
-"""
+""
+"
 Items/OracleCardRaAkarDesc	Text		A crumbling card with golden borders and an image of the sand titan. Looks like it's part of a set.	Rozpadająca się karta ze złotym obramowaniem i wizerunkiem piaskowego tytana. Wygląda na część zestawu.	Eine zerfallende Karte mit Goldrand und einem Bildnis des Sandtitans. Scheint Teil eines Sets zu sein.
 Items/OracleCardScholar	Text		"Oracle Card ""Wisdom"""	"Karta wyroczni ""Mądrość"""	Orakel-Karte „Weisheit“
 Items/OracleCardScholarDesc	Text		A soaked card with golden borders and an image of a caveling scholar. Looks like it's part of a set.	Przemoczona karta ze złotymi ramkami i wizerunkiem uczonego jaskiniowca. Wygląda na część zestawu.	Eine durchnässte Karte mit Goldrand und einem Bildnis eines Grottling-Gelehrten. Scheint Teil eines Sets zu sein.
@@ -6213,7 +6236,8 @@ Grottling-Schläger oder Schlimmeres voraus.""
 ""
 ""
 ""
-"""
+""
+"
 Items/SignRedWarning	Text		Red Warning Sign	Czerwony znak ostrzegawczy	Rotes Warnschild
 Items/SignRedWarningDesc	Text		A plaque on a pole with a heed of extreme caution judging by the vibrant red color.	Tablica na słupie z napisem ostrzegającym przed niebezpieczeństwem, o czym świadczy intensywny czerwony kolor.	Ein Schild auf einer Stange. Seiner kräftigen roten Farbe nach zu urteilen, mahnt es zu äußerster Vorsicht.
 Items/SignSkull	Text		Skull Effigy	Czaszka na kiju	Schädel-Schild
@@ -6314,7 +6338,8 @@ Items/SmallFeatherTreeCyanDesc	Text		Not a tree at all, but an invertebrate feed
 ""
 ""
 ""
-"""
+""
+"
 Items/SmallFeatherTreeDesc	Text		Not a tree at all, but an invertebrate feeding on floating particles with its arms. It hasn't fully matured yet.	Nie jest to w ogóle drzewo, ale bezkręgowiec żywiący się pływającymi cząsteczkami za pomocą ramion. Nie jest jeszcze w pełni dojrzałe.	"""""""""""""""""""""""""""""""""""Das ist gar kein Baum, sondern ein großes wirbelloses Tier, das sich mit seinen Armen von Schwebeteilchen ernährt. Noch nicht voll ausgewachsen.
 ""					
 ""					
@@ -6332,7 +6357,8 @@ Items/SmallFeatherTreeDesc	Text		Not a tree at all, but an invertebrate feeding 
 ""
 ""
 ""
-"""
+""
+"
 Items/SmallIndustrialTable	Text		Industrial Table	Stół industrialny	Industrietisch
 Items/SmallIndustrialTableDesc	Text		A table with brass rims and a board made from a sleek alloy.	Stół z mosiężnymi obrzeżami i blatem wykonanym z eleganckiego stopu.	Ein Tisch mit Messingrändern und einer Platte aus einer schnittigen Legierung.
 Items/SmallLantern	Text		Small Lantern	Mała latarnia	Kleine Laterne
@@ -6611,7 +6637,8 @@ Items/TerrariumDesc	Text		A simple enclosure for all kinds of crawling and flutt
 ""
 ""
 ""
-"""
+""
+"
 Items/TerrariumDesert	Text		Desert Terrarium	Pustynne terrarium	Wüsten-Terrarium
 Items/TerrariumDesertDesc	Text		A warm enclosure with dry, rocky terrain.	Ciepłe środowisko z suchym, skalistym terenem.	Ein warmes Gehege mit trockenem, felsigem Terrain.
 Items/TerrariumNature	Text		Wilderness Terrarium	Dzikie terrarium	Wildnis-Terrarium
@@ -7207,7 +7234,8 @@ Menu/ModMenuButtonModsLoadedWithFailed	Text		Mods ({0} loaded, {1} failed)	Modyf
 Menu/ModMenuPopUp	Text		Mods are developed by members of the community. They open new gameplay possibilities, but might also introduce unforeseen issues. Enjoy mods at your own discretion! 	Modyfikacje są tworzone przez członków społeczności. Otwierają one nowe możliwości rozgrywki, ale mogą też wprowadzać nieoczekiwane problemy. Korzystaj z modyfikacji według własnego uznania!	Danke fürs Vorbeischauen in der MODS-Sektion! Bitte denke daran, dass wir an unserem Mod-Support noch arbeiten. Da der Support noch nicht lange existiert, kann es sein, dass nur wenige Mods verfügbar sind. Außerdem kann die Verwendung von Mods zu unvorhergesehenen Problemen im Spiel führen. Installiere Mods auf eigene Gefahr und viel Spaß mit all den neuen Möglichkeiten!
 Menu/ModMissingClientDialogue	Text		Required mod {0} is missing. Do you want to install it (needs restart)?	Brakuje wymaganej modyfikacji {0}. Czy chcesz go zainstalować (wymaga restartu)?	Benötigte Mod {0} fehlt. Möchtest du die Mod installieren? (Neustart erforderlich)
 Menu/ModMissingServerDialogue	Text		Required mod {0} is missing from server. Do you want to disable it (needs restart)?	Na serwerze brakuje wymaganej modyfikacji {0}. Czy chcesz go wyłączyć (wymaga restartu)?	Benötigte Mod {0} fehlt auf dem Server. Möchtest du die Mod deaktivieren? (Neustart erforderlich)
-Menu/ModResetOrder	Text		Reset load order	Zresetuj kolejność ładowania	Ladereihenfolge zurücksetzen
+Menu/ModResetOrder	Text		Reset load order	"Zresetuj kolejność
+Ładowania"	Ladereihenfolge zurücksetzen
 Menu/ModResetOrderConfirm	Text		Sorting mods will reset the mod list to its default arrangement. Are you sure?	Sortowanie modów spowoduje zresetowanie listy modów do domyślnego porządku. Czy na pewno chcesz to zrobić?	Das Sortieren von Mods setzt die Mod-Liste auf ihre Standard-Anordnung zurück. Bist du sicher?
 Menu/ModSourceHeader	Text		Manage mods	Zarządzaj modami	Mods verwalten
 Menu/ModSourceLocal	Text		Local	Lokalne	Lokal
@@ -7251,7 +7279,8 @@ Mods mit erweitertem Zugriff:
 ""
 ""
 ""
-"""
+""
+"
 Menu/ModsLoaded	Text		{0} Mods Loaded	{0} Modyfikacje załadowane	{0} Mods geladen
 Menu/MoreInfo	Text	Button/prompt to create a new world	More info	Więcej informacji	Mehr Info
 Menu/NewContentAvailableTooltip	Text		You can add new content to this world!	Możesz dodać nową zawartość do tego świata!	Du kannst dieser Welt neue Inhalte hinzufügen!
@@ -7352,7 +7381,7 @@ Menu/ToggleGuestModeOff	Text		Disable guest mode	Wyłącz tryb gościa	Gastmodus
 Menu/ToggleGuestModeOn	Text		Enable guest mode	Włącz tryb gościa	Gastmodus aktivieren
 Menu/TogglePvPOff	Text		Disable PvP	Wyłącz PvP	PvP deaktivieren
 Menu/TogglePvPOn	Text		Enable PvP	Włącz PvP	PvP aktivieren
-Menu/UIOptions	Text		UI settings	Ustawienia interfejsu użytkownika	UI-Einstellungen
+Menu/UIOptions	Text		UI settings	Ustawienia interfejsu	UI-Einstellungen
 Menu/UiItemLockLine1	Text		Tap items to lock them in place.	Dotknij przedmioty, aby je zablokować.	Tippe auf Gegenstände, um sie an Ort und Stelle zu sperren.
 Menu/UiItemLockLine2	Text		Locked items are blocked from quick stacking or sorting.	Zablokowane przedmioty nie mogą być szybko układane w stosy ani sortowane.	Gesperrte Gegenstände werden nicht schnellgestapelt oder sortiert.
 Menu/UiItemLockLine3	Text		Tap again to unlock.	Dotknij ponownie, aby odblokować.	Tippe erneut auf sie, um sie freizuschalten.
@@ -7361,8 +7390,7 @@ Menu/UiQuickTrashLine1	Text		Select items to send to the trash slot.	Wybierz prz
 Menu/UiQuickTrashLine2	Text		Tap another slot or the trash icon to delete the item.	Dotknij innego slotu lub ikony kosza, aby usunąć przedmiot.	Tippe auf einen anderen Slot oder das Symbol zur Entsorgung, um den Gegenstand zu löschen.
 Menu/UiQuickTrashLine3	Text		Deleted items are permanently removed.	Usunięte przedmioty są trwale kasowane.	Gelöschte Gegenstände werden permanent entfernt.
 Menu/UiQuickTrashTitle	Text		Item Removal	Usuwanie przedmiotu	Gegenstände entfernen
-Menu/Version	Text		Version: {0} ({1})   |   © Pugstorm AB	"Wersja: {0} ({1})   |   © Pugstorm AB	
-Wersja spolszczenia: 1.1.2"	Version: {0} ({1})   |   © Pugstorm AB
+Menu/Version	Text		Version: {0} ({1})   |   © Pugstorm AB	Wersja: {0} ({1})   |   © Pugstorm AB	Version: {0} ({1})   |   © Pugstorm AB
 Menu/VersionsAreCompatibleButNotSameWarning	Text		Versions are compatible, but minor changes may affect performance.	Wersje są kompatybilne, ale drobne zmiany mogą mieć wpływ na wydajność.	Die Versionen sind kompatibel, aber kleinere Änderungen können die Leistung beeinträchtigen.
 Menu/WarningVersionMismatch	Text		Warning: Version Mismatch	Ostrzeżenie: Niezgodność wersji	Achtung: Falsche Spielversion
 Menu/WindowMode	Text		Window mode	Typ wyświetlania	Fenstermodus
@@ -8099,7 +8127,8 @@ dropToWorld	Text		Drop item: 	Upuść przedmiot:	"""""""""""""""""""""""""""""""
 ""
 ""
 ""
-"""
+""
+"
 durability	Text	"For example ""Durability 159/500"""	Durability: {0}/{1}	Wytrzymałość: {0}/{1}	Haltbarkeit: {0}/{1}
 durabilityLost	Text		Some durability on equipment was lost.	Wytrzymałość jakiegoś wyposażenia spadła.	Die Ausrüstung hat ein wenig Haltbarkeit verloren.
 durationMin	Text	"Shown at end of buff text with a duration such as ""+2 health every sec for 1 min"" where			
@@ -8139,7 +8168,8 @@ food	Text		Food	Głód	Essen
 foodFormat	Text	"{0} = food adjective,			
 {1} = food noun,					
 {2} = food type					
-Turns into for example ""Hearty Mushroom Soup"" when cooking Heart berries with mushrooms in the cooking pot."	{0} {1} {2}	{0} {1} {2}	{0} {1}-{2}
+Turns into for example ""Hearty Mushroom Soup"" when cooking Heart berries with mushrooms in the cooking pot."	{0} {1} {2}	"{0} danie:
+{2} z {1}"	{0} {1}-{2}
 fullness	Text	"For example ""Fullness 159/500"", shown on items like water can"	Fullness: {0}/{1}	Wypełnienie: {0}/{1}	Inhalt: {0}/{1}
 gainedItem	Text	Shown in chat when for example gaining a polished version of a ring when crafting where {0} is the name of the item	Gained {0}!	Zdobyto {0}!	{0} erhalten!
 gainedSoul	Text		Gained soul of {0}!	Zdobyto duszę {0}!	Seele von {0} erhalten!
@@ -8178,7 +8208,8 @@ godModeOptionDesc	Text		"God mode features:
 ""
 ""
 ""
-"""
+""
+"
 graphicsAPIOption	Text	{0} will be replaced with the name of the graphics api	Play Core Keeper using {0}	Zagraj w Core Keeper używając {0}	Spiele Core Keeper mit {0}
 grenades	Text		Grenades	Granaty	Granaten
 habitableIdol	Text		Place in a habitable room	Umieścić w pomieszczeniu mieszkalnym	Platzierbar in einem bewohnbaren Raum
@@ -8310,7 +8341,8 @@ pickUpHalf	Text		Pick up half:	Podnieś pół:	"""""""""""""""""""""""""""""""""
 ""
 ""
 ""
-"""
+""
+"
 pickUpOne	Text	{0} will be replaced with the input player needs to use to perform the action, note that the breakline is intended and should be used in the localizations too	Pick up one:	Podnieś jeden:	"""""""""""""""""""""""""""""""""""""Einen aufheben:
 {0}""					
 ""					
@@ -8329,7 +8361,8 @@ pickUpOne	Text	{0} will be replaced with the input player needs to use to perfor
 ""
 ""
 ""
-"""
+""
+"
 piercingProjectiles	Text	Shown as description on weapons that shoots piercing projectiles	Projectiles pierces through enemies	Pociski przebijają wrogów	Projektile durchdringen Feinde
 points	Text		Points: {0}	Punkty: {0}	Punkte: {0}
 potions	Text		Potions	Mikstury	Tränke
@@ -8360,7 +8393,8 @@ quickMove	Text		Quick stash:	Szybki skład:	""""""""""""""""""""""""""""""""""""
 ""
 ""
 ""
-"""
+""
+"
 quickStack	Text	Shown when hovering a button that uses the quick stack function	Quick stack	Szybki skład	Schnellstapeln
 quickStackDesc	Text		Moves already existing items in the chest from your inventory to the chest.	Przenosi przedmioty znajdujące się już w skrzyni z ekwipunku do skrzyni.	Verschiebt bereits in der Kiste vorhandene Gegenstände aus deinem Inventar in die Kiste.
 quitToDesktop	Text		Quit	Wyjdź	Beenden
